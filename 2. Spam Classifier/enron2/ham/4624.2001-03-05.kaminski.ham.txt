@@ -1,0 +1,46 @@
+Subject: class proposal by yannis
+HI vince,
+Yannis of the weather desk is planning to develop relationship with prof
+Rene carmona in doing weather analysis. To start this off, they are planning
+To pay prof carmona to give a training class as outlined below, and they
+Want to know if research is willing to send people and bear part of the costs.
+We can talk more at 4: 00 pm, but while there is no doubt that getting people
+From outside to present new ideas is always important and interesting, i
+Think research group members can easily give most of these talks.
+Apparently, people are interested in these topics and are willing to pay to
+Listen. My thought is that if the intent is to develop relationships, that
+Is fine, but the research group should also be given the opportunity to
+Provide more training and get more visibility. I have already communicated
+This to joe and to yannis.
+Vasant
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vasant shanbhogue/hou/ect on 03/05/2001
+10: 40 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+From: yannis tzamouranis/enron@ enronxgate on 03/05/2001 10: 01 am
+To: vasant shanbhogue/hou/ect@ ect
+Cc:
+Subject:
+Here is a tentative course description.
+Day 1: extreme value distriutions and copulas
+1. Heavy tail distributions: exploratory data analysis and detection.
+Extreme value distributions and generalized pareto distributions.
+Estimation and simulation. Practical examples.
+2. Notions of dependence and copulas. Estimation and simulation.
+Experiments with the program evanece.
+Day 2: principal component analysis and modern regression
+1. Principal component analysis and applications to the yield curve and
+The detection of contagion in financial markets.
+2. Nonlinear regression and the construction of yield curves.
+3. Nonparametric regression (kernel and projection pursuit methods) and
+Alternatives to the black - scholes formula to option pricing.
+Day 3: time series analysis
+Examples of temperature time series will be used to introduce and
+Illustrate the following concepts and techniques:
+1. Removing trends and seasonal components, and stationarity.
+2. Fitting the classical autoregressive and moving average models.
+3. Discretization of stochastic differential equations
+4. Multivariate time series
+Day 4: nonlinear systems and filtering
+1. Arch, garch and stochastic volatility models
+2. Linear state space models and the classical kalman filter
+3. Nonlinear systems and particle filtering.
+4. Applications

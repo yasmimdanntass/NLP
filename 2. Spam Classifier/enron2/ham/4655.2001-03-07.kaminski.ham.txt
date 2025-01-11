@@ -1,0 +1,13 @@
+Subject: re:" expected tail loss" for equity portfolio
+Everybody,
+I attached here the equity portfolio var spreadsheet model (version x).
+The improvement over the previous version (1 x) is that it calculates
+An additional measure of risk - expected tail loss.
+Expected tail loss is the expectation of the loss under the condition that
+Losses exceed var. As you know equity var model allows you to calculate var
+For the percentile specified in the input sheet.
+Now you have to click 2 more buttons on the" varinput" sheet:
+" calculate gamma and delta" and" fast var".
+Isaac, please run the model to make sure it works for you.
+Regards,
+Tanya

@@ -1,0 +1,95 @@
+Subject: welcome
+Network world fusion focus: jason meserve on
+Security and bug patch alert
+Today' s focus: bug alert: welcome
+03/06/00
+Dear wincenty kaminski,
+Today' s focus: bug alert: welcome
+By jason meserve
+Welcome to the security and bug patch alert newsletter!
+Given the recent spate of high - profile denial - of - service and hack
+Attacks and the large number of people who have signed up for this
+Newsletter before this first edition has been even published, it is
+Clear that security is a major concern in the it community as it
+Should be.
+With technology now being looked upon as a profit rather than cost
+Center, it departments face more pressure to keep critical systems up
+And running as well as secure. No chief information officer or network
+Manager wants to have to tell the ceo that their e - commerce site has
+Been broken into and customer credit card data copied. Stories like that
+Tend to stick in a potential customer , s mind more than an expensive
+Super bowl ad.
+It , s hard enough to keep up with the latest new technologies, never mind
+Latest security patch for your operating system or e - commerce
+Application. But we , re here to help.
+Once a week we , ll publish a list of patches and alerts from all the
+Major vendors and security organizations with links to the source. We , ll
+Also provide other (hopefully) useful resources for the security -
+Conscious it manager.
+Comments and suggestions are always welcome! Send mail to
+Jmeserve@ nww. Com.
+Now on with the latest patches and alerts:
+Security glitch hits foundry switches
+From this week , s network world: a security problem has cropped up in
+Foundry networks , serveriron switches that make the devices susceptible
+To denial - of - service attacks.
+Read the story:
+Download the patch:
+Http:// www. Foundrynet. Com/bugtraq. Html
+* * * * * * * *
+New version of apache web server released
+The apache server project released version 1. 3. 12 of the popular apache
+Web server this week. The new release fixes what apache calls a cross -
+Site scripting problem that could allow malicious html tags to be
+Inserted into client - side scripts. Download the new version at:
+Http:// www. Apache. Org/dist /
+* * * * * * * *
+Problem with linux htdig package
+Both freebsd and debian are reporting a problem with the htdig package
+That runs on their respective platforms. The problem is with the
+Htsearch and could allow a user to read any file on the local machine
+Accessible to the user id that the script is running under (which in
+Most cases is  + nobody ,).
+For more information from debian:
+Http:// www. Debian. Org/security /
+To download a patch from freebsd:
+Http:// www. Freebsd. Org/ports /
+* * * * * * * *
+Nmh linux package patched
+Versions of nmh prior to 1. 0. 3 have a vulnerability that could allow
+Malicious users to modify the mime headers in a mail message that may
+Cause nmh , s mshow command to execute arbitrary commands. A patch is
+Available at:
+* * * * * * * *
+Zombie zapper 1. 1 available
+Zombie zapper 1. 1 helps shut down the troj _ trinoo denial - of - service
+Client on windows nt and unix machines. More information at:
+* * * * * * * *
+Problem with mysql password authentication
+According to the makers of freebsd, a vulnerability in the mysql
+Database server (prior to version 3. 22. 32) could allow anyone that can
+Connect to the database to access it without a password. More
+Information at:
+* * * * * * * *
+To contact jason meserve:
+- - - - - - - - - - - - - - - - - - - - - - - - -
+Jason meserve is a staff writer with network world, covering search
+Engines, portals, videoconferencing, ip multicast and document management.
+He also oversees the" security alerts" page on fusion
+(http:// www 2. Nwfusion. Com/security/bulletins. Html). Jason can be reached
+At mailto: jmeserve@ nww. Com.
+Subscription services
+To subscribe or unsubscribe to any network world e - mail newsletters,
+Go to:
+To change your email address, go to:
+Subscription questions? Contact customer service by replying to this
+Message.
+Other questions/comments
+Have editorial comments? Write jeff caruso, newsletter editor, at:
+Mailto: jcaruso@ nww. Com
+For advertising information, write jamie kalbach, account executive,
+At: mailto: jkalbach@ nww. Com
+Network world fusion is part of idg. Net, the idg online network.
+It all starts here:
+Http:// www. Idg. Com
+Copyright network world, inc., 2000

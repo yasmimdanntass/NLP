@@ -1,0 +1,36 @@
+Subject: the light at the end of tunnel!
+HI all,
+After all the hard work, we are at time of harvesting! But as we all know
+That there still a few more hurdles ahead of us in order to release credit
+Reserve model at end of march, but on the bright side, vince kaminskI has
+Promised us a big feast after we push the product out of door. So let commit
+Our self to do one last dash to the finish line!
+Here I composed a list of task that we need to accomplish for the release,
+Let hit the items on the list and get it over with
+Continue the comparison test between old and new model winston
+Testing of theoretical deals! Finish the comparison between the theoretical
+Value and model valuation! Tanya t. Winston j.
+Making the default probability table a configurable component and runtime
+Parameter. Winston j., ramesh g.
+Simulation dimension change for different analysis requirement, default path
+5000 max and price path 1000 max. Winston
+Interface to run the credit reserve in grms system (for now) ramesh
+Run time option, applying stress scenario on input curves for any or all
+Curves (sensitivity analysis) winston
+Runtime option, curve replacement for any or all curves (attribution
+Analysis) winston
+Validation of different insurance plan tanya, winston
+Intra - month position validation to see the impact of excluding of
+Intra - manoth position on credit reserve vicent tang, ramesh
+Exchange deals handling (are they using the highest e - rating?) ramesh
+Saving credit reserve result, please grant winston and xiaojun the privilege
+To save the result into production database, ramesh, winston, xiaojun
+Credit reserve on legal id, based on the data clean up of all spreadsheets (
+Not scheduled)!
+Deployment plan. One credit instance at any time until we get out new
+Computing server (probably in april time frame)
+This list may be an ever changing list and may also incomplete, please let me
+Know if I missed anything or any deletions and additions! Please let me know
+If anything I can clarify.
+Thanks!
+Jonathan

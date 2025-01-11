@@ -1,0 +1,24 @@
+Subject: re: enron exotica options library
+Patrick,
+Please, contact zimin lu, 713 853 6388.
+Vince
+Patrick markey
+11/21/2000 05: 15 am
+To: vince j kaminski/hou/ect@ ect
+Cc: patrick markey/hou/ect@ ect
+Subject: enron exotica options library
+Vince,
+I am trying to price a crack spread option utilizing either of the following
+Models in the exotica library:
+1. Spread options by 1 - d integration - sprdopt
+2. Spread options on asian spreads - asnsprd
+How do I get access to these options models? Who can I visit with in the
+Houston group if I have any questions regarding the models. Your help would
+Be greatly appreciated. I am located in singapore, so I would probably be
+Visiting with the houston personnel via e - mail.
+Thanks,
+Pat markey
+P. S. - I have access to the o:\research\exotica\xll\xll _ templates\directory;
+However, there are no macros associated with the programs that I can find.
+Also, I don' t have access to the m: drive. Please let me know where to find
+These options models.

@@ -1,0 +1,36 @@
+Subject: delivery notification: delivery has failed
+This report relates to a message you sent with the following header fields:
+Return - path:
+Received: from ims - ms - daemon. Mailo 2. Direcway. Com by mailo 2. Direcway. Com
+(iplanet messaging server 5. 2 hotfix 1. 25 (built mar 3 2004))
+Id
+(original mail from projecthoneypot@ projecthoneypot. Org); fri,
+24 jun 2005 11: 42: 25 - 0400 (edt)
+Received: from a 34 - mtao 3. Direcway. Com (a 34 - mtao 3 [66. 82. 4. 104])
+By mailo 2. Direcway. Com
+(iplanet messaging server 5. 2 hotfix 1. 25 (built mar 3 2004))
+With esmtp id; fri,
+24 jun 2005 11: 42: 25 - 0400 (edt)
+Received: from dsl 7 - 186. Rb. Comporium. Net
+(dsl 7 - 186. Rb. Comporium. Net [199. 222. 173. 186]) by a 34 - mtao 3. Direcway. Com
+(iplanet messaging server 5. 2 hotfix 1. 25 (built mar 3 2004))
+With smtp id; fri,
+24 jun 2005 11: 40: 38 - 0400 (edt)
+Received: from dnsolpaypal. Com (173. 169. 34. 152) by jem 36 - dhy 9. Paypal. Com with
+Microsoft smtpsvc (5. 0. 2195. 6824); fri, 24 jun 2005 11: 37: 57 - 0500
+Received: from paypal. Com (127. 0. 0. 1) by dns paypal. Com (smtpd 32 - 7. 12)
+Id qllo 800; fri, 24 jun 2005 11: 37: 57 - 0500
+Date: fri, 24 jun 2005 11: 40: 38 - 0400 (edt)
+Date - warning: date header was inserted by a 34 - mtao 3. Direcway. Com
+From: daniel suon
+Subject: fast debt relief!!! =? Unknown? Q? = b 95259 - plrk? =
+To: stephen@ direcpc. Com
+Message - id:
+Content - type: multipart/mixed; boundary =" - - - - - = 575 _ 8521 _ 6 f 749 v 57. 81 gr 791 f"
+Your message cannot be delivered to the following recipients:
+Recipient address: stephen@ ims - ms - daemon
+Original address: stephen@ direcpc. Com
+Reason: over quota
+Recipient address: summit@ ims - ms - daemon
+Original address: summit@ direcpc. Com
+Reason: over quota

@@ -1,0 +1,24 @@
+Subject: re: extreme value theory applied to weathet
+Dear vince and grant,
+I am currently reviewing some of the more erecent references on evt and its
+Application. I get back to you shortly with some points regarding the
+Usefulness of evt and how traders (electricity and weather) can benefit from
+Evt.
+Cheers,
+Christian
+To: christian werner/enron _ development@ enron _ development
+Cc:
+Subject: re: extreme value theory applied to weathet
+Christian:
+To my knowledge, the research group is examining evt primarily in the context
+Of value at risk calculations. We have not looked at evt for power, because,
+To date, we have been focussing on shorter term fundamental forecasting of
+Price excursions: i. E. Given tomorrow' s load forecasts and expected plant
+Dispatch, we attempt to predict which lines will become constrained and how
+The system will react to alleviate these constraints. I would be interested
+In your thoughts on how evt would benefit the traders however. As far as the
+Weather goes, I would expect the weather desk to use evt at some level.
+Clearly you should talk to joe hrgovcic, the researhc chap attached to the
+Weather desk, for a more accurate assessment.
+Cheers,
+Grant.

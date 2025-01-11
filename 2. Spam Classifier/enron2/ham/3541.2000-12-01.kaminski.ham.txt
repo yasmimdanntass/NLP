@@ -1,0 +1,29 @@
+Subject: proj. X analytics diligence
+Paul,
+Vince and I spent some time thinking about the diligence process for the
+Trading analytics. There is a limited amount that can be accomplished in a
+Two day time period. I think a reasonable start would be the following:
+1. Obtain an audited history of the trading strategies which have been
+Implemented in order to verify profitability, and p/l volatility of each.
+2. Review needed working capital and risk capital requirements and compare
+These to projections for trading income.
+3. Review current level of access to electronic markets and verify that a
+Change of ownership would not have adverse consequences, i. E. Are there
+Guarantees of continued access using the current systems?
+4. Review feasibility of entry into proposed new markets? It is far from
+Clear that there will be any synergy with most commodity markets given the
+Current limited" electronic" liquidity.
+5. Review, at least qualitatively, the current trading strategies being
+Used. Try to develop some estimate of how fast the profitability of these
+Strategies will disappear as other' s implement similar trading models. What
+Is the trade off between trade quantity and slippage.
+6. Review the methodology used to generate new trading strategies which will
+Be needed to replace the current models as they become unprofitable and
+Outdated.
+7. Try to determine if there will be any value in transfer of trading
+Technology to enron' s other markets, given the illiquidity of these markets
+As compared to the financial equity markets.
+If there were a sufficiently long time horizon for our analysis, we would
+Probably want to run their system on a test set of data.
+Let me know if you have other suggestions.
+- - stinson

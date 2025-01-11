@@ -1,0 +1,57 @@
+Subject: re: research sign off
+I totally agree. What you list is all we are after.
+Steven leppard
+29/01/2001 15: 45
+To: james new/lon/ect@ ect
+Cc: tanI nath/lon/ect@ ect, ted murphy/lon/ect@ ect, vince j
+Kaminski/hou/ect@ ect
+Subject: re: research sign off
+James
+I agree with what you say - my view is that research can:
+- assess a model;
+- state what the model does;
+- give a view of how closely the model achieves its objectives;
+- assess what the risks of using the model are.
+It is for rac to determine whether enron is prepared to accept this risk. I
+Discussed this issue with ted, and he seems to agree with this broad
+Splitting of responsibilities.
+Steve
+James new
+29/01/2001 13: 59
+To: steven leppard/lon/ect@ ect
+Cc: sharad agnihotri/lon/ect@ ect, tanI nath/lon/ect@ ect, ted
+Murphy/lon/ect@ ect, vince j kaminski/hou/ect@ ect
+Subject: re: research sign off
+Steve,
+I understand your comments but the' sign off' is a cross functional thing and
+Research are effectively only being asked to sign off their part which is
+Broadly as you describe below. If you have doubts as to the interpretation of
+A research sign off then it should be qualified to state what you are
+Prepared to sign off on. Other functions should be asked to do like wise for
+Their area which will mean that when all areas have signed off their part
+The picture is complete. Somebody needs to coordinate this and usually in
+London it is the risk management guy.
+Does this make sense?
+Steven leppard
+24/01/2001 09: 42
+To: sharad agnihotri/lon/ect@ ect
+Cc: tanI nath/lon/ect@ ect, ted murphy/lon/ect@ ect, james new/lon/ect@ ect,
+Vince j kaminski/hou/ect@ ect
+Subject: research sign off
+HI sharad
+I note from our discussion earlier this morning that you' ve been asked to
+Sign off a calculation from another group, which is something we' re asked to
+Do from time to time.
+I take the view that we in research can assess a computation in terms of what
+It achieves with respect to its requirements, what its shortfalls are, and
+Therefore what the risks associated with using this method are. We cannot
+Provide an opinion on whether these risks are acceptable to enron, which i
+Feel falls firmly within rac territory.
+This then raises the question of can research sign off anything for other
+Groups after all? To" sign off" means to accept something, which our opinion
+In itself cannot do. It is most appropriate for us to provide a technical
+Note outlining the methodology, risks and shortcomings of a method, leaving
+The formal" sign off" to those best placed to assess these risks for our
+Company. The alternative is for multiple groups each to have their own view
+On what is acceptable risk for the company.
+Steve

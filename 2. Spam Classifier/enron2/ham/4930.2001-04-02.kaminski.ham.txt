@@ -1,0 +1,50 @@
+Subject: mit research on bandwidth pricing
+Gentlemen:
+Amit is a former mit sloan student whose research was sponsored by a program
+Set up by tom gros to learn more about bandwidth pricing and market effects.
+We worked with him quite a bit for a while, as did vince kaminskI and stinson
+Gibner, on this project. Well, he has finally graduated and is in the
+Process of having his thesis published. He has offered to come down to
+Present his findings to anyone interested, so I am inquiring as to your level
+Of interest in order to schedule a meeting, if appropriate.
+Below is a short description of his work. Please let me know your thoughts
+And if you have any questions.
+Thanks, jay.
+- -
+James f. Hawthorn
+Enron broadband services
+Global bandwidth risk management
++ 1 713 853 7606 telephone
++ 1 713 646 8795 facsimile
+- - - - - forwarded by jay hawthorn/enron communications on 03/29/01 09: 15 am
+- - - - -
+Adhadwal@ mit. Edu
+03/20/01 03: 50 pm
+To: jay hawthorn/enron communications@ enron communications, adhadwal@ mit. Edu
+Cc:
+Subject:
+HI jay,
+As per our discussion this morning, will be terrific to come on down to talk
+About the results of my thesis related to pricing & risk management of
+Forward contracts on bandwidths. Thanks to the support from enron for this
+Work!
+Here' s a brief description.
+We addressed the problem of pricing and risk managment of forward contracts
+On bandwidth under uncertain future available supply. This exposes the
+Seller to both the risk of perishability as well as the risk of
+Overcommitments. We consider a variety of selling strategies to map
+Commitment risk, and show how forward pricing varies over time under these
+Strategies. The managerial insights into dynamic forward pricing are neat!
+Have several graphs from simulations, and several math proofs.
+There are two technical pricing papers from this thesis, now submitted for
+Publication. It will be great to share this knowledge with enron, thanks to
+Your support for the work, and also discuss how the results may be mapped
+With real - life, possible modifications, and finally how they may be
+Programmed and used.
+Let me know your thoughts and interest level - maybe someone from vince' s
+Group as well? I can make the talk as technical as you want, depending on
+The audience. At its core, it is math - heavy, but the insights can easily be
+Translated to a high - managerial level view, a more detailed trader - level
+View, or a super - detailed research level view.
+Cheers,
+- amit

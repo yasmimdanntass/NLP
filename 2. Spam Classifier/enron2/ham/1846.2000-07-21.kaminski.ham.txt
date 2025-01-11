@@ -1,0 +1,37 @@
+Subject: var for metals
+It is my preference to have an aggregated var methodology for the metals
+Business as soon as possible (version la). I do not want to poison progress
+With my opiniion, but I think that the critical first step is to find a way
+To aggregate positions in coarse buckets, perhaps sacrificing precision for
+Speed, based on" rules" that oerations can deliver, research can stand behind
+And commercial will accept., and using an equally coarse var calculation
+(the equivalent of ad - hoc var?) that can be delivered to the" official books
+And records" on a daily basis. This I believe would be acceptable for a 2 - 3
+Month time frame (at which time we get versionlb) as opposed to waiting 2 - 3
+Months to implement a better process and have nothing in the interim.
+Ultimately, I would look for version 2 a to be delivered and very defendable
+By 1/1/01. This will require indulgence and compromise on all fronts but i
+Cannot conceive of a better way. Please let me know if this is consistent
+With your understanding. A critical point from my perspective is that the mg
+Commercial team and metal operations staff understand their role in making
+This happen and willingness to accept the consequences. I look for you to
+Take the lead as leader of the integration to do so. If you need any input
+From the rest of us to underscore the importance please let us know. As i
+Alluded to on the phone, the people in houston that have been involved in the
+Var process have been through an extraordinary period of detailed scrutiny of
+Var by commercial and have been hindered by the lack of basic understanding
+By all parties as their responsibilities. Given the distance and the newness
+Of the metals personell, I fear that this could set us all up for some
+Surprises and some very uncomfortable communication, much of which is not
+Entirely necessary.
+Thanks
+Ted
+Eric gadd
+07/21/2000 11: 46 am
+To: ted murphy/hou/ect@ ect, bjorn hagelmann/hou/ect@ ect
+Cc: richard sage/lon/ect@ ect
+Subject: attached fax
+Ted and bjorn -
+We plan to release draft recommendations on metal position limits by close of
+Business on 24 july and have asked vince to prepare a v@ r computational
+Methodology prior to the 7/8 aug bod meeting.

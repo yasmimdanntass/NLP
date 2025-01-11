@@ -1,0 +1,56 @@
+Subject: friday brown bag on derivative pricing
+Hello all:
+If you think any of your people would be interested in the following - please
+Pass the messages on.
+Thanks!
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Message one
+Dear everyone,
+We understand the as members of enron research group, all of us are working
+On very interesting projects, some of which are ground - breaking, and we all
+Keep a very keen mind on any development of new technology. We also find
+Out, through our own experience, that at this age of information explosion,
+It becomes more and more difficult to have enough time and energy to keep
+Abreast with most of the exciting stuff taking place in this department, let
+Alone in the industry. It is also our personal experience that many a
+Project we are working on has partially been attempted by other members of
+This group.
+As a remedy, we propose that the research group start an informal brown bag
+Lunch group meeting, once every two weeks on friday, for about 50 minutes.
+It is hoped that it will provide a forum for us to facilitate with new
+Technology and development, as well as with each other , s work, so that we do
+Not have to reinvent the wheels.
+We envision the following: in this meeting (or seminar), each one of us will
+Take turns to make presentations to the group. The topics could range from
+Theoretical consideration to practical implementation, be it option pricing,
+Process modelling, insurance issue, or monte carlo simulation, or anything
+One finds fascinating. The presentation material could be papers you have
+Been reading recently, projects you are working on, some problem that
+Bothers you, or an idea that is fascinating. You choose your own
+Presentation style. It could be
+Everything - you - always - wanted - to - know - but - were - afraid - to - ask, hand waving
+Style, or it can involve nitty - gritty, detailed derivations, anyway a style
+That suits you and the topic. Or it can simply be a dry - run for your
+Presentation at the next risk conference. Zimin and alex will take upon the
+Responsibility of organizing the seminar.
+We hope the seminar will be up and running in two - three weeks. For that
+Purpose your support will be greatly appreciated. Please let either zimin or
+Alex know if you are interested in giving a presentation to the group and
+Provide a tentative schedule. Surely the rest of the group will be happy to
+Hear your presentation.
+We encourage everyone to participate this brown bag meeting, either to give a
+Talk or just sit in.
+Zimin lu
+Alex huang
+Message two
+Dear everyone,
+It looks like the proposed bblop has great support and is to have a great
+Start. Vince, grant,, amitava, kevin, clayton and chonawee have promised
+To give presentations to us. Vince will kindly deliver the inaugural
+Presentation next friday (march 31) on new methodology for option pricing
+(precise title
+Tba). Bblop will start at 12 noon and last about 45 to 50 minutes. Let' s
+Make this a new enron tradition!
+Best regards.
+Zimin,
+Alex

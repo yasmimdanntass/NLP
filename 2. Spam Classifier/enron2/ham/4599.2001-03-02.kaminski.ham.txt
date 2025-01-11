@@ -1,0 +1,21 @@
+Subject: a request
+Vince,
+I am writing to ask for your help with some research I am doing with john
+Lehoczky and a phd student. We trying to apply recent advances in monte
+Carlo for american options to value swing and other options with multiple
+Early exercise decisions that are important in energy markets. I know in
+General that early exercise shows up in a wide range of energy contracts,
+Both real as welll as financial. Would it be possible for you, either via
+Email or on the phone, to give us some examples of typical terms for such
+Instruments? We would like our examples to look realistic. We also want to
+Make sure we are focusing on the right sorts of optionality.
+Thanks in advance,
+Duane
+* * * * * * * *
+Duane seppi
+Graduate school of industrial administration
+Carnegie mellon university
+Pittsburgh pa 15213 - 3890
+Tel. (412) 268 - 2298
+Fax (412) 268 - 8896
+Email ds 64 +@ andrew. Cmu. Edu

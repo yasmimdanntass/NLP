@@ -1,0 +1,26 @@
+Subject: re: p + spread options
+Fyi
+- - - - - - - - - - - - - - - - - - - - - - forwarded by stinson gibner/hou/ect on 01/29/2001
+12: 48 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+From: jeffrey a shankman on 01/29/2001 12: 38 pm
+To: stinson gibner/hou/ect@ ect
+Cc: john l nowlan/hou/ect@ ect, don schroeder/hou/ect@ ect
+Subject: re: p + spread options
+Let' s get together on this in the next couple of days. Thanks. Jeff
+Stinson gibner
+01/29/2001 12: 10 pm
+To: jeffrey a shankman/hou/ect@ ect
+Cc: vince j kaminski/hou/ect@ ect
+Subject: p + spread options
+Jeff,
+We are reviewing the p + spread option book. One item of note is that the
+Correlations used to book the spread options have dropped significantly from
+What was being used a year ago (see charts below). I also remember that
+John mee was using even higher correlations when he ran this book. In fact
+He wanted to book options with a correlation of 1. 0, but our model would not
+Allow it, so he was using 0. 999.
+We are currently calculating historical correlations for you as well. If
+You want, vince and I can review this with you at the end of the day. Just
+Let me know what time would be convenient.
+- - stinson
+X 34748

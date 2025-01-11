@@ -1,0 +1,9 @@
+Subject: your approval is overdue: access request for
+Tom. Halliburton@ enron. Com
+This request has been pending your approval for 9 days. Please click
+Approval to review and act upon this request.
+Request id: 000000000003619
+Request create date: 9/27/00 9: 18: 21 am
+Requested for: tom. Halliburton@ enron. Com
+Resource name: unlisted application/software
+Resource type: applications

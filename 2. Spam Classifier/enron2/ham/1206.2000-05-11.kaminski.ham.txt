@@ -1,0 +1,15 @@
+Subject: re: price process parameter esimator
+Michael, I think you mean price process parameter esimator.
+It is under o:\research\exotica\prices\reversion 97 _ trend. Xls
+Tanya
+" michael schilmoeller" on 05/11/2000 05: 04: 20
+Pm
+To: ttamarc@ enron. Com
+Cc: gmasson@ enron. Com, vkamins@ enron. Com, mike _ niman@ pgn. Com
+Subject: price process simulator
+HI tanya,
+Hope things go well for you. Can I get a copy of the price process simulator
+You wrote? It would be helpful in developing a plant dispatch module for
+Monet, the power systems simulation model I co - authrored.
+Thank you,
+Michael

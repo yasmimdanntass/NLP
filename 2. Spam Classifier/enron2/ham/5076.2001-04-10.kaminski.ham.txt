@@ -1,0 +1,89 @@
+Subject: re: various market data charges to the research group for february
+2001
+Julie:
+I talked to both maureen and tanya and neither one want this service and
+Have not been using it.
+Maureen told me that she told you a year ago that she did not want telerate
+(when she was supporting gary hickerson' s group on 30). If that is the case,
+We probably need a refund.
+Let me know if there is anything that can be done about this.
+The only person in our group that wants telerate is jason sokolov and i
+Put in a request for that yesterday. Please cancel everything else.
+Thanks!
+Shirley
+From: julie pechersky/enron@ enronxgate on 04/09/2001 12: 33 pm
+To: shirley crenshaw/hou/ect@ ect
+Cc:
+Subject: re: various market data charges to the research group for february
+2001
+HI shirley,
+Regarding telerate: I can cancel the service for both maurenn and tanya,
+But another name commonly used for the telerate application is bridge or
+Bridgestation so you may want to just ask the two of them once more to be
+Sure that they do not use it. Just let me know and I will cancel billing
+Jason can get access to it by submitting an e - request for him for telerate.
+When you go into e - request and it is prompting you for what application to
+Choose, type in the words market data and hit search. Telerate will pop up
+As an option and within that choose the role basic energy. We will take care
+Of it from there.
+I will also remove hector campos from reuters. Was there anyone else being
+Charged for reuters services that are not needed?
+I will also remove clayton vernon. I do not see anything under the name brad
+Amoine, is this the correct spelling of his name? I will also find
+Out where shalesh' s charges should be moved to.
+Thanks for updating us and let me know if there is anything else.
+Julie
+- - - - - original message - - - - -
+From: jackson, clifford
+Sent: wednesday, april 04, 2001 1: 44 pm
+To: crenshaw, shirley
+Cc: pechersky, julie
+Subject: re: various market data charges to the research group for february
+2001
+HI shirley. I' ve copied this to julie pechersky, who maintains the market
+Data database, and will be able to make the user changes you request. She' ll
+Also be able to tell you how/when telerate can be enabled for mr. Sokolov.
+We get the billing data from her, so once it is correct there, it will be
+Billed correctly.
+Cliff jackson
+- - - - - original message - - - - -
+From: crenshaw, shirley
+Sent: wednesday, april 04, 2001 1: 31 pm
+To: jackson, clifford
+Cc: kaminski, vince
+Subject: various market data charges to the research group for february 2001
+Clifford:
+In reviewing our february eis billing summary for co #0413, cc #107043,
+I have several questions.
+Telerate: (february charges: $3, 032, 35)
+I polled the group and only one person has asked for telerate and he is
+Not shown being charged for it. That is jason sokolov. He would like to
+Have access to telerate. If you could let me know how to get that for him.
+The largest percent of the telerate charges appear to be for maureen
+Raymond, who says that she does not use telerate. Could she be accessing
+Some data that she does not know is telerate? Please let me know. If there
+Are individual accounts for telerate the only one we need is for jason
+Sokolov,
+Unless maureen' s charges are for something that she does not know is telerate.
+Tanya tamarchenko does not need telerate and she has the second largest
+Percentage of the charges. Anyway, the only telerate subscription we need is
+For jason sokolov.
+Reuters: (february charges: $405. 96)
+No one in research uses reuters. I believe most of the charges are for
+Hector
+Campos who used it when he was on the trading desk. When he rotated into the
+Research group he did not need it any longer, but is still being billed for
+It. Please
+Remove from the research cost center.
+The following individuals are no longer with enron or no longer with research
+And their accounts should be removed from the research cost center.
+Clayton vernon no longer with the research group remove his lim/lim/excel
+And lim core charges from the research cost center
+Brad amoine no longer with enron remove his lim/lim/excel and lim core
+Charges from the research cost center
+Shalesh ganjoo no longer with the research group remove his lim and lim core
+Charges from the research cost center
+I hope this is not too confusing!
+Please advise.
+Thanks!
+Shirley crenshaw

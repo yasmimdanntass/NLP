@@ -1,0 +1,49 @@
+Subject: your advice is appreciated
+Vince,
+In the morning we were talking about the el paso candidate who thinks he is above something and is not
+Willing to take certain project or responsibility. In real life, we also occasionally have similar stiuation. (an
+Example is attached).
+I would like to have your guidance when such a situation occurs.
+Zimin
+- - - - - - - - - - - - - - - - - - - - - - forwarded by zimin lu/hou/ect on 05/02/2001 02: 07 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Zimin lu
+05/02/2001 01: 41 pm
+To: paulo issler/hou/ect@ ect
+Cc:
+Subject: re: asian option for pavel
+Our convention is whoever finalizes the model should write the documentation. It does not make sense
+To write one when changes are anticipated. You have been working on this almost a year, it never
+Strikes you that we need a documentation?
+I created exotica. Xll, does that also give you an excuse not working on exotica documentation?
+Zimin
+Paulo issler
+05/02/2001 11: 52 am
+To: zimin lu/hou/ect@ ect
+Cc: taI woo/enron@ enronxgate@ enron, pavel zadorozhny/enron@ enronxgate
+Subject: re: asian option for pavel
+I am surprised that we do not have the documentation ready.
+I can make that for you. It is not there because you did not put that together by the time it was created and all the changes I have made did not required changes on the functionality.
+Paulo issler
+Zimin lu
+05/02/2001 11: 29 am
+To: taI woo/enron@ enronxgate@ enron, paulo issler/hou/ect@ ect
+Cc: pavel zadorozhny/enron@ enronxgate
+Subject: re: asian option for pavel
+TaI woo,
+Here are the c - codes for the crudeapo.' sig' is the spot
+Volatility meaning the price volatility within the delivery period.
+You should consult with pavel for the definition of this" extra" parameters. We
+Would like to see the position monitor once you get it running.
+We might have some additional suggestions.
+Paulo,
+Why don' t we have a documentation on crudeapo you worked on?
+I can not find it in exotica help file. Please supply that to tai, thanks.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+From: taI woo/enron@ enronxgate on 05/02/2001 09: 55 am
+To: paulo issler/hou/ect@ ect
+Cc: kara maloney/enron@ enronxgate, zimin lu/hou/ect@ ect
+Subject: asian option for pavel
+This morning, zimin told me that pavel is using a special model in evaluating his asian option portfolio.
+He asked me to talk to you in order to access to the code so that I can see the difference made to the model.
+As I cannot find the doc. Describing this model, please tell me what that new input parameter' sig' is.
+Thanks,

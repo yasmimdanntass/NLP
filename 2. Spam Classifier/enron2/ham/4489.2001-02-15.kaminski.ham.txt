@@ -1,0 +1,54 @@
+Subject: avistar users and allocated charges
+I have several queries re the avister charges for london, primarily because
+The spreadsheet is based on a total of 24 london users. We have a total of
+14 avistar users installed in london.
+I believe the following london departments may have been charged for the
+Incorrect number of users:
+Fin , l trading - $74, 418. 83 based on 4 units but have 5 users
+Rate & currency (john greene not listed?)
+342 - 100467
+Softs mg - $42, 857. 23 based on 4 units but have only 1 user
+1105 - 120415 (nigel majury)
+Credit derivitives - $16, 168. 42 based on 2 units but none installed
+0342 - 102843 (3 users on via video pilot)
+Liquids - $56, 589. 46 based on 7 units but only 6 installed
+872 c - 104546 (niamh clarke no longer based in london)
+Shankman london - $16, 168. 42 based on 2 units but none installed
+0342 - 103058 (brad hitch/merrill thomas no longer in dept.)
+Eel - exec - $8, 084. 21 based on 1 unit for john sherriff who is
+0342 - 100309 on via video pilot - avistar not installed
+Legal london - $8, 084. 21 based on 1 unit for michael brown - avistar
+0342 - 100348 not installed
+London it - $16, 168. 42 based on two units but only one required
+0342 - 100348 to administer system
+The above figures are based on an original average $10, 276 per seat.
+However, a base change from 24 to 14 seats would increase the per seat charge
+To $17, 616.
+We also ought to look at charging out the isdn calls charges for the avistar
+System (in the region of $187, 000 for 4 months).
+Regards,
+Wilma
+X 37275
+Mobile + 44 7771 887413
+- - - - - - - - - - - - - - - - - - - - - - forwarded by sheila glover/hou/ect on 02/13/2001 02: 07
+Pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+From: sheila glover 02/13/2001 02: 08 pm
+To: mike mcconnell/hou/ect@ ect, jeffrey a shankman/hou/ect@ ect, gary
+Hickerson/hou/ect@ ect, per sekse/ny/ect@ ect, john l nowlan/hou/ect@ ect, jeff
+Kinneman/hou/ect@ ect, vince j kaminski/hou/ect@ ect, mark tawney/hou/ect, john
+Sherriff/lon/ect@ ect, michael r brown/lon/ect@ ect, nigel majury/lon/ect@ ect,
+Markus fiala/lon/ect@ ect, joseph p hirl/ap/enron@ enron, morten e
+Pettersen/ap/enron@ enron, paul quilkey/enron _ development@ enron _ development
+Cc: paige cox/corp/enron, michael s galvan/hou/ect@ ect, wilma
+Low/lon/ect@ ect, hasan imam/corp/enron, brad lawson/na/enron
+Subject: avistar users and allocated charges
+Avistar has been installed globally to provide desktop conferencing.
+Hardware and installation charges have been allocated by invoice to the
+Relevant location. The schedule below lists by business unit and rc the
+Number of units and charges allocated. It will assume the monthly charge - out
+Process.
+The allocated dollars will be depreciated over a three year period to your
+Respective cost center beginning february 2001.
+If you have any questions please feel free to call or e - mail, sheila glover,
+3 - 3210, or paige cox, 3 - 5428.
+Thanks. Sheila

@@ -1,0 +1,13 @@
+Subject: outage pricing model revision: allowing for power price vs. Outage
+Correlation
+I have included provision for providing rank correlation between" jump
+Occurrence in daily average power price" and" outage occurrence". The model
+Will provide the same claim distribution as before when pricevsoutage
+Correlation = 0 is used. Claim goes up as the correlation is increased. I
+Have performed some sensitivity analysis and the results seem to make sense.
+The new model workbook is" 40901. Xls" and corresponding
+Dll is" outagepricingo 40901. Dll", both located in
+O:\grm\research\outagerisk\subdirectory. The price vs. Outage rank
+Correlation input will need to be provided in" main" spreadsheet. Please
+Call me if you have any questions.
+- amitava

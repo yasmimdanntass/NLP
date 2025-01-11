@@ -1,0 +1,65 @@
+Subject: mike' s laptop
+Vince,
+Check it out!
+Thanks for your advice on strategic problem - solving
+Thanks again
+- - - - - - - - - - - - - - - - - - - - - - forwarded by mike a roberts/hou/ect on 05/24/2000
+07: 56 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Henry moreno
+05/23/2000 06: 00 pm
+To: mike a roberts/hou/ect@ ect
+Cc: grace e warren/hou/ect@ ect, kevin g moore/hou/ect@ ect, david
+Wile/hou/ect@ ect, chris bowling/hou/ect@ ect, john p tollefsen/hou/ect@ ect,
+Bob hillier/na/enron@ enron, roberto deleon/corp/enron@ enron, mark
+Hall/hou/ect@ ect
+Subject: re: request for help
+Mr. Roberts,
+I am glad we were able to reach a practical solution for you without going
+Too much against the grain of enron corp.' s it policy and standards.
+Thanks to david wile and mark hall in formulating a solution that addresses
+Everyone' s needs.
+In summary,
+Your contingency and recovery machine (laptop) will be imaged for win 2000
+Applications will be evaluated for compatibility
+This will allow you to use the machine as a back - up to gather weather data
+Off the internet (via independent dial - out line) in case the normal enron
+Network architecture is unavailable.
+I will follow - up to make sure we capture the one exception to the policy and
+Standard that surfaced (local admin rights on the laptop for development
+Activity). Irm/roberto deleon will facilitate with a risk acceptance request
+Form.
+Thanks again,
+Henry moreno
+Information risk management (irm)
+From: mike a roberts 05/23/2000 10: 29 am
+To: henry moreno/hou/ect@ ect
+Cc: grace e warren/hou/ect@ ect, kevin g moore/hou/ect@ ect
+Subject: request for help
+What I have:
+A. I have an ibm thinkpad and a cd for windows 98
+B. I got the ibm from richard weeks. I bought the windows 98.
+C. I have a valid business need to get windows 98 on the ibm
+A. My job requires a totally independent backup to access data off the
+Internet and process same for trader' s report
+B. This must be done 7 days per week in the early am.
+C. I have new equipment that doesn' t run on nt
+I. Audio file generator (nomad)
+Ii. Video file generator (intel)
+D. I will also be loading office 2000 (which I have)
+The problem:
+A. When I travel, terminal server doesn' t work (last time I spent several
+$hundred trying)
+B. On the weekends, terminal server unacceptably slow (requiring someone to
+Come in sat & sun)
+C. When we move internally, things go wrong (this monday we got switched from
+100 megabytes to 10 mega bytes) - trader' s report not ready on time
+D. I currently have no stand - alone backup for contingency purposes
+What I need:
+I need help putting windows 98 put on my thinkpad
+(when I reformatted and loaded, it did not recognize the modem)
+There should be no security risk because this system will be totally
+Independent of enorn system (just usinf the phone)
+Can you approve someone to help me load it up??? Thank you.
+Mike roberts
+Vice president, research
+X 3 - 5701

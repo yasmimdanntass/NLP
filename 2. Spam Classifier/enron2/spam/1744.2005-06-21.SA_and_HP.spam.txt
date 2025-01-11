@@ -1,0 +1,15 @@
+Subject: urgent paypal security notification
+Security center advisory!
+We recently noticed one or more attempts to log in to your paypal account from a
+Foreign ip address and we have reasons to belive that your account was hijacked
+By a third party without your authorization. If you recently accessed your account while traveling, the unusual log in attempts
+May have been initiated by you.
+If you are the rightful holder of the account you must click the link below and then complete all steps from the following page as we try to verify your identity.
+Click here to verify your accountif you choose to ignore our request, you leave us no choise but to temporaly suspend
+Your account. Thank you for using paypal! The paypal team
+Please do not reply to this e - mail. Mail sent to this address cannot be answered. For assistance, log in to your paypal account and choose the" help" link in the footer of any page. To receive email notifications in plain text instead of html, update your preferences here.
+Paypal email id pp 697
+Protect your account info
+Make sure you never provide your password to fraudulent persons. Paypal automatically encrypts your confidential information using the secure sockets layer protocol (ssl) with an encryption key length of 128 - bits (the highest level commercially available). Paypal will never ask you to enter your password in an email. For more information on protecting yourself from fraud, please review our security tips at http:// www. Paypal. Com/securitytips
+Protect your password
+You should never give your paypal password to anyone, including paypal employees.

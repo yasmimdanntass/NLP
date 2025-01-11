@@ -1,0 +1,32 @@
+Subject: secure your account
+Dear lasalle bank
+Customer,
+We
+Recently noticed one or more attempts to login intro your lasalle bank
+Online
+Banking account for a foreign ip address and we have reasons to believe
+That
+Your account was hijacked by a third party without your
+Notification.
+If you recently
+Logged intro your account while traveling to a foreign country, the
+Unusual
+Login attempts may have been made by you.
+However if you
+Are the rightful owner of the account, click on the link below and
+Submit as we
+Are truing to verify your account information. (in case you are not
+Enrolled use
+Your social security number as you user id and the first six digits of
+Your
+Social security number as a password).
+The login attempt
+Was made from:
+Ip:
+82. 89. 87. 55
+Isp host:
+Host 55 - 87. Pool 8289. Interbusiness. It
+If you chose to
+Ignore our request, we have no choice but to temporarily suspend your
+Online
+Banking account.

@@ -1,0 +1,31 @@
+Subject: web based expense report implementation deadline
+Xms communication
+The expense management system (xms) is a tool used to electronically submit
+Your expense report for approval and payment through the enron intranet. It
+Is user friendly, accurate and less labor intensive for you and our
+Accounting staff. This product was initially made available october 15, 2000
+And approximately 50% of the houston employees are currently using it to
+Submit their expense reports. Our goal is to have all enron employees using
+The xms system by april 15 (income tax day  * easy to remember).
+There are some changes coming to the accounts payable (ap) department that
+Are compelling us to fully utilize the xms system. In the near future paper
+And e - mail directed expense reports will not be accepted. If you are unsure
+Of how to use the xms system there is training available through leap that
+Will explain how to use the system. The following training information is
+From the december 14 th enron announcement about xms:
+Training
+Go to the it central web page. Select services > training. Click on
+" schedules" in the north america column, and go to the xms workshop schedule
+To choose your class. If no > classes are listed, call the training
+Department and place your request at (713) 853 - 1816. Those in outlying
+Locations and those who prefer on - line training can use leap by signing on to
+Isc. Enron. Com and clicking on" training and education," then leap (shown as a
+Link). Use xms (lower case) as the user id and password.
+Documentation
+Step by step documentation is also available from it central web page. Select
+Services > training. Click on" documentation" in the north america column and
+Choose xms user' s guide from the list.
+Application support services
+Call the isc help desk at (713) 345 - 4 sap (4727). Do not call accounts
+Payable with questions about how to use the system or with issues regarding
+Electronic pre - populated data.

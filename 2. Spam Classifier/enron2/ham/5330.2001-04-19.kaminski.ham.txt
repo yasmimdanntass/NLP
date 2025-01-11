@@ -1,0 +1,37 @@
+Subject: re: term project:
+Dear vince,
+I was wondering if you were able to open the attachment with my resume this
+Time. Rumor has it that you are currently hiring people for your group. Is
+This true?
+Sincerely,
+Helen
+- - - - - original message - - - - -
+From: vince. J. Kaminski@ enron. Com [mailto: vince. J. Kaminski@ enron. Com]
+Sent: wednesday, april 11, 2001 3: 22 pm
+To: isranir@ rice. Edu; demianen@ rice. Edu; tbal 93@ yahoo. Com;
+Maue@ rice. Edu; loughrid@ rice. Edu; jblantonjr@ yahoo. Com;
+Gjohnson@ rice. Edu; emchombo@ rice. Edu; nazareth@ rice. Edu;
+Vanstone@ rice. Edu; ganguzza@ rice. Edu; nelsonb@ rice. Edu;
+Sssmith@ rice. Edu; wheelock@ rice. Edu; westmore@ rice. Edu;
+Gaudette@ rice. Edu; otaylor@ rice. Edu; dikeman@ rice. Edu; jettke@ rice. Edu;
+Litton@ rice. Edu; chilkina@ rice. Edu; helms@ rice. Edu; wankhade@ rice. Edu;
+Monfan@ rice. Edu; kostya@ rice. Edu; pcp@ rice. Edu; yueguo@ rice. Edu;
+Nlwbio@ rice. Edu; zhangn@ rice. Edu; rishad@ rice. Edu; yoshiura@ rice. Edu;
+Howard@ rice. Edu; dayangd@ rice. Edu; wuwei@ rice. Edu; so@ rice. Edu;
+Wooddy@ rice. Edu; lamas@ rice. Edu; tbalestrery@ houston. Rr. Com;
+Hingoran@ rice. Edu; planck@ rice. Edu
+Cc: vkaminski@ aol. Com; vince. J. Kaminski@ enron. Com;
+Jason. Sokolov@ enron. Com
+Subject: term project:
+This is the list of projects for the members of the" quant" team.
+If you are working on different project, please, ignore this message.
+Please, develop in a spreadsheet solutions/examples for the following:
+1. Black - scholes formula
+2. Black' s formula
+3. Develop a spreadsheet to simulate price trajectory using:
+A. Gbm
+B. Gbm + jump (formula 2. 16 in the book, figure 2. 7)
+C. Mean reversion + jump (formula 2. 17, figure 2. 8)
+4. Schwartz single factor model (formula 6. 12)
+5. Develop models corresponding to the figures 7. 1, 7. 3, 7. 5, 7. 6, 7. 8
+Vince

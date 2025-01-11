@@ -1,0 +1,12 @@
+Subject: metals cross correlations
+Dear all,
+I have completed the cross - correlation study for the seven metals we have
+Data for - will complete for gold, silver and cocoa. I have also attached
+The spreadsheet. Correlations based on log - returns, 21, 42 or 63 business
+Days for either front month only or average of entire futures curve - please
+See data below or drill into spreadsheet. We can choose the most appropriate
+Time - bucket and whether to use front month or" average of curve" data.
+Regards,
+Anjam
+X 35383
+Spreadsheet:

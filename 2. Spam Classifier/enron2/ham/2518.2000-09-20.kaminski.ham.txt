@@ -1,0 +1,30 @@
+Subject: the mathworks visit on 10/18
+Shirley,
+Please, confirm and put on my calendar.
+Vince
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski/hou/ect on 09/20/2000
+01: 39 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Scott wakefield on 09/20/2000 11: 58: 02 am
+To: vkamins@ enron. Com
+Cc: emcgoldrick@ mathworks. Com, rbaker@ mathworks. Com
+Subject: the mathworks visit on 10/18
+Hello vince:
+Myself, eugene mcgoldrick, and rick baker are looking forward to meet with
+You and your group on 10/18 at 2: 00 pm. Eugene is the financial products
+Program manager and rick is a financial engineer and author of several of
+Toolboxes.
+We want to understand the needs of your group to better demonstrate the
+Proper tools. Do you or members of your group have specific applications
+That we can address? Please email me those items and I will coordinate the
+Presentation with our group.
+We would like to demonstrate how our tools can be used to rapidly develop
+Applications, be integrated with databases and other applications (olf,
+Odbc databases, excel, vb, etc.) and then deploy those applications at no
+Cost to your traders and analysts.
+I look forward to meeting you, please do not hesitate to contact me.
+Thanks
+Scott
+Scott wakefield
+The mathworks, inc.
+Phone: (508) 647 - 7282
+E - mail: swakefield@ mathworks. Com

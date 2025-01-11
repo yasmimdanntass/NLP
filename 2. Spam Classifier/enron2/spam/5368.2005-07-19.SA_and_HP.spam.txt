@@ -1,0 +1,42 @@
+Subject: failure notice
+Hi. This is the qmail - send program at maill 9 b. Gl 9. Rapidsite. Net.
+I' m afraid I wasn' t able to deliver your message to the following addresses.
+This is a permanent error; i' ve given up. Sorry it didn' t work out.
+:
+64. 18. 7. 10 failed after I sent the message.
+Remote host said: 571 message refused
+- - - below this line is a copy of the message.
+Return - path:
+Received: from mxl 1. Stngvaol. Us. Mxservers. Net (204. 202. 242. 100)
+By maill 9 b. Gl 9. Rapidsite. Net (rs ver 1. 0. 95 vs) with smtp id 1 - 017201846
+For; tue, 19 jul 2005 07: 00: 50 - 0400 (edt)
+Received: from unknown [211. 168. 67. 248] (helo mailwisconsin. Com)
+By mxl 1. Stngvaol. Us. Mxservers. Net (mxl _ mta - 1. 3. 8 - 10 p 4) with smtp id 06 ddcd 24. 14068. 061. Mxl 1. Stngvaol. Us. Mxservers. Net;
+Tue, 19 jul 2005 07: 00: 48 - 0400 (edt)
+Received: from 205. 214. 42. 66
+(squirrelmail authenticated user projecthoneypot@ projecthoneypot. Org);
+By mailwisconsin. Com with http id j 87 gzo 30516488;
+Tue, 19 jul 2005 10: 57: 46 + 0000
+Message - id:
+Date: tue, 19 jul 2005 10: 57: 46 + 0000
+Subject: just to her...
+From:" barry castillo"
+To: antonio _ ortiz 33@ jobops. Com
+User - agent: squirrelmail/1. 4. 3 a
+X - mailer: squirrelmail/1. 4. 3 a
+Mime - version: 1. 0
+Content - type: text/html; charset = iso - 8859 - 1
+Content - transfer - encoding: 8 bit
+X - priority: 3 (normal)
+Importance: normal
+X - spam - flag: yes
+X - spam: [f = 1. 0000000000; heur = 0. 500 (1000); stat = 0. 997; spamtraq - heur = 1. 000 (2005071819)]
+X - mail - from:
+X - source - ip: [211. 168. 67. 248]
+X - loop - detect: 1
+X - distloop - detect: 1
+Soft viagra at $1. 62 per dose
+Ready to boost your sex life? Positive?
+Time to do it right now!
+Order soft viagra at incredibly low prices
+Starting at $1. 99 per dose! Unbeiivabie!

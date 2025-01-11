@@ -1,0 +1,43 @@
+Subject: kirstee' s role in london
+Vince:
+This is precisely the concern I have for kirstee. Steve tells me that she is
+Very imaginative and eager to try to add value, but she has no local
+Supervisor to help push some of her ideas. I will give you an update of our
+Discussion later and solicit your suggestions.
+Grant.
+- - - - - - - - - - - - - - - - - - - - - - forwarded by grant masson/hou/ect on 07/25/2000 09: 07
+Am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Kirstee hewitt
+07/25/2000 08: 48 am
+To: grant masson/hou/ect@ ect
+Cc:
+Subject: meeting today
+HI grant - as anjam has set up a meeting for 9: 30 your time how about we try
+And talk afterwards. Originally we said 10: 00 your
+Time but I guess that the mg meeting will take longer than half an hour. Are
+You free around 10: 30 your time?
+I think some of the communication problems I originally had with anjam have
+Been resolved (although it was a difficult situation to interpret) however, i
+Would very much like to discuss the situation that I am in concerning my
+Immediate management.
+I have felt that over the last month I have been floundering a little and
+Have not really been able to turn to anyone in london for direction
+Concerning var (although as expected steve has been very helpful to give me
+An idea on how to proceed theoretically). I do have many of my own ideas
+Although I think I need to obtain some kind of authority to start any
+Substantial work. At the moment I feel like I am doing a lot of small things
+And am worried that at some stage someone is going to ask the question -
+What exactly does she do over there in research???
+I have talked to rodrigo lamas (rac model validation new hire) and he has
+Helped me to focus on some points I had already made.
+As a quick summary I have drawn up a memo which outlines some of the points i
+Think need to be addressed as far as the var model is concerned (I could do a
+Similar memo for the credit reserve model but to start have focused my
+Comments on market risk).
+It is a bit rough and ready (pls excuse any appalling spelling mistakes!) but
+I think it will help you to see what I have been thinking about since I have
+Been here.
+I do think that the most important issue is that concerning the origin of the
+Vol/price curves and how they are constructed.
+Cheers
+Kirstee

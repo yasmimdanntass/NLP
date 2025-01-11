@@ -1,0 +1,22 @@
+Subject: credit model
+Vince and stinson,
+We met bill bradford yesterday, the credit model modification turns out to be
+Three projects.
+1) potential exposure calculator
+This requres forward curves simulation and revaluation of all deals over
+The tenor (typically 20 years).
+It needs multI - factor hjm and gas - electricity joint factors of loading.
+Output from this model is the maximal loss amount and
+Its confidence interval.
+Expected delivery time: 1 month
+2) include asian option model into the current xll calculation engine.
+This is more concrete and simly to do.
+Expected delivery time: 2 weeks.
+3) incorporate krishna' s" eam" option valuation into the credit model
+This one is not yet urgent.
+I may need more resources to accomplish these tasks. Paulo has difficulty
+To commit himself to even to the second task,
+Citing that he has other things to do. Therefore I need your help in setting
+The prorities.
+Thanks,
+Zimin

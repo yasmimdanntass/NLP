@@ -1,0 +1,62 @@
+Subject: re: equity investment fair value in turkey
+John,
+It seems to me that using a risk - free rate is not appropriate. I shall
+Elaborate on my
+Position and send you a longer message this afternoon (my time).
+Vince
+Enron capital & trade resources corp. - europe
+From: john bottomley 06/19/2000 05: 55 am
+To: vince j kaminski/hou/ect@ ect
+Cc: john sherriff/lon/ect@ ect, dale surbey/lon/ect@ ect
+Subject: equity investment fair value in turkey
+Vince,
+John sherriff recommended that I contact you regarding an interesting (and
+Potentially contentious) option valuation issue we are currently dealing with
+In london. We hold longish term options in a private company in turkey which
+Is currently seeking to ipo. The issue we are discussing with rac is which
+Discount rate (i. E., risk - free? And if so turkish or us?) should we use to
+Value these options
+First, some additional information.
+Option characteristics:
+- - 116, 000 options (representing 9% of the company)
+- - term: minimum of 3 years but possibly longer - - still being renegotiated
+- - strike price: 20% below the upcoming ipo price (either priced in us $or
+Turkish lire)
+We currently hold the above number of options with a fixed price of $118. 75
+Per option but 34, 800 expire on july 15, 2000 with the remainder expiring on
+December 15, 2000. The company' s investment bankers (abn/amro rothchilds)
+Are concerned regarding the strike price because it values the company at
+$118 million and they believe the company is worth approx $300 million. Due
+To such a large" valuation gap", they originally encouraged us to exercise
+All of the options by the end of june (ipo target date in late sept/early
+Oct). Our counter - proposal is to" swap" instrinsic value for time value by
+Repricing the options strike higher while extending their term.
+We are currently negotiating with rac the most appropriate discount rate to
+Use to value the options. We are arguing that the us risk free is the most
+Appropriate discount rate and their current position is that the company' s
+Historical senior debt cost (18%) is the more appropriate number to use
+(although admit that this is not justifiable - - only a proxy)
+A few key points:
+- - rac is valuing the options via crystal ball simulations such that this" to
+Be negotiated" discount rate is used to calculate the pv of the future
+Options intrinsic value in 3 years
+(i. E., for black - scholes, a higher discount rate yields a higher value but
+The opposite is true using crystal ball simulation)
+- - the model simulates both an ipo/no ipo case and in the case of no ipo we
+Have put options for our equity priced at a fixed 17% return
+- - the model assigns a 30% illiquidity discount
+- - in the simulated cases where the options are out - of - the - money, we
+Obviously do not exercise.
+We understand that for black - scholes option valuation, one needs to be able
+To construct a comparable portfolio of cash flows using equity futures and
+The risk free in order for the valuation to hold. And here is where we reach
+Our difficulty: since the company doesn' t currently trade on a public market
+And since equity futures do not exist for turkish equities, rac is arguing
+That a us risk free is not appropriate to use. Our argument is that the
+Non - ipo scenario, a 30% illiquidity discount and a us $based option
+Volatility are already in the factored into the simulation. As such, we feel
+Rac' s approach is double counting.
+If you managed to get through the above, your a patient man! I' ll give you a
+Call today or tomorrow after you' ve had a chance to digest the information.
+Regards,
+John bottomley

@@ -1,0 +1,45 @@
+Subject: re: corrections to chap. 3 from grant masson
+Grant,
+Thanks for that. I hope you had a good holiday - we were all very jealous of
+You at dinner the other evening.
+I made some changes for it to fit in with our notation, etc, but apart from
+That its a fin piece of work. If you could just answer the questions posed
+By vince, and send me the final figure then we are a go (all of ours are now
+Finished). Would you be happy with the following?
+3. 5 summary
+In this chapter we have discussed volatility modelling and estimation in the
+Energy commodity markets, emphasising the difference between this market and
+Financial markets. We discuss the estimation of volatility from both
+Historical and implied data, again from the perspective of the energy user.
+We further discussed a number of stochastic volatility models and have shown
+How to estimate the models via ordinary least squares and maximum
+Likelihood. We have tested our estimation techniques on a number of
+Examples drawn from energy markets including electricity, gas and crude oil.
+Best regards.
+Chris.
+- - - - - original message - - - - -
+From: grant masson
+To: chris strickland
+Sent: tuesday, july 25, 2000 9: 08 am
+Subject: re: corrections to chap. 3 from grant masson
+>
+>
+> chris:
+>
+> I understand from vince that ronnie did not send you anything. Apologies
+For
+> that. I will get the last section rewritten quickly and off to you within
+The
+> next couple of days. Sorry that this has taken so long, and frankly,
+Apologies
+> for the poor quality of my bit. If you have any suggestions on how to
+Improve
+> it, please let me. Likewise, I hope that you will make changes as you
+See fit
+> to improve and clarify things.
+>
+> regards,
+> grant.
+>
+>
+>

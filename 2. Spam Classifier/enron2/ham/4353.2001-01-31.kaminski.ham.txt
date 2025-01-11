@@ -1,0 +1,30 @@
+Subject: re: approval is overdue: access request for paul. D. Thomas@ enron. Com
+The system will not allow me to view this request, saying that it has been
+Assigned to you. I have left a message with the admin who originated these
+Requests. If I don' t hear back from her today, I think we should just deny
+All of them. I earlier sent emails to the individuals named asking what
+Data they needed to access and none of them responded.
+- - stinson
+Vince j kaminski
+01/31/2001 07: 45 am
+To: stinson gibner/hou/ect@ ect
+Cc:
+Subject: approval is overdue: access request for paul. D. Thomas@ enron. Com
+Stinson,
+Any resolution on this one?
+Vince
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski/hou/ect on 01/31/2001
+07: 48 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Arsystem on 01/30/2001 07: 17: 35 pm
+To:" vince. J. Kaminski@ enron. Com"
+Cc:
+Subject: approval is overdue: access request for paul. D. Thomas@ enron. Com
+This request has been pending approval for 2 days and you are the
+Alternate. Please click
+Approval to review and act upon this request.
+Request id: 000000000015793
+Approver: stinson. Gibner@ enron. Com
+Request create date: 1/29/01 9: 48: 41 am
+Requested for: paul. D. Thomas@ enron. Com
+Resource name:\\ enehou\houston\common\research - [read]
+Resource type: directory

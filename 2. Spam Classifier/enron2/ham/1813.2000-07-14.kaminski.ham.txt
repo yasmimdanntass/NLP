@@ -1,0 +1,75 @@
+Subject: re: agenda for ny mg metals visit
+HI ted and vince,
+Thank you for conveying our thoughts exactly - tanya and I hope to close the
+Circle with you at 4 pm, ted.
+Regards,
+Anjam and tanya
+From: ted murphy
+14/07/2000 16: 02
+To: vince j kaminski/hou/ect@ ect
+Cc: richard sage/lon/ect@ ect, vince j kaminski/hou/ect@ ect, anjam
+Ahmad/lon/ect@ ect, bjorn hagelmann/hou/ect@ ect, ted murphy/hou/ect@ ect, dale
+Surbey/lon/ect@ ect, stinson gibner/hou/ect@ ect, steve w young/lon/ect@ ect,
+Eric gadd/lon/ect@ ect, david port/market risk/corp/enron@ enron
+Subject: re: agenda for ny mg metals visit
+I agree with vince. Ideally, this visit would supplement rather than
+Duplicate effort. However, on the front end, I would prefer a little
+Overkill to underkill - especially with respect to the var process. I would
+Defer to anjam/tanya' s opinion as to what is necessary to get an initial
+Comfort level. Remember that this is the first cut, but it will need to be
+Refined over time to the point where it is credible enough to force someone
+To take a position down based on the calculatiion. If this causes some
+Heartburn please refer those people to me.
+Ted
+Vince j kaminski
+07/14/2000 09: 04 am
+To: lloyd fleming/lon/ect@ ect
+Cc: richard sage/lon/ect@ ect, vince j kaminski/hou/ect@ ect, anjam
+Ahmad/lon/ect@ ect, bjorn hagelmann/hou/ect@ ect, ted murphy/hou/ect@ ect, dale
+Surbey/lon/ect@ ect, stinson gibner/hou/ect@ ect
+Subject: re: agenda for ny mg metals visit
+Lloyd,
+Speaking from experience, I think that it' s critical for tanya and anjam to
+Visit mg in new york
+And establish direct relationship with technical people. Merging two risk
+Management systems
+Requires handling many very technical issues and face to face discussions
+Between it and quants
+Will be very helpful.
+Vince
+From: lloyd fleming 07/14/2000 03: 42 am
+To: tanya tamarchenko/hou/ect@ ect
+Cc: andreas. Barschkis@ mgusa. Com@ enron, richard sage/lon/ect@ ect, vince j
+Kaminski/hou/ect@ ect, anjam ahmad/lon/ect@ ect, bjorn hagelmann/hou/ect@ ect,
+Ted murphy/hou/ect@ ect, dale surbey/lon/ect@ ect, stinson gibner/hou/ect@ ect
+Subject: re: agenda for ny mg metals visit
+Tanya,
+I think most of your queries can be dealt with on the phone - i' ll be at mg
+With andreas today and we' ll call you. Most of these points have already
+Been covered with anjam in any case. I' m also attaching a file downloaded
+From mercur (mg' s risk aggregation system) showing monthly total positions
+For each metal in each entity. You can fairly easily create tables and graph
+What you want to see. We can talk today about getting a full deal download.
+Regards
+Tanya tamarchenko
+13/07/2000 22: 45
+To: andreas. Barschkis@ mgusa. Com@ enron
+Cc: dale surbey/lon/ect@ ect, lloyd fleming/lon/ect@ ect, richard
+Sage/lon/ect@ ect, vince j kaminski/hou/ect@ ect, anjam ahmad/lon/ect@ ect,
+Stinson gibner/hou/ect@ ect, bjorn hagelmann/hou/ect@ ect, ted
+Murphy/hou/ect@ ect
+Subject: agenda for ny mg metals visit
+HI andreas,
+Here are the issues we would like to discuss on our thursday meeting in ny:
+1. Inputs for options valuation, in particular the origins of volatility
+Curves;
+2. Information on exotic options structures (existing
+3. The data flow (are we going to get data from london or ny).
+4 a. Storage of positions information at mg. How to extract the positions
+Info from
+Mg database into spreadsheets.
+4 b. Existing positions structure for each metal.
+5. Introduction to concentrates trading business, key personnel.
+Best regards,
+Tanya & anjam
+713 853 3997

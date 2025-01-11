@@ -1,0 +1,10 @@
+Subject: approval is overdue: access request for peter. Makkai@ enron. Com
+This request has been pending approval for 5 days and you are the
+Alternate. Please click
+Approval to review and act upon this request.
+Request id: 000000000003997
+Approver: stinson. Gibner@ enron. Com
+Request create date: 10/3/00 1: 14: 27 pm
+Requested for: peter. Makkai@ enron. Com
+Resource name:\\ enehou\houston\common\research - [read]
+Resource type: directory

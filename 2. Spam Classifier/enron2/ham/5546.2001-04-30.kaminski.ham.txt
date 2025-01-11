@@ -1,0 +1,25 @@
+Subject: non - firm power curve building
+HI vince,
+Amitava and I have received a request to build a non - firm power curve for
+Each region from david hoog' s double trigger folks. The objective, as they
+Explain it, is to allow the desk to buy non - firm from the market, buy david' s
+Outage product, and sell firm to the market. Accountants would like a curve
+To mark the non - firm position.
+My initial thought is that the desk should provide this non - firm curve, but
+It seems that this market is very illiquid and they are reluctant so they
+Have put the ball in david hoog' s court to build the curve if david wants to
+Sell his product internally to the desk.
+Assuming we build the curve, the next issue is how to define" non - firm"?
+The only way I can think of is to tie the non - firmness to a specific
+Generation unit or group of units. This will allow the purchase of david' s
+Outage product to cover the non - firmness risk. Tying the definition of
+Non - firmness to a whole region seems implausible - - - what does it mean to
+Give a marketer the option to not deliver power if there is any problem
+Anywhere in the region? Consequently, the non - firm curve takes on a
+Unit - level interpretation, and not a region - level interpretation.
+Consequently, I do not see how we can talk about the" non - firm curve for the
+Region"? We will need to build a non - firm curve for each generation unit or
+Group of units.
+Maybe I could get your thoughts later today.
+Thanks,
+Vasant

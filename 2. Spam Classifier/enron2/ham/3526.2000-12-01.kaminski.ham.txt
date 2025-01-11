@@ -1,0 +1,20 @@
+Subject: wtI maket maker simulation model
+John,
+We finished the version 2 of the simulation model which deals with the
+Open - close trading versus the continuous trading in the previous version.
+I added the cummulative p/l as an output. There are a few apparent trading
+Strategies from this model:
+1) higher bid/offer spread, more profit
+2) more daily #of trades, more profit
+3) smaller net open positions allowed, more profit
+1) and 2) are obvious, but 3) is more interesting. It means that we are
+Better off
+If we do not allowed net open positions at end of the day. In a trending
+Market,
+This makes an intuitive sense, for example, in the case of bull market we are
+Short as a market maker and we can avoid the loss at the higher openning price
+By keeping zero or small net short positions.
+I have attached the model with this mail, and i' ll be happy to discuss the
+Model
+In more details with you.
+Zimin

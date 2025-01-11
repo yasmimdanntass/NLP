@@ -1,0 +1,35 @@
+Subject: gpcm modeler news: august 31, 2000
+New gpcm pipeline schematics available on the web
+You can now view gpcm pipeline schematics on the web by going to the gpcm
+Website, clicking" gpcm pipelines" and then clicking the code for the
+Pipeline you want. You can also go to that pipeline' s website by clicking
+It' s url. Finally, by" right - clicking" the code you can copy the pipeline
+Schematic (a powerpoint file) down to your local computer and use it there.
+Once you copy it down, if you put it into your gpcm 8\maps sub - folder, you
+Can view it directly from your user interface in the data/pipelines form
+(click the has map box on). If you are a gpcm licensee and would like a
+Zip file of the current set of maps, you can pick it up from the customer
+Support area of the gpcm website (http:// gpcm. Rbac. Com).
+From http:// www. Enerfax. Com:
+Natural gas markets in mexico
+Natural gas demand in mexico in the coming years could grow by up to 8%
+Annually. Such demand could lead to natural gas imports approaching 2 bcf
+Per day, according to government forecasts. In response, pemex proposes two
+Actions: the first consists of measures to increase cross - border pipeline
+Infrastructure and capacity such as a new pipeline being built by coral
+Energy into pemex' s supply hub at reynosa. The possibility of a new
+Pipeline to monterrey is still an option. A second measure is to implement
+A gas - centric exploration and production program focused on five areas, two
+Of which are dry natural gas basins, burgos and macuspana. This second
+Measure is intended to reduce projected imports by up to 80%. At present,
+Pemex' s 10 - year strategic plan does not contemplate a role for private
+Production companies in capacities other than that of technical assistance.
+Storage report
+Week prev
+Ending prev prev year
+| region | 8/25/00 | week | diff |% full | year |% full
+| prod | 529 | 517 | 12 | 55% | 749 | 78%
+| east | 1254 | 1209 | 45 | 68% | 1382 | 75%
+| west | 361 | 366 | - 5 | 71% | 390 | 77%
+| | | | | | |
+| total | 2144 | 2092 | 52 | 65% | 2521 | 76%

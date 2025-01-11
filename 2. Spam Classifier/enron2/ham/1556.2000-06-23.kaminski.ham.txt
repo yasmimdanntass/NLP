@@ -1,0 +1,12 @@
+Subject: re: testiing component var
+Naveen,
+As we discussed yesterday, I would like to see the results of components var
+Testing.
+I got some from sunil today for agg - gas.
+In addition if you can send me component var results for ng - price for some
+Date,
+As well as ng positions, forward price curve, forward volatility curve for
+Ng - price - prc for that
+Same date, I can verify the numbers.
+Thank you,
+Tanya.

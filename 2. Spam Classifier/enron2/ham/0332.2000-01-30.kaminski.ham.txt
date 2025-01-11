@@ -1,0 +1,129 @@
+Subject: fwd: mark - to - market
+Return - path:
+Received: from rly - ygol. Mx. Aol. Com (rly - ygol. Mail. Aol. Com [172. 18. 147. 1]) by
+Air - ygo 5. Mail. Aol. Com (v 67 _ bl. 21) with esmtp; fri, 28 jan 2000 18: 00: 52 - 0500
+Received: from mailman. Enron. Com (mailman. Enron. Com [192. 152. 140. 66]) by
+Rly - ygol. Mx. Aol. Com (v 67 _ bl. 21) with esmtp; fri, 28 jan 2000 18: 00: 36 - 0500
+Received: from dservl. Ect. Enron. Com (dservl. Ect. Enron. Com [172. 16. 1. 37]) by
+Mailman. Enron. Com (8. 8. 8/8. 8. 8/corp - 1. 03) with esmtp id xaal 9726 for
+; fri, 28 jan 2000 23: 00: 07 gmt
+Received: from notes. Ect. Enron. Com (notes. Ect. Enron. Com [172. 16. 4. 33]) by
+Dservl. Ect. Enron. Com (8. 8. 8/8. 8. 8) with smtp id raa 24406 for
+; fri, 28 jan 2000 17: 00: 32 - 0600 (cst)
+Received: by notes. Ect. Enron. Com (lotus smtp mta v 4. 6. 5 (863. 2 5 - 20 - 1999))
+Id 86256874. 007 e 6242; fri, 28 jan 2000 17: 00: 26 - 0600
+X - lotus - fromdomain: ect
+From:" vince j kaminski"
+To: vkaminski@ aol. Com
+Message - id:
+Date: fri, 28 jan 2000 17: 00: 29 - 0600
+Subject: re: mark - to - market
+Mime - version: 1. 0
+Content - type: text/plain; charset = us - ascii
+Content - disposition: inline
+Content - transfer - encoding: 7 bit
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski/hou/ect on 01/28/2000
+05: 00
+Pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+From: wade cline@ enron _ development on 01/28/2000 07: 17 am ze 5 b
+To: pinnamanenI krishnarao/hou/ect@ ect
+Cc: sandeep kohli/enron _ development@ enron _ development, vince j
+Kaminski/hou/ect@ ect
+Subject: re: mark - to - market (document link: vince j kaminski)
+Sandeep,
+Can dpc sell to mseb and have eipl buy an equivalent amount of power from mseb
+At another spot on their grid, and then eipl sell to the 3 rd party state?
+PinnamanenI krishnarao@ ect
+01/27/2000 04: 00 pm
+To: sandeep kohli/enron _ development@ enron _ development
+Cc: vince j kaminski/hou/ect@ ect, wade
+Subject: re: mark - to - market (document link: wade cline)
+Sandeep:
+I met with bob today and discussed the deal structure we put together. On
+The mark - to - market issue, bob and his colleague wess told me that as long as
+Payments are tied to one particular plant, we cannot m - t - m them. They had same
+Problem with plants here in the us (like the peaking plants) and they had to
+Separate the plant from power sales to be able to m - t - m the assocated
+Cashflows.
+What they did is: they sold power from the plant to an outside party and
+Bought
+It back from them at completely different (multiple) locations. The buyback is
+Not tied to any specific plant and is marked to maket. Even if enron can
+Somehow
+Mark - to - market a deal with dpc, it can do so for only 50% of the cashflows
+Because only 50% of dpc is owned by outsiders. And a simple loan to an
+Affiliate cannot also be marked to market.
+Bob was suggesting that if eipl buys options from dpc and from some other
+Plants and in turn sells power to ap or karnataka then we could have a case
+For
+M - t - m. Politically dpc selling power to eipl may not be the best solution, to
+Put it rather mildly!
+Our alternatives, as I see them, are
+1. Do the deal as we structured it. The only difference is that enron doesn' t
+Mark it to market and income is earned only in 2002 - 03.
+2. Do the deal as we structured it. Eipl/enron then sells the contract to
+Another party at a profit. The problem, of course, is finding this party and
+Forking part of the profit to them.
+3. Same deal, except revenue securitization is done through an outside party
+In
+India (not eipl).
+Bob said he will think about the issues some more this week. Let me know when
+You will be here next week so we can meet with bob together. I will be going
+To
+Boston for tuesday and/or wednesday (feb. 1 - 2). I can book an appt. With bob
+For
+Us.
+Sandeep kohli@ enron _ development
+01/23/2000 09: 45 pm
+To: robert butts, pinnamanenI krishnarao@ ect
+Cc: vince kaminski, wade cline/enron _ development@ enron _ development, ananda
+Mukerji, jaiprakash desai/enron _ development@ enron _ development
+Subject: mark - to - market
+Bob,
+I wanted to continue the analysis on mark - to - market that I had spoken to you
+About on the phone.
+I thought that it was getting very difficult explaining the whole transaction
+By
+Phone, so I am having krishnarao who is in vince' s group explain the
+Transaction
+To you.
+Krishna has been helping us structure the deal here in india, and he has just
+Returned to houston from india after working with the team here.
+He will seek an appointment with you to explain the transaction. I would like
+You to please spend some time with him, and then based on the discussion
+Please
+Send us a note detailing how sucha a transaction would be marked to market.
+Please cosider the fact that currently there are no such transactions from the
+Indian side. This is a very important transaction for us, and we may need to
+Repeat this in coming months, hence setting up the system to account for these
+Maybe well worth it. Also, what I am concerned about is that there will be an
+Enron india (eipl) account in india based on indian gaap, and upon
+Consolidation
+There will be a us gaap accounting in the us. It is here that we would like
+To
+Have mark - to - market accounting. Eipl is structured through mauritius, and
+Then
+Caymen islands.
+Another key question to consider is that when we m - t - m the transaction in the
+Us
+There will be a tax accruing in the year of m - t - m (say 2000). However, in
+India, as a result of the accrual accounting, there will not be any income
+Showing till the year 2002 or 2003. We will need to know how that would get
+Treated, and whether there is a way to get credit for the tax payable in the
+Us.
+I am also confused about whether us tax would be levied, since none of the
+Income is being brought back into the us (remains overseas - subpart - f and
+Other
+Concerns).
+Finally, we have been working hard in structuring a fixed price contract and
+Getting a fixed for floating swap in the us (this is still not allowed to
+Indian
+Corporates). I need you to think about this too, and see if some type of
+Accounting will solve this issue. Krishna knows what I am talking about, and
+Will brief you on the same.
+Krishna - please walk bob through the three structures we had worked here.
+Look forward to your help and comments. This is going to be an exciting
+Project
+For us all.
+Regards,
+Sandeep.

@@ -1,0 +1,15 @@
+Subject: derivative classes
+I discovered that clewlow and strickland have at least two books,
+" implementing derivative models," and" exotic options." I gather that" exotic
+Options" is the one you intend to use in your class, correct?
+By the way, I queried participants in my class, and I heard that the case
+Study approach we occaisionally used was appreciated by several. The var
+Class I taught was from jorian' s book, which has no exercises and which
+Assumes a particular background in finance and statistics. I created a
+Problem (not exactly a case study) that required participant to learn some
+Statistics and try some different approaches. From this, participants got a
+Better idea of why one bothers with certain issues. Some liked the" real
+World" flavor of this kind of approach. (without the case approach, you could
+Provide good counterexampes as a partial remedy.)
+Best regards and season' s greetings,
+Michael

@@ -1,0 +1,104 @@
+Subject: fea announces the release of@ energy 2. 1.
+05/14/2001
+Enron north america corp.
+Vince kaminski
+1400 smith street
+30 th floor, rm. 3036 b
+Houston, tx 77251 - 1188
+1 713 - 853 - 3848
+Dear vince kaminski,
+This is to inform you of the release of@ energy 2. 1. Ftp download
+Instructions are available immediately. The download instructions are
+Included at the end of this email. Please see below for more information
+Regarding this new release..
+Fea is pleased to enclose your new version of@ energy/erglib. The
+Accompanying documentation contains installation and other information.
+Here is an overview of the new and changed features since version 2. 0.
+@ energy (forward curve) no change.
+@ energy (basics) a control variate methodology hull (1997) has been
+Implemented for valuation of american options (opt), black and
+Mean - reverting models. It greatly improves accuracy at minimal cost in
+Speed. All models now supports new scalar risk measures corresponding to
+Parallel displacement delta, hedge, and gamma. Average price/strike options
+Now support an alternative way of computing theta. The definition of gamma
+Curves has been modified for all models.
+@ energy (advanced) a faster and more accurate methodology is used to value
+Spread options. Models affected are spreadopt, stripspreadopt, optspreadopt,
+Optstripspreadopt. The new methodology dramatically improves speed. All
+Models now supports new scalar risk measures corresponding to parallel
+Displacement delta, hedge, and gamma. Average price/strike options now
+Support an alternative way of computing theta. The definition of gamma
+Curves has been modified for all models.
+@ energy (swing) the definition of gamma curves has been modified for all
+Models.
+@ energy (weather) no change.
+See the file fea\energy\ergnote. Txt in your distribution for a list of bug
+Fixes.
+Here is an overview of the new and changed features since version 1. 6.
+@ energy (forward curve)
+Jump parameters are now calibrated for use in other@ energy functions.
+Inputs and outputs to powercalib and comcalib have changed. See the
+Corresponding function syntax in the user guide for additional information.
+35 - 40% speed improvement. The module is now out of beta.
+@ energy (basics)
+Different interpolation schemes on forward prices are now supported. If you
+Use indexswap, exoticswap, or optindexswap with floating price linked to a
+Series of futures dates, such futures dates need not be close to dates
+Specified in the forward curve input. A new utility function, pathutil,
+Allows you to simulate and visualize price paths consistent with the models
+Supported by@ energy. 25 - 30% speed improvement.
+@ energy (advanced)
+Different interpolation schemes on forward prices are now supported. If you
+Use optdiffswap or diffswap with floating price linked to a series of
+Futures dates, such futures dates need not be close to dates specified in
+The forward curve input. Calspreadopt now allows for the specification of
+Two different mean reversion rates. 30 - 35% speed improvement.
+@ energy (swing)
+Swingopt and stripswingopt now allow for valuation of swing straddle
+Contracts with overall load constraints. 65 - 70% speed improvement. The
+Module is now out of beta.
+@ energy (weather)
+30 - 35% speed improvement.
+See the file fea\energy\ergnote. Txt in your distribution for a list of bug
+Fixes.
+If you are a user of the erglib library, please be aware of possible
+Backward compatibility issues in calls to eapo, easo, espreadapo,
+Espreadaso, and ecrackapo. See fea\energy\ergnote. Txt for additional
+Details.
+Here is an overview of the new and changed features since version 1. 5.
+@ energy (basics)
+European options and strips of european options now support valuation via a
+Jump diffusion model (see opt and stripopt functions). Average price options
+(see the apo, spreadapo, crackapo functions), and average strike options
+(see the aso, spreadaso functions) now allow for a direct input of the
+Fixing dates.
+@ energy (advanced)
+Includes two new functions, optstripopt and optstripspreadopt for valuation
+Of complex compound options.
+If you are a user of the erglib library, please be aware of backward
+Compatibility issues in calls to eapo, easo, espreadapo, espreadaso, and
+Ecrackapo. See fea\energy\ergnote. Txt for additional details.
+Here is an overview of the new and changed features since version 1. 4.
+@ energy (forward curve)
+@ energy (forward curve) is the new module which includes functions designed
+To generate forward curves, volatility curves and mean reversion rates used
+In many other@ energy functions. Module in beta release.
+@ energy (basics)
+Apo' s and aso' s: bug fixed when avg _ starts prompt.
+Type" quit".
+The file will be downloaded into the directory at which you entered the ftp
+Site.
+Double click on the exe and follow the instructions on the screen.
+There is also a readme file which contains installation instructions.
+You may wish to print this out for easy reference.
+N. B.: the password is only valid until the first friday of next month.
+If you have any questions please feel free to contact us. We appreciate this
+Opportunity to be of continuing service to enron north america corp..
+Regards,
+Erin hopkins
+Administrative assistant
+Financial engineering associtates, inc.
+Tel: + 1. 510. 548. 6200
+Mailto: info@ fea. Com
+Or
+Mailto: support@ fea. Com

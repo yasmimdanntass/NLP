@@ -1,0 +1,12 @@
+Subject: long - term volatility curves
+Grant,
+Can research in houston put together a comparison of the long - term volatility
+Curves for gas and power in north america and europe? Based on where europe
+Is marked (especially for the uk), I think we' ll find a significant
+Difference out beyond 10 years. Fundamentally, it seems like the long - term
+Vol should be similar for a given commodity regardless of geographic location.
+Has research done any work on this in the past? If not, we should study this
+Since long - term vol feeds into the var - based position limits.
+Give me a call so we can discuss.
+Thanks
+Dale

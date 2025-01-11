@@ -1,0 +1,84 @@
+Subject: fwd: credit applicatiions in grms
+Return - path:
+Received: from rly - yho 3. Mx. Aol. Com (rly - yho 3. Mail. Aol. Com [172. 18. 147. 35])
+By air - yho 3. Mail. Aol. Com (v 67 _ bl. 21) with esmtp; fri, 28 jan 2000 17: 34: 19
+- 0500
+Received: from mailman. Enron. Com (mailman. Enron. Com [192. 152. 140. 66]) by
+Rly - yho 3. Mx. Aol. Com (v 67 _ bl. 21) with esmtp; fri, 28 jan 2000 17: 34: 06 - 0500
+Received: from dservl. Ect. Enron. Com (dservl. Ect. Enron. Com [172. 16. 1. 37]) by
+Mailman. Enron. Com (8. 8. 8/8. 8. 8/corp - 1. 03) with esmtp id waal 2938 for
+; fri, 28 jan 2000 22: 33: 40 gmt
+Received: from notes. Ect. Enron. Com (notes. Ect. Enron. Com [172. 16. 4. 33]) by
+Dservl. Ect. Enron. Com (8. 8. 8/8. 8. 8) with smtp id qaa 21960 for
+; fri, 28 jan 2000 16: 34: 05 - 0600 (cst)
+Received: by notes. Ect. Enron. Com (lotus smtp mta v 4. 6. 5 (863. 2 5 - 20 - 1999))
+Id 86256874. 007 bf 6 c 3; fri, 28 jan 2000 16: 34: 00 - 0600
+X - lotus - fromdomain: ect
+From:" vince j kaminski"
+To: vkaminski@ aol. Com
+Message - id:
+Date: fri, 28 jan 2000 16: 33: 56 - 0600
+Subject: credit applicatiions in grms
+Mime - version: 1. 0
+Content - type: text/plain; charset = us - ascii
+Content - disposition: inline
+Content - transfer - encoding: 7 bit
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski/hou/ect on 01/28/2000
+04: 33
+Pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Bjorn hagelmann
+01/28/2000 09: 25 am
+To: william s bradford/hou/ect@ ect, jonathan le/hou/ect@ ect, gary
+Hickerson/hou/ect@ ect, philippe a bibi/hou/ect@ ect, vince j
+Kaminski/hou/ect@ ect
+Cc: rick buy/hou/ect@ ect, mike mcconnell/hou/ect@ ect
+Subject: credit applicatiions in grms
+This note is from ted murphy (not bjorn hagelman)
+My understanding is that yet another meeting has been scheduled with the
+Intent
+Of diverting resources from the grms project to some other project.
+While I am not privy to the urgency of this other project, I do know that we
+Have a very large, multI - phase project going in grms.
+Grms stands for the global risk monitoring system. It is not intended to be a
+Commercial trading product not is its primary purpose for commercial
+Decision - making. Conceptually, it is a risk warehouse for the primary purpose
+Of rac due to the deficiency of current front office trading systems and their
+Inability to provide timely, aggregated information useful to rac.
+Rac has spent over a year developing a business plan scope and detailed task
+List to accomplish its objectives. As a firm we are woefully behind our press
+Clippings in our ability to aggregate and understand our risk profile. My
+Most
+Recent sojorn in europe is a classic example of the current systems inabilty
+To
+Aggregate and meet the needs of rac having abetted poor decision making and
+Causing cash losses in well in excess of the grms budget or that of the market
+Risk group in rac.
+The grms project is a requirement that bill bradford and I have in order to do
+Our jobs. We have delegated authority to debbie brackett and rudI zipter to
+Make decisions regarding priorities and as such meet regularly with jonathon
+And
+His team as well as rick buy to provide updates. While progress is never as
+Fast as we would like it, in every instance in which we have only to rely on
+Rac, jonathon' s team and research to make a deadline it haas been hit. The
+Primary reason for any delays whatsoever has been the diversion of resources
+Off
+The project or the reliance for cooperation from some other source - most
+Recently the it staff in london was a tremendous impediment to deadlines.
+Please excuse the frustration that is apparently coming through in this note,
+But I feel like the boy with his finger in the dyke and no one is listening.
+Also, I have had several employees come to resignation over their frustration
+On
+The lack of management support for this project, usually manifesting itself in
+The lack of resources or the diversion of resources devoted to it.
+I think we have proven collectively that we can organize a modular multiphase
+Project and provide tangible deliverables when not distracted. Please let us
+Do
+Our jobs. I do not denigrate the efforts of others, but I believe that they
+Must either submit their detailed requirements to us for our consideration of
+Their worthiness to put in our que or develop their own project with their own
+Resources.
+Thank you for your consideration of this opinion. As it relates to things
+That
+Will effect the ability of market risk to do its job, please consult me as i
+Would you.
+Ted

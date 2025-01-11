@@ -1,0 +1,15 @@
+Subject: invoice for ordered papers
+You have ordered the following papers:
+- wp w 7613
+Foundations of technical analysis: computational algorithms, statistical
+Inference, and empirical implementation
+- wp w 6250
+Pricing and hedging derivative securities in incomplete markets: an
+E - aritrage model
+The total cost (excluding shipping) is:
+$us 10
+Shipping address:
+If you ordered papers for electronic delivery and experienced problems
+Downloading them, browse the following url (s) to download your paper
+Orders. The url (s) are valid for 7 days.
+If you receive duplicate bills, please send a note to.

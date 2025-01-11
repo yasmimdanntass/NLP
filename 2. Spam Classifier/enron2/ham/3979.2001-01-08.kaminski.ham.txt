@@ -1,0 +1,10 @@
+Subject: request submitted: access request for anita. Dupont@ enron. Com
+You have received this email because you are listed as an alternate data
+Approver. Please click
+Approval to review and act upon this request.
+Request id: 000000000012734
+Approver: stinson. Gibner@ enron. Com
+Request create date: 1/8/01 4: 24: 06 pm
+Requested for: anita. Dupont@ enron. Com
+Resource name:\\ enehou\houston\common\research - [read/write]
+Resource type: directory

@@ -1,0 +1,15 @@
+Subject: enron metals
+HI tanya
+Thanks for your time last week - i' ve been travelling a bit but i' m now back
+In london at mg to commence obtaining information for you.
+I' m not really sure where to start on this, so initially I propose to get:
+A complete data set (i. E. All live trades from all entities) which includes
+Prices and volatilities
+A separate file of options
+Any written valuation methodologies used by the core systems
+There is a project to obtain a data feed from an mg system called mercur.
+This is their risk management system but we are proposing to use it along the
+Lines of a data warehouse, not a risk system. I' d be happy to talk you
+Through any other current issues.
+Let me know if there' s anything else you need at present.
+Regards

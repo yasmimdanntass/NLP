@@ -1,0 +1,45 @@
+Subject: software license
+Ms. Geman,
+I am just following up to see if you had received my previous message
+Forwarded below and whether you have a response so that we can move forward
+With this contract?
+Thank you,
+Karla feldman
+- - - - - forwarded by karla feldman/hou/ect on 08/08/2000 09: 23 am - - - - -
+Karla feldman
+07/28/2000 01: 41 pm
+To: geman@ dauphine. Fr
+Cc:
+Subject: software license
+Dear ms. Geman,
+I met with vince kaminskI yesterday regarding picking back up with the
+License agreement we were working on back in march. He relayed some
+Additional requirements which need to be added to the agreement, which
+Include the following:
+1. The price agreed upon is $90, 000.
+2. D - g will provide system support.
+3. No later than 12 months of execution of the agreement, d - g will provide
+The source code to enron. In the meantime, the source code is to be in
+Escrow. Additionally, the source code would be released sooner than the 12
+Months if any of the following conditions occur: (i) d - g goes out of
+Business; (ii) d - g is unable to provide effective technical support; or (iii)
+If d - g agrees to release it sooner.
+Before I have our attorney add these things to the agreement, we need to
+Discuss the escrow situation. Vince mentioned that you had suggested that
+Your attorney keep the software in escrow. Is your attorney a u. S.
+Attorney? It seems like I may have recalled that way back in march you might
+Have said you had a friend or relative that was an attorney. Is that the
+Same person? Does this attorney work for a large firm, small firm, or solo
+Practitioner? Basically, if you could just provides some additional
+Information about your attorney, I would appreciate it.
+We normally would use an escrow company to put the software in escrow. We
+Have dealt with a company here in the u. S. Called dsI technology. I will
+Check into that pending your answer regarding your attorney.
+Once we decide what we want to do regarding placing the software in escrow,
+We will red - line the agreement to reflect such changes and e - mail it back to
+You for your review.
+I look forward to hearing from you.
+Karla feldman
+Enron corp.
+Contract administration
+(713) 646 - 7554

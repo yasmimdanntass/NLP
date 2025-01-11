@@ -1,0 +1,38 @@
+Subject: reminder: all - employee meeting
+This is a reminder to join ken lay, jeff skilling and joe sutton for an
+All - employee meeting hosted in the london office on monday, feb. 28, 2000.
+The meeting will begin at 4 p. M. London time (10 a. M. Houston time). Ken,
+Jeff and joe will discuss enron' s year - end financial and operating results
+And the company' s outlook for 2000 and beyond.
+Using enron broadband services' video streaming capabilities, the meeting
+Will be streamed live to the desktop for employees in houston, omaha,
+Portland, calgary, new york, stockholm, amsterdam and frankfurt. To view the
+Meeting, you must have ip - tv and a sound card installed on your computer. If
+You are not able to view the meeting live using ip - tv, a videotape will be
+Available after the meeting. U. K. And european employees may contact mary
+Gopalan for a copy of the video. U. S. And other international employees may
+Contact mary clark by email to reserve a copy.
+If you plan to watch the meeting using ip - tv, you can test your ip - tv prior
+To the meeting using the instructions below. If you experience technical
+Difficulties, please contact your pc help desk.
+Following are instructions for launching ip - tv by company lan and/or location:
+EI employees in three allen center -
+Start menu.... Programs... General information... Iptv icon
+Ees and omaha employees -
+Start menu.... Programs... Cisco iptv viewer... Iptv icon
+Ena houston, corp houston, new york, calgary and portland (does not include
+Ebs and pge in portland)
+Start menu... Programs.... Iptv viewer icon
+London -
+Menu option: start... Programs... Utilities... Iptv viewer /
+Frankfurt/stockholm/amsterdam -
+Start menu... Programs... Cisco iptv viewer... Cisco iptv viewer
+For the first time, the question and answer session will be open to all
+Employees worldwide using espeak. You can submit your questions in advance
+On the espeak web site at ethink. Enron. Com or during the meeting from 4 to 6
+P. M. London time (10 a. M. To noon houston time). Ken, jeff and joe will
+Attempt to answer as many questions as possible in the time available. All
+Espeak questions and those submitted by london employees during the meeting
+Will be included in an espeak transcript following the meeting.
+Mark your calendar for this global employee communications event. See you
+There.

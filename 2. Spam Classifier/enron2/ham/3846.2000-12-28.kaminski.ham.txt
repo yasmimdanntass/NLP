@@ -1,0 +1,7 @@
+Subject: wtI - new eol product
+Ted,
+Enclosed is a corrected version of the historical simulation of wti
+Trading. The earlier results were double counting the spread profit on
+Trades closed intra - day. The spread was counted on each trade rather than
+Per round - trip transaction, so the new results show lower profitability.
+- - stinson

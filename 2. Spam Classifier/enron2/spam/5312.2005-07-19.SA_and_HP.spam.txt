@@ -1,0 +1,42 @@
+Subject: failure notice
+Hi. This is the qmail - send program at mail - 03. Cdsnet. Net.
+I' m afraid I wasn' t able to deliver your message to the following addresses.
+This is a permanent error; i' ve given up. Sorry it didn' t work out.
+:
+Sorry, I couldn' t find any host named bb. Internetcds. Com. (#5. 1. 2)
+- - - below this line is a copy of the message.
+Return - path:
+Received: (qmail 50355 invoked by alias); 19 jul 2005 10: 58: 51 - 0000
+Delivered - to: nic - notify@ internetcds. Com
+Received: (qmail 50352 invoked from network); 19 jul 2005 10: 58: 51 - 0000
+Received: from unknown (helo localhost) (127. 0. 0. 1)
+By mail - 03. Cdsnet. Net with smtp; 19 jul 2005 10: 58: 51 - 0000
+Received: from mail - 03. Cdsnet. Net ([127. 0. 0. 1])
+By localhost (mail - 03. Cdsnet. Net [127. 0. 0. 1]) (amavisd - new, port 10024)
+With smtp id 46679 - 09 for;
+Tue, 19 jul 2005 03: 58: 51 - 0700 (pdt)
+Received: (qmail 50346 invoked from network); 19 jul 2005 10: 58: 50 - 0000
+Received: from yahoobb 220056020109. Bbtec. Net (helo mailwisconsin. Com) (220. 56. 20. 109)
+By mail - 03. Cdsnet. Net with smtp; 19 jul 2005 10: 58: 50 - 0000
+Received: from 205. 214. 42. 66
+(squirrelmail authenticated user projecthoneypot@ projecthoneypot. Org);
+By mailwisconsin. Com with http id j 87 gzo 09360462;
+Tue, 19 jul 2005 10: 57: 46 + 0000
+Message - id:
+Date: tue, 19 jul 2005 10: 57: 46 + 0000
+Subject: just to her...
+From:" barry castillo"
+To: nic - notify@ internetcds. Com
+User - agent: squirrelmail/1. 4. 3 a
+X - mailer: squirrelmail/1. 4. 3 a
+Mime - version: 1. 0
+Content - type: text/html; charset = iso - 8859 - 1
+Content - transfer - encoding: 8 bit
+X - priority: 3 (normal)
+Importance: normal
+X - virus - scanned: by amavisd - new at internetcds. Com
+Soft viagra at $1. 62 per dose
+Ready to boost your sex life? Positive?
+Time to do it right now!
+Order soft viagra at incredibly low prices
+Starting at $1. 99 per dose! Unbelivabie!

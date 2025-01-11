@@ -1,0 +1,23 @@
+Subject: re: livelink
+Moyez,
+We are very anxious to get set up and start using livelink for tracking and
+Documenting our projects, so thanks for the reminder. I have put together
+An initial list of attributes for our research projects. The list in in the
+Attached spreadsheet. It would be great if you can set up these attributes
+For us in the test environment. This would allow us to make any obvious
+Changes before moving to production. Let me know what your schedule would
+Be in rolling this out.
+My brief comments in the spreadsheet may not be clear, so feel free to give
+Me a call at x 34748 to clarify anything.
+Again, thanks for your help.
+Stinson
+Enron technology
+From: moyez lallani@ enron 01/31/2001 07: 15 am
+To: vasant shanbhogue/hou/ect@ ect, stinson gibner/hou/ect@ ect
+Cc: n jessie wang/enron _ development@ enron _ development
+Subject: livelink
+Vasant/stinson
+Just following up to check on your progress/evaluation of livelink as your
+Document repositiry. Please let me know if I can be of further assistance.
+Moyez lallani
+X 5 - 3683

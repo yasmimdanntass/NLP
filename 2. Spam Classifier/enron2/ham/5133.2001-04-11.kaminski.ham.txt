@@ -1,0 +1,31 @@
+Subject: credit risk model comments - at this point.
+Comments from rick jones on the credit reserve model. Anita dupont is setting
+Up a meet with rick jones to discuss these. Vince & bill - if you want to
+Join the meeting, please let me or anita know.
+Regards,
+Krishna.
+- - - - - - - - - - - - - - - - - - - - - - forwarded by pinnamanenI krishnarao/hou/ect on
+04/11/2001 09: 04 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Richard b jones@ ees
+04/10/2001 04: 16 pm
+To: pinnamanenI krishnarao/hou/ect@ ect
+Cc:
+Subject: credit risk model comments - at this point.
+- - - - - - - - - - - - - - - - - - - - - - forwarded by richard b jones/hou/ees on 04/10/2001
+04: 16 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Richard b jones
+03/23/2001 05: 53 pm
+To: cheryl lipshutz/hou/ees@ ees, trushar patel/corp/enron@ enron,
+Michelle. Wenz@ enron. Com, gayle muench/enron@ enronxgate, jeremy
+Blachman/hou/ees@ ees
+Cc:
+Subject: credit risk model comments - at this point.
+HI everyone,
+I have run the model and, along with the contract briefs I have some
+Questions the number of trials, numerical roundoff, and random number
+Generator randomness statistical properties. The first two are not a problem
+In this application but the last one could be. Has anyone examined the effect
+Of using different random number generators on enron , s aggregate credit risk?
+7) there is one last point here. For most of the above points, the" improved"
+Analysis could make the credit risk be higher.
+Rick

@@ -1,0 +1,17 @@
+Subject: var methodology change
+Gentlemen,
+Below is a plan of action for moving along with the var methodology change
+Related to forward - forward volatility:
+1. Finalize the methodology proposed (research/market risk)
+- determine the time period used to calculated forward - forward vols vs.
+Correlations (20 days vs. 60 days)
+- stabilize the calculation for curves and time periods where the curve does
+Not change based on historical prices, implying volatility of 0%
+2. Get approval for the methodology change from rick buy (see draft of the
+Memo attached) - john lavorato and john sherriff
+3. Develop and implement the new methodology in a stage environment
+(research/it)
+4. Test the new methodology (market risk, traders)
+5. Migrate into production (research/it)
+Please let me know if this is reasonable and meets everyone' s expectations.
+Vlady.

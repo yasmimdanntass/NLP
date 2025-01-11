@@ -1,0 +1,49 @@
+Subject: re: generation earnings model
+Michelle,
+I agree with you that we need to run at least 500 iterations. But I did not
+Realize that it took 16 hours to run 100 iterations. Helen and I talked
+Earlier about
+Using parallel computing technique to split the algorithm into smaller parts
+And
+Run the parts separately on different processors, then aggregate the results.
+This procedure makes better use of computer power and saves time. Looks like
+We have to do it this way now. Buying a more powerful computer helps but
+Does not solve the problem.
+In addition, we might want to re - consider if writing the code in vb is
+Optimal.
+I was assured at the very beginning that vb runs as fast (if not faster) as c,
+But some re - assurance from it group on this issue is helpful.
+Best,
+Alex
+From: michelle d cisneros@ ect 04/09/2001 02: 52 pm
+To: alex huang/corp/enron@ enron
+Cc: gary hickerson, danielle romain
+Subject: generation earnings model
+HI alex -
+Danielle and I were talking to david m. Today regarding running the model for
+Purposes of back testing the results. Last week we ran calpine using 46 days
+Of historical forward price data at 10 and 100 iterations. The 100 iteration
+Run took 16 hours to run. To run all 20 companies with the 46 days worth of
+Data and at 100 iterations is estimated to take about 28 days. We are
+Concerned that 100 iterations will not be sufficient and will need to be
+Increased to at least 500 iterations.
+We are thinking that we need to use a server or something much more powerful
+Than the test computer we have been using. Do you have any suggestions as to
+How we can improve the process?
+Thanks,
+Michelle
+X 35435
+HI alex -
+Danielle and I were talking to david m. Today regarding running the model for
+Purposes of back testing the results. Last week we ran calpine using 46 days
+Of historical forward price data at 10 and 100 iterations. The 100 iteration
+Run took 16 hours to run. To run all 20 companies with the 46 days worth of
+Data and at 100 iterations is estimated to take about 28 days. We are
+Concerned that 100 iterations will not be sufficient and will need to be
+Increased to at least 500 iterations.
+We are thinking that we need to use a server or something much more powerful
+Than the test computer we have been using. Do you have any suggestions as to
+How we can improve the process?
+Thanks,
+Michelle
+X 35435

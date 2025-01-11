@@ -1,0 +1,33 @@
+Subject: re: factor loadings for primary curves
+Tanya,
+I went through the comparisons for the liquids curves and the
+Appearance of clear parallel shifts, etc, do begin to emerge when fewer
+Forward prices are used. It looks sensible. I have passed the graphs over
+To the liquids people, and I have asked them to identify rough term structure
+Months when illiquidity begins for these curves. It might coincide with your
+Assumptions. I am surprised by brent and dubai, which should be wtI - clones.
+Naveen
+Tanya tamarchenko@ ect
+10/04/2000 04: 35 pm
+To: naveen andrews/corp/enron@ enron, vladimir gorny/hou/ect@ ect
+Cc: vince j kaminski/hou/ect@ ect, kirstee hewitt/lon/ect@ ect
+Subject: re: factor loadings for primary curves
+Naveen & vlady,
+Jin yu finished debugging the vatrfacs code and now it calculates factor
+Loadings for every" primary" curve (except power curves).
+I am sending you the calculated factors:
+Most of them don' t look good. 60 forward prices were used in calculations for
+Each commodity.
+I reran the code using fewer forward prices depending on the commodity
+(12 prices for c 3 gc, mtbe, nc 4, so 2,
+17 prices for nxho, 18 - for sa,
+24 for c 2 gc, lax _ jfk,,
+30 - for condensate, dubaicrude, brent,,
+48 for nsw, semichem - risi)
+These results are in
+Most of them look much better.
+Please, review.
+We will have to add a column in rms _ main _ curve _ list to specify how many
+Forward prices we want to use for each commodity,
+And then use the new factors in the var model.
+Tanya.

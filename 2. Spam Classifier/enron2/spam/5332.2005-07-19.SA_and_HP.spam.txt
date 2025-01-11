@@ -1,0 +1,4 @@
+Subject: delivery status notification (failure)
+This is an automatically generated delivery status notification.
+Delivery to the following recipients failed.
+Roger@ gryphon. Com. Au

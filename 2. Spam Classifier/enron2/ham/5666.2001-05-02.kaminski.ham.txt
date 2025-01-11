@@ -1,0 +1,5 @@
+Subject: vol skew no - arbitrage constraints
+The attached note lists conditions that can be used to verify that a given vol skew curve does not generate arbitrage opportunities in a strip of option prices.
+If you have questions or want to discuss implementation, please give me a call.
+Bob lee
+X 35163

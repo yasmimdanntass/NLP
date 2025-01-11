@@ -1,0 +1,30 @@
+Subject: re: cplex floating license
+Samer' s suggestion makes a lot of sense. We can start with something like one
+Floating dev. License + 2 opl licenses and buy more later based on actual
+Usage. On the pricing agreement, it probably makes sense to get a guarantee
+On the discounts for additional licenses for one year (or till dec.). I am
+Definitely interested and can provide the share of funding necessary from my
+Clients.
+Thanks,
+Krishna.
+From: samer takriti@ enron communications on 05/19/2000 11: 14 am
+To: ravI thuraisingham/enron communications@ enron communications
+Cc: chonawee supatgiat/corp/enron@ enron, pinnamaneni
+Krishnarao/hou/ect@ ect@ enron, samer _ takriti@ enron. Net, stinson
+Gibner/hou/ect@ ect@ enron, tom halliburton/corp/enron@ enron, vince j
+Kaminski/hou/ect@ ect
+Subject: re: cplex floating license
+Chonawee and I just had a phone conversation with cplex. There are other
+Alternatives (products) that may help in saving time and cost. Chonawee and i
+Feel that one floating develoment license, and one or two opl (a package on
+Sale that provides modeling and optimization features) licenses will do. In
+Addition, we need floating deployment licenses. For the development licenses,
+The charges should be split" equally" between the different groups that may
+Ask for optimization help (although it is hard to predict who may ask for
+Future help). We are suggesting equally since these licenses are used to
+Develop the needed solution but are not (in general) used to run the
+Software. The deployment licenses can be charged on per - use basis for
+Different groups.
+Cplex is going to send us a new quote. We' ll make the decision soon after
+That.
+- samer

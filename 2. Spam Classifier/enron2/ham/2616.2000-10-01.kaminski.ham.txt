@@ -1,0 +1,32 @@
+Subject: fwd: abstract
+Return - path:
+From: vkaminski@ aol. Com
+Full - name: vkaminski
+Message - id:
+Date: sun, 1 oct 2000 07: 40: 46 edt
+Subject: abstract
+To: deng@ isye. Gatech. Edu
+Mime - version: 1. 0
+Content - type: multipart/mixed; boundary =" part 2 _ 15. 9 e 45 a 9 f. 27087 cbe _ boundary"
+X - mailer: aol 3. 0 16 - bit for windows sub 86
+Shijie,
+I am sending you the abstract for my informs presentation.
+Vince
+* * * * *
+The last three years were characterized by exceptionally high volatility of
+The power prices in the us markets. The market developments have created a
+Number of unique challenges for energy industry economists. One immediate
+Question we have to answer is how to measure volatility of energy prices.
+Although we can all agree that the prices in the power markets are
+Characterized by high variability, the traditional measures used in financial
+Economics (annualized standard deviation of log price returns) may not fit
+Well electricity prices. The second challenge is to explain the sources of
+High price volatility and to answer the question to what extent it can be
+Attributed to problems that can be addressed in the long run. Such problems
+Include flaws in market design that allow some market participants to abuse
+Market power, limited availability and/or unequal access to transmission,
+Temporary shortages of generation capacity. Some factors underlying high
+Volatility of electricity prices may be of permanent nature and may be a
+Necessary price to pay for increased market efficiency and expanded customer
+Choice.
+- informs. Doc

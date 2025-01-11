@@ -1,0 +1,34 @@
+Subject: power trading
+HI folks:
+Very glad to hear about the new developments. Just to recap what we
+Discussed this morning about different things you need to look into to set up
+Trading operations and the contacts:
+1. Licence to trade: regulatory people: I guess you know about this part
+Better than me.
+2. Trading & risk mgmt: global risk mgmt oversight: john sherrif in london
+Has the overall responsibility outside western hemisphere. Research group can
+Help with the structuring models used for trading.
+3. Risk conrols: before trading group is operational, it needs to get the
+Authorization from the board of directors of enron along with total position
+Limits and possibly value@ risk limits. These limits are typically by
+Commodity type and by region. Risk assessment & control (rac) under rick buy
+Performs the internal control function ensuring that the businesses adhere to
+These trading limits. Ted murphy is the vp in rac overseeing the trading
+Operations. The value@ risk models come from the research group, but
+Day - to - day monitoring of the numbers is done by ted' s group.
+4. Credit risk: a credit reserve number is computed for each deal (again, the
+Models are created by research) and is transferred to the credit group under
+Bill bradford (also in rac). This is basically like buying insurance from the
+Corp., so that if there is a couterparty default, the loss is covered by the
+Reserve pool of the credit dept.
+5. Legal: the name I was given is alan aronowitz for legal help.
+6. Back office: initially can survive with excel spreadsheets. You should
+Contact the it though when the plans finalize to talk about systems.
+Australia is the most recent place where we set up the trading operations.
+You can talk to paul quilky, the trader there to talk about these issues
+(mention to him that grant masson in research gave his name).
+Barry pierce in london was incharge of back office at the begin there.
+I can coordinate for talking with people next week. Give me a call monday if
+Possible. I hadn' t the time to search for the presentation stuff today. Will
+Do it next week.
+Krishna.

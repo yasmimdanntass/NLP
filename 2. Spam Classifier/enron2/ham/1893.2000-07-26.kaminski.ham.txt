@@ -1,0 +1,39 @@
+Subject: re:
+Vince,
+Sorry for getting back a little late. I have been in touch with kirstee to
+Figure out how to treat positions data which is the primary cause for
+Fluctuations. Apparently, as of 7/19, mg still has july position. This may be
+Spot or balance of the month, or some settlement issue. This indeed is what
+We are trying to find out/verify (it may be an error too). Kirstee is going
+To get back to me on this. If it is not an error, then anjam' s latest results
+($5. 5 million total var) are reasonable given all the assumptions and the
+Missing pieces. I will keep you posted.
+Cantekin
+Vince j kaminski
+07/26/2000 10: 12 am
+To: cantekin dincerler/hou/ect@ ect
+Cc: vince j kaminski/hou/ect@ ect, ted murphy/hou/ect@ ect
+Subject: re:
+Cantekin,
+Can you figure out the reason for cocoa beans var fluctuations?
+The same is true of aluminum. I assume this is the position change.
+Vince
+Cantekin dincerler
+07/26/2000 09: 28 am
+To: anjam ahmad/lon/ect@ ect, kirstee hewitt/lon/ect@ ect
+Cc: vince j kaminski/hou/ect@ ect
+Subject:
+Anjam and kirstee,
+As I have suspected the position as of 6/30 vs 7/19 makes the difference. The
+First table first column is my var number with 6/30 position and gold & silver
+Prices, the second column is your var with 7/19 position and dummy
+Gold & silver prices. The second table first column is my var with 7/19
+Position and 6/30 gold & silver prices, the second column is as before.
+I would ask you to plug the gold and silver prices and see what kind of
+Numbers you get in order to verify we are on the same page. Please refer to
+Modelvar 2000. Xls that I have sent you for gold & silver prices and
+Volatilities.
+Thank you,
+Cantekin
+Table 1
+Table 2

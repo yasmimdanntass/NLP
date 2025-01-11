@@ -1,0 +1,22 @@
+Subject: institutional investor journals profile update confirmation
+Thank you for updating your iI journals profile information. Changes to your user id, password and e - mail address have been made. Please allow 24 hours for any other changes you' ve made to take effect in our system. Here is the profile information we have for you:
+Account number: 12973228
+First name: vince
+Last name: kaminski
+Company name: enron corp
+Position: managing director
+Department:
+Address 1: 1400 smith st eb 1962
+Address 2:
+City: houston
+State: tx
+Zip code: 77002 - 7327
+Country: usa
+Phone: (713) 853 - 3848
+Extension:
+Fax: (713) 646 - 2503
+Foreign phone:
+Foreign fax:
+Email: vkamins@ enron. Com
+User id: vkaminski
+Password: italia

@@ -1,0 +1,34 @@
+Subject: re: var
+Let' s meet at 4: 00.
+Vince j kaminski
+06/01/2000 09: 19 am
+To: john arnold/hou/ect@ ect
+Cc: vince j kaminski/hou/ect@ ect, tanya tamarchenko/hou/ect@ ect, jim
+Schwieger/hou/ect@ ect, jeffrey a shankman/hou/ect@ ect
+Subject: var
+John,
+We have been working for the last few days on var related issues.
+The focus is on jim schwieger' s storage book as of 5/25 and 5/26
+Where we had some counterintuitive results. This book is a good
+Candidate for a systematic review of the var process.
+It seems that the problem arises from forward - forward vols used by the var
+System. You can see in the attached spreadsheet that the var, on a cumulative
+Basis,
+Jumps on jan 04, when an abnormal ff vol hits a relatively large position.
+This ff vol is also much different from the previous day number producing a
+Big
+Jump in var.
+This row (jan 04) is in magenta font in the attached spreadsheet. Please, look
+At column d.
+The abnormal ff vol may result from one of the two factors:
+A. A bug in the code. We are working with the person in it who wrote the
+Code to review it.
+B. A poorly conditioned forward vol curve (a kink or discontinuity in
+The fwd vol curve will do it). One solution I can
+Propose, is to develop for
+The traders a fwd - fwd vol generator allowing them to
+Review the fwd vol curve
+Before it is posted. If it produces a weird fwd - fwd vol,
+It can be smoothed.
+Can you meet at 4 p. M. To review our findings?
+Vince

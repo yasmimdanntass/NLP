@@ -1,0 +1,20 @@
+Subject: re: backtesting
+Naveen,
+Most of these tests have been already coded. The code and the associated
+Spreadsheets may have been lost inn the sands of time. Please, check with
+Vasant: it may save you some time.
+Vince
+Naveen andrews@ enron
+08/23/2000 05: 51 pm
+To: vince j kaminski/hou/ect@ ect
+Cc:
+Subject: backtesting
+Vince,
+I am currently implementing the backtesting features into our
+Risk management system. I distributed the following document at our research
+Meeting today; it outlines the conventional binomial test and some other
+Tests, including the basle regulatory test. Of course, no one test is
+Powerful and the efficacy of these tests breakdown for low sample sizes,
+Etc. If you can think of other tests to complement these, please let me know.
+Regards
+Naveen

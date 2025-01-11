@@ -1,0 +1,23 @@
+Subject: re: compound model for reedy creek
+Stinson,
+I think the gamma will flow into v@ r.
+Vince
+Stinson gibner
+11/30/2000 06: 14 pm
+To: alex huang/corp/enron@ enron
+Cc: vince j kaminski/hou/ect@ ect, vasant shanbhogue/hou/ect@ ect
+Subject: compound model for reedy creek
+Alex,
+Paulo and I have continued to look at the model and have come up with a
+Couple of additional changes.
+1. The cash flow calculations need to include the overlying option strike
+Payment. Also, paulo is trying to clarify if the cashflows should be
+Discounted to the valuation date or reported as notional future values.
+2. I would suggest trying changing the option valuation from a binomial tree
+Approach to a one - dimensional integration, perhaps using a quadrature
+Method. This may allow us to minimize the size of the delta discontinuities.
+3. Edith is supposed to check and see if the theoretical gamma is used for
+Anything. If it is, we will probably need to revisit the gamma calculation
+Since we are not currently including any cross terms for gamma.
+Thanks,
+Stinson

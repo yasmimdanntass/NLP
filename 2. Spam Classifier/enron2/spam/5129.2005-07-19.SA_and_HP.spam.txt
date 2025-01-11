@@ -1,0 +1,4 @@
+Subject: * * message you sent blocked by our bulk email filter * *
+Your message to: ponddr@ nalu. Net
+Was blocked by our spam firewall. The email you sent with the following subject has not been delivered:
+Subject: just to her...

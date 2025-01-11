@@ -1,0 +1,11 @@
+Subject: west power model
+Lance and I spoke with tim heizenrader regarding modeling work and needs for
+The west desk. The differences in the markets between east and west are, in
+Tim' s opinion, sufficient that he does not need an approach as sophisticated
+As the one we are pursuing for ercot. In particular, the termal limits for
+Which load flows are so useful are not generally binding in the west. Loop
+Flows are also not considered a major issue at present.
+In summary, it seems that the west is an unlikely customer of any extension
+To an ercot/east transmission model for the time being. They have also done
+Little in this area that would directly relate to our efforts here.
+Martin

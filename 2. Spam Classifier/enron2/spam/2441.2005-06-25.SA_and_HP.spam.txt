@@ -1,0 +1,23 @@
+Subject: quarterly statement notice
+Security center
+We recently noticed an attempt to log in to your paypal account from a
+Foreign ip address and we have reason to belive that your account was used
+By a third party without your authorization.
+If you recently accessed your account while traveling, the unusual log in attempts
+May have been initiated by you.
+Therefore, if you are the rightful account holder, click on the link below to log into your account and follow the instructions. Https:// www. Paypal. Com/cgI - bin/webscr? Cmd = _ login - run
+If you choose to ignore our request, you leave us no choice but to temporarily suspend
+Your account.
+If you received this notice and you are not the authorized account
+Holder, please be aware that it is in violation of paypal policy to represent
+Oneself as another paypal user. Such action may also be in violation of
+Local, national, and/or international law. Paypal is committed to assist
+Law enforcement with any inquires related to attempts to misappropriate
+Personal information with the intent to commit fraud or theft.
+Information will be provided at the request of law enforcement agencies to
+Ensure that impersonators are prosecuted to the fullest extent of the law.
+Thank you for your patience as we work together to protect your account.
+Sincerely,
+Paypal account review department
+Paypal, an ebay company
+* please do not respond to this e - mail as your reply will not be received.

@@ -1,0 +1,11 @@
+Subject: request submitted: access request for
+Praveen. Mellacheruvu@ enron. Com
+You have received this email because you are listed as an alternate data
+Approver. Please click
+Approval to review and act upon this request.
+Request id: 000000000012987
+Approver: stinson. Gibner@ enron. Com
+Request create date: 1/9/01 3: 03: 48 pm
+Requested for: praveen. Mellacheruvu@ enron. Com
+Resource name:\\ enehou\houston\common\research - [read/write]
+Resource type: directory

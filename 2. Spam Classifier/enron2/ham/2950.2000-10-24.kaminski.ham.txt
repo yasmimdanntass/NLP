@@ -1,0 +1,53 @@
+Subject: in confidence/project status
+HI vince
+I' d originally been told you wouldn' t be back until wednesday, and so have
+Another meeting booked for 4: 30 pm (london time) today. I really need to
+Speak with you about the situation here in london re anjam. To be blunt,
+Sharad, kirstee and I have all been tempted to just walk out of the office
+Until anjam is removed. The major problems are:
+1. I have no authority to demand anjam should cooperate with sharad, kirstee
+Etc. On their work. He does his best to impede their work, and I have no
+Ability to access his drives for data/spreadsheets.
+2. Anjam removes me from the cc lists in reply to all emails received by him,
+In an attempt to remove me from the loop.
+3. Anjam continues to" do business", and people in london still think he' s
+Head of research.
+4. Pending your" announcement", people will continue to go to anjam, and the
+Business will remain dependent on him.
+5. We' re severely under - resourced. I' m still awaiting your review of the
+Email I drafted for john s, requesting additional resource. I can' t make a
+Big recruitment drive until I have the authority to hire more.
+I honestly feel I can' t do my job, and i' m currently asking myself what i' m
+Even doing here.
+Notwithstanding the above, here is the current picture with our projects:
+Steve
+1. Initiated new pre - trade system for oil trading desk. Hooked up relevant
+It resource with business people, keeping an overall eye on making sure the
+Business reqts get translated into it - speak.
+2. Enron direct demand forecasting system review.
+3. Initiated global supply/demand database with coal group.
+4. Constant firefighting across all desks.
+Ben
+1. Work on regression - based placement model.
+2. General review of enroncredit. Com' s quant models.
+Matthew
+1. Ongoing work with engoal.
+2. Produced first prototype of gas capacity charge optimisation tool for
+Continental gas desk. Need to purchase local copy of cplex.
+Kirstee
+1. Diverted from richard lewis' s request for the uk gas/power vol curves to
+Be sorted out, onto eastern virtual power station restructuring project.
+Involves extension runs of credit reserve model, and now it seems the model
+Needs to be extended.
+2. Constant var firefighting.
+Slava
+1. Finished all regressions and model identification for uk gas and power
+Demand forecasting. We are now ready to start it implementation.
+2. Enron direct demand forecasting system review.
+Sharad
+1. Exotica support/firefighting, made nearly impossible by anjam.
+2. Option on strip of metals futures for enron metal.
+I do hope we get a chance to speak and resolve some of these issues. I' m
+Really not happy at present.
+Best regards,
+Steve

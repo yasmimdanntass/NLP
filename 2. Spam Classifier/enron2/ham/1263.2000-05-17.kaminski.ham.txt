@@ -1,0 +1,36 @@
+Subject: pjm adds ny prices to edata
+Message sent from the pjm - customer - info mailing list at
+Pjm - customer - info@ majordomo. Pjm. Com:
+Pjm has launched a pilot version of edata which includes data from the
+New york independent system operator. The beta - test period for the pilot is
+Expected to last approximately 90 days as pjm evaluates the success of using
+Cross - iso data in edata. If the pilot proves successful, pjm may add data
+From
+Other isos in the future.
+This pilot version of edata is a result of the collaboration among the
+Isos created by the memorandum of understanding signed last year. Through the
+Iso mou process, stakeholders have asked the isos to improve seams issues,
+Create like user interfaces, and make it easier to do business between the
+Isos.
+The addition of other iso data to edata has several benefits to users
+Including
+Consolidated information, ease of use, less technical support required, and
+Improved customer service. Real - time prices, forecasted/actual loads, tie
+Line
+Schedules, and transmission limits are all possible types of information that
+May be included in the future.
+Edata was implemented in october 1998. There are currently more that
+1700 registered users representing over 200 companies. Users include
+Marketers,
+Utilities, control areas, state and federal regulators, educational
+Organizations, financial institutions and others. The tool continues to
+Attract
+30 to 40 new registered users each week. Normally, 100 - 300 users are
+Simultaneously logged onto the system. To become an edata user, submit new
+User
+Information from the edata log in screen from the pjm web site at www. Pjm. Com.
+Please do not reply to this message. If you have a question for pjm customer
+Relations and training, please send an e - mail to custsvc@ pjm. Com.
+To unsubscribe from this list, send an e - mail to majordomo@ majordomo. Pjm. Com
+Containing only the following line in the body of the e - mail:
+Unsubscribe pjm - customer - info

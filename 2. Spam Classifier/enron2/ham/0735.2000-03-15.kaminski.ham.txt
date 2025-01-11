@@ -1,0 +1,22 @@
+Subject: video conference scheduling
+In order to improve the video conferencing services offered to the enron
+Community, the video conference group will be implementing the following
+Procedural changes. These changes will be effective immediately.
+Conference scheduling:
+Please route all video conference requests via email to' videoconference'
+(one word) or by phone to 713 - 345 - 8500 (x 5 - 8500). Once room reservations are
+Complete, conferences will be scheduled and confirmation notices sent to the
+Requestor via email. Each requestor will receive a confirmation notice the
+Business day preceding scheduled conferences.
+The following information will be required for all conference requests:
+Requestor name and contact number
+Sites to be included in the conference
+Site contact names along with associated phone numbers
+Date, time and duration of conference
+Company number/rc or cost center of requestor
+Preferred conference rooms (near - end and far - end)
+Technical problems:
+Should problems arise during a video conference, call 713 - 345 - 8555 and a
+Technician will be immediately dispatched
+Thanks in advance for your cooperation,
+Video conferencing support

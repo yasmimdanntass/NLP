@@ -1,0 +1,15 @@
+Subject: zero curve generator for uk gilts
+Anjam,
+Here is the model for fitting the term structure of uk gilts.
+The basic idea is as follows:
+Dirty price _ {ith gilt} = sum _ {j} c _ {i}/2 * discount factor (t _ {j, i}) +
+100 * discount factor (t _ {ni, i}
+Using a five parameters analytical form for the discount factors, and
+Minimizing the sum of
+Absolute errors, I can derive a smooth zero curve. The model needs an
+Initial guess
+For the parameters, this may require some experience. The log file can help
+You to see
+How well the optimization works.
+Let me know if you have any questions.
+Zimin

@@ -1,0 +1,19 @@
+Subject: usaee conference update from louise burke
+Content - transfer - encoding: binary
+Date: thu, 29 jun 2000 16: 38: 24 edt
+Subject: u:\wp 60\usaeekaminska. Doc
+Mime - version: 1. 0
+Content - type: application/vms - rms; vms - fdl =" system; source vax/vms;; file;
+Allocation 54; best _ try _ contiguous no; bucket _ size 0; contiguous no;
+Deferred _ write no; extension 0; global _ buffer _ count 0; mt _ block _ size 0;
+Max _ record _ number 0; maximize _ version no; organization sequential; read _ check
+No; supersede no; write _ check no;; record; block _ span yes; carriage _ control
+Carriage _ return; control _ field _ size 0; format stream; size 0;; area 0;
+Allocation 54; best _ try _ contiguous no; bucket _ size 0; contiguous no;
+Exact _ positioning no; extension 0; position none; volume 0;"; mr - type = msword;
+Name = msword
+Content - disposition: attachment; filename = msword
+Importance: normal
+Al - format: msword
+Al - type: document
+- msword

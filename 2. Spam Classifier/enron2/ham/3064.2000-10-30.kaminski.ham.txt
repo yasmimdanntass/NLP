@@ -1,0 +1,18 @@
+Subject: jcc
+Good morning. I apologize for the response delay. I' ve gone back through
+The analysis that I did back in april, and have thrown around some ideas with
+Vince and stinson. The issue may be summarized as follows.
+The hedge relationship was derived using jcc and prompt brent, and is valid
+For jcc and prompt brent. No problems here. However, it will not be valid
+For points far out on the forward curve. Intuitively, this hedge
+Relationship will approach one as we move far out on the curve, but since
+There is no data, I can not statistically determine this. One can imagine a
+Term structure of heding ratios that start at 0. 67 and move to 1. 0, so that
+The back end of the curves would move together, but how fast it converges to
+One is anyone' s guess.
+If there is a way of determining the historical jcc forward curve, then the
+Hedge relationships may be estimated. However, I have been unable to
+Determine a rigorous approach to building the jcc curve.
+I can explain this far better in person, and would like to talk as soon as
+Possible at your convenience.
+- kevin kindall

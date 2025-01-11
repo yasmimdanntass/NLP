@@ -1,0 +1,52 @@
+Subject: maths course
+Dear vince,
+?
+Further to our telephone conversation, that you very much for agreeing to
+Participate in the financial mathematics training course. As discussed i
+Would be delighted if you could present the following sessions:
+?
+Practical techniques to price exotic energy options
+?
+Evaluating methodologies for pricing exotics
+??? Assessing the pros and cons of a partial differential equation
+??? Applying multI - factor models to price exotic energy derivatives
+??? Building trees for pricing and hedging exotics
+Pricing
+??? Asian options
+??? Bermudan and american style options
+??? Spread and spark spread options
+??? MultI - commodity options
+Practical example:??? Pricing swing options
+??????????????????????????????? Using monte carlo techniques to value swing
+Options
+Practical example:??? Pricing a multI - commodity option
+?
+Analysing approaches to weather derivatives valuation
+?
+Understanding the mechanics of weather derivatives
+??? Heating and cooling degree day swaps
+??? Precipitation contracts
+Applying probablistic approaches to pricing weather derivatives
+??? Stochastics
+??? Monte carlo techniques
+Using historical methodologies and black - scholes for pricing weather
+Derivatives
+Valusing long term transactions
+Practical example
+?
+Please could you let me know by the close of business on thursday if you
+Would like to make any changes to the bullet points. I have printed out your
+Biography below and please could you also let me know if you would like to
+Make any changes to it.
+?
+Vince kaminski, enron capital & trade resources
+Vince kaminskI is vice president and head of research at enron risk
+Management and trading, a unit of enron capital & trade resources. Mr
+KaminksI joined enron in 1992. Previously he was vice president in the
+Research department at salomon brothers.
+?
+Thanks again vince and i? Look forward to speaking to you on friday.
+?
+Best regards,
+?
+Vicky

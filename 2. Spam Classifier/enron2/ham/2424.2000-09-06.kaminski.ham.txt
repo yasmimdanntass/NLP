@@ -1,0 +1,37 @@
+Subject: re: d - g energy
+Karla,
+The wording you have below sounds reasonable as we would only use the code
+For internal valuation purposes.
+I also checked with vince regarding the issues we discussed by phone
+Yesterday. He would like to specify a 2 day response time for the software
+Support. Also, he would like to specify that the payment schedule be: 50%
+At time of initial contract and 50% at the time when the software is
+Released. This would give them an incentive to release the software before
+The full year is over if they want to accelerate the payment.
+Thanks again for all the help,
+Stinson
+From: karla feldman on 09/06/2000 10: 30 am
+To: stinson gibner/hou/ect@ ect
+Cc:
+Subject: d - g energy
+Stinson,
+While trying to put together the agreements for d - g energy, I have an
+Additional question:
+I need to know exactly what yall plan to do with the source code once you
+Have it after the initial one year period is up? There are still limitations
+As to what you can do with it, so I will need to know so we can try to revise
+The contract so that you will be legal.
+For example, in the language regarding release of the source code from
+Escrow, it states that once you have the source code, you just have the
+" right to use, copy and modify the source code, solely for our internal
+Purposes in connection with support, maintenance and operation of the
+Software".
+Do yall plan to reverse engineer, decompile, etc? Do you plan on using any
+Of their code to create our own product? If so - I think these are going to
+Be a problem. The latter would be an infringement issue, unless we were to
+Contract to do so.
+Please let me know more details of your plan so I can see how we need to
+Proceed in this area.
+Thanks,
+Karla
+X 67554

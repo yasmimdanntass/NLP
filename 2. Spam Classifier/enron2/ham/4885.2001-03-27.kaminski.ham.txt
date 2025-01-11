@@ -1,0 +1,60 @@
+Subject: comments
+HI sheridan,
+How are you? I hope that you had a good vacation. Vasant and I looked at
+Your memo and found it to be interesting. I shall first briefly summarize
+Our understanding of the methodology you propose. The comments follow.
+Finally, I shall sketch a simple gas field project you can use as a test case
+In further refining the model.
+It appears that you are proposing a state - space approach where probabilities
+Of different states at various future dates are specified. The next step is
+To assume a discount rate and to compute the present value by following the
+Branches from the origin to one of the terminal points. Traversing through
+The tree in this manner over many iterations will permit us to compute the
+Average present value of the project. Also, you are using the simulation to
+Assign a value of the project to each node. Thus each node will have a cash
+Flow associated with it which will occur if the node is reached and a value
+Which is an expectation of the value to be realized going forward. If some
+Of these values turn out to be negative, zero - coupon, risk - free bonds are
+Purchased to neutralize the negative realization.
+Next, we find a comparable and apply the expected rate of return back to our
+Project (based on the variance of the returns). We iterate until
+Convergence.
+Finally, we subtract the initial investment and the computed risk capital
+From the pv of the gross cash flows (including debt) to determine if the
+Project merits further consideration.
+Comments/clarifications
+1. The money is being set aside to avoid negative values. It is not clear
+If you mean the values of the cash flow or the pv at the node. Anyhow, we
+Shall be setting aside money not just for that specific node but all nodes at
+That cross - section of time as the risk - free asset pays in all states of
+Nature. This will have to be done every time there is a negative
+Realization. Thus, for the typical project we have, the value of risk
+Capital may be extremely high, as we are not following a tail - based norm
+Anymore.
+2. Your memo appears to suggest that debt capacity is contingent on all
+Values being positive. If so, we are only issuing risk - free debt. Also, a
+Project with a single negative value at each cross - section of time will not
+Have a positive debt capacity.
+3. It seems that our optimization argument is the discount rate, which is
+Obtained in each step from the comparison investment (by equating the
+Variances). It is not clear if changing the discount rate will have such an
+Effect on the project variance so as to lead to a global convergence. Also,
+Our project has a finite life and the market - based assets will have infinite
+Lives. In the light of this fact, how will we define the relevant variance?
+Is it the spot variance of the returns of the comparison investment?
+4. Finally, our criterion is to subtract from the average pv the investment
+And also the risk capital. Setting risk capital to zero, this model closely
+Resembles the intuitive present value criterion and endogenously determines
+The discount rate.
+Gas field case
+To facilitate your thinking, we are providing a gas field example below.
+We invest x million dollars to buy and develop a gas field. A profile of
+Expected production and variance of the production per year is available from
+The engineers at the beginning. Production will be autocorrelated, as the
+Profile will shift up or down based on the actual gas reserves being more or
+Less than the estimated reserves. We assume the life of the field to be 10
+Years with no salvage value. There are fixed and variable operating costs.
+It might be useful for you to think about applying the framework to this
+Problem.
+Do let me know if you have further questions.
+Rakesh

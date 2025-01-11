@@ -1,0 +1,25 @@
+Subject: uk swap rpI model
+- - - - - - - - - - - - - - - - - - - - - - forwarded by zimin lu/hou/ect on 03/31/2000 01: 44 pm
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+Martina angelova
+03/22/2000 02: 59 pm
+To: zimin lu/hou/ect@ ect
+Cc: anjam ahmad/lon/ect@ ect, trena mcfarland/lon/ect@ ect
+Subject: uk swap rpI model
+HI zimin!
+Please find attached the rpI model I developed by bootstrapping rpI swaps.
+The structure of this particular swap is:
+Semi/semI act/365 f
+>
+> yoyukrpI = (ukrpI (p - 2)/ukrpI (p - 14) - 1)/2
+> p = payment month
+>
+The first payment is the latest known historical rpi, february 2000. You will
+Notice that I have assumed constant cashflows between the quoted years (as
+Opposed to interpolating swaps which distorts the curve a lot).
+Please find below a graphic comparison between the rpI curve produced by
+Swaps and the one produced by the gilt market.
+Looking forward to your comments.
+Best regards,
+Martina
+X 34327

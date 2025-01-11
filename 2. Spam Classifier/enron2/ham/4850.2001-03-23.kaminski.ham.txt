@@ -1,0 +1,9 @@
+Subject: request submitted: access request for sandeep. Kohli@ enron. Com
+You have received this email because the requester specified you as their
+Manager. Please click
+Approval to review and act upon this request.
+Request id: 000000000025312
+Request create date: 3/23/01 9: 52: 03 am
+Requested for: sandeep. Kohli@ enron. Com
+Resource name: visual studio enterprise
+Resource type: applications

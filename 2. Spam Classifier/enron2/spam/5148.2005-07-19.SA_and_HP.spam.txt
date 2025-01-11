@@ -1,0 +1,15 @@
+Subject: returned mail: can' t create output
+The original message was received at tue, 19 jul 2005 05: 57: 28 - 0500
+From [221. 3. 33. 27]
+- - - - - the following addresses had permanent fatal errors - - - - -
+Jodyanddavid. Herring@ verizon. Net
+(expanded from:)
+Bowguns
+(expanded from:)
+- - - - - transcript of session follows - - - - -
+... While talking to relay. Verizon. Net.:
+> > > rcpt to:
+< < < 550 5. 1. 1 unknown or illegal alias: jodyanddavid. Herring@ verizon. Net
+550 jodyanddavid. Herring@ verizon. Net... User unknown
+Procmail: quota exceeded while writing"/var/spool/mail/bowguns"
+550 bowguns... Can' t create output

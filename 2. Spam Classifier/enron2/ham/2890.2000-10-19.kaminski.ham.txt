@@ -1,0 +1,53 @@
+Subject: re: option pricing challenge
+Zimin,
+To generalize your initial comment, for any process ds = mu (s, t) * s * dt +
+Sigma (s, t) * s * dz,
+The delta - hedging argument leads to the black - scholes pde.
+This is true for any arbitrary functions mu and sigma, and so includes gbm,
+Mean reversion, and others.
+There is no problem with this, because in the risk - neutral world, which is
+What you enter if you can hedge,
+The drift of the" actual" process is irrelevant.
+I believe your concern is that you would like to see a different option price
+For mean reversion process. This can only happen if the asset is not
+Hedgeable, and so the actual dynamics then need to be factored into the
+Option pricing. If you assume that the underlying is a non - traded factor,
+Then the pde will have to reflect the market price of risk, and the drift of
+The actual process is then reflected in the pde.
+Vasant
+Zimin lu
+10/17/2000 05: 20 pm
+To: vince j kaminski/hou/ect@ ect, stinson gibner/hou/ect@ ect, vasant
+Shanbhogue/hou/ect@ ect, pinnamanenI krishnarao/hou/ect@ ect, alex
+Huang/corp/enron@ enron, kevin kindall/corp/enron@ enron, tanya
+Tamarchenko/hou/ect@ ect
+Cc:
+Subject: option pricing challenge
+Dear all,
+I have a fundamental question back in my mind since 95. Hope you can give
+Me a convincing answer.
+Zimin
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+In deriving bs differential equation, we assume the underlying follows gbm
+Ds = mu * s * dt + sigma * s * dz
+Where mu is the drift, sigma is the volatility, both can be a function of s.
+Then we use delta hedging argument, we obtain the bs differential equation
+For the option price, regardless
+Of mu.
+With the bs pde and boundary condition, we can derive bs formula. Fine. No
+Problem.
+Question comes here. Suppose the underlying is traded security and follows,
+Say, mean - reverting process
+Ds = beta (alpha - s) dt + sigma * s * dz
+Apparantly, this sde leads to a different probability distribution. However,
+Using the delta hedging argument,
+We still get the same bs differential equation, with the same boumdary
+Condition, we get the same bs formula.
+Not fair!
+From another angle, I can derive the distribution from the bs pde for the
+Underlying, which is the lognormal distribution.
+My thinking is: can I drive the distribution for any sde from the option pde
+? The answer should be yes, but got to be
+From a different pde rather than bs pde. Then what we do about the
+Delta - hedging argument?
+Thanks.

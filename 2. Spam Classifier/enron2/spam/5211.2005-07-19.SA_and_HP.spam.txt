@@ -1,0 +1,40 @@
+Subject: failure notice
+Hi. This is the qmail - send program at hybeammaill. Inetu. Net.
+I' m afraid I wasn' t able to deliver your message to the following addresses.
+This is a permanent error; i' ve given up. Sorry it didn' t work out.
+:
+Sorry, no mailbox here by that name. Vpopmail (#5. 1. 1)
+- - - below this line is a copy of the message.
+Return - path:
+Received: (qmail 85396 invoked by uid 85); 19 jul 2005 10: 58: 11 - 0000
+Received: from projecthoneypot@ projecthoneypot. Org by hybeammaill. Inetu. Net by uid 82 with qmail - scanner - 1. 16
+(clamscan: 0. 60. Spamassassin: 2. 55. Clear: sa: 0 (0. 8/5. 0):.
+Processed in 4. 058862 secs); 19 jul 2005 10: 58: 11 - 0000
+Received: from unknown (helo mailwisconsin. Com) (221. 203. 100. 20)
+By hybeammaill. Inetu. Net with smtp; 19 jul 2005 10: 58: 07 - 0000
+Received: from 205. 214. 42. 66
+(squirrelmail authenticated user projecthoneypot@ projecthoneypot. Org);
+By mailwisconsin. Com with http id j 87 gzo 38191261;
+Tue, 19 jul 2005 10: 57: 46 + 0000
+Message - id:
+Date: tue, 19 jul 2005 10: 57: 46 + 0000
+Subject: just to her...
+From:" barry castillo"
+To: distortion 6@ boplicity. Com
+User - agent: squirrelmail/1. 4. 3 a
+X - mailer: squirrelmail/1. 4. 3 a
+Mime - version: 1. 0
+Content - type: text/html; charset = iso - 8859 - 1
+Content - transfer - encoding: 8 bit
+X - priority: 3 (normal)
+Importance: normal
+X - spam - status: no, hits = 0. 8 required = 5. 0
+User _ agent
+Version = 2. 55
+X - spam - level:
+X - spam - checker - version: spamassassin 2. 55 (1. 174. 2. 19 - 2003 - 05 - 19 - exp)
+Soft viagra at $1. 62 per dose
+Ready to boost your sex life? Positive?
+Time to do it right now!
+Order soft viagra at incredibly low prices
+Startinq at $1. 99 per dose! Unbelivable!

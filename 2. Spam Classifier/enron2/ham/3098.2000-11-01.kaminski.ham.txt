@@ -1,0 +1,32 @@
+Subject: credit exposure model
+Alex,
+I have set up a meeting with bill bradford on monday, nov. 6, at 10: 00 am in
+His office (eb 2861) to
+Discuss the credit exposure model specifications.
+Zimin
+- - - - - - - - - - - - - - - - - - - - - - forwarded by zimin lu/hou/ect on 11/01/2000 09: 19 am
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+From: william s bradford on 10/31/2000 06: 50 pm
+To: zimin lu/hou/ect@ ect
+Cc: stinson gibner/hou/ect@ ect, alex huang/corp/enron@ enron, dorothy
+Youngblood/hou/ect@ ect
+Subject: re: credit exposure model
+I am out of the office this week but will be back in the office all next
+Week. Please coordinate a time with my assistant dorothy youngblood.
+Zimin lu
+10/31/2000 02: 44 pm
+To: william s bradford/hou/ect@ ect
+Cc: stinson gibner/hou/ect@ ect, alex huang/corp/enron@ enron
+Subject: credit exposure model
+Bill,
+Alex and I are working on the credit exposure model. We finished the initial
+Design issues regarding
+Input and output. We would like to have a meeting with you to seek feedback.
+We also preceeded
+To write the underlying model. So feedback at early stage can be important
+For the later development.
+Paulo issler is working on the short term enhancement to the credit loss
+Model: adding asian option to
+The model built by vasant and amitava.
+Let me know when is a good time for us to meet.
+Zimin

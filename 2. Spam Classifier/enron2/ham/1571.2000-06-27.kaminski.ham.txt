@@ -1,0 +1,28 @@
+Subject: re: running credit model
+Tanya,
+Although i' m quite comfortable with providing support for running the model,
+And assisting in providing the tools to enable easier analysis of the
+Results, i' m not entirely comfortable with supporting a java debug
+Environment within your team (including ad - hoc training), when we have
+Facilities within the it development team to do it here.
+I' d like to meet with you to discuss this, as this seems to be an ongoing
+Issue, and would like to understand the ground rules by which your team
+Operates in conjunction with it in general.
+Regards
+Steve
+Tanya tamarchenko
+23/06/2000 15: 48
+To: stephen stock/hou/ect@ ect
+Cc: grant masson/hou/ect@ ect, vince j kaminski/hou/ect@ ect, debbie r
+Brackett/hou/ect@ ect
+Subject: re: running credit model
+Steve,
+In order to be able to test the new credit model as well as to answer credit
+Group' s
+Questions regarding the outputs from this model research needs to be able to
+Do the following:
+1. Run credit model independently of the other runs. It is quite ok for now
+To be able to run it just for small artificial portfolios.
+2. Debug the code to see what actual values are used during the run time.
+Please, let me know if your team can help us.
+Tanya.

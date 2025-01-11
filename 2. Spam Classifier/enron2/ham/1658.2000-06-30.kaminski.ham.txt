@@ -1,0 +1,54 @@
+Subject: re: mg metals: additional areas to look at
+Dear richard,
+Thanks for your message - I just met lloyd fleming who is setting up meetings
+For me and getting me some of the information requested. Houston research
+Has started on this process, but I believe that I will take over from here -
+I am in houston in 10 days time and will also discuss initial findings with
+Them.
+Regards,
+Anjam hmad
+London research
+X 35383
+Richard sage
+30/06/2000 09: 50
+To: anjam ahmad/lon/ect@ ect
+Cc:
+Subject: mg metals: additional areas to look at
+Phil redman will come to see you to capture appropriate tasks on the overall
+Project plan and identify dependencies.
+I hope lloyd has kept you up to date so far.
+I have added you to the address list for daily updates affecting the support
+Functions.
+- - - - - - - - - - - - - - - - - - - - - - forwarded by richard sage/lon/ect on 30/06/2000 09: 50
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+Enron europe
+From: anjam ahmad 30/06/2000 09: 46
+To: lloyd fleming/lon/ect@ ect, richard sage/lon/ect@ ect
+Cc: vince j kaminski/hou/ect@ ect, stinson gibner/hou/ect@ ect, bjorn
+Hagelmann/hou/ect@ ect, dale surbey/lon/ect@ ect, tanya tamarchenko/hou/ect@ ect
+Subject: mg metals: additional areas to look at
+Dear lloyd & richard,
+I have been discussing with eric gadd about two particular areas of concern
+That will affect the london research group. I believe there are a number of
+Issues to address to ensure that the integration goes smoothly from a risk
+Management and quantitative analysis perspective, and I have put together a
+(by no means exhaustive) list: -
+I) seamless transfer of front and middle office systems from an exotic
+Options linking perspective (e. G. Their spreadsheets link to different option
+Pricing add - ins)
+Ii) development of volatility curves and factor analysis to ensure that we
+Can capture metals risk in our var system (we will require historical data
+For this). I am sure bjorn will be looking to the research group to assist
+In this matter.
+Iii) ensure that mg staff on quant and risk side become familiar with our
+Methods and systems and vice versa
+These tasks will involve a significant degree of cross - communication with
+Relevant contacts within mg metals, and so I look forward to starting on the
+Process as soon as possible - I hope to play a full part from a quantitative
+Research and risk management perspective to ensure that everything goes
+Smoothly in this exciting new development, so please do not hesitate to
+Involve me.
+Best regards,
+Anjam ahmad
+Research
+X 35383

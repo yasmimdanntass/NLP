@@ -1,0 +1,25 @@
+Subject: program
+I forgot to attach the program file. Here it is
+- chonawee
+- - - - - - - - - - - - - - - - - - - - - - forwarded by chonawee supatgiat/corp/enron on
+10/17/2000 09: 13 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Chonawee supatgiat
+10/17/2000 09: 13 pm
+To: mike a roberts/hou/ect@ ect
+Cc: vince j kaminski/hou/ect@ ect
+Subject: program
+Mike,
+Here is third version of the program. It gives better results than the
+Previous versions you have. Sorry for the delay, these past 2 days I have
+Been busy meeting with people on the new ebs project. I think the result
+Looks reasonably good. You can try it. (to run, type cow filename. Jpg m)
+Smallcow. Jpg: hand count 165, program reports 140
+Cow 2. Jpg: hand count 1, program reports 1
+Cow 3. Jpg: hand count 273, program reports 244
+Cow 4. Jpg: hand count 7, program reports 7
+Cow 5. Jpg: hand count 160 - 180, program reports 165
+- chonawee
+You can show it to the others by yourself or I can go with you. I will have
+To go to german consulate tomorrow morning and will be in the office around
+10: 30 - 11 am.
+- chonawee

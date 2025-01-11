@@ -1,0 +1,109 @@
+Subject: linux - - hit or miss?
+Network world fusion focus: phil hochmuth
+On linux
+Today' s focus: will linux be a hit or miss on the corporate desktop?
+03/15/00
+Dear wincenty kaminski,
+Today' s focus: will linux be a hit or miss
+On the corporate desktop?
+By phil hochmuth
+So far this year, the buzz about linux in enterprise networks has
+Focused on servers and embedded systems, with the growth of linux
+Severs being most heralded. According to idc, a research firm based in
+Framingham, mass., linux was the fastest - growing server operating
+System last year, with a 93% growth rate over the year before. Linux
+Was the second most - shipped operating system in 1999 after windows nt,
+Capturing 24% of new licenses shipped.
+As for the embedded market, linux has emerged as an ideal platform for
+Network appliances, because the system can be modified to handle
+Specialized, dedicated tasks very well. Companies such as cobalt
+Networks, picazo and progressive systems have announced linux - based
+Appliances, ranging from web servers to pbxs to firewalls.
+But what of the open source hacker , s dream of  & linux on every desktop?  8
+Sure, linux on the desktop has become more accessible than ever, with
+Colorful, shrink - wrapped boxes of caldera, red hat and corel linux now
+Available at places like compusa. However, analysts have said that
+Linux , s growth in the enterprise will be limited to the macro and micro
+Areas of network servers and embedded operating systems.
+According to idc, linux currently runs on only 4% of u. S. Desktops. The
+Hold microsoft windows has on the desktop market will remain strong,
+Analysts say, despite such factors as microsoft , s antitrust problems
+And the surging popularity of linux.
+Even some linux executives are skeptical of their product , s desktop
+Future. Recently, suse ceo roland dyroff downplayed linux , s future on
+Desktops. Dyroff said,  & given the lack of applications available, we
+Really can' t claim it as being competitive on the desktop yet.  8
+A recent survey by survey. Com gives more hope for linux desktops.
+According to the survey of 1, 640 enterprise network managers, open
+Source operating systems are used on 10% of desktops, with the number
+Jumping to a surprising 23% of enterprise desktops by 2002.
+Despite the mix of numbers being thrown around, two important factors
+That will determine the success of linux as an enterprise client
+Desktop are: a standardized, easy - to - use graphical user interface (gui)
+And available applications.
+One company that is working to make linux more user friendly is palo
+Alto - based eazel, which is designing a next - generation file management
+System and user interface to run on top of the linux kernel. According
+To eazel , s web site, the company , s goal is to bring linux to the masses
+And  & do it in a way that appeals to today' s linux users and to mere
+Mortals.  8
+The company was founded by a group of former apple executives, and is
+Allied with the gnome project, which has been doing extensive linux
+Desktop environment development for several years. Eazel is due to have
+A product out by the middle of this year. With an intuitive, icon - based
+File management environment, eazel is hoping its user interface will be
+An improvement over the two current linux guis, gnome and kde, and will
+Help standardized the look and feel of linux for  & regular  8 users. For
+Enterprise mangers who have already embraced linux on the server side,
+This development will be worth keeping an eye on.
+On the applications side, several office productivity suites have been
+Available for some time, such as sun , s staroffice suite and koffice for
+The kde desktop. Corel has also ported its office products, such as
+Wordperfect, over to linux to complement its own distribution of the
+Operating system. While there have been recent rumors (started by linux
+Care vice president arthur tyde) that microsoft is working on a port of
+Ms office to linux, microsoft officials deny this.
+While linux may never supplant windows as the industry - standard desktop,
+There should be plenty of opportunity for linux pcs in enterprise nets
+In the future.
+To contact phil hochmuth:
+- - - - - - - - - - - - - - - - - - - - - - - - -
+Phil hochmuth is a writer and researcher for network world, and a former
+Systems integrator. You can reach him at mailto: phochmut@ nww. Com.
+For related links - - click here for network world' s home page:
+Http:// www. Nwfusion. Com
+Staroffice software from sun
+Http:// www. Sun. Com/staroffice
+Corel linux os
+Http:// www. Corel. Com/freedom/freedom. Htm
+Eazel
+Http:// www. Eazel. Com
+Gnome - - the gnu network object model environment
+Http:// www. Gnome. Org
+Koffice - - the integrated office suite for kde, the k desktop
+Environment
+Http:// koffice. Kde. Org /
+Cobalt networks, inc.
+Http:// www. Cobaltnetworks. Com
+Progressive systems
+Http:// www. Progressive - systems. Com
+Picazo
+Http:// www. Picazo. Com
+Other linux - related articles from network world:
+Active directory upgrade requires strong game plan, network world,
+03/13/00
+Subscription services
+To subscribe or unsubscribe to any network world e - mail newsletters,
+Go to:
+To change your email address, go to:
+Subscription questions? Contact customer service by replying to this
+Message.
+Other questions/comments
+Have editorial comments? Write jeff caruso, newsletter editor, at:
+Mailto: jcaruso@ nww. Com
+For advertising information, write jamie kalbach, account executive,
+At: mailto: jkalbach@ nww. Com
+Network world fusion is part of idg. Net, the idg online network.
+It all starts here:
+Http:// www. Idg. Com
+Copyright network world, inc., 2000

@@ -1,0 +1,21 @@
+Subject: project with maria garcia
+Vince,
+Here is a brief about the project with maria garcia.
+Promigas, in partnership with others, wants to acquire $80 mm tvcable
+Company in mexico.
+Promigas' s ownership would be 25%, i. E., 20 mm. 10 mm of it would come from
+Debt.
+Enron wants to participate this deal by offer promigas loan guarantee in
+Exchange of call options
+On 50% promigas equity in tvcable.
+Following suggestions have been made:
+1) get a market quote for the loan guarantee;
+Use credit risk model to price the guarantee internally;
+Need to speak to vasant
+2) find a comparable company, study the volatility
+Using company value histogram from economics model (crystal ball output),
+I can fit a lognormal
+Distribution, then find the volatility
+3) calcalte the call option value, find braek - even strike.
+Any inputs are extremely welcome.
+Zimin

@@ -1,0 +1,22 @@
+Subject: prc review: list of key projects
+HI dale & vince,
+For your benefit I have compiled a shortlist of the main projects worked on
+Over the past five months:
+1) inflation curve modelling (february and march)
+2) uk power monthly vol curve generator
+3) nordic power monthly vol curve generator
+4) energydesk. Com models & support
+5) compound options for uk power desk (options to build power stations)
+6) continental power non - generic options (using arbitrary trader - specified
+Distributions)
+7) global products: non - generic options modelling and new commodity forward
+Curve construction (benzene fwd curve from naphtha)
+8) exotic options library upgrade/model test/bug fixes (e. G. Testing new/old
+Asian models)
+9) continental gas volatility curve construction
+The best summary for this is in the attached presentation that I gave to the
+London and oslo staff recently.
+Regards,
+Anjam
+X 35383
+Presentation attached:

@@ -1,0 +1,179 @@
+Subject: presentation at ut
+Vince,
+I appreciate your response to my request for you to speak to my
+Class on real options. I thought you might enjoy the following exchange of
+Emails that occurred yesterday. Perhaps some of these issues could be
+Addressed in your talk.
+Jim
+- - - - - original message - - - - -
+From: sheridan titman
+Sent: friday, march 31, 2000 9: 11 am
+To: jim dyer
+Subject: re: real options course feedback
+Jim:
+Your student has raised some difficult questions. I would recommend ehud,
+But I thought that the finance people have the answers in cases with
+Complete markets and that we rely on the decision science people for cases
+With incomplete markets.
+If it would help, I can come in at 6 pm after my class in a couple of weeks.
+Sheridan
+Sheridan titman
+Department of finance
+College of business administration
+University of texas
+Austin, texas 78712 - 1179
+512 - 232 - 2787 (phone)
+512 - 471 - 5073 (fax)
+Titman@ mail. Utexas. Edu
+- - - - - original message - - - - -
+From: jim dyer
+Sent: thursday, march 30, 2000 4: 37 pm
+To: sheridan titman
+Subject: re: real options course feedback
+Sheridan,
+Which of your classes do you want to miss? Just kidding. Actually
+You probably told me that before. Can you suggest someone else who would be
+A good choice to discuss the use of option theory in the context of
+Incomplete markets, and to address some of the types of questions raised in
+The note from the student?
+Jim
+- - - - - original message - - - - -
+From: sheridan titman
+Sent: thursday, march 30, 2000 5: 58 pm
+To: jim dyer
+Subject: re: real options course feedback
+Jim:
+I teach at the same time as you do.
+Sheridan
+Sheridan titman
+Department of finance
+College of business administration
+University of texas
+Austin, texas 78712 - 1179
+512 - 232 - 2787 (phone)
+512 - 471 - 5073 (fax)
+Titman@ mail. Utexas. Edu
+- - - - - original message - - - - -
+From: jim dyer
+Sent: thursday, march 30, 2000 11: 32 am
+To: sheridan titman
+Subject: fw: real options course feedback
+Sheridan,
+See the comments below. I don' t mean to put you on the spot, and
+Have not announced anything in class, but I am hoping that you could visit
+My class for about an hour one thursday afternoon to discuss your views
+Regarding applications of option pricing concepts to" real options". As a
+Reminder, i' ve attached a course outline. Chris kenyon from schlumberger is
+Speaking on april 13, and vince kaminskI has tentatively agreed to speak on
+April 20.
+I am going to be out of town on april 27, so that leaves either next
+Thursday (april 6) or may 4. Would either of those times work for you? I' m
+Not thinking of any preparation, but more of an informal discussion of the
+" philosophical issues" related to real options work.
+Jim
+- - - - - original message - - - - -
+From: jim dyer
+Sent: thursday, march 30, 2000 1: 24 pm
+To:' jclevenger@ optionii. Bus. Utexas. Edu'
+Subject: re: real options course feedback
+Josh,
+Some very thoughtful observations. As you know, I had invited one
+Finance professor to our class on arundel, but he was out of town. I do
+Plan to invite sheridan titman to discuss the issue of using the option
+Models in situations where there is no underlying security that is traded.
+I do think it is important to face that issue, which is actually covered at
+A theoretical level in our last couple of readings.
+The issue of volatility is also an excellent issue for further
+Discussion, as you suggest. So far, we' ve been looking at cases where
+Volatility is" given". The problem of finding an" objective" measure of
+Volatility for a project reminds me of the problem of finding the correct
+Risk adjusted discount rate, which is not surprising since the concepts are
+Almost two sides of the same plate. One approach, of course, is to do some
+Modeling using traditional decision analysis tools, including subjective
+Probabilities, but the finance people who write options articles don' t like
+To think about such ideas.
+I' ll try to address these issues in more detail as the semester
+Continues. I think it was important to surface some of these points early,
+And to come back to them after we have seen how to apply the methods in a
+Naive sort of way.
+Thanks for the feedback and comments.
+Jim
+- - - - - original message - - - - -
+From: jclevenger@ optionii. Bus. Utexas. Edu
+Sent: thursday, march 30, 2000 8: 42 am
+To: jim. Dyer@ bus. Utexas. Edu
+Cc: josh - clevenger@ reliantenergy. Com
+Subject: real options course feedback
+After overcoming the initial (I hope) overload of materials and tools
+Presented
+Thus far in the semester, it appears to me that you are achieving the
+Objective
+Of making us comfortable with optionality valuation as applied to a variety
+Of
+Problems which are outside the borders defined by a liquid market of traded
+Financial elements.
+As a constructive feedback, you have been forthright with us in marking off
+Areas of this subject which are still controversial. I also realize that
+Rightly so, real - world application of this type of analysis without a robust
+Understanding of finance may degenerate into a succession of assumptions
+That
+Result in a" house of cards" effect. My opinion at this point is that two
+Issues are of potentially" make - or - brake" importance if I am to persuade my
+Superiors to accept these methods for valuations outside the realm of
+Projects
+Whose value is primarily driven by the value of commodities backed by
+Financial
+Instruments. These issues are easy to guess:
+1) discounting and risk free rates: I do not sense that anyone in the
+Class
+Has put forth convincing arguments as to the proper application of time
+Value
+Questions in the absence of liquidity. Is there someone within the finance
+Department that can present a firmer position on this question?
+2) volatility: I found winston' s examples on this metric succinct. I would
+Recommend that in future years you dedicate some hours of class time to this
+Subject. My criticism again relates to messy problems. I anticipate
+Arguments
+Against real option applications based on the dispute of volatility
+Measures.
+If I were a conservative financial manager, I would argue that:
+* * * two - a: implied volatility derived from an industry specific slice of
+Equity
+Options is a shotgun approach - - the projects being valued are of a tranche
+Which may in fact have a significantly different outcome variance than the
+Weighted average measured by the equities utilized. Oil, gas and electricty
+Are
+Good examples the major players are competing on many different levels of
+The
+Value chain. Smaller companies do exist which are dedicated to one strata,
+But
+What about projects that want to exploit opportunies across strata in a
+Vertically integrated company?
+* * * two - b: based on the following skepticism - if a real option value is
+Being
+Proposed for a new business venture (some new unexploited opportunity,)
+There is
+Some paradox embedded in the increased value based on high volatility in new
+Ventures and the high risk of failure. This skepticism is likely to be less
+Acute in high - tech sectors where the huge upside of new ventures is paraded
+Before us daily by nasdq touts. It is a much harder sell to" mature"
+Industries.
+Of particular interest in the power industry are investments centered around
+Opportunities arising from restructuring of electricity and natural gas
+Sectors
+As regulation is removed. A large proportion of the risk is embedded in
+Ongoing
+Changes of public policy on an international basis. As an intentionally
+Screwed - up example, can anyone other than a financial genius correctly asses
+Volatility for u. S. Companies investing in seed projects in mexico based on
+Speculation of the inevitable dismantling of the national utility (cfe) and
+Pemex?
+James s. Dyer
+Fondren centennial chair in business
+Department of management science and information systems
+Cba 5. 202
+The university of texas at austin
+Austin, texas 78712 - 1175
+Email: j. Dyer@ bus. Utexas. Edu
+Telephone: 512 - 471 - 5278
+Fax: 512 - 471 - 0587

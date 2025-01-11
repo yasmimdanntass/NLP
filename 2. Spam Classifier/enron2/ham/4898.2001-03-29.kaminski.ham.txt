@@ -1,0 +1,11 @@
+Subject: re: implementing clustering and jumps for power
+Frank,
+Our var team has been looking at different ways to implement clustering and
+Jumps for power prices simulation
+In var.
+I attached the suggestion we came up with and the results of clustering and
+Jump parameters estimation.
+Would you like to discuss this methodology? We need your input.
+Please, let me know,
+Thank you,
+Tanya.

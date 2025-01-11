@@ -1,0 +1,29 @@
+Subject: altos na gas model
+Kim, I know you have been interested in the development of a long term
+Natural gas model for use in the ets revenue management effort. I agree that
+The ability to model various supply/demand scenarios for north america
+Should prove useful in ets business development efforts, and in particular,
+In predicting the impact of the new, large alaskan gas supplies on the n. A.
+Pipeline grid.
+As you know, vince kaminskI feels that a software product developed by dale
+Nesbitt (marketpoint, inc.) of los altos hills, ca. May be a good choice, and
+One readily available in a relatively short time. Marketpoint has proposed
+That they work with us in our offices for a week of intensive training and
+Testing, so we can make a more informed decision before ordering the
+Software. They have proposed a charge of $12, 000, plus expenses, for the
+One - week session, with that cost applied to the first year' s subscription
+Price (approx. $55 - 60 m/yr) should we decide to go forward. The other
+Details (timing, ene resources required, necessary it interface, etc) still
+Need to be worked out, but I believe there is generally a consensus to
+Proceed with the test.
+With my recent relocation to the clean fuels group, I will no longer be
+Responsible for the alaskan pipeline development. However, danny mccarty is
+Pulling together a team consisting of people from nng, nbp and elsewhere in
+Ets to push the project forward. I believe eric gadd will be playing a key
+Role as well. The decision on the long term gas model should appropriately
+Be made by the new project team.
+I have attached a draft of the proposed marketpoint license agreement. It
+Has not yet been fully reviewed by legal (or by shelley c. For the
+" affiliate" issues).
+Let me know if I can provide any other background or assistance.
+Jng

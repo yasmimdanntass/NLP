@@ -1,0 +1,13 @@
+Subject: re: clustering for power
+Jaesoo,
+As we discussed last week on wednesday meeting can you, please,
+Implement clustering for power curves by geographical region. This involves the following:
+1. Deciding together with risk control how many geographical regions we want to use
+And which enron' s curves belong to each region.
+2. Deciding together with risk control how to choose core curves for each region. This decision can
+Be maid based on the a) position size; b) statistical analysis. There might be other considerations.
+3. Doing regression analysis for each curve versus the corresponding core curve.
+Winston,
+Can is it possible to run var for the clustering results obtained by jaesoo with clustering done by sas?
+Should we wait for the stage re - fresh and what is the status on this?
+Tanya.

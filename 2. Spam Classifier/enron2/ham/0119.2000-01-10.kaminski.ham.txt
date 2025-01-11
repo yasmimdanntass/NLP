@@ -1,0 +1,21 @@
+Subject: vega v@ r, credit reserve model update
+Attached is a draft of the vega var implement documentation. We will discuss
+This issue tomorrow.
+Index var and the vega var status:
+Because any modification of the var model has to be coded into the new
+Version by it, the index var model and the vega var model are on the waiting
+List to get into it group' s door. Currently, they are struggling with the
+Credit model. Accord to jonathan le, they will implement the" prudency"
+Model after the" credit" and before anything else. So, it' s uncertain when
+They can begin these two projects.
+Credit reserve model status:
+New version developed by it is still in the debugging stage. Two major
+Difference exist between the new and old versions:
+1) old version uses delta - gammar methodology, new version uses full
+Evaluation. It group is not comfortable with their implementation of the
+" spread option" and" swaption" evaluation. I am working with them on it.
+2) insurance projects are new to the new version. It also wants our help too.
+Only after the it finishes the debugging process, could we start testing the
+New version with the current one.
+Thanks.
+Vincent

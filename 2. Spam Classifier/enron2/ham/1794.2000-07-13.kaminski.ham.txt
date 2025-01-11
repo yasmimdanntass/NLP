@@ -1,0 +1,21 @@
+Subject: monte - carlo library
+Stinson,
+I have created a directory (o:\research\common\projects\options\mclib)
+To hold our monte - carlo models we developed in the past.
+I have the following mc models:
+1. Asian option with two - point vol structure
+2. Asian barrier option
+3. Asian spread option
+4. Time spread option
+5. Asian digital option
+Do we want to include models using american monte - carlo?
+I have
+1. American spread option
+2. Option on min or max of n assets with n as an input
+3. Omicron option model with 3 price processes
+I suggest that all of us save a copy of monte - carlo models in this directory,
+From these,
+We can build a general monte - carlo library. We can also calculate the mc
+Greeks more
+Efficiently now.
+Zimin

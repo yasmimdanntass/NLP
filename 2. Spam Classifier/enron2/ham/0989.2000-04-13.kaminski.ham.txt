@@ -1,0 +1,45 @@
+Subject: ebs goes live!... 15, 000 will be impacted on 7/1/00
+Enron broadband services is the latest addition to the enron sap rollout.
+The apollo and beyond project team and enron' s business units are currently
+Preparing for the project' s final implementation. Apollo and beyond is an
+Enron initiative tasked with laying a common financial, human resources,
+Project management, and procurement foundation throughout the majority of
+Enron' s businesses.
+Ebs" go - live"
+On april lst, enron broadband services supplemented their current sap
+Functionality with hr online and sap hr, including payroll and organizational
+Structure management. Hr online enables the ebs population to enter their
+Own time, view and update their personal information, and view their vacation
+Time and individual payroll information via enron' s intranet.
+Additionally, this implementation enhanced the sap financial, project and
+Procurement processes that ebs has had in operation since april 1, 1999.
+These enhancements included an ebs pilot of b 2 b, a web - based requisitioning
+Tool. Among the benefits of these enhancements will be improved information
+Flow across business units currently on sap.
+July 1" go - live"
+This final apollo and beyond implementation will directly impact more than
+15, 000 enron employees and contractors - - odds are that you are one of them!
+People impacted on july lst include:
+All enron employees paid out of corporate payroll in houston, excluding
+Azurix employees
+The financial communities of enron energy services, enron investment
+Partners, enron north america, enron renewable energy corporation, gas
+Pipeline group, global finance, and global products.
+The project management communities of enron north america, gas pipeline
+Group, global asset operations, global finance, and global products.
+The human resources communities of corporate, global e & p, enron energy
+Services, enron engineering and construction company, enron investment
+Partners, enron north america, enron renewable energy corporation (houston
+Only), the international regions, gas pipeline group, global finance, and
+Global products.
+General sap training will be available in late april via the enron intranet.
+Additional, specific, sap classes and workshops are scheduled to begin in may
+And continue through august. Information on the project can be obtained
+Through the enron intranet at http:// sap. Enron. Com and by contacting business
+Unit representatives currently working with the project. A list of business
+Unit representatives is located on the intranet site.
+Additional information related to the july lst implementation will be
+Communicated to you over the next few months.
+Thank you.
+Melissa becker
+Project leader, apollo and beyond

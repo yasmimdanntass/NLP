@@ -1,0 +1,22 @@
+Subject: new volatility curve generator for uk power
+We have established a set of power volatility curves down to the efa/monthly
+Level of detail that can be marked to market up to 6 years out. Beyond this,
+The volatility decays to what we understand to be the long - term level for
+Power volatility, given our understanding of the behaviour of forward prices
+Over large time - scales.
+The swaption traders can now fit the first 5 - 6 years of the volatility curve
+To the market - observed baseload swaption implied volatilities (typically 3 to
+12 months duration for the underlying swap) and then be in a good position to
+Price other swaptions (including swaptions on individual efa slots)
+Consistent with the curve. There may also be an impact on the daily var
+Calculation.
+An illustration of the current volatility curves is pasted below: -
+These curves will be reset as the market moves, and allow a mark - to - market
+Approach to be followed for our volatility book. The spreadsheet model is
+Saved in t:\readwrte\elec _ uk\models \. Xls and also
+Attached below for houston staff to review.
+[stinson - i' d be grateful if you could offer an opinion/audit to ensure that
+I haven' t missed anything, thanks.]
+Regards,
+Anjam
+X 35383

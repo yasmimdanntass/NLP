@@ -1,0 +1,28 @@
+Subject: 2 - survey/information email 5 - 7 - 01
+Current notes user:
+To ensure that you experience a successful migration from notes to outlook, it is necessary to gather individual user information prior to your date of migration. Please take a few minutes to completely fill out the following survey. When you finish, simply click on the' reply' button then hit' send' your survey will automatically be sent to the outlook 2000 migration mailbox.
+Thank you.
+Outlook 2000 migration team
+Full name:
+Login id:
+Extension:
+Office location:
+What type of computer do you have? (desktop, laptop, both)
+Do you have a pda? If yes, what type do you have: (none, ipaq, palm pilot, jornada)
+Do you have permission to access anyone' s email/calendar?
+If yes, who?
+Does anyone have permission to access your email/calendar?
+If yes, who?
+Are you responsible for updating anyone else' s address book?
+If yes, who?
+Is anyone else responsible for updating your address book?
+If yes, who?
+Do you have access to a shared calendar?
+If yes, which shared calendar?
+Do you have any distribution groups that messaging maintains for you (for mass mailings)?
+If yes, please list here:
+Please list all notes databases applications that you currently use:
+In our efforts to plan the exact date/time of your migration, we also will need to know:
+What are your normal work hours? From: to:
+Will you be out of the office in the near future for vacation, leave, etc?
+If so, when? From (mm/dd/yy): to (mm/dd/yy):

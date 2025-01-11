@@ -1,0 +1,75 @@
+Subject: re: storage model: simple issues
+Brad,
+Here are my thoughts on your concerns.
+* you needs curve inputs. This is an it job. I can help you for the curves
+Before the system is properly set up.
+* intrinsic value vs time value:
+The intrinsic value depends on how you allocate the volumes. If you have a
+Rough idea about the allocation as
+You did in the spreadsheet, we can calucate the intrinsic value within the
+Model. The difference between the
+Total and the intrinsic will be the (option) time value. However, by
+Pre - allocating volumes, you killed some options.
+In the storage model, volumes are allocated dynamically, therefore it is
+Hard to distinguish the intrinsic vs. Time value.
+* factor of loading: factor of loadings are used to give historical
+Correlation matrix. The three factors correspond to
+Paralle shift, slopping and curveture. The covariance matrix in the model
+Is expressed in the form
+Covar = row (vol _ {i}) * (correl (i, j)) * colum (vol _ {j}) where vols are
+The implied volatilities from the vol curve.
+(correl (i, j)) = l * l' + residue (small)
+Where l is the factor of loading matrix. So in a simple words, the factor of
+Loadings (say, 60 x 3) are a simplier way for us to
+Remember the historical correlation matrix (say, 60 x 60).
+Let me know if I can offer further help.
+Zimin
+Brad horn 02/15/2000 07: 15 am
+To: zimin lu/hou/ect@ ect
+Cc: sandra henderson/hou/ect@ ect
+Subject: storage model: simple issues
+Zimin:
+Thanks for your time with the revised storage valuation. Your right to
+Point out the similarity to market bids. Here are some basic questions tied
+To implementation and calibration:
+Model infrastructure/it support: I obviously need to re - build my link to the
+Forward curves as the model is not working in my new location. Short - term
+(aprox 1 month), i' d like to establish a link to the ena database egsprod 32
+In order to fetch the long - dated price and volatility curves. My link to ena
+Forward curves would then be quickly severed in favor of the curves generated
+By the new bridgeline entity (database name and data structure yet to be
+Defined). However, its not clear to me what is required in this two stage
+Process to support your model. Any definition of model input or minimum
+Support requirements you provide is appreciated. I' ll then work with sandra
+Henderson, an enron employee providing our it support, to ensure the model
+Continues to work regardless any downstream system changes that may take
+Place as we build and establish our separate trading systems or databases.
+Meanwhile, is there anything you think you can do to ensure im up and running
+Quickly?
+Sandra: linking excel spreadsheets to bridgeline forward curves will be key
+To all our pricing projects, not just the storage model supplied by research.
+Intrinsic vs extrinsic value: it would be helpful to decompose the model' s
+Calculated storage price and to distinguish intrinsic vs extrinsic (time or
+Option) value. I could easily link a new spreadsheet tab to your model
+Inputs and to calculate the intrinsic value, and then through a simple
+Difference I could determine the extrinsic value. Ive included a simple
+Spreadsheet calculation for the intrinsic value for review. I wanted to
+Share this with you to ask the following:
+Does the nature of the model define intrinsic and extrinsic value differently
+Than the simple difference proposed?
+Do you think it would make sense to do the simple value decomposition in the
+Backcode c - code via. Dll in order to ensure run - time is faster?
+My goal here is straightforward: a) to better understand the model and its
+Sensitivities.; and b) to determine if and when the option approach is
+Associating significant value above and beyond the simple present value of
+The time spreads.
+Factor loadings: what are some of the thoughts or insights you can offer with
+Regards to factor loadings and how I should interpret the graph of the 3
+Factors calculated? Factor loadings have always been a mystery to me. For
+Example, what problems should I be looking for as a warning against
+Mispricing? What, if anything, is implied about 1 day price change or
+Expected curve re - shapings (after all, curve - reshapings are key to storage
+Valuation!!!)?
+Calibration: we are preparing a simple summary of descriptive statistics
+Which should allow me to refine some of the model inputs. I' ll share the
+Data when we are and model results once im up and running.

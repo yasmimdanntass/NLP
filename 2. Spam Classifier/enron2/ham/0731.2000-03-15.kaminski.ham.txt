@@ -1,0 +1,98 @@
+Subject: full circle: asps the new big blue?
+Network world fusion focus: mike jude and nancy meachim
+On application service providers
+Today' s focus: full circle: asps the new big blue?
+03/15/00
+Dear wincenty kaminski,
+Today' s focus: full circle: asps the new
+Big blue?
+By mike jude and nancy meachim
+The terms  & asp  8 and  & ibm  8 may have more in common than being three -
+Letter acronyms.
+Remember big blue of the early  + 60 s? The vision, then, was centralized
+Computing. Mainframe computers hosted complex, expensive applications
+That end users accessed via dumb terminals. It infrastructure,
+Especially memory, was expensive and needed to be controlled. With
+Computing resources centralized, ibm reasoned, they were easier to
+Maintain.
+Of course, ibm got it wrong, in that computers became a cheap commodity.
+And users weren , t happy simply using dumb terminals. They wanted a
+Bigger share in all that technology offered. So, as memory prices fell,
+So did the idea of central control. Dumb terminals were transformed into
+Intelligent desktop machines that could store applications and data. The
+Glass house populated by white - smocked technicians went out of fashion.
+Looking back on those times, many of us would shake our heads and wonder
+How ibm could have been so wrong. But maybe big blue wasn , t so far off.
+Thanks to the advent of application service providers, centralized
+Computing is making a comeback. Asps offer centralized application
+Management.
+The market started as a way to offer the benefits of server
+Advertisement protocol and other complex enterprise resource planning
+Software to small companies or companies with less technical savvy. But
+Asps now host all kinds of applications, including small, multilicensed
+Programs whose images are downloaded to end users on demand. But, the
+Principle remains the same: central control makes support much more
+Efficient and usually cheaper. How about that, ibm?
+To be fair, the dynamics of an asp are very different from old
+Centralized mainframe operations. An asp doesn , t just host and support
+An application for general distribution over an in - house proprietary
+Network. Unlike the ibm vision, an asp is very dependent on network
+Service. It is also very sensitive to service levels. In the  + 60 s, if
+The mainframe let you down, you ended up twiddling your thumbs for an
+Hour or so, and your only recourse was that white - smocked fellow.
+Nowadays, users start to scream if service is interrupted for even a
+Minute. And woe to the asp who brings down a customer operation. The
+World of the asp is much more complex than that of the old  + 60 s shop.
+However, if one could magically transport a computer user from the  + 60 s
+To the wonderful new 2000 s, would it seem all that different to him? In
+An ideal asp world, a la scott mcnealy , s vision, users would sit down
+At a semidumb terminal, download the application du jour, and start
+Working. What did the  + 60 s user do? Kind of the same thing!
+So you are probably wondering, what is the point? Just this: ibm , s
+Problem was leaving the customer out of the equation. And look what
+Happened. Customers rebelled. They didn , t buy ibm , s spiel. It became
+The  & in  8 thing to hate ibm. Why? Because the guys in white smocks
+Couldn , t spell service and didn , t care about customers.
+To be successful, asps need to learn from the past. They need to tattoo
+Service on the forehead of each of their employees. There are too many
+Choices, today, for customers to put up with inferior service. That , s
+One big difference from the  + 60 s. Customers now can literally choose
+Any service provider in the world. Just being big doesn , t cut it these
+Days.
+To contact mike jude and nancy meachim:
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Senior consultant michael jude and research director nancy meachim are
+With enterprise management associates in boulder, colo.,
+(http:// www.. Com), a leading analyst and market
+Research firm focusing exclusively on all aspects of enterprise
+Management. Jude has over 18 years of experience in the
+Telecommunications industry, most recently with us west, where he was a
+Manager of public policy. Mike can be reached at
+Mailto: jude@. Com. Meachim focuses on e - business
+Management. She is currently conducting a research study on asp
+Management that is due to be released in april. Nancy' s email address
+Is mailto: meachim@. Com.
+For related links - - click here for network world' s home page:
+Http:// www. Nwfusion. Com
+Buzz: application otsourcing, network world fusion, 09/27/99
+Asp research page, network world
+All about asps
+Information center for application service providers, their customers
+And delivery partners. Includes resources, events and news. The asp
+Industry consortium.
+Http:// www. Aspindustry. Org /
+Subscription services
+To subscribe or unsubscribe to any network world e - mail newsletters,
+Go to:
+To change your email address, go to:
+Subscription questions? Contact customer service by replying to this
+Message.
+Other questions/comments
+Have editorial comments? Write jeff caruso, newsletter editor, at:
+Mailto: jcaruso@ nww. Com
+For advertising information, write jamie kalbach, account executive,
+At: mailto: jkalbach@ nww. Com
+Network world fusion is part of idg. Net, the idg online network.
+It all starts here:
+Http:// www. Idg. Com
+Copyright network world, inc., 2000

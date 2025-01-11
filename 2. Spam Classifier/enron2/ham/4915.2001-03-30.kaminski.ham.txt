@@ -1,0 +1,28 @@
+Subject: re: enron default swaps
+Darrell,
+I am sending you 2 technical notes on enron default swaps: I hope that they
+Will
+Be useful. I shall read the articles on weekend. I am curious if you
+Find these explanations satisfactory.
+We are very slow in preparing a number of technical documents
+For you for model reviews. We still hope you will be able
+To find some time to review our credit models (for our london
+Credit trading) and var and option pricing related models.
+Also, please check your invoices. I still think we owe you money.
+Vince
+Darrell duffie on 03/28/2001 08: 07: 38 am
+To: vince j kaminski
+Cc:
+Subject: re: enron default swaps
+Vince: according to a bank of america
+Publication, your (enron) default swap spreads
+Are consistently trading about 80
+Basis points wider than your asset swaps.
+Any idea of what is going on here?
+Thanks for any guidance, darrell
+Darrell duffie
+Mail gsb stanford ca 94305 - 5015 usa
+Phone 650 723 1976
+Fax 650 725 7979
+Email duffie@ stanford. Edu
+Web http:// www. Stanford. Edu/~duffie /

@@ -1,0 +1,135 @@
+Subject: risk management meeting at georgia tech
+You are welcome to attend the following meeting in the area of quantitative
+And computational finance and risk management in the mrc auditorium on
+The georgia tech campus from 1 pm to 6 pm on friday, march 30 th.
+There will be five speakers that will give presentations on a variety of
+Topics.
+Dr. Curt hunter, research director, federal reserve bank of chicago
+Dr. Mary mathewes kassis, associate director,
+Georgia state university economic forecasting center
+Dr. Alan white, professor of finance, university of toronto, and
+Mr. Pete van amson, cfa, cpa, vice president, product management,
+Sungard trading and risk systems
+Dr. Dennis wong, vice president, quantitative finance,
+Bank of america securities
+There is no charge for the event.
+This will be the inaugural meeting of the atlanta chapter of the global
+Association of risk professionals (garp). You need not be a member of garp
+To attend the meeting. Information about garp can be found at
+Http:// www. Garp. Com.
+We are asking that attendees rsvp so that plans can be made for refreshments.
+We only ask that you reply to this email or to atlanta@ garp. Com before
+March 21 if you plan to attend. In addition to a break half - way through the
+Afternoon, there will be refreshments immediately following the presentations.
+This event is sponsored by the master of science in quantitative and
+Computational finance program at georgia tech, sungard trading and risk
+Systems, and
+Suntrust banks, inc.
+Please pass along this announcement to your associates.
+Information about the talks and the speakers
+Dr. Curt hunter
+Research director, federal reserve bank of chicago
+Dr. Hunter' s discussion is entitled" lessons learned from recent global
+Financial crises." since 1990, major banking and currency crises have
+Occurred in many countries around the world - including mexico and latin
+America in 1994, east asia in 1997 - 98, and russia and brazil in 1998,
+Among others - with large costs both to the individual countries
+Experiencing the crises and to other nations. As a result, considerable
+Effort has been expended by economists and policymakers to identify the
+Causes of these crises and to design programs with the aim of preventing,
+If possible, similar crises from occurring in the future, and minimizing
+The costs when they do occur. This talk reviews the key lessons
+Policymakers have learned from these recent episodes and highlights the
+Role that risk management plays in crisis prevention.
+Dr. William c. (curt) hunter is senior vice president and director of
+Research at the federal reserve bank of chicago. He is a member of the
+Bank' s management committee and serves as the bank' s chief economist.
+He is responsible for a staff of 115 professionals and oversees the
+Bank' s research activities in the areas of monetary policy, banking
+And financial markets, and regional economics programs. He is also
+Responsible for the bank' s statistical and financial reports function.
+Dr. Hunter is an associate economist on the federal open market committee,
+The federal reserve system' s primary monetary policy group.
+Previously, he was a vice president at the federal reserve bank of
+Atlanta and has served on the faculties of the university of georgia,
+Emory university, chicago state university, and northwestern university.
+He has consulted with numerous foreign central banks, official agencies,
+And private corporations and serves on the boards of several research
+And nonprofit organizations. He is co - editor of research in banking
+And finance and serves on the editorial boards of several academic
+Journals. Dr. Hunter earned a b. S. Degree in 1970 from hampton
+Institute (now hampton university), an mba in finance in 1972 and a ph. D.
+In finance and environment in 1978 from northwestern university.
+Dr. Mary mathewes kassis
+Associate director, georgia state university economic forecasting center
+Dr. Kassis will provide her outlook for the georgia and atlanta economies
+Over the next two years. She will focus on economic risks specific to
+Atlanta, including its exposure to the contraction of the it sector,
+Potential over development of office space, and a declining rate of job
+Growth. Regardless of your field, this should be a very informative
+Discussion.
+Dr. Kassis has been analyzing the southeast economy for over five years.
+She writes a quarterly report that examines the current economic
+Conditions in 13 southeastern states as well as an outlook for the next
+Couple of years. She also prepares an in - depth quarterly analysis of the
+Outlook for the georgia and atlanta economies. She is regularly quoted
+In publications such as the wall street journal, the atlanta journal -
+Constitution, and the atlanta business chronicle. Dr. Kassis received
+A b. A. In economics and political science from agnes scott college and
+A ph. D. In economics from georgia state university.
+Dr. Alan white
+Professor of finance, university of toronto
+Mr. Pete van amson, cfa, cpa
+Vice president, product management, sungard trading and risk systems
+Dr. Alan white and mr. Peter van amson will discuss applied term
+Structure modeling. Sungard has implemented a version of the hull - white
+Term structure model that banks use in measuring and managing the market
+Value sensitivity of various balance sheet components. Peter will touch
+On some of the complexities involved in modeling non - maturity deposits;
+With regard to the term structure of interest rates, alan will discuss
+Some of the problems and possible solutions in bridging the divide between
+What is required from a theoretical standpoint and what is feasible
+In a production process.
+Dr. Alan white is a professor of finance in the joseph l. Rotman school
+Of management at the university of toronto. His research is principally
+In the area of derivative securities, their pricing and their use by
+Financial institutions for risk management. He is most noted for his
+Work on modeling the term structure of interest rates in a way that
+Is consistent with observed market data. Recently his research has been
+Focused on the pricing and management of credit risk. Professor white
+Has published many scholarly articles, but is perhaps best recognized
+For providing lucid insights into the practical application and
+Implementation of this research. Much of his material is included in
+The best - selling book hull - white on derivatives, co - authored with
+John hull.
+Mr. Peter van amson is the vice president of product management at
+Sungard trading and risk systems where he is responsible for the
+Development of all functional specifications for the bancware product
+Suite. In this capacity, he frequently interacts with sungard
+User - committees, leading academics, and other leading industry
+Practitioners. He frequently makes presentations at conferences and
+Seminars sponsored by bai, amifs, the occ, as well as other organizations.
+Prior to working with bancware, peter headed the strategic planning
+Function for the plymouth rock company, one of america' s most profitable
+Insurance holding companies. In this role, he helped define the
+Company' s strategic vision as well as being involved in investment
+Analysis, asset/liability management and quantitative profitability
+Aanalysis. Peter has a b. S. And m. S. In accounting from the state
+University of new york at binghamton. He is currently a ph. D. Candidate
+At the university of michigan. Peter has received numerous academic awards
+And honors including the william andrew paton fellowship at the
+University of michigan and the new york state society of certified
+Public accountants award for academic excellence.
+Dr. Dennis wong
+Vice president, quantitative finance, bank of america securities
+Dr. Wong will discuss competing vendor approaches to credit risk
+Modeling, including creditmetrics, kmv, creditrisk + and creditportfolio
+View. These models are viewed in a theoretical framework that
+Identifies migration probabilities, credit exposure and loss
+Aggregation.
+Dr. Wong has a ph. D. In mathematical finance from carnegie mellon
+University. He has given talks and seminars for the american
+Mathematical society, the society for industrial and applied mathematics,
+The university of toronto, and georgia tech. He is the author of
+" generalized optimal stopping and financial markets", published in
+Pitman research notes in mathematics series.

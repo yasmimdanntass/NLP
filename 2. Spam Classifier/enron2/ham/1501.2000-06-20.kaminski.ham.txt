@@ -1,0 +1,57 @@
+Subject: re: it was nice meeting you at the informs meeting.
+I enjoyed talking to you in the slc conference. Thank you for the reference
+To your recent publication. Let me find out about rice seminars and any
+Interest within our group and get back to you.
+Regards,
+Krishna.
+Uryasev@ aol. Com on 06/18/2000 05: 58: 38 am
+To:
+Cc:
+Subject: it was nice meeting you at the informs meeting.
+Dear dr. Krishnarao,
+It was nice meeting you at the informs meeting. If it is of interest, you can
+Download my recent papers and reports in the area of risk management and
+Financial engineering from
+Further, I give the list of recent downloadable publications related to the
+Risk management and financial engineering.
+1. Uryasev, s. Conditional value - at - risk: optimization algorithms and
+Applications. Financial engineering news, no. 14, february, 2000.
+2. Uryasev, s. Introduction to the theory of probabilistic functions and
+Percentiles (value - at - risk). Research report 2000 - 7. Ise dept., university of
+Florida, may 2000.
+3. Chekhlov, a., uryasev, s., and m. Zabarankin. Portfolio optimization with
+Drawdown constraints. Research report 2000 - 5. Ise dept., university of
+Florida, april 2000.
+4. Palmquist, j., uryasev, s., and p. Krokhmal. Portfolio optimization with
+Conditional value - at - risk objective and constraints. Research report 99 - 14.
+Ise dept., university of florida, november 1999.
+5. Andersson, f. And s. Uryasev. Credit risk optimization with conditional
+Value - at - risk criterion. Research report 99 - 9. Ise dept., university of
+Florida, august 1999.
+6. Uryasev, s. And r. T. Rockafellar. Optimization of conditional
+Value - at - risk. Research report 99 - 4. Ise dept., university of florida, june
+1999.
+I am e - mailing to you from japan. I am for three month at the center for
+Research in advanced financial technology, tokyo institute of technology.
+Here in japan, I am collaborating with my colleges on new classification
+Techniques. Suppose you have some data set (e. G., a data set of financial
+Records of companies) and you want to rate the companies based on this (or
+Some other information). Linear programming and semI - definite programming
+Methods are used for this purpose. With these techniques we are able to
+Calculate credit rating of investment companies (aaa, bbb,  (). Similar
+Techniques can be used for scoring of credit card applications and other
+Classification problems.
+I am interested in applied projects in energy, risk management, and financial
+Engineering area. I will be happy to collaborate with you on this subject. I
+Am looking for financial support for phd students who may work on your
+Applications. Also, I will be interested in to give a presentation at your
+Company or at the rice university, as we discussed.
+Best regards,
+Stan uryasev
+Prof. Stanislav uryasev
+University of florida, ise
+Po box 116595
+303 weil hall
+Gainesville, fl 32611 - 6595
+E - mail: uryasev@ ise. Ufl. Edu
+Url: www. Ise. Ufl. Edu/uryasev

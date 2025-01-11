@@ -1,0 +1,9 @@
+Subject: re: suggestion: implementing var based on non - normal log - returns
+Simulations
+Everybody,
+We were talking for a while about using non - normal distributions in the
+Monte - carlo simulations in our var model.
+I put together some suggestion regarding this. The text is under
+O:\_ dropbox\tanya\non _ normal _ logs. Doc
+Look through this 3 page document, and let me know what you think, please.
+Tanya

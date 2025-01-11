@@ -1,0 +1,5 @@
+Subject: storage model security
+Stinson,
+I have added a time bomb and security file check to the model.
+We are ready to release it to brad, and improve the model from his feed back.
+Zimin

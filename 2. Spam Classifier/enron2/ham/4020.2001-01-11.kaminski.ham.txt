@@ -1,0 +1,53 @@
+Subject: re: costless collar for hanover
+Bob,
+Good job.
+Zimin
+Bob lee@ enron
+01/11/2001 08: 10 am
+To: zimin lu/hou/ect@ ect
+Cc:
+Subject: costless collar for hanover
+FyI - looks like we' ve converged.
+Bob
+- - - - - - - - - - - - - - - - - - - - - - forwarded by bob lee/na/enron on 01/11/2001 07: 04 am
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+From: chris loehr@ ect on 01/10/2001 04: 50 pm
+To: ron baker/corp/enron@ enron
+Cc: anne yaeger/hou/ect@ ect, ryan siurek/corp/enron@ enron, wes
+Colwell/hou/ect@ ect, bob lee/na/enron@ enron
+Subject: costless collar for hanover
+Ryan and I have looked at the research model and made some adjustments.
+The treasury rate at 12/28/00 was 5. 127% (research uses 4. 6% which probably
+Takes into account the recent fed 50 bp cut)
+The maturity is 6/30/03 or 2. 5 years (research uses 3 years)
+Using these assumptions and a 47. 2% volatility in the bloomberg collar
+Function results in a ceiling of 92 103/256 and a floor of 34 7/8. After
+Adjusting the research model for the changes above, ryan and I got a similar
+Range from the research model so we are comfortable with these numbers.
+Let me know if there are any questions.
+Chris
+X 33092
+Ron baker@ enron
+01/10/2001 10: 52 am
+To: wes colwell/hou/ect@ ect, ryan siurek/corp/enron@ enron, chris
+Loehr/hou/ect@ ect, anne yaeger/hou/ect@ ect
+Cc:
+Subject: costless collar
+Attached is the updated valuation from bob lee in research using the actual
+3 - year historical vol. Of 47. 2 which results in a call strike of 97. 978.
+Also, he has confirmed that the presence of the swap has no impact on the
+Value of the collar. Let me know if you have questions. Thanks,
+Ron
+- - - - - forwarded by ron baker/corp/enron on 01/10/2001 10: 28 am - - - - -
+Bob lee
+01/10/2001 08: 44 am
+To: andrea v reed/hou/ect@ ect, ron baker/corp/enron@ enron
+Cc: zimin lu/hou/ect@ ect
+Subject: costless collar
+Here' s the calculation using the historical volatility. The strike drops
+Slightly. The volatility in the calculation is the expected future
+Vol; atility - looking at traded options for hc and an expected fall off in
+Vol for long dated options, one could justify a vol estimate in the range 40
+- 50% for the collar.
+The presence of the swap makes no difference on the collar valuation.
+Bob

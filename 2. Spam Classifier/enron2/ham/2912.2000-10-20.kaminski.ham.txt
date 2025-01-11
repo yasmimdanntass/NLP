@@ -1,0 +1,15 @@
+Subject: exotica (yet again)
+HI guys
+I need some advice.
+Sharad is in the process of finding differences between your and our versions
+Of exotica. At some point we will need to migrate london office over to your
+More up - to - date version, and i' m concerned that there may be rac - style
+Implications. I' m in favour of using the it testers to carry out formal
+Regression testing, and they are apparently able to do this.
+Do we need to get our heads together to" form a view" before we involve rac
+Or the business groups?
+Anjam tells sharad that london exotica was built using excel 95, and that
+Neither he nor zimin knows how to build/compile the xla using later versions
+Of excel. Is this true? If so, then we need to migrate to xlls sooner
+Rather than later because of the maintenance implications.
+Steve

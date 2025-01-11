@@ -1,0 +1,13 @@
+Subject: credit exposure model
+Bill,
+Alex and I are working on the credit exposure model. We finished the initial
+Design issues regarding
+Input and output. We would like to have a meeting with you to seek feedback.
+We also preceeded
+To write the underlying model. So feedback at early stage can be important
+For the later development.
+Paulo issler is working on the short term enhancement to the credit loss
+Model: adding asian option to
+The model built by vasant and amitava.
+Let me know when is a good time for us to meet.
+Zimin

@@ -1,0 +1,55 @@
+Subject: re: real options presentation
+Thanks for the comments grant. The presentation is for a couple of external
+Conferences that vince volunteered me for - vince has ok' d the content, and
+Stinson raised exactly the same issues as you. Unfortunately I just don' t
+Seem to be getting any response from risk whatsoever on the publication of my
+Article, so these conferences will be the public debut for my real options
+Notation.
+Of course the discounting/risk neutrality thing is where the real judgement
+Sits. When questions arise i' ll take the line that while research formulates
+The models using appropriate derivatives/market based valuation methods, we
+Work with our rac group which considers the discounting to be associated with
+Various risks, and chooses these rates appropriately. The notation makes
+Clear which uncertainties we are exposed to at different stages of the deals,
+Which assists in choosing the rates.
+In practice i' m not yet at the stage where originators are using my notation
+Yet - another reason I can' t say too much about its actual use at the
+Conference. I' m producing various tools for deterministic hydro
+Optimization, gbm swing option valuation, and deterministic dp optimization
+For genset dispatch which people want right now - i' m working in the
+Background on the kind of modelling my notation demands. People are getting
+To know me as a guy who can solve their immediate problems, and they' ll be
+More likely to listen when I start rolling out the" proper" options - based
+Models. My notation is currently used only in the specs i' m writing for the
+Tools i' m producing.
+I' ll be turning dale' s spreadsheet - based power plant spread model into an
+American monte carlo tool, which will then be available for inclusion in
+Other models. I think by the end of the summer the real options theoretical
+Work will start to bear fruit, one year after I initially proposed the
+Notation. With the quant it group i' m co - creating in place, I may yet see
+The automated diagramming/pricing tool made real.
+Thanks also for the pointer to tom halliburton. The use of the lingo
+Lp/integer package is something i' ve been presented with for the teesside
+Plant operation optimizer, rather than something I chose. The perm (physical
+Energy risk mgt) group just got a couple of analysts to hack it together
+(including natasha danilochkina), then asked me to tidy it up when it didn' t
+Work. They are going to use their existing faulty model for now (to meet
+Their project deadlines), and i' m sketching out a proper mathematical spec
+For the problem.
+I' ve persuaded (!) them that this sort of business - critical system should be
+Developed properly by research, and they now seem happy to fall into line.
+Their wilton plant optimizer was developed by one peter morawitz, the guy i
+Hoped to recruit into research, and they obviously didn' t realise he was
+Better than average at quantitative modelling. Anyway they now accept that
+Doing it properly will take months rather than weeks, and i' ll have a freer
+Hand in my choice of modelling tool - so a chat with tom would be extremely
+Valuable.
+Cheers,
+Steve
+Enron capital is
+This an internal enron or external presentation? If external, I would say it
+Is just at the limit before sliding into proprietary stuff. Perhaps that' s
+Why you' ve neatly almost entirely avoided questions about discounting and
+Risk - neutrality or lack of it?
+Regards,
+Grant.

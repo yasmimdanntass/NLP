@@ -1,0 +1,35 @@
+Subject: re: var
+Vince
+Thanks for the update - especially your point 3 which echoes our own discussion yesterday: I want to clarify responsibilities for maintenance and administration of var.
+We need transparency around the process so that mapping decisions, for example, are easily made, supported and reviewed.
+It became clear after last friday' s events, that we are in an awkward paradigm with respect to how we handle var here, particularly at" pressure points".
+I am putting together the scope of a" general overhaul" of the var process, including method and administration, to which I hope we would all buy in, so be assured of our co - operation.
+Dp
+- - - - - original message - - - - -
+From: kaminski, vince
+Sent: wednesday, april 11, 2001 2: 49 pm
+To: port, david
+Cc: lavorato, john; kaminski, vince; tamarchenko, tanya
+Subject: var
+David,
+During today' s var coordination meeting we had a discussion of issues
+Related to mapping of the forward price curves into core locations.
+Mapping is a necessity dictated by the limitations of the computer system:
+We have to reduce the dimensionality of the problem to stay within the bounds
+Of available cpu memory. Also, in some cases the quality of price discovery is poor
+And it' s difficult to model the price curves independently: we solve the problem by mapping
+Them into more liquid and better behaved core locations curves.
+We have agreed on the following:
+1. Winston will investigate the it side and determine to what extent we can increase the number
+Of forward price curves that are simulated as basic (core) curves. He will investigate the impact of a larger
+Number of the core curves on the time required to complete the var run.
+2. The curves associated with the biggest 10 - 20 positions in each commodity should be
+Modeled as core curves (i. E. No mapping into other locations). It makes sense to monitor
+The biggest risks separately and avoid aggregating them into less transparent aggregates.
+3. The results of an automated clustering (mapping) procedures should be systematically
+Monitored by a human and corrected if they misrepresent the risks of the trading positions.
+This responsibility should be vested with one person (right now the responsibility is
+Dispersed through the organization and this means in practice that nobody
+Is responsible). Research can allocate one person to this task;
+Cooperation of trading and rac will be critical.
+Vince

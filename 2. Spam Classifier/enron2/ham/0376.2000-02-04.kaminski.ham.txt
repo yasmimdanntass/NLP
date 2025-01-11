@@ -1,0 +1,5 @@
+Subject: update - rofr
+Per our meeting, I added a switch so that the pipeline can accept or reject
+The best bid
+If the best bid is not the cap rate.
+Zimin

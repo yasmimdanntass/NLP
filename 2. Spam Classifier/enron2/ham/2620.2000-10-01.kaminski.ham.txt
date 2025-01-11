@@ -1,0 +1,62 @@
+Subject: re: informs abstract (fwd)
+- - - - - - - - - - forwarded message - - - - - - - - - -
+Date: sun, 1 oct 2000 14: 29: 20 - 0400 (edt)
+From: shijie deng
+To: vkaminski@ aol. Com
+Cc: shijie deng
+Subject: re: informs abstract
+Vince,
+Thanks for the abstract! For the purpose of the conference program
+Listing, the conference organizers need a title and an abstract which is
+Longer than 50 words. Based on the abstract that you sent me, I took the
+Liberty to make up a title and the 50 - word abstract (attached below).
+Please make changes as you feel necessary and send them back to me. I' ll
+Send them out to the organizers once I get your confirmation on this.
+Best,
+Shijie
+Title: current challenges in modeling power price volatility
+Author: dr. Vince kaminski, head of quantitative research, enron capital &
+Trade resources
+Abstract:
+The power market developments in the us have created several unique
+Challenges for energy industry economists. We discuss the major factors
+Underlying
+The exceptionally high volatility of electricity prices. We feel that some of
+Them may be a necessary price to pay for increased market efficiency and
+Expanded customer choice.
+ShI - jie deng
+Assistant professor
+School of isye
+Georgia institute of technology
+Office phone: (404) 894 - 6519
+E - mail: deng@ isye. Gatech. Edu
+Home page: http:// www. Isye. Gatech. Edu/~deng
+On sun, 1 oct 2000 vkaminski@ aol. Com wrote:
+> shijie,
+>
+> I am sending you the abstract for my informs presentation.
+>
+> vince
+>
+>
+> * * * * *
+>
+>
+> the last three years were characterized by exceptionally high volatility of
+> the power prices in the us markets. The market developments have created a
+> number of unique challenges for energy industry economists. One immediate
+> question we have to answer is how to measure volatility of energy prices.
+> although we can all agree that the prices in the power markets are
+> characterized by high variability, the traditional measures used in
+Financial
+> economics (annualized standard deviation of log price returns) may not fit
+> well electricity prices. The second challenge is to explain the sources of
+> high price volatility and to answer the question to what extent it can be
+> attributed to problems that can be addressed in the long run. Such problems
+> include flaws in market design that allow some market participants to abuse
+> market power, limited availability and/or unequal access to transmission,
+> temporary shortages of generation capacity. Some factors underlying high
+> volatility of electricity prices may be of permanent nature and may be a
+> necessary price to pay for increased market efficiency and expanded customer
+> choice.
+>

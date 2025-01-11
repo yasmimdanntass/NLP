@@ -1,0 +1,36 @@
+Subject: failure notice
+Hi. This is the qmail - send program at nsl. Extremekanal. Com.
+I' m afraid I wasn' t able to deliver your message to the following addresses.
+This is a permanent error; i' ve given up. Sorry it didn' t work out.
+:
+Sorry, no mailbox here by that name. (#5. 1. 1)
+- - - below this line is a copy of the message.
+Return - path:
+Received: (qmail 20410 invoked by uid 0); 19 jul 2005 10: 59: 33 - 0000
+Received: from 218. 2. 27. 239 by nsl (envelope - from, uid 1005) with qmail - scanner - 1. 25
+(clamuko: 0. 65.
+Clear: rc: 0 (218. 2. 27. 239):.
+Processed in 1. 547743 secs); 19 jul 2005 10: 59: 33 - 0000
+Received: from unknown (helo mailwisconsin. Com) (218. 2. 27. 239)
+By 192. 168. 2. 2 with smtp; 19 jul 2005 10: 59: 31 - 0000
+Received: from 205. 214. 42. 66
+(squirrelmail authenticated user projecthoneypot@ projecthoneypot. Org);
+By mailwisconsin. Com with http id j 87 gzo 09359978;
+Tue, 19 jul 2005 10: 57: 46 + 0000
+Message - id:
+Date: tue, 19 jul 2005 10: 57: 46 + 0000
+Subject: just to her...
+From:" barry castillo"
+To: gogo@ sportkanal. Com
+User - agent: squirrelmail/1. 4. 3 a
+X - mailer: squirrelmail/1. 4. 3 a
+Mime - version: 1. 0
+Content - type: text/html; charset = iso - 8859 - 1
+Content - transfer - encoding: 8 bit
+X - priority: 3 (normal)
+Importance: normal
+Soft viagra at $1. 62 per dose
+Ready to boost your sex life? Positive?
+Time to do it right now!
+Order soft viagra at incredibly low prices
+Starting at $1. 99 per dose! Unbelivabie!

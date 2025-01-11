@@ -1,0 +1,53 @@
+Subject: mail delivery failed: returning message to sender
+This message was created automatically by mail delivery software.
+A message that you sent could not be delivered to one or more of its
+Recipients. This is a permanent error. The following address (es) failed:
+Rrrhythms@ aol. Com
+Smtp error from remote mailer after end of data:
+Host mailin - 01. Mx. Aol. Com [205. 188. 159. 57]: 554 -:
+(hvu: bl) http:// postmaster. Info. Aol. Com/errors/554 hvubl. Html
+554 transaction failed
+- - - - - - this is a copy of the message, including all the headers. - - - - - -
+Return - path:
+Received: from mailbox. Hrnoc. Net ([216. 120. 225. 22])
+By relay 3. Hrnoc. Net with smtp (exim 4. 32; freebsd)
+Id ldupna - 000 nel - lk
+For rrrhythms@ aol. Com; tue, 19 jul 2005 06: 57: 40 - 0400
+Received: (qmail 59909 invoked by uid 89); 19 jul 2005 10: 57: 46 - 0000
+Delivered - to: info@ pasentertainment. Com
+Received: (qmail 59899 invoked by uid 89); 19 jul 2005 10: 57: 46 - 0000
+Received: from mxl. Hrnoc. Net (216. 120. 232. 254)
+By mailbox. Hrnoc. Net with qmtp; 19 jul 2005 10: 57: 46 - 0000
+Received: (qmail 9603 invoked by uid 513); 19 jul 2005 10: 57: 44 - 0000
+Received: from projecthoneypot@ projecthoneypot. Org by mxl. Hrnoc. Net by uid 503 with qmail - scanner - 1. 20 st
+(clamuko: 0. 70. Spamassassin: 2. 63. Clear: rc: 0 (218. 43. 171. 70): sa: 0 (1. 6/15. 0):.
+Processed in 0. 802258 secs); 19 jul 2005 10: 57: 44 - 0000
+X - spam - status: no, hits = 1. 6 required = 15. 0
+X - qmail - scanner - mail - from: projecthoneypot@ projecthoneypot. Org via mxl. Hrnoc. Net
+X - qmail - scanner: 1. 20 st (clear: rc: 0 (218. 43. 171. 70): sa: 0 (1. 6/15. 0):. Processed in 0. 802258 secs)
+Received: from pl 070 - ipado 2 sinnagasak. Nagasaki. Ocn. Ne. Jp (helo mailwisconsin. Com) (218. 43. 171. 70)
+By mxl. Hrnoc. Net with smtp; 19 jul 2005 10: 57: 43 - 0000
+Received: from 205. 214. 42. 66
+(squirrelmail authenticated user projecthoneypot@ projecthoneypot. Org);
+By mailwisconsin. Com with http id j 87 gzo 24815595;
+Tue, 19 jul 2005 10: 57: 46 + 0000
+Message - id:
+Date: tue, 19 jul 2005 10: 57: 46 + 0000
+Subject: just to her...
+From:" barry castillo"
+To: info@ pasentertainment. Com
+User - agent: squirrelmail/1. 4. 3 a
+X - mailer: squirrelmail/1. 4. 3 a
+Mime - version: 1. 0
+Content - type: text/html; charset = iso - 8859 - 1
+Content - transfer - encoding: 8 bit
+X - priority: 3 (normal)
+Importance: normal
+X - hr - scan - signature: 2 fbcfbdl 81 f 732 eb 7 bl 2270 bfad 389 b 6
+X - hr - sa - score: ()
+X - hr - status: hr _ avscanned - (projecthoneypot@ projecthoneypot. Org/216. 120. 225. 22)
+Soft viagra at $1. 62 per dose
+Ready to boost your sex life? Positive?
+Time to do it right now!
+Order soft viagra at incredibly low prices
+Starting at $1. 99 per dose! Unbeiivable!

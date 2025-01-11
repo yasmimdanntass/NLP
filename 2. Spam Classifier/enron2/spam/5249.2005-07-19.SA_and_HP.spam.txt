@@ -1,0 +1,7 @@
+Subject: failure notice
+Hi. This is the qmail - send program at bouncehost.
+I' m afraid I wasn' t able to deliver your message to the following addresses.
+This is a permanent error; i' ve given up. Sorry it didn' t work out.
+:
+Sorry, no mailbox here by that name. Vpopmail (#5. 1. 1)
+- - - enclosed are the original headers of the message.

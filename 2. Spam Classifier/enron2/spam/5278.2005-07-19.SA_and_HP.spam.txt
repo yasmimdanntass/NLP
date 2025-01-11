@@ -1,0 +1,8 @@
+Subject: returned mail: see transcript for details
+The original message was received at tue, 19 jul 2005 12: 59: 14 + 0200
+From chelloo 81018216102. Chello. Pl [81. 18. 216. 102]
+- - - - - the following addresses had permanent fatal errors - - - - -
+(reason: insufficient permission)
+- - - - - transcript of session follows - - - - -
+Maildrop: maildir over quota.
+550 5. 0. 0... Insufficient permission

@@ -1,0 +1,15 @@
+Subject: re: cplex floating license
+Chonawee and I just had a phone conversation with cplex. There are other
+Alternatives (products) that may help in saving time and cost. Chonawee and i
+Feel that one floating develoment license, and one or two opl (a package on
+Sale that provides modeling and optimization features) licenses will do. In
+Addition, we need floating deployment licenses. For the development licenses,
+The charges should be split" equally" between the different groups that may
+Ask for optimization help (although it is hard to predict who may ask for
+Future help). We are suggesting equally since these licenses are used to
+Develop the needed solution but are not (in general) used to run the
+Software. The deployment licenses can be charged on per - use basis for
+Different groups.
+Cplex is going to send us a new quote. We' ll make the decision soon after
+That.
+- samer

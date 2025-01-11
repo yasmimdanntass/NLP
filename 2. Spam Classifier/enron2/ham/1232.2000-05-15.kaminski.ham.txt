@@ -1,0 +1,70 @@
+Subject: greg, fyI - jeff asked me to forward this to you for your review. Srs
+- - - - - - - - - - - - - - - - - - - - - - forwarded by sherrI sera/corp/enron on 05/15/2000
+04: 25 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+" joseph a. Cherian" on 05/09/2000 08: 10: 19 am
+To:" jeffrey k. Skilling"
+Cc: vince j kaminski," robert a. Jarrow"
+," robert c. Merton"
+Subject:
+Mr. Jeffrey k. Skilling
+President and c. O. O.,
+Enron corp.
+Dear jeff,
+This email is from robert jarrow (cornell) and myself (joe cherian). I hope
+You recall meeting/lunching with bob jarrow & me when you keynoted at my
+1999 math finance day conference here at boston university. I wanted to
+Introduce you to skg inc., a startup that is focused on providing an
+Innovative service to the electronic trading community. Messers kuppuswamy
+Seshadhri, sriketan mahanti, and gaurav mallik are the principal founders
+Of skg, inc. Bob jarrow and I represent the company' s scientific advisory
+Board. Nobel laureate robert merton, who also sat on our table during your
+Keynote address, very kindly serves as an ad hoc senior advisor to skg and
+Has been an invaluable resource to skg, including putting us in touch with
+Jp morgan. Coincidentally, the c. O. O. Of jp morgan capital corp. Ed
+Colloton, in an april 7 meeting told us he would introduce us to the c. F. O.
+Of enron online, whom he knows and at which he felt skg would have huge
+Value - adding opportunities. However, given ed' s busy travel schedule, i
+Don' t believe he has been able to do that yet. Hence this joint decision by
+Bob jarrow and myself to send you this email.
+Skg' s solution is to provide dynamic pricing and value maximization in
+Electronic trading of securities/commodities on ecns and atss (alternative
+Trading systems). It achieves this through a process of" strategic
+Negotiation" using automated agents (intelligent software manifestations).
+Our system should not be viewed as an ecn, but rather as an enhancement to
+Any extant trading system, be it an ecn, ats, clob, nasdaq, etc. Our
+Initial system design has been conducted for financial instruments trading,
+E. G. Bonds/equities, but our strategy is as much applicable to energy/power
+Instruments trading, high speed communications bandwidth trading, and other
+Web - based commodities trading, which we believe is of interest to enron
+Online.
+Skg is superior to existing solutions in the following way:
+1) it considers multiple attributes, e. G., price, time, volatility,
+Bandwidth. (in high speed communication bandwidth scenarios, for example,
+The dimensions could be price, bandwidth size, time for which bandwidth
+Available, continguity of the allocation, and such.)
+2) it involves dynamic matching as opposed to" static" matching.
+3) it is multI - lateral.
+4) it adapts itself dynamically to changing market conditions.
+5) it allows traders to make important trade - offs, as they do in
+Traditional markets.
+Currently, skg is involved in discussions with the heads of trading at
+Fidelity, putnam investments, lehman bros., kpmg, meridien research,
+Salomon smith barney, jp morgan, state street, banc of america, mckinsey,
+Citizens power, and a host of other folks.
+We think we have a value - adding service to provide to enron online or any
+Other enron subsidiary that the skg offering matches and that you deem fit.
+Skg' s founders and I will be very happy to provide you or your
+Representative (s) with more details, including a demo of the prototype, in
+A meeting. We are therefore hopeful that you will be able to arrange
+Something appropriate.
+Thanks very much, jeff! We look forward to hearing from you.
+With warm regards,
+Joseph cherian and robert jarrow
+Cc: professor robert c. Merton
+Joseph a. Cherian
+Associate professor of finance
+Boston university school of management
+595 commonwealth avenue, room 522 h
+Boston, ma 02215
+Tel: 617 - 353 - 2679 (o)
+617 - 353 - 6667 (fax)

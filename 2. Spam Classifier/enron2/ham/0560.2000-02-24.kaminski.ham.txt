@@ -1,0 +1,22 @@
+Subject: ljm
+Vince/stinson:
+The following is an update on ljm deal:
+1) I participated on a conference call with aa (jitendra and others) and our
+Accounting/credit group (wes, bill bradford and others) yesturday, in which
+We discussed the best approach for definining credit reserves at year - end for
+The puts we own.
+2) a big chunck of the meeting was dedicated to explain aa the details of the
+Deal. Little progress was made on achieving the meeting' s goal.
+3) apparently, accounting did want to expose the calculation we made for puts
+Value that considers credit risk - the two factor model we developed. That
+Line of action was implied on a pre - meeting we had early that morning. From
+My understanding, accounting argues that we should not make any credit
+Reserve because we could not liquidate our position by year - end.
+4) at a certain point jintendra suggested me to use a two factor
+Mc - simulation for calculating the position with credit risk. The approach is
+Actually a more simplified version of the model we have. I and nobody
+Mentioned the results we got from our 2 - factor model.
+5) at that same afternoon I knew from accounting that we are in a process of
+Unwinding our position.
+These are the main points. Please let me know if need more details.
+Paulo issler

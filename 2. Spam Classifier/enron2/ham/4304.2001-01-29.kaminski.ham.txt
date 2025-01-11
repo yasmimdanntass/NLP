@@ -1,0 +1,50 @@
+Subject: erac koch p + spread options
+- - - - - - - - - - - - - - - - - - - - - - forwarded by stinson gibner/hou/ect on 01/29/2001
+10: 42 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Stinson gibner
+01/29/2001 09: 47 am
+To: bob lee/na/enron@ enron, paulo issler/hou/ect@ ect, zimin lu/hou/ect@ ect
+Cc:
+Subject: erac koch p + spread options
+Booking spreadsheet in in o:\research\common\projects\exotic 2001 _ 0125. Xls
+Sheet where options are booked is called" index deals".
+- - stinson
+- - - - - - - - - - - - - - - - - - - - - - forwarded by stinson gibner/hou/ect on 01/29/2001
+09: 43 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mark fondren
+01/26/2001 10: 53 am
+To: stinson gibner/hou/ect@ ect
+Cc:
+Subject: erac koch p + spread options
+- - - - - - - - - - - - - - - - - - - - - - forwarded by mark fondren/hou/ect on 01/26/2001 10: 53
+Am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mark fondren
+01/25/2001 12: 07 pm
+To: john l nowlan/hou/ect@ ect
+Cc: spencer vosko/hou/ect@ ect
+Subject: erac koch p + spread options
+Price 1 = wtI cushing physical cash price (wtI nymex
+Contract) for example, the april 2001
+WtI cushing price equals the aprol wtI nymex
+Contract.
+Price 2 = koch oil posting for west texas/new mexico intermediate.
+Koch p + = price 1 - price 2
+Price 2 is calculated by subtracting 3 spreads from price 1
+1. Koch posting/wtI nymex basis spread
+2. 66. 6% (aprilol/mayol wtI nymex spread)
+3. 33. 3% (aprilol/junol wtI nymex spread)
+Example using 1/24/2001 wtI settles aprol 28. 31
+Mayol 27. 72
+Junol 27. 19
+April 2001 koch posting = april 2001 wtI nymex settlement -
+Koch/nymex basis spread -. 666 (apr/may) -. 333 (apr/jun)
+= 28. 31 -
+2. 75 -. 666 (. 59) -. 333 (1. 12)
+= 28. 31 -
+2. 75 -. 3929 -. 37296
+= 24. 794
+Koch p + = 28. 31 - 24. 794
+= 3. 516
+Please call with any questions
+Mark f
+Ext 853 - 1982

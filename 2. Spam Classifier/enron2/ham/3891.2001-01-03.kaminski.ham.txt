@@ -1,0 +1,39 @@
+Subject: spread option code change
+Zhiyang and zhiyun,
+Vince told me that london has some trouble to calculate spread option
+For correl = 1, voll = vol 2. In such a case, the effective volatility becomes
+Zero, and the option has zero time value.
+I have modified the unitcorrpremium () routine to force the code to treat
+This situation as a special case. (it returns the discounted intrinsic value).
+Please incorporate this chang to your code so that it will no longer cause
+Any
+Problems that should not happen in the first place.
+If you have any questions, please let me know.
+Zimin
+- - - - - - - - - - - - - - - - - - - - - - -
+Double unitcorrpremium (
+Double sl,
+Double s 2,
+Double strike,
+Double r,
+Double ql,
+Double q 2,
+Double voll,
+Double vol 2,
+Double correl,
+Double tmat,
+Int opttype
+)
+{
+Double retval;
+If (tmat < = 0. 0)
+Return intrinsic (sl, s 2, strike, opttype);
+//look right here for the change, only two lines.
+If ((1. 0 - correl) < tiny &
+Setup (sl, s 2, strike, r, ql, q 2, voll, vol 2, correl, tmat);
+If (opttype)
+Retval = s. Disc * gauherint (ffuncoc)/sqrtpi;
+Else
+Retval = s. Disc * gauherint (ffuncop)/sqrtpi;
+Return retval;
+}

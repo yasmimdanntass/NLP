@@ -1,0 +1,34 @@
+Subject: re: uk portfolios and books setup in risktrac
+David and vince,
+In my e - mail below I pointed out to a inconsistency in the portfolio
+Hierarchy for uk positions in risktrac that I found out,
+Namely: some books (for example elsb 1 and elsb 2) belong to uk - gas portfolio
+And to uk - power portfolio.
+I wanted to clarify this in order to reconcile positions in risktrac and in
+The spreadsheet.
+Tanya.
+Tanya tamarchenko
+01/03/2001 02: 09 pm
+To: naveen andrews/corp/enron@ enron, matthew adams/corp/enron@ enron
+Cc: rabI de/na/enron@ enron, jaesoo lew/na/enron@ enron, vince j
+Kaminski/hou/ect@ ect
+Subject: re: uk portfolios and books setup in risktrac
+Naveen and matthew,
+I started looking systematically through uk positions and corresponding var
+Numbers in the risckrac.
+I found a few inconsistencies so far.
+1. The portfolio elsb 1 - nbp has a book elsb 1 under it. The sum of delta
+Positions for this book is
+239, 021, 655, the sum of gamma positions is - 211, 031, 450. Var for the
+Portfolio elsb 1 - nbp is zero.
+The same refers to a few other portfolios, for example elsb 2 - nbp, elsb 3 - nbp,
+E 2 xxl - nbp.
+2. The portfolio elsbp 1 - ppp also has the book elsb 1 under it. This book
+Contains the positions on pppwdl
+Through pppwd 6 and pppwel through pppwe 4.
+The same refers to the other books, for example elsb 2.
+This looks messy. Can someone in rac go over all the portfolios, all the
+Corresponding books and curves
+In risktrac and make sure they are set up properly?
+Thank you,
+Tanya.

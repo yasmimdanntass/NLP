@@ -1,0 +1,107 @@
+Subject: the storage revolution has begun
+Network world fusion focus: amy larsen decarlo
+On storage in the enterprise
+Today' s focus: the storage revolution has begun
+03/07/00
+Dear wincenty kaminski,
+Today' s focus: the storage revolution has
+Begun
+By amy larsen decarlo
+Believe the hype. We are in the middle of a storage revolution.
+Virtually overnight, businesses have gone from storing gigabytes to
+Terabytes of data, and the number of users accessing that information is
+Skyrocketing. The subsequent requirements are forcing companies to
+Rethink their storage strategies and to recognize the importance of
+Storage management in the equation of efficient information delivery.
+It isn , t just the volume of data or the higher scalability demands that
+Are changing how businesses handle storage. The premium that companies
+Place on much of their enterprise information is having a profound
+Effect on their storage requirements. Businesses demand fault - tolerant
+Storage systems that deliver swift and reliable data access to their
+Employees, suppliers and customers.
+But given the fact that hard disk capacity requirements, on average,
+Double every 12 months, while processor speeds double every 18 months,
+Companies are left with a quandary: how can they manage the
+Proliferation of stored information efficiently enough to compensate for
+The differential between capacity requirements and processor speeds?
+The simple answer to this question is to institute a well - executed
+Storage management plan that anticipates capacity requirements in
+Advance and leverages the best technologies and techniques to support
+Those needs. Bear in mind that the majority of storage costs come not
+From the equipment but from the implementation and support of those
+Systems.
+There are several ways to efficiently manage storage. One of the best
+Routes is consolidation that is, pooling resources and managing
+Storage as a system, as opposed to a decentralized collection of file
+Servers. This may sound like a throwback to an earlier era, when
+Enterprise storage resided on mainframes. But it , s actually a
+Progressive step, as the consolidation has more to do with centralizing
+The planning, management, and ongoing support of storage systems than it
+Does with the physical location of the files.
+Next, it is important to recognize that not all information is equally
+Important to the organization. Consequently, storage requirements vary
+By business application. As in all areas of it, it is important to make
+Storage implementation decisions based on business needs.
+Businesses trying to more efficiently manage storage are looking for
+Alternatives to the distributed file server storage model. They want to
+Speed access to stored files and remove bandwidth - intensive backup and
+Recovery operations from the lan.
+Network - attached storage (nas) supplies it professionals with one
+Answer, giving workstations and servers a way to gain direct access to
+Stored data. Nas devices, which have been widely available for years,
+Are optimized to process i/o transactions. Though they promise better
+Performance, they don , t remove backups from the transport network.
+Instead, they supply a relatively easy - to - deploy solution to cross -
+Platform storage problems for most heterogeneous environments.
+Many consider storage - area networks (san) to be the best long - term
+Answer to current and future storage challenges. Because sans are
+Designed with a topology separate from the corporate data network, they
+Alleviate many of the availability and performance issues associated
+With more traditional storage models. Yet, given the early deployment
+Stage most companies are still in, many of those capabilities are still
+Largely untested in a production environment.
+This newsletter will examine how, through effective storage management,
+It professionals can reduce support costs and improve service delivery
+To their customers. This newsletter will not focus on items like the
+Least expensive tape drive or the fast tape library. Instead, it will
+Look at how businesses can reduce inefficiencies and leverage emerging
+Technologies to resolve their particular storage application issues.
+Ultimately, the goal is to identify storage technology options and
+Practices that work in real - world environments.
+To contact amy larsen decarlo:
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Amy larsen decarlo is an analyst with enterprise management associates
+In boulder, colo., (http:// www.. Com), a leading
+Analyst and market research firm focusing exclusively on all aspects of
+Enterprise management. She focuses on storage management, application
+Management, and security. In her position, she oversees market research
+And contributes to custom project work in her focal coverage areas.
+Prior to joining ema, amy spent five years covering enterprise
+Management for industry trade magazines, including informationweek and
+Data communications. She can be reached at
+Mailto: decarlo@. Com
+For related links - - click here for network world' s home page:
+Http:// www. Nwfusion. Com
+The national storage industry consortium (nsic)
+Http:// www. Nsic. Org
+The distributed management task force (dmtf)
+Http:// www. Dmtf. Org
+Storage systems standards working group of the ieee
+Http:// www. Ssswg. Org
+The ietf
+Http:// www. Ietf. Org
+Subscription services
+To subscribe or unsubscribe to any network world e - mail newsletters,
+Go to:
+To change your email address, go to:
+Subscription questions? Contact customer service by replying to this
+Message.
+Other questions/comments
+Have editorial comments? Write jeff caruso, newsletter editor, at:
+Mailto: jcaruso@ nww. Com
+For advertising information, write jamie kalbach, account executive,
+At: mailto: jkalbach@ nww. Com
+Network world fusion is part of idg. Net, the idg online network.
+It all starts here:
+Http:// www. Idg. Com
+Copyright network world, inc., 2000

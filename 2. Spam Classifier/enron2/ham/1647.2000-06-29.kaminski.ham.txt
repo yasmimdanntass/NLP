@@ -1,0 +1,14 @@
+Subject: component var
+Tanya,
+Some stability tests were performed on the simulation.
+(1) the window size of the averaging in the simulation was changed from 10 to
+20 for ng - price (the biggest book in gas) for effective date june - 28. As you
+Can see in the file 28 ng - price _ windowsize, the component var numbers are very
+Similar.
+(2) to look at a calculational comparison, I looked at the storage - prc book
+(which has no gamma position) for effective date of 27 th and (a) calculated
+Ffvols, and (b) calculated the riskmetrics var (the correlations are very high
+Across the term structure) and compared to the component var code
+Calculation, and again the two nubers are comparable, given the different
+Modes of calculation.
+Naveen

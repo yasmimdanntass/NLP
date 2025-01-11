@@ -1,0 +1,11 @@
+Subject: returned mail: see transcript for details
+The original message was received at tue, 19 jul 2005 07: 01: 27 - 0400
+From [219. 157. 114. 86]
+- - - - - the following addresses had permanent fatal errors - - - - -
+(reason: 550 5. 1. 1... User unknown)
+- - - - - transcript of session follows - - - - -
+... While talking to intmail. Hcm. Hitachi. Com.:
+> > > data
+... User unknown
+550 5. 1. 1... User unknown
+< < < 503 5. 0. 0 need rcpt (recipient)

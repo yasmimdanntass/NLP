@@ -1,0 +1,38 @@
+Subject: sas
+To the group:
+If you wish to use sas, there are a few simple things you need to do:
+1) you need to get a unix password if you don' t already have one (your user
+Id will be the same as on the nt network, but a different password is issued)
+2) you need a program called" exceed" on your pc. Request it from it (you
+Already have this if you are already a user of lim on the unix platform)
+3) you need an" ftp" program on your pc. You can go to www. Download. Com and
+Download one (I like wsftp)
+4) exceed is funny in the way it runs. When you invoke exceed (or lim
+Advanced user (under infobases) if you already have this) it will install
+Itself the first time, and will then" disappear" to the taskbar. You need to
+* right * click on the taskbar on exceed, and then choose" tools" and" client
+Startup" and then" new."
+You will enter a box which should already be set for rexec and an xwindow
+Emulation. You need to specify the host type as sun, enter your user name and
+Password, set the host name to:
+Capers. Ect. Enron. Com
+And then, on the command line, type the following (carefully):
+/ usr/openwin/bin/xterm - display@ d
+Then, use the file menu to save this as capers. Xs and then click on the run!
+Menu. Within a second or two, a window will open up with you logged into the
+Serve capers. You are now on a unix server, and the directory is your home
+Directory. From here, if you simply type" sas" the 3 windows for an
+Interactive session with sas should open on your desktop. You are in business.
+5) you also need to install your ftp. Follow the procedures with the
+Software, and then create a new session called" enron" where you choose as
+The server simply" earth" (do not add any further descriptors such as
+. Enron. Com). Supply your user name and * unix * password, check the" remember
+Password" box, and the default communication setups should be correct (eg,
+Host type as" automatic detect").
+When you invoke ftp and connect to enron, it will put you in your home
+Directory on the unix system, the same directory your xwindow comes up in
+Under exceed.
+If you have any problems, i' ll be happy to help
+Clayton
+Ps I have a complete set of new sas manuals I am happy to loan out if you' ll
+Just write your name down when you take them.

@@ -1,0 +1,22 @@
+Subject: ppI index short - term models
+- - - - - - - - - - - - - - - - - - - - - - forwarded by zimin lu/hou/ect on 03/31/2000 01: 43 pm
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+Anjam ahmad
+03/21/2000 04: 10 pm
+To: martina angelova/lon/ect@ ect, trena mcfarland/lon/ect@ ect
+Cc: dale surbey/lon/ect@ ect, stinson gibner/hou/ect@ ect, zimin
+Lu/hou/ect@ ect, vince j kaminski/hou/ect@ ect
+Subject: ppI index short - term models
+HI martina I believe that the
+Forecasts are accurately reflecting this. Please see graphs below:
+Both models really need our rpI curve to be linked (at the moment I have just
+Copied the 2. 3% number forward). Because the auto - regressive error term is
+Not very important, we can run the models forward with reasonable
+Confidence. As I mentioned, I don' t think we can really run this model more
+Than 12 months, in fact, I think we should run for 9 - 12 months and blend the
+Next 3 - 4 months out with the long - term model.
+Hope I can fix the long - term ones now with some new insight!
+Regards,
+Anjam
+X 35383
+Pllu: dzcv:

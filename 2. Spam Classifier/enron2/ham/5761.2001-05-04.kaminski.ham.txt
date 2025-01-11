@@ -1,0 +1,33 @@
+Subject: 1 - urgent - outlook email notification (new)
+Outlook email notification
+Your date of migration is: may 7 th
+You will be unable to send e - mail unless you take the following action:
+Please go through your notes email and clean out as many old/un - needed email
+Items as possible before your date of migration.? After you are migrated to
+Outlook you will only be allocated 100 mb of total mailbox space.?? If more
+Than this amount of data is migrated to outlook you will not be able to send
+E - mail until it is below the 100 mb limit.? Cleaning up your notes email now
+Will prevent this from happening to you.
+Enron , s messaging platform is migrating from lotus notes to microsoft outlook
+2000 worldwide. You will be accessing outlook for all of your email
+Functions.
+Why is enron migrating to outlook 2000?
+Many factors contributed to the decision to migrate from lotus notes to
+Microsoft exchange/outlook. The most prominent factors were:
+? Significant advantages to moving to a product that is more integrated with
+Current enron apps (windows 2000, office and internet explorer)
+? More efficient shared pc and roaming user features
+? Improved support and integration for palm/ce devices
+? Instant messaging capabilities
+What is being migrated to outlook 2000?
+? Email messages. From the date of your scheduled migration, the last (30)
+Thirty days of your email will be converted for use in outlook.
+? All your folders in notes you use to store email messages in.
+? To do items
+? Journal items
+? Calendar entries dating from (1) one year in the past to (10) ten years in
+The future will be converted.
+? Address books, but not your distribution lists that you created. You will
+Need to re - create these in outlook.
+Thank you,
+Outlook 2000 migration team

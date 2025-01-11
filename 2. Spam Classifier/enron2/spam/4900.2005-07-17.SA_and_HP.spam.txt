@@ -1,0 +1,12 @@
+Subject: returned mail: see transcript for details
+The original message was received at tue, 12 jul 2005 12: 09: 30 + 0200
+From antonio. Urjc. Es [193. 147. 184. 24]
+- - - - - the following addresses had permanent fatal errors - - - - -
+Ana. Elvira@ urjc. Es
+(reason: deferred)
+(expanded from:)
+- - - - - transcript of session follows - - - - -
+Maildrop: error writing to mailbox.
+Ana. Elvira@ urjc. Es... Deferred: local mailer (/ usr/sbin/sensible - mda) exited with ex _ tempfail
+Message could not be delivered for 5 days
+Message will be deleted from queue

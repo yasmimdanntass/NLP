@@ -1,0 +1,15 @@
+Subject: re: the transportion model worked
+Great to hear that. You are right, we should include rho (done) and theta
+(to do) for the cost term.
+Zimin
+Enron north america corp.
+From: kenneth shulklapper 04/26/2000 12: 07 pm
+To: zimin lu/hou/ect@ ect
+Cc:
+Subject: it worked
+Zimin,
+The model worked well today. Hopefully it will continue the same in the
+Future.
+Do we need to make a similar change in the model to" drift" to account for
+Changes on the demand charges over time?
+Ken

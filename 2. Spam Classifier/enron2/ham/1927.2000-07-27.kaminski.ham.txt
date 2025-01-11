@@ -1,0 +1,5 @@
+Subject: grant,
+Would you take a look at the following correlation matrix? Does it make sense?
+Ps: this is an updated correlation matrix with gold and silver correlations.
+I used bloomberg' s generic closest month gold and silver contract prices for
+The correlation analysis.

@@ -1,0 +1,40 @@
+Subject: re: enron credit modeling discussions
+HI again,
+Some of you have been kind enough to supply me with information that can be used for the strategic plan (I am writing for duffie).
+To assist you in gathering further information, it was suggested that I forward a preliminary outline of this strategic plan to your attention.
+Thanks in advance for your assistance,
+Iris
+Table of contents
+Executive summary
+Highlights
+Introduction
+What is enron credit?
+What is the business plan?
+What are the products planned?
+Current status: what we currently trade, how we price.
+What new models we need to achieve goals.
+What attempts are being made internally and what external commercial sources are available.
+Swot analysis
+Strengths
+Weakness
+Opportunities
+Threats
+Pricing approach
+A diagram illustrating how various models are tied together for the overall objective of coming up with final cds and dbs pricing.
+Brief description of each model shown in the diagram.
+Public firm versus private firm
+What we have as first cut for modeling primarily public firms.
+Our understanding on public versus private firms' credit risk characteristics, data availability and possible modeling approaches.
+Our proposed approach/plan towards development of private firm model, including comparative analysis, model development, etc..
+Portfolio level business feasibility analysis
+Accounting breakeven analysis
+Portfolio theory
+Alternative (short term) measures
+Kmv' private firm model
+Moody' s riskcalc model for private firms
+Comparison of kmv vs moody' s private firm model
+Future strategy
+Development of private firm pricing models (short - and long - tenor modelso
+Completion of parent/subsidiary model
+Risk management model for ect business
+References

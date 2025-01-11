@@ -1,0 +1,24 @@
+Subject: mg var results for the 27 th july
+Hi,
+I have run the var with updated factor loadings for the gold, silver and cocoa
+Bean positions. The biggest change in var from
+Adding this information has been to the cocoa bean position which has
+Increased from approx $45, 900 to $506, 553.
+The overal var has not changed by very much as the position file I was sent
+From andreas had not changed from the 26 th - i
+Have queried this and it will not be a problem to re - run the numbers on
+Monday if I recieve a further file.
+The var summary for all the metals is as follows:
+Also, after having a conversation with bjorn about stress/scenario analysis i
+Thought I might quickly try to set up a few scenarios to
+See how sensitive the var is to a position change in aluminium, nickel and
+Copper.
+I have only applied position increases (thge direction of the shifts are
+Dependent on the monthly outright position direction) up until dec 2000.
+The shifts and results are given in the following attached spreadsheet.
+It is interesting that the individual var' s are particuarly sensitive to
+Increasing the position for nickel.
+I would like to discuss these results on monday and any further suggestions
+For senarios would also be gratefully recieved.
+Have a good weekend,
+Kirstee.

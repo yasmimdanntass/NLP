@@ -1,0 +1,47 @@
+Subject: summary of last 6 months projects
+Dear dale, stinson & vince,
+I would like to take this opportunity to communicate some information to
+Summarise the projects of the past six months. Firstly, by all accounts it
+Has been an amazing few months for me - I believe that I have kept a large
+Number of commercial group heads very happy. However, not all are aware of
+My activities, so, many people (e. G. John sherriff, richard lewis, steve
+Young etc.) will not know of everything I have done. For example the amount
+Of work that I put into the inflation models and the extent to which I was
+Critical for the successful building of those curves and the consequent
+Impact (o 7 + million for ql) and similar large p & l swings for eastern contract
+Optionality (short virtual power station) based upon my uk power vol curve
+Generator.
+For your benefit, I have compiled a shortlist of the main projects worked on
+Over the past five/six months:
+1) inflation curve modelling (february and march + april internal audit +
+June external audit)
+2) uk power monthly vol curve generator & ideas for half - hourly vol curve
+3) nordic power monthly vol curve generator
+4) energydesk. Com models & support
+5) real options: options to build/extend power stations (e. G. Wessex deal,
+AntI - freeze project)
+6) continental power non - generic options (using arbitrary trader - specified
+Distributions)
+7) global products: non - generic options modelling and new commodity forward
+Curve construction (benzene fwd curve from naphtha)
+8) exotic options library upgrade/model test/bug fixes (e. G. Testing new/old
+Asian models)
+9) continental gas volatility curve construction
+10) communication objective i: two presentations to enron europe staff, one
+To oslo office
+11) communication objective ii: meetings to gather information and present
+Results
+12) fas 133: working with internal and external auditors on matching
+Financial and physical (accrual) hedges - hedge effectiveness
+13) oslo trip: bringing oslo up to speed on exotica and option valuation
+14) houston research staff: co - ordinating communication/meetings to maximise
+Productivity
+15) valuation/marketing of power put options for banks that hold senior and
+Sub debt in merchant power plant
+Meeting breakdown:
+Initiated by me it is
+Clear that I have been critical to large p & l sensitive projects and hope that
+I can continue to help enhance earnings going forward.
+Regards,
+Anjam
+X 35383

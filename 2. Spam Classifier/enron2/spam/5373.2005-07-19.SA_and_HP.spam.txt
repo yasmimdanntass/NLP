@@ -1,0 +1,8 @@
+Subject: delivery failure: user antonio _ lambino (antonio _ lambino@ ksg. Harvard. Edu) not
+Listed in domino directory
+Your message
+Subject: [spam] just to her...
+Was not delivered to:
+Antonio _ lambino@ ksg. Harvard. Edu
+Because:
+User antonio _ lambino (antonio _ lambino@ ksg. Harvard. Edu) not listed in domino directory

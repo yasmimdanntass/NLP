@@ -1,0 +1,18 @@
+Subject: template for pricing the right of first refusal
+Shelley and chris,
+I have set up a template for pricing rofrs. The rofr is priced as a series
+Forward start options.
+A forward start option gives the holder the right to exercise the option but
+The strike price
+Is set at the money in future before the option expiration. The feature
+Mimics the" matching the best bid"
+In the rofr. The underlying for the option is the" best bid", which should
+Be closely related to the
+Price differential between the two hubs that the pipeline connects. Therefore
+The rofr is case dependent,
+As vince pointed out. The volatility can be estimated from the" best bid"
+Price history.
+With these inputs we can estimate the value of rofr. If you have any
+Questions concerning the model
+Please feel free to call me or vince.
+Zimin lu

@@ -1,0 +1,31 @@
+Subject: transport fuel p/l
+- - - - - - - - - - - - - - - - - - - - - - forwarded by zimin lu/hou/ect on 08/30/2000 11: 06 am
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+Zimin lu
+08/30/2000 11: 07 am
+To: colleen sullivan/hou/ect@ ect
+Cc: andrew h lewis/hou/ect@ ect, greg couch/hou/ect@ ect
+Subject: transport fuel p/l
+Colleen,
+After looking into the transport deals for nbpl (long term deal 1, 2, 25, 26),
+I think I figured it out why
+We see positive fuel p/l for deal 1, 25, and 26 and negative fuel p/l for deal
+2.
+The following plot shows nymex curve as of 8/23/00:
+For short term, nymex moved up compared to that of 8/22/00, while the long
+Term nymex moved down.
+Here are the tenor for each deal:
+Deal 1: start 01 - sep - 00, end 22 - may - 09, the above graph suggested a
+Positve fuel p/l
+Deal 2: start 01 - sep - 00, end 28 - feb - 02, the above graph suggested a
+Small negative p/l
+Deal 25: start 01 - may - 02, end 28 - feb - 09, the above graph suggested a
+Positve fuel p/l
+Deal 26: start 01 - mar - 09, end 31 - may - 09, the above graph suggested a
+Positve fuel p/l
+The transport book seems to be correct on these fuel p/ls.
+Another point worth to mention is that the fuel cost is related to index
+Price (nymex + basis + index premium), to correctly interpret fuel p/l,
+We need to look at the index curve change.
+Let me know your thoughts on this.
+Zimin

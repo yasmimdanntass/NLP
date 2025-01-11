@@ -1,0 +1,55 @@
+Subject: re: eprm article
+Chris,
+This is very well written and will serve the reader well. A few comments.
+1. When I think about the taxonomy of the var models, I typically use the
+Classification based on 3 categories:
+A. Variance/covariance method
+B. Historical simulation
+C. Monte carlo simulation.
+Delta approach is the way of representing a position in a nonlinear
+Instrument.
+2. I would define monte carlo as an approach based on statistical simulation
+Of behavior of
+All the market prices/rates, etc., and revaluation of the entire portfolio.
+The revaluation may be based on an approximation (using taylor' s expansion)
+That may
+Involve delta, delta/gamma, delta/gamma/omega or may be exact (based on the
+Same
+Model that produces the mark - to - market portfolio valuations).
+The main benefit of using the mc simulation in the energy markets is the
+Ability to capture
+The gapping behavior of the energy markets in a straightforward way. I would
+Emphasize that
+There are attempts to incorporate jumps in the v/c model (I shall send you
+The references
+From home).
+3. I would mention that historical simulation may break down in the markets
+That are evolving
+Quickly (new instruments for which we have no comparable prices,
+Behavior of prices may change as markets mature or de - mature).
+4. For bigger portfolios, virtually all methods require some level of
+Aggregation into
+Atomic, elemental instruments to reduce the dimensionality of the problem.
+This process may be a source of a big error.
+5. The computational burden of mc can be reduced through clever preprocessing
+Of a portfolio that introduces no error. Many swaps with the same underlying
+Can be aggregated into one positions (they are portfolios of forwards and
+They are linear
+Instruments).
+Please, feel free to use any comment (or none).
+Vince
+" chris strickland" on 08/28/2000 02: 58: 56 pm
+Please respond to" chris strickland"
+To:
+Cc:
+Subject: eprm article
+Dear vince,
+?
+D you think you might be able to look at this in the next day or so? Robin
+Is after something by the end of this week.
+?
+Best regards.
+?
+Chris.
+?
+- eprm _ 01 _ var. Doc

@@ -1,0 +1,37 @@
+Subject: re: digitals
+Pavel, many thanks for your note.
+I understand that digitals are not core enron business but as you know, i' m
+Trying to explore digitals to give, for example, a company a guaranteed
+Income in year one (to mop up expiring tax losses). This is offset by a
+Guaranteed expense in year two. See attached hypothetical example. The
+Digital will reflect an underlying commodity to which a company is exposed to
+And would be part of a price risk management strategy, thereby giving it
+' commercial purpose'.
+I would be interested in hearing from you generally on the subject - - the
+Rational for using digitals and your knowledge of its use in other markets
+(electricity or other commoodity or in the banking sector).
+It seems to me that setting the srike is key and a' value judgement' or am i
+Wrong, and are there curves and models which could help you substantiate
+This? In any event, do you have a feel for what an acceptable% of chance or
+Likelihood that a commodity price hits the strike on a digital before it
+Becomes non arm' s length and does not pass the smell test?
+Vince, jarek suggested that you may be able to assist. Your views would also
+Be appreciated.
+Gillian.
+From: pavel zadorozhny on 02/11/2000 15: 15 cst
+To: gillian lockwood/lon/ect@ ect
+Cc:
+Subject: digitals
+Digital options are extremely uncommon in the crude oil market. Nobody ever
+Asked me to show quotes in the otc market. The only time we encountered them
+Was when producers, brought by our marketing team, wanted to sell a
+Knock - outable swap, whereby they would get a higher swap price in exchange
+For cancelling the swap if the price settled below a certain level. This
+Structure had a digital put embedded in it, although the customers didn' t
+Necessarilly know that. The companies were us oil and gas producers: venoco,
+Titan, magnum hunter, patiena oil & gas, belco, central resources. It was
+About 1 year ago. In the otc market, at about the same time, I asked for
+Quotes to hedge these transactions and sold a digital cal 00 $16 swaption to
+Elf and strips of digital puts to somebody else that I cannot recall.
+I hope this helps.
+Pavel

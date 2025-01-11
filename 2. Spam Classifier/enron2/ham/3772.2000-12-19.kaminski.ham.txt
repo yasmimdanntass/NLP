@@ -1,0 +1,10 @@
+Subject: re: testing ir & fx var
+Nick and winston,
+I understand that ir & fx var numbers are calculated every day in risktrac.
+This results are overwritten
+Everyday in the database table by the official numbers calculated with the
+Old version of the code.
+For the consistent testing we need historical results for each ir and fx
+Sub - portfolio.
+Can we store the numbers every day?
+Tanya

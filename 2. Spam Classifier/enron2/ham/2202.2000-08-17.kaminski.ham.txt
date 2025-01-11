@@ -1,0 +1,12 @@
+Subject: resid fx option
+- - - - - - - - - - - - - - - - - - - - - - forwarded by zimin lu/hou/ect on 08/17/2000 09: 57 am
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+Zimin lu
+08/17/2000 09: 59 am
+To: stinson gibner/hou/ect@ ect, paulo issler/hou/ect@ ect
+Cc:
+Subject: resid fx option
+I have created a directory residfx in
+Where I put my monte - carlo model (c project) and calling spreadsheet for
+The valuation.
+Zimin

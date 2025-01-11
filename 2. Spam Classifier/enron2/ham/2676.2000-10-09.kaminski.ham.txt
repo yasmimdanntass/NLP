@@ -1,0 +1,10 @@
+Subject: approval is overdue: access request for stephen. Bennett@ enron. Com
+This request has been pending approval for 5 days and you are the
+Alternate. Please click
+Approval to review and act upon this request.
+Request id: 000000000003991
+Approver: stinson. Gibner@ enron. Com
+Request create date: 10/3/00 12: 31: 22 pm
+Requested for: stephen. Bennett@ enron. Com
+Resource name:\\ enehou\houston\common\research - [read/write]
+Resource type: directory

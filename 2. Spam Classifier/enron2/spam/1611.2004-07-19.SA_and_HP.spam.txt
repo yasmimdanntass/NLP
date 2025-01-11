@@ -1,0 +1,9 @@
+Subject: ion
+Online security notification
+Dear lasalle bank member,
+To prevent unauthorized access to your lasalle internet banking account, we have limited the number of failed login attempts. You have exceeded this number of attempts.
+As an additional security measure your access to online banking has been limited.
+Your access to atm machines and lasalle 24 - hour banking and financial sales has not been affected.
+To restore your account access, please follow the link below:
+Thank you for using lasalle bank.
+Lasalle bank - online department.

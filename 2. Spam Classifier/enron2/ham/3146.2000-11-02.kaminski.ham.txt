@@ -1,0 +1,55 @@
+Subject: hurricane warning derivatives
+Folks,
+This note is intended to update all who may be concerned on our progress
+Toward developing a commercial hurricane warning derivative product or line
+Of products.
+It is clear that numerous entities have underlying exposures to hurricane
+Warning frequency and/or duration. It is our objective to develop derivative
+Products that will enable these entities to effectively hedge this
+Exposure. We have generated a partial brainstorm - style list of whom natural
+Counterparties might be according to their underlying exposure:
+Pro - hurricane antI - hurricane
+The weather channel resorts
+Home depot cruise ships
+Lowes riverboat casinos
+Cnn chemical plants and refineries
+Local tv stations u. S armed forces
+Dry ice manufacturers athletic teams
+Chainsaw manufacturers city governments
+Insect repellant manufacturers state governments
+It is obvious that there are numerous naturally offsetting parties but it is
+Important to note that the pro - hurricane entities are more macro in nature
+While the antI - hurricane entities are typically more regional. Thus, we have
+Documented the frequency and duration data by regional location with the
+Thought that the antI - hurricane entities would be interested in regional
+Products and the pro - hurricane entities would likely be more interested in
+Bundled regional products depending on their exposure.
+Thus far, we have collected and documented all u. S hurricane warning data
+From 1980 - 2000 in the form of an excel database. The data can be sorted by
+Year, storm, or location on the u. S coastline. Total hurricane warning
+Duration as well as number of discrete hurricane warnings are the primary
+Data sets of interest for any given location (or year or storm). The u. S
+Coast has been divided into 11 different geographic regions of roughly
+Similar size. These regions are: new england, mid - atlantic, virginia, north
+Carolina, georgia/south carolina, east florida, west florida, florida
+Panhandle, orleans/miss/bama, lousiana, and texas.
+While this data set may not yet be sufficient for price modeling purposes, it
+Has confirmed our expectation that hurricane warning frequency and duration
+Is quite volatile and unpredictable. It is believed that this volaility,
+When graphically depicted and mathematically represented, could be used to
+Effectively demonstrate to would - be customers the impact of hurricane warning
+Frequency on their business financials. In many cases, businesses may be
+Well aware of their exposure but may not have quantified it and certainly
+Probably felt as if this was a risk they would have to wear themselves.
+As we move forward on the modeling front, the data will certainly need to be
+Scrutinized to correct for any skewing factors such as political trends,
+Satellite availability, population trends, etc. Additionally, we need to go
+Further back in time so long as the accuracy doesn' t decline.
+On the marketing front, I am certainly open to ideas. It is believed the
+Weather channel would be the most natural party for such a product. Given
+Our positive relationship that we currently have with them, they might be the
+Easiest sell. Any and all ideas are welcome with regard to how and when
+We should approach customers.
+Please respond with any questions, comments or concerns on this project.
+Thanks,
+Charlie

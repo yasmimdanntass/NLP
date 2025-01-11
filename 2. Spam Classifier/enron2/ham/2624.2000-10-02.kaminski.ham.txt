@@ -1,0 +1,12 @@
+Subject: re: joint probabilities
+Bob -
+I' ve edited our numbers a bit on the azurix analysis and would like you to
+Re - run the joint probabilities tables.
+Please note that i' ve got 2 cases in the model now - an optimistic case and a
+Pessimistic case. I hope you can run both cases. (you will need to toggle
+For case 1 or 2 - real complicated stuff!!)
+Please keep everything else the same (ie, the currency probabilities, rab
+Probabilities, etc.)
+Thanks for your help.
+Michael anderson
+646 - 9666

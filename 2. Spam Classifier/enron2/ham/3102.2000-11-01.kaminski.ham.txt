@@ -1,0 +1,114 @@
+Subject: alliance info alert: ferc report on western markets
+At its special meeting today, ferc released the results of its eagerly
+Awaited probe into california' s summer power crisis, concluding that under
+Certain circumstances, california ratepayers were subjected to unjust and
+Unreasonable power rates due to california' s" seriously flawed" market
+Structure and rules in conjunction with tight demand and supply conditions
+Throughout the west.
+The ferc staff report on western markets and the causes of the summer 2000
+Price abormalities, entitled, part I of staff report on u. S. Bulk power
+Markets, is available at the following website:
+In response, ferc issued an order proposing a series of sweeping structural
+Changes to the california iso and px to help remedy the pricing problems, and
+Solicited public comment by november 22. A technical conference has also
+Been scheduled for november 9, to discuss the proposed solutions and other
+Remedies that might be suggested (details tba). While all four commissioners
+Supported the order, the order stretched the commission. Chairman hoecker
+And comm. Breathitt expressed strong endorsements, while comms. Hebert and
+Massey concurred, citing areas where they felt the commission had either
+" over - reached" or not gone far enough, as discussed below. A final order is
+Expected to be issued by year' s end.
+At the same time, the commission warned california consumers of their
+Continued risk of paying higher prices unless policy makers there resolve
+State issues, such as: (1) immediately implementing the availability of day
+Ahead markets for power purchases; (2) development of demand responses; (3)
+Siting of generation and transmission; and (4) assurance of sufficient
+Reserve requirements.
+Highlights of proposed california structural remedy
+In its order, ferc proposed a series of market overhauls, including:
+(1) eliminating the state' s mandatory requirement that the state' s
+Investor - owned utilities buy and sell electricity through the px, and allowing
+These utilities to purchase electricity through forward contracts and other
+Alternative mechanisms to manage supply risks.
+(2) requiring market participants to schedule 95 percent of their
+Transactions in the day - ahead market and instituting a penalty charge for
+Under - scheduling (in excess of five percent of hourly load requirements), in
+Order to discourage over - reliance on the real - time spot market.
+(3) establishing independent, non - stakeholder governing boards for the iso
+And px.
+(4) modifying the current single price auction system by (a) imposing a
+Temporary $150/mwh" soft cap" that prohibits supply bids in excess of $150
+From setting the market - clearing price for all bidders; (b) requiring sellers
+Bidding above $150/mwh to report their bids to ferc on a confidential, weekly
+Basis and provide certain cost support; and (c) requiring the iso and px to
+Report monthly information on such bids. The commission' s price mitigation
+Measures would remain in effect through december 31, 2002.
+(5) declining to order retroactive refunds for the state' s ratepayers and
+Utilities, citing insufficient authority to do so, but subjecting sellers to
+Potential refund liability for transactions from october 2, 2000 until
+December 21, 2002, but no lower than their marginal or opportunity costs, if
+Ferc finds non - competitive behavior.
+(6) encouraging accelerated state siting approval and introduction of demand
+Response management programs.
+Separately, the draft order rejected the iso' s request for an extension of
+Its current purchase price cap authority, and the px' s request for price
+Capping authority.
+Commissioner responses
+Comm. Herbert reluctantly concurred, noting that his decision may change when
+A final order is considered based on comments filed or testimony offered at
+The november 9 meeting. He stressed that he would have preferred that the
+Order address four areas: (1) eliminate all price controls in california
+Markets; (2) abolish the single price auction entirely; (3) terminate the
+" buy and sell" mandate in the px; and (4) direct the iso to address a long
+List of cited problems in its january 2001 rto filing, rather than having the
+Commission prescribe specific remedies.
+Hebert stated that while he was opposed in principle to the" soft cap"
+Concept, if one had to be adopted, then the soft cap should increase
+Incrementally increase over time at specific pre - announced dates. He
+Believes that this would serve to both encourage greater investment in
+Facilities and additional forward contracting as well as provide an incentive
+For california regulators to address market design and other flaws. Also, he
+Would not have disbanded the stakeholder governing boards at this time, but
+Allow the iso and px to address this issue in their january 2001 rto
+Filings. In addition, he would not dictate risk management methods,
+Preferring instead that market participants determine appropriate actions on
+Their own. Finally, he advised californians not to be so environmentally
+Focused that they do not realize their tremendous need for generation
+Capacity.
+Comm. Breathitt stated her approval of the order while warning that ferc
+Cannot allow the events of this past summer to reverse or slow the progress
+Towards open and competitive markets. She noted that it was the commission' s
+Job to guide the market to self - correct and not to conduct" command and
+Control." she also commended the managers of the iso and px, saying that
+They have performed admirably. However, she noted she is awaiting comments
+On the single price auction remedy and its accompanying confidential
+Reporting requirements.
+Comm. Massey concurred, but emphasized that he advocates a more aggressive
+Approach. He feels that the congress has" put its thumb on the scale" in the
+Federal power act to protect consumers. Stating that prices will continue to
+Be unreasonable in the future, he believes that this order moves in the right
+Direction, by proposing solutions to identified problems such as an over
+Reliance on the spot market, lack of demand response, the need to
+Reconstitute governance of the iso and px and the elimination of the buy/sell
+Mandate. Comm. Massey specifically called for comments regarding whether the
+$150/mwh soft cap went far enough, whether ferc has the legal authority to
+Issue refunds and to determine whether there should be a requirement for a
+Certain percentage of forward contracting to hedge against the spot market
+Price volatility.
+Finally, chairman hoecker stated his strong support of the order, but noted
+That this is" no time to pull punches." he emphasized that the commission
+Needed frank comments from the industry. He echoed comm. Breathitt' s warning
+That competition is at risk and that they needed to get the markets back on
+Track. Noting that the commission lacked authority to order refunds, he
+Stated that the responsibility rests with congress. Addressing
+Jurisdictional issues, he stated that siting problems encountered at the
+State level are slowing the" meandering transition" to competition. He feels
+That the state of california and ferc need to work together to resolve these
+Problems and that ferc is not attempting to usurp power. Rather, california
+Is part of a broader interstate market and is dependent on the western region
+For reliable energy, thus placing the burden on federal action to make things
+Work, hoecker maintained. The chairman also said that the commission will
+Fully investigate and act upon complaints of market power abuse or further
+Evidence provided by staff' s ongoing investigation.
+If you have any questions or comments, please call jack cashin at
+202/508 - 5499.

@@ -1,0 +1,71 @@
+Subject: re: london status report - research weather
+FyI our 10: 30 meeting today
+- mike
+- - - - - - - - - - - - - - - - - - - - - - forwarded by mike a roberts/hou/ect on 04/20/2001
+06: 41 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Tony hamilton@ enron
+04/20/2001 06: 35 am
+To: mike. A. Roberts@ enron. Com
+Cc: tani. Nath@ enron. Com
+Subject: re: london status report - research weather
+Tony hamilton
+04/20/2001 04: 03 am
+To: stephen. Bennett@ enron. Com
+Cc:
+Subject: re: london status report - research weather
+HI mike,
+Please find a list of our current daily products and services, together with
+Identified research projects (to - date) for european weather research - this
+Has been forwarded to tanI nath to aid her recommendations for a 2 nd met. For
+London.
+1) this week:
+* a meeting with james willis (agriculture) has been arranged for monday
+Afternoon to discuss weather input for softs.
+* following suggestion from tani, meeting has been pencilled in with pierre
+Aury (coal trading) to discuss weather input.
+* at present we are providing kristian lande (continental power) with daily
+Precipitation outlook for spain - he is working towards getting a daily
+Weather breifing for power set up.
+* a meeting with alex mcleish (global products) has been pencilled in
+Following his return from houston to discuss the way forward in building a
+Forecast model for crude apI based on hdds on either side of the atlantic.
+* we have made progress in getting additional information on european ports
+Following meeting with scott moncrieff and sylvie mostura (shipping and
+Transportation) - we now get forwarded daily reports for some baltic, black
+Sea, scandanavian, italian and indian ports, which include various degrees of
+Weather information.
+* we now supply north sea conditions and forecasts as a part of the 8 am uk
+Gas briefing.
+* we' ve added a midday" update" for uk gas traders if/when mrf ensembles
+Warrent changes or clarification.
+* following extremely useful meeting with tanI nath, it is now clear that need
+For 2 nd meteorologist will have to be cleared with her superiors here in
+London before moving forward.
+2) still to follow up
+* get meeting with chris mahoney to determine if we can provide any
+Additional support (e. G. Daily briefing) for crude and products.
+* follow up on a potential morning briefing for continental power.
+* get meeting arranged with david anderson at ecmwf to discuss data products
+And services they provide.
+* continue to investigate model grib data to produce a" confidence interval"
+For model output.
+* meet with ross mcyntire to determine needs from weather drivatives
+* develop a standard hydro product (daily updates) for continental power
+(spain specifically)
+* develop forecast verification scheme and internal forecasting tools
+* avistar recorded europe briefings
+3) challenges:
+* still appears to be some confusion over whether we are moving desks this
+Afternoon or not!
+* karin ahamer (the team assistant here) is going to verify later exactly
+Which pcs we will be using from monday next week (some of the loaner pcs we
+Are currently using contain important software left over from their previous
+Users).
+* our time in assembling reports is becoming more efficient on a daily
+Basis. However as our product load increases this may become a factor over
+Next few weeks.
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+Mike,
+We look forward to talking with you and vince later today!
+See you later,
+Tony

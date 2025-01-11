@@ -1,0 +1,94 @@
+Subject: re: real options conference in cambridge
+Steve,
+Risk will give you more exposure in the peer group faster.
+Shan left (I think they are firing people at risk - a normal development
+For a successful company that got ahead of itself).
+If risk does not work, I shall talk to phelim about speeding the publication.
+Vince
+Steven leppard
+04/25/2000 08: 06 am
+To: vince j kaminski/hou/ect@ ect
+Cc:
+Subject: re: real options conference in cambridge
+HI vince
+The person I was dealing with (shan millie) passed on my paper to her
+Successor, and i' ve heard nothing since. The plan was to try and publish the
+Article in risk' s" game choices" real options book, which is being published
+In june, along with a summary version for the magazine.
+I' m supposed to be waiting for them to get back to me, and it' s not been at
+The front of my mind until now. I think i' ll chase them up.
+Interestingly at a recent risk course phelim boyle expressed an interest in
+My work to appear in one the the journals he edits, I think it' s decision
+Science or something like that. Do you think this would be a more
+Appropriate home for the work?
+One more thing that may be of interest to you is that i' ve now worked forward
+Recursive dp into my notation too. It' s simply a matter of putting the
+Decision nodes on the left hand side of the value symbols!
+Should I chase risk, or pursue the peer reviewed phelim boyle option?
+Steve
+Vince j kaminski
+04/25/2000 02: 00 pm
+To: steven leppard/lon/ect@ ect
+Cc:
+Subject: re: real options conference in cambridge
+Steve,
+How are the discussions with risk about an article progressing?
+Vince
+Steven leppard
+04/25/2000 05: 07 am
+To: lenos trigeorgis@ enron
+Cc: vince j kaminski/hou/ect@ ect
+Subject: re: real options conference in cambridge
+Lenos
+I' d like to give a talk entitled" diagrammatic representation of real options
+In enron", in which I will give a brief run - down of a diagrammatic technique
+I have developed for representing real option deals. My notation allows
+Originators, managers and quants to communicate unambiguously, while still
+Appreciating the complexity and subtlety of real optionality. I have defined
+A" diagrammatic grammar" which guarantees that the pricing of the deal
+Follows immediately and automatically from the diagram.
+I propose to introduce the symbols and grammar, then go on to present some
+Suitable examples of diagrams. If appropriate i' ll talk about the links with
+Dynamic programming. (I will need some guidance as to how much technical
+Detail I can go into based on the audience.)
+All the best,
+Steve
+Enron capital & trade resources corp.
+From: lenos trigeorgis
+04/20/2000 08: 45 pm
+To:" steven leppard"
+Cc:" vince j kaminski"
+Subject: re: real options conference in cambridge
+Steve
+Thanks for agreeing to talk. I attach the program to see the other speakers
+And style (it is addressed to a professional autience)
+Please give me a suitable title for the talk (replacing kaminskI % s slot on
+July 6/energy session) and the details of your position
+Thanks
+Lenos
+At 05: 01 _ _ 04/20/00 + 0100, steven leppard wrote:
+>
+>
+> dear prof trigeorgis
+>
+> vince kaminskI has suggested that I would be a suitable speaker at your july
+> conference in cambridge, and i' d be happy to come along if required. Please
+> could you send me appropriate details, and the audience type expected.
+>
+> many thanks.
+>
+> yours sincerely,
+> steve leppard
+>
+>
+>
+>
+- 4 thconfsessions. Doc
+Lenos trigeorgis
+Professor of finance
+University of cyprus
+Dept of business
+75 kallipoleos, po box 20537
+Cy 1678 nicosia cyprus
+Tel: + 357 2 892261
+Fax: 339063

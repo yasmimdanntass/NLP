@@ -1,0 +1,61 @@
+Subject: re: chapter 3 revisions
+Dear vince and grant,
+Please find attached our butchering of your work (only joking...). We' ve
+Tied the chapter in with what has gone before and changed some of your
+Notation so that it is consistent with ours.
+Vince; could you please send thru the footnotes referred to in the chapter
+At your convenience. Could you also please supply a full reference for
+Routledge, seppi, spatt (1999).
+Grant; I hope you don' t mind we' ve called pdjd just jd (to fit in more with
+Our work). Please also can you supply the last figure before you disappear!
+Do you want us to write the summary?
+Many thanks again for all your efforts. It' s all looking good.
+Best regards.
+Chris.
+- - - - - original message - - - - -
+From: grant masson
+To: chris strickland
+Sent: tuesday, june 27, 2000 8: 54 am
+Subject: re: chapter 3 revisions
+>
+>
+>
+> chris:
+>
+> I can' t decide if I should take your silence over the past several weeks
+To mean
+> that you are getting stuck into finishing up the book or you are just so
+> thoroughly disgusted with our work that you would like to wash your hands
+Of us.
+>
+> i' ve been stuck on trying to get the last figure mentioned in the chapter
+Into a
+> format that I like. The problem is the volatility found in the
+Regressions is
+> on the order of several hundred percent, and so when I plot the historical
+Data
+> next to a simulated curve over the course of the year, the simulated curve
+Tends
+> to drift up or down stupidly both in the jump diffusion and garch + jump
+Diffusion
+> model. Any suggestions would be accepted with pleasure. I wonder if i
+Should
+> skip the figure. It seems a pity to do so however, because otherwise the
+Last
+> section comes off as a bit of an afterthought, and I would like to present
+A
+> practical example. Again any guidance would be appreciated.
+>
+> anyway, I am sending you a somewhat improved draft now (minus only the
+Last
+> figure), rather than sit on the whole thing while I stew on this bit, i
+Hope
+> this will be useful to you. Because I am leaving for holidays at the end
+Of the
+> week, I can guarantee you that you will have a final draft before then.
+>
+> regards,
+> grant.
+> (see attached file: cs 260600. Doc)
+>
+- ed _ co 3 _ volatility. Zip

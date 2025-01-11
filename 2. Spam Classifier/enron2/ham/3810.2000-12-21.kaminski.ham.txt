@@ -1,0 +1,33 @@
+Subject: re: agenda for houston visit
+HI mike,
+Thanks for the message.
+Here is one more reason why we should have our own in - house modelling:
+The pcmdI nwp weather maps have been discontinued
+The pcmdI wxmap web has been discontinued starting 20 december, 2000
+Please see the u. S. Navy wxmaps at...
+I will shortly forward a set of minimum requirements (hardware...), softare
+Has been written by me, with some public domain software.
+I am thinking of setting up an internal website with model output data, and
+Verification info.
+Cheers,
+Christian
+Mike a roberts@ ect
+21/12/2000 09: 26 am
+To: christian werner/enron _ development@ enron _ development
+Cc: vince j kaminski/hou/ect@ ect, paul
+Quilkey/enron _ development@ enron _ development, mark tawney/hou/ect@ ect
+Subject: re: agenda for houston visit
+Christian,
+Just finished meeting with pual, vince & mark
+New plan:
+Let' s plan on your coming to houston march 12 th - april 2 nd (after our
+Summer/winters respectively
+But..
+Let' s proceed with the project without pause:
+1. Please send up the software that needs to be installed along with
+Operating system requirements
+2. Please copy me on forecasting provided to sydney office on a daily basis
+If we work on these two fronts, it will optimize your time here and permit
+Transotion to cover your forecasting there
+Thanks
+- - - mike

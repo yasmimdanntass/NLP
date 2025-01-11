@@ -1,0 +1,16 @@
+Subject: ethylene margin collar model
+Dear all:
+Let us meet early this afternoon.
+Here is the overview of the model:
+1) the ethylene margin collars are priced using asian spread option.
+The forward curve and volatility curve are provided by the desk.
+The correlation between the ethylene and ethylene cost starts from the
+Historical spot correlation 50% and grows with the maturity.
+2) the overall 40 mm payout cap is modeled sepereately.
+I fitted the historical spread (10 years data) to a mean reverting model
+With stronger mean reverting strength on the floor side. The model
+Produces
+Trajectories that are statistically simular to the historical data.
+Then the expected payoff is computed through simulation.
+At the meeting we will discuss the assumptions and present the results.
+Zimin

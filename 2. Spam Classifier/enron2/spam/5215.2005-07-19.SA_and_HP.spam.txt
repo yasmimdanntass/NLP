@@ -1,0 +1,15 @@
+Subject: mail system error - returned mail
+This message was undeliverable due to the following reason:
+Ce message n' a pu ÃÂ¡tre transmis pour les raisons suivantes:
+Each of the following recipients was rejected by a remote mail server.
+The reasons given by the server are included to help you determine why
+Each recipient was rejected.
+Les destinataires suivants ont ÃÂ¥tÃÂ¥ rejetÃÂ¥s par un serveur de courrier
+ÃÂ¨ distance. Les raisons donnÃÂ¥es par le serveur sont incluses pour
+Vous aider ÃÂ¨ dÃÂ¥terminer le problÃÂ©me dans chaque cas.
+Recipient:
+Reason: unknown local - part" 1742560" in domain" primus. Ca"
+Please reply to postmaster@ sprint. Ca
+If you feel this message to be in error.
+Veuillez rÃÂ¥pondre ÃÂ¨ postmaster@ sprint. Ca
+SI vous pensez que ce message est erronÃÂ¥.

@@ -1,0 +1,79 @@
+Subject: re: argentina power & gas market modelling
+Team,
+For me it % s ok. Let us know the confimed date early, so we can arrange our
+Classes.
+Thanks
+Diego
+Julian poole
+03/17/2000 10: 35 am
+To: michael guerriero/enron _ development@ enron _ development
+Cc: vince j kaminski@ ect, grant masson@ ect, jeff
+Kabel/enron _ development@ enron _ development, rodolfo
+Freyre/enron _ development@ enron _ development, diego
+Hollweck/enron _ development@ enron _ development, bernardo
+Andrews/enron _ development@ enron _ development, mario aguilar
+Benitez/enron _ development@ enron _ development, santiago
+Subject: re: argentina power & gas market modelling
+All,
+Let' s arrange a conference call next week to discuss the process.
+How does tuesday afternoon fit everyone' s schedule?
+Julian
+Enron international
+From: michael guerriero 03/17/2000 03: 49 pm
+To: vince j kaminski@ ect, grant masson@ ect, jeff
+Kabel/enron _ development@ enron _ development, julian
+Poole/enron _ development@ enron _ development, rodolfo
+Freyre/enron _ development@ enron _ development, diego
+Hollweck/enron _ development@ enron _ development, bernardo
+Andrews/enron _ development@ enron _ development, mario aguilar
+Benitez/enron _ development@ enron _ development, santiago
+Cc:
+Subject: argentina power & gas market modelling
+I would like to initiate a team to address the continued improvement of the
+Argentine power & gas market models. I spoke with vince this morning and we
+Reviewed that history of work to date and what we will need to do from here.
+A summary is as follows:
+Team:
+Ba members: julian poole lead
+Mario benitez associate
+Ba associates: diego hollweck associate
+Bernardo andrews associate
+Santiago porta associate
+Houston members: to be named.
+Time schedule: as soon as possible. Completed before june 1, 2000 winter in
+Argentina.
+Scope of work:
+Power model: advance the current model from basic load forecasting to
+Incorporate weather, hydrology, improved short term and long term forecasting.
+Natural gas model: build a supply and demand load forecasting model
+Incorporating weather, thermal demand, pipeline flow rates, well head
+Supply, improved short term and long term forecasting.
+Phase I - data request
+Power
+Historic weather: temperature - daily, hourly, min, max, average
+Humidity
+Precipitation
+Cloud cover
+Regionally
+Forward weather: temperature - daily, hourly, min, max, average
+Humidity
+Precipitation
+Cloud cover
+Regionally
+Historic hydrology: reservoir levels
+Reservoir capacity
+Current hydrology: reservoir levels
+Remote monitoring: aireal, pressure device, laser
+Snow pack: density volume and mass
+Power supply: current and future capacity
+Transmission
+Capacity: current and future capacity
+Natural gas data list to be developed
+Phase iI - power model development
+Phase iiI - natural gas model development
+We will take advantage of the fact that the associates are in houston for the
+Next two weeks. Vince is out next week but we can start with a process
+Discussion with grant masson next week. Julian please get a meeting scheduled
+As soon as possible. We should immediately start collecting data.
+Thanks
+Mfg

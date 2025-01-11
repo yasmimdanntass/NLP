@@ -1,0 +1,28 @@
+Subject: re: credit reserve simulation for ees
+One the outputs would be expected loss for each of the trials (flat file) and
+A graph depicting the distribution (example below from an early owens
+Illinois model)
+- - - - - original message - - - - -
+From: de, rabi
+Sent: thursday, february 22, 2001 3: 20 pm
+To: o' leary, martin; tribolet, michael; estrems, connie; bradford, william
+Cc: tamarchenko, tanya; dhar, amitava; kaminski, vince; kiatsupaibul, seksan;
+Issler, paulo
+Subject: credit reserve simulation for ees
+Amitava and seksan have identified the source of the discrepancy between the
+Option prices calculated by the credit - reserve model and the stand - alone
+Spreadsheet model used in deal pricing. We expect to put a fix in place by
+Tomorrow.
+In response to your desire to see more output from credit reserve simulation,
+I have identified a list of possible items that may be of interest to you for
+Credit pricing.
+1. Potential exposure across time
+2. For each simulated credit event, display:
+Default time
+Exposure - - is deal - by - deal breakdown of any interest?
+Commodity forward curves (or spot price?) at default time
+I would appreciate it if you could let me know your wish list at your
+Earliest.
+Thanks,
+RabI de
+5 - 4593

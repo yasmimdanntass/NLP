@@ -1,0 +1,22 @@
+Subject: update on mg var model
+HI vince,
+Thanks for the e - mail. We have included live links to price curves through
+Reuters quotes via telerate bridge but we still have static curves for gold
+And cocoa. Kirstee is talking to andreas in ny to obtain position files on a
+Daily basis, addressing point 2) in your e - mail, as well as looking into
+Longer term integration issues. Cantekin and I have agreed the correct
+Correlations for the metals between us, but cantekin is currently checking
+The correlations for silver and gold. Preliminary results based on positions
+As of 19 th july are as follows:
+We noticed that position mapping at the front months can change var
+Significantly.
+As you stated, kirstee hewitt will now be assuming responsibility for further
+Modifications to the model on the london side and to this end I have ensured
+That kirstee is put in touch with key personnel like andreas (andreas will be
+In the london office next week) and has access to all the information she
+Needs.
+Regards,
+Anjam ahmad
+Research
+X 35383
+Spreadsheet:

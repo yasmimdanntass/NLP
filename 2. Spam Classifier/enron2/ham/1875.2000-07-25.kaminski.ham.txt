@@ -1,0 +1,16 @@
+Subject: mg metals - london research responsibility
+Dear all,
+Please ensure that all requests for metals research support in london are
+Directed/forwarded to me in the first instance (e. G. Option pricing, var).
+This is to ensure speediest response time and to avoid duplication of effort
+As well as confusion on the part of our mg counterparts due to multiple
+(duplicated) requests for information.
+Tanya and I are currently developing version la of the var models for mg
+Metals. Vince, ted and mg metals are looking to tanya and I to provide
+Leadership in this area for the integration effort and after production of
+Var v. 1 a, I will look to pass on responsibility for mg metals var systems
+Integration to kirstee hewitt for the london side.
+Regards,
+Anjam ahmad
+Research
+X 35383

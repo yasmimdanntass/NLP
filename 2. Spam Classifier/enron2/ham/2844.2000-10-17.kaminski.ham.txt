@@ -1,0 +1,60 @@
+Subject: re: exotica. Xla
+HI anjam,
+Thanks for the info.
+I' m afraid that one thing I don' t know is precisely how to build
+S:\research\exotica\excel\exotica. Xla from the code you sent me.
+Could you send me instructions?
+Also as you are very busy and away from your desk could you set up your lotus
+Notes
+Calendar so mary ward and joe kelsey
+Permission can see your calendar so I can get in touch with you if anything
+Comes up. They can both see my calendar.
+Thanks,
+Sharad
+Enron europe
+From: anjam ahmad 17/10/2000 11: 37
+To: sharad agnihotri/lon/ect@ ect
+Cc: vince j kaminski/hou/ect@ ect, stinson gibner/hou/ect@ ect, zimin
+Lu/hou/ect@ ect, dale surbey/lon/ect@ ect
+Subject: exotica. Xla
+In answer to your questions.
+Anjam
+- - - - - - - - - - - - - - - - - - - - - - forwarded by anjam ahmad/lon/ect on 17/10/2000 09: 20
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+Enron europe
+From: sharad agnihotrI 16/10/2000 13: 59
+To: anjam ahmad/lon/ect@ ect
+Cc: vince j kaminski/hou/ect@ ect, stinson gibner/hou/ect@ ect, dale
+Surbey/lon/ect@ ect, tanI nath/lon/ect@ ect, steven leppard/lon/ect@ ect
+Subject: exotica. Xla
+HI anjam,
+I have quite a few questions/requests regarding the exotics libarary:
+1) could you e - mail me instructions for building/compiling
+S:\research\exotica\excel\exotica. Xla
+Also if there is any more source code that I need please could you e - mail me
+That.
+You have all the code (c & vba) that makes up the library now - please see
+Previou e - mails
+2) also could you e - mail me documents on the changes you have made to
+S:\research\exotica\excel\exotica. Xla
+Changes are documented through aterations to comments on individual source
+Code files as is the current method in houston and as adopted by me in
+London - version control occurs at the individual file level rather than
+Through soiurce safe
+3) the exotica. Xla used in london and exotica. Xll used in houston are quite
+Different. What regression testing has been done?
+How do we know if the two versions that we have been using produce the same
+Results.
+I have not recently compared the xll from houston with our xla - this would
+Be a useful exercise for you
+4) judging from the documentation there are quite a few more functions
+Available on the houston exotica
+Like asian spreads, quantos, digitals etc. Is there any reason why they have
+Not been implemented in london' s exotica. Xla?
+Maintenance and upgrades to london exotica to ensure compatability with
+Houston and vice versa is an on - going process - inevitably there will be some
+Lag between a new model being implemented in houston and in london, as is the
+Case with asian spreads and digitals. Quantos are already available - see
+Vba code.
+Thanks in advance,
+Sharad

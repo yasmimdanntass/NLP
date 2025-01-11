@@ -1,0 +1,29 @@
+Subject: new basis report
+Bhavna:
+The basis report has been updated to cover 2000 prices. It is called
+Basisnw 7. Xls and is in the erg database.
+It looks to be working correctly, but of course without data it is a little
+Hard to confirm. As always, it is ultimately your job to verify that the
+Numbers reported are correct. Lemme know if there are problems.
+It is easy to change the spreadsheet to start a new year. You should keep
+This mail message as a reference.
+1) add 12 to the expression in" printmacro"! B 35 i. E. Change
+Copy (offset (henrycash, 12 * againstyear + 63, i, 12, 1)) to
+2) define a new cell reference on the basis page for the first date to be
+Printed out on the report page. For example, last year, the basis report
+Went from jan 93 to dec 1999. In basisnw 6. Xls there is a name" jan 93" defined
+As" basis"! A 64 (i. E. Refers to the row where the jan 1993 basis numbers are
+Recorded). This year, in basisnw 7. Xls, I defined" jan 94" to refer to
+" basis"! A 76. That' s because the basis report will now run from jan 1994 to
+Dec 2000.
+3) change the expression in" printmacro"! B 45 to use this new cell reference
+I. E. Change copy (offset (jan 93, 12 * indexyear, report, 12, 1)) to
+4) having executed steps 1) - 3) the spreadsheet will now print numbers
+Shifted up by one year. All that remains to do is to change the dates on the
+" printformat" page to be one year more. By that I mean change 1998 to 1999,
+1999 to 2000, change 98/99 to 99/00, etc. Don' t move any numbers or formulas!
+That' s it. As we discussed bhavna, while I am happy to do this for you, it
+Is not in your or my best interest for this to continue. Please do work to
+Find some one in your shop to maintain this spreadsheet.
+Regards, and happy new year!
+Grant.

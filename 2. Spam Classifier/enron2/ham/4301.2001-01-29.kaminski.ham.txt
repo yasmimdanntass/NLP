@@ -1,0 +1,27 @@
+Subject: approval is overdue: access request for paul. D. Thomas@ enron. Com
+Mike,
+Following request has been made for a number of people.
+The access requested is: o:\research\power meteorology\weather temperatures -
+Read/write
+Data approval grant
+This is what I wrote, denying the request:
+The reason for the rejection has been communicated several times.
+The person who requested the access does not want it any more. Granting both
+Read/write access could threaten the integrity of the data.
+Any comments?
+Vince
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski/hou/ect on 01/29/2001
+08: 19 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Arsystem on 01/26/2001 07: 16: 10 pm
+To:" vince. J. Kaminski@ enron. Com"
+Cc:
+Subject: approval is overdue: access request for paul. D. Thomas@ enron. Com
+This request has been pending approval for 2 days and you are the
+Alternate. Please click
+Approval to review and act upon this request.
+Request id: 000000000015384
+Approver: stinson. Gibner@ enron. Com
+Request create date: 1/25/01 7: 59: 02 am
+Requested for: paul. D. Thomas@ enron. Com
+Resource name:\\ enehou\houston\common\research - [read/write]
+Resource type: directory

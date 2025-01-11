@@ -1,0 +1,118 @@
+Subject: re: the consultant' s model for gary hickerson' s group
+The model is supposed to be a real option model to capture the value of
+Power plants of gencos. It is to give trader a better insight as to whether
+The
+Market is overvaluing/undervaluing certain genco stocks, and trader can
+Act accordingly. I' m still trying to find out how trader is supposed to use
+It.
+Modeling details:
+The model takes in all gencos' locational power forward prices and fuel
+Forward
+Prices, and uses garch model to simulate one year daily prices, and then
+Uses a hourly profile to convert them into hourly prices. Garch model
+Parameters
+Are estimated by the consultant using and separate model and
+Are updated twice a year, and it does not matter whether the simulation starts
+In january or september.
+Using these prices, it will determine whether a unit at a particular location
+Will be dispatched
+Or not depending on a) spread of power and fuel prices, and b) whether the
+Start - up
+Cost can be recovered during 8 operation hours. The unit can be dispatched at
+Minimum and peak levels. Fixed o & m, sox and nox (I don' t know what the last
+Two stand for)
+Are taken into consideration.
+With the simulated dispatch schedule, the model calculates the value that can
+Be generated
+By this unit, then sums it up across all units.
+The final value is the average of 100 simulations. And it takes about 16
+Hours to run for about
+200 units.
+After our conversation, the consultant promised to look into a) how to make
+The model more flexible,
+Say, to allow a different time horizon, b) reduce spreadsheet overhead by
+Doing calculation one
+Unit a time and not saving all the intermediate information (as of now it
+Saves everything
+On the spreadsheet).
+Assuming the garch process is modelled correctly, I believe the methodology
+Is ok, though
+It does not capture most of the optionality.
+My concerns are:
+Whether the price processes are modelled correctly. I have to get more
+Details before making
+Any conclusion.
+100 simulations are way too few. Unless we convert the algorithm to c, i
+Don' t see how spreadsheet
+Can handle more simulations. I guess that' s why they contact us. But again,
+If enron' s buying the
+Model from the consulting company, why should enron do their job for them?
+How trader' s going to use the model output. For this I phoned jeff (the
+Associate who initiated all
+These) and am still waiting for his returning call. A related questions why
+The model horizon is one year.
+We can either
+Oversee the conversation, but not doing actual coding for them.
+Or
+Redo the model for them. (the problem still remains that how trader' s going
+To use the output). But
+In view of the great wall of china separating the business units, should we
+Do it?
+As of now I have a simulation model taking start - up cost, fixed o & m, rump - up
+Delay into consideration.
+It simulates monthly prices (using gbm) and takes 2 minutes 40 seconds to run
+10, 000 simulations for
+One unit for ten years (120 time steps). It can use forward - forward vol and
+Incorporate seasonality into
+It (I understand this is debatable). (one interesting observation is that
+When using forward - forward vol
+Simulation, the standard deviation is about 0. 5%, while standard deviation
+Using forward vol is about
+2%. Also, incorporating seasonality increases the value by about 1. 6%). Since
+Most of the time - cost
+Occurs in price simulation, and we are to simulate about 20 price processes,
+I hope the full model
+(if we build it) will take a couple of hours to run for 200 units. The main
+Task will be interfacing, i. E.,
+Getting data from data base, and outputting the results. This is where I need
+Most help if I am to do it.
+Please advice the course of action. I am supposed to talk to michelle
+Cisneros today.
+P. S. I never promised to oversee a programmer in our group (see the message
+Below).
+Best,
+Alex
+- - - - - - - - - - - - - - - - - - - - - - forwarded by alex huang/corp/enron on 01/05/2001 08: 58
+Am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Jeff m gray
+01/04/2001
+To: gary. Hickerson@ enron. Com, michael. W. Bradley@ enron. Com,
+Michelle. D. Cisneros@ enron. Com, jaime. Gualy@ enron. Com
+Cc: alex. Huang@ enron. Com, kskinner@ ftenergy. Com, cseiple@ ftenergy. Com
+Subject: fw: project timeline
+Ken and I worked up the following timeline and refined the trading
+Methodology a bit this morning. We also met with alex huang from vince' s
+Group, and explained the model and coding tasks. Ken and alex have arranged
+To speak by phone on monday, and meanwhile alex is coordinating within the
+Research group. Alex will oversee a programmer within his group, while
+Interfacing regularly with us.
+1/4 kickoff
+1/11 complete spreadsheet, table, and database structures (rdi).
+1/17 complete software coding for the pricemaker component of the model
+(rdI and enron research), and begin testing (enron research).
+1/22 complete software coding for the dispatch portion of the model (rdi
+And enron research), and begin testing (enron research).
+1/22 complete financial trader" user" interface, within the access
+Environment (rdi).
+1/22 complete collection and delivery of unverified generating - unit data from
+RdI databases (rdi). Begin verification process (rdi).
+1/29 complete all charts and reports accessible from the user interface
+(rdi).
+1/29 complete compilation of consensus ebitda forecasts for all operations
+Other than merchant generation (enron financial trading).
+2/9 complete code testing (enron research).
+2/9 deliver verified and quality - checked generating - unit data (rdi).
+2/9 complete the model, begin testing the trading methodology, and train
+Users.
+2/16 finish training, testing, and final qc.
+Jeff

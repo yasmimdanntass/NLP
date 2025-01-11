@@ -1,0 +1,11 @@
+Subject: wtI models
+Stinson and vince,
+I finalized the presentation for john lavorato, he said he is ready
+To present it to greg. He is happy with the work we provided.
+I will be on vocation starting next week. I attached the simulation models
+Here in case that you need them. The oc version deals with open - close
+Trading and cc version deals with continuous trading.
+Should you have any questions, or need to run different scenarios, please
+Call me at home. Otherwise, I will see you next year.
+Merry chrismas and happy new year!
+Zimin

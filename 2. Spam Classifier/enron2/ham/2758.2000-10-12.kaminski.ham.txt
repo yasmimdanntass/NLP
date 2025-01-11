@@ -1,0 +1,30 @@
+Subject: option p & l
+Gentleman:
+The erms system, as you know, has an excellent capability for
+Decomposing option p & l into the following components:
+New deals
+Curve shift
+Gamma
+Vega
+Theta
+Rho
+Drift
+2 nd order adjustments
+What I dont understand is the gamma component which is reported in dollars.
+The unit of measure suggests that incremental changes in a contract position
+Is being associated with specific prices. These prices are the effective buy
+Or sell prices associated with the dynamic delta position.
+Stated differently, the standard taylor expansion has incorporated a price
+Variable in such a way as to convert the unit of measure from gamma' s
+Standard contract count to total gamma dolalrs. This is something I dont
+Understand. To date, inquiries to the risk management accounting group has
+Further revealed that the gamma component of p & l is not well understood.
+This is what concerns me: bridgeline has 2 books with option exposures (nymex
+And gas daily). Both books dynamically hedged its positions during
+Yesterdays large price move and, through anticipitory hedging in advance or
+During the large price move, secured sufficient coverage to neutralize
+Expected changes in delta. However, our p & l from our underlying position did
+Not offset our gamma p & l. Consequently, I have to ask why? Im hoping that a
+Brief look at the why gamma dollars are calculated may reveal something which
+Will better guide our hedging decisions.
+Any help is appreciated

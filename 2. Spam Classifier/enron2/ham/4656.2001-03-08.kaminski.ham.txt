@@ -1,0 +1,29 @@
+Subject: password security notice
+For password renewals only
+It security & controls ) password security notice
+Passwords
+The key to maintaining information and system security is the use of
+Well - selected and guarded passwords. Because your password is our first line
+Of defense, stronger password selection criteria will soon be implemented for
+All employees.
+Password policy
+Passwords  (
+1. Must be at least of eight characters in length.
+2. Must not contain names, userids, common english dictionary words, and
+Begin or end with a number.
+3. Must contain alphanumeric characters and contain at least one special
+Character. No more than fifty percent of the overall password can be in
+English.
+4. Must not be reused or cyclical.
+5. Must be changed every 60 days.
+6. Must not be publicly displayed.
+7. Must not be shared with other users.
+Choosing a good password comes down to two things. First, avoid common
+Everyday words a potential hacker , s software will be looking for. Second,
+Keep your password simple enough that you can remember it without having to
+Write it down.
+Please keep in mind that the enron code of ethics holds employees responsible
+For password security. It security & controls conducts periodic audits to
+Ensure compliance with company policy.
+For any problems encountered concerning password controls, please call your
+Appropriate resolution center (available: 24 hrs./day, 7 days/week).

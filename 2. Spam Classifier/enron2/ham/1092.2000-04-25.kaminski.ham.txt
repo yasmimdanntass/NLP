@@ -1,0 +1,54 @@
+Subject: re: real options conference in cambridge
+Lenos
+I' d like to give a talk entitled" diagrammatic representation of real options
+In enron", in which I will give a brief run - down of a diagrammatic technique
+I have developed for representing real option deals. My notation allows
+Originators, managers and quants to communicate unambiguously, while still
+Appreciating the complexity and subtlety of real optionality. I have defined
+A" diagrammatic grammar" which guarantees that the pricing of the deal
+Follows immediately and automatically from the diagram.
+I propose to introduce the symbols and grammar, then go on to present some
+Suitable examples of diagrams. If appropriate i' ll talk about the links with
+Dynamic programming. (I will need some guidance as to how much technical
+Detail I can go into based on the audience.)
+All the best,
+Steve
+Enron capital & trade resources corp.
+From: lenos trigeorgis
+04/20/2000 08: 45 pm
+To:" steven leppard"
+Cc:" vince j kaminski"
+Subject: re: real options conference in cambridge
+Steve
+Thanks for agreeing to talk. I attach the program to see the other speakers
+And style (it is addressed to a professional autience)
+Please give me a suitable title for the talk (replacing kaminskI % s slot on
+July 6/energy session) and the details of your position
+Thanks
+Lenos
+At 05: 01 _ _ 04/20/00 + 0100, steven leppard wrote:
+>
+>
+> dear prof trigeorgis
+>
+> vince kaminskI has suggested that I would be a suitable speaker at your july
+> conference in cambridge, and i' d be happy to come along if required. Please
+> could you send me appropriate details, and the audience type expected.
+>
+> many thanks.
+>
+> yours sincerely,
+> steve leppard
+>
+>
+>
+>
+- 4 thconfsessions. Doc
+Lenos trigeorgis
+Professor of finance
+University of cyprus
+Dept of business
+75 kallipoleos, po box 20537
+Cy 1678 nicosia cyprus
+Tel: + 357 2 892261
+Fax: 339063

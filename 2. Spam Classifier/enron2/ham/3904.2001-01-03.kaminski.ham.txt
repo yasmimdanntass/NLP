@@ -1,0 +1,52 @@
+Subject: re: uk portfolios and books setup in risktrac
+Tanya
+The books were set up incorrectly when the spreadsheet feeds were
+Implemented. This has since been corrected. Currently the european risk trac
+Numbers do not feed into the corporate reporting of var.
+The books should now contain gas exposures in uk gas and power in uk power
+And have no duplication.
+I have previously discussed with naveen and kirstee that it would be a good
+Idea if we set up a regular meeting to projecct manage the implementation of
+European var numbers, from risk trac, into the daily reporting. If you have
+No objections I suggest we discuss this at the next weekly rac/research
+Meeting.
+Rgds
+Oliver
+Tanya tamarchenko
+03/01/2001 21: 05
+To: david port/market risk/corp/enron@ enron, vince j kaminski/hou/ect@ ect
+Cc: kirstee hewitt/lon/ect@ ect, oliver gaylard/lon/ect@ ect
+Subject: re: uk portfolios and books setup in risktrac
+David and vince,
+In my e - mail below I pointed out to a inconsistency in the portfolio
+Hierarchy for uk positions in risktrac that I found out,
+Namely: some books (for example elsb 1 and elsb 2) belong to uk - gas portfolio
+And to uk - power portfolio.
+I wanted to clarify this in order to reconcile positions in risktrac and in
+The spreadsheet.
+Tanya.
+Tanya tamarchenko
+01/03/2001 02: 09 pm
+To: naveen andrews/corp/enron@ enron, matthew adams/corp/enron@ enron
+Cc: rabI de/na/enron@ enron, jaesoo lew/na/enron@ enron, vince j
+Kaminski/hou/ect@ ect
+Subject: re: uk portfolios and books setup in risktrac
+Naveen and matthew,
+I started looking systematically through uk positions and corresponding var
+Numbers in the risckrac.
+I found a few inconsistencies so far.
+1. The portfolio elsb 1 - nbp has a book elsb 1 under it. The sum of delta
+Positions for this book is
+239, 021, 655, the sum of gamma positions is - 211, 031, 450. Var for the
+Portfolio elsb 1 - nbp is zero.
+The same refers to a few other portfolios, for example elsb 2 - nbp, elsb 3 - nbp,
+E 2 xxl - nbp.
+2. The portfolio elsbp 1 - ppp also has the book elsb 1 under it. This book
+Contains the positions on pppwdl
+Through pppwd 6 and pppwel through pppwe 4.
+The same refers to the other books, for example elsb 2.
+This looks messy. Can someone in rac go over all the portfolios, all the
+Corresponding books and curves
+In risktrac and make sure they are set up properly?
+Thank you,
+Tanya.

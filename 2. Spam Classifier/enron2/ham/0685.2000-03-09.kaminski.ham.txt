@@ -1,0 +1,233 @@
+Subject: re: energy derivative courses
+Fyi
+- - - - - - - - - - - - - - - - - - - - - - forwarded by shirley crenshaw/hou/ect on 03/10/2000
+07: 10 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Shirley crenshaw
+03/10/2000 07: 06 am
+To: lacima@ enron
+Cc:
+Subject: re: energy derivative courses
+HI julie:
+Here is the information you requested:
+Name: vince kaminski
+Title: managing director and head of research
+Company: enron corp.
+Address: 1400 smith street - ebl 962
+Houston, tx 77002
+Telephone: (713) 853 - 3848 (vince) - (713) 853 - 5290 (shirley)
+Fax: (713) 646 - 2503
+If you need anything else, please let me know.
+Thanks and have a great day!
+Shirley
+Administrative coordinator
+Enron corp. Research
+Lacima@ compuserve. Com > on 03/09/2000 04: 09: 20 pm
+To: enron
+Cc:
+Subject: energy derivative courses
+Dear shriley,
+Thank you for registering vince kaminskI for the energy courses to be held in
+Houston,
+29 - 31 march.
+To complete the registration, could you please provide and confirm the
+Following details:
+Name: vince kaminski
+Position:
+Company: enron corporate research
+Address:
+Phone: 713/853 - 5290
+Fax:
+We will invoice you for the course fees, and upon payment, we will forward
+The pre - course
+Reading material via email.
+The course will be held at the hyatt in downtown houston.
+Please contact me if you require additional information.
+Sincerely,
+Julie brennan
+Lacima consultants
+- - - - - - - - - - - - - forwarded message - - - - - - - - - - - - - - - - -
+From:" shirley crenshaw", internet: shirley. Crenshaw@ enron. Com
+To: [unknown], chris _ strickland
+Date: 3/8/100 5: 20 pm
+Re: energy derivative courses
+Good afternoon professor strickland:
+Please register vince kaminskI for both the energy derivatives: pricing
+And risk management course and the v@ r course, scheduled for
+March 29, 30 and 31 st.
+Please forward method of payment preferred.
+Thank you very much.
+Shirley crenshaw
+Administrative coordinator
+Enron corp. Research
+713/853 - 5290
+- - - - - - - - - - - - - - - - - - - - - - forwarded by shirley crenshaw/hou/ect on 03/08/2000
+04: 18
+Pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Vince j kaminski
+03/08/2000 10: 02 am
+To: shirley crenshaw/hou/ect@ ect
+Cc:
+Subject: energy derivative courses
+Shirley,
+Please, enroll me in this course.
+Vince
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski/hou/ect on 03/08/2000
+10: 02
+Am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Chris strickland on 03/07/2000 12: 20: 40 pm
+To: vince j kaminski/hou/ect@ ect, grant masson
+Cc:
+Subject: energy derivative courses
+Dear vince/grant,
+It was good to meet and talk with you both this morning - very interesting.
+Here are the details of the course (actually there are two seperate
+Courses, one on var) that I promised you.
+I hope to see you both again later in the month.
+Best regards.
+Chris.
+Course 1: energy derivatives: pricing and risk management
+-
+Course leaders: dr les clewlow and dr chris strickland
+Houston: 29 - 30 march 2000
+London: 3 - 4 april 2000
+Fee: stg 1950/usd 2950
+This is an intermediate course aimed at the energy professional who is
+Familiar with energy derivative products but who requires the mathematical
+Foundations of derivative pricing and an understanding of the pricing and
+Risk management of energy derivatives.
+This course assumes that participants are familiar with standard basic
+Option pricing theory (the black - scholes formula, monte carlo simulation,
+And the use of binomial trees for option pricing).
+The format for the course will follow our usual highly practical and
+Successful style of alternate sessions of lectures and excel based computer
+Workshops. To facilitate intensive interaction, the course will be limited
+To a maximum of 15 participants so early booking is advisable.
+The excel based computer workshops deal with oil and gas as well as
+Electricity derivatives and contain detailed calculations for pricing and
+Risk management. At the end of the 2 days, participants leave with a
+Diskette containing answers to all the workshops as well as valuable code
+For pricing and simulation.
+Registration fee includes: pre - course reading, course materials, copies of
+Relevant research materials, diskette with fully worked solutions to
+Computer workshops, lunch and refreshments. Additionally, each attendee
+Will receive a free copy of clewlow and strickland' s forthcoming book
+" energy derivatives: pricing and risk management" which includes
+Valuable contributions from enron' s vince kaminskI and grant masson.
+Upon registration, participants will be sent a pack containing relevant
+Pre - course reading.
+Course outline
+Day 1, am: introduction to energy derivatives modelling
+Energy derivatives - structures and applications
+Fundamentals of modeling and pricing
+Analysing energy data
+Spot price behaviour
+Building forward curves - assessing available models
+The relationship between the spot price and forward curve dynamics
+Workshop: analysing the properties of energy data - mean reversion,
+Volatility structures, jumps
+Day 1, pm: spot price models and pricing by simulation and trees
+Review of spot price models
+The pros and cons of spot price models
+Pricing standard options, swaptions, caps, floors, and collars
+Simulation for spot price models
+Pricing exotic options (barriers, lookbacks, asians, etc.)
+Building and using trees for energy derivatives
+Building trees consistent with the forward curve
+Pricing options in trees
+Workshop: using simulation and trinomial trees to price energy
+Derivatives
+Day 2, am: forward curve based models
+Forward curve dynamics and forward curve models
+The relationship to spot price dynamics
+MultI - factor forward curve models
+Volatility function interpretation and estimation
+Pricing standard energy options
+Pricing energy swaptions
+Pricing energy exotics using simulation
+Workshop: using simulation to implement multI - factor models and price
+Energy options
+Day 2, pm: risk management of energy derivatives
+Energy market risk and hedging
+Computing hedge sensitivities
+Determining the hedge instruments
+Hedging a energy derivatives book
+Value - at - risk in energy markets - the pros and cons of the approaches
+Credit risk in energy markets - issues and models
+Workshop: hedging an energy portfolio
+Please feel free to e - mail us to register for this course and we will
+Contact you regarding payment.
+Course 2: var for energy markets
+Course leaders: dr les clewlow and dr chris strickland
+Houston: 31 march 2000
+London: 5 april 2000
+Fee: stg 950/usd 1950
+This is an intermediate course aimed at the energy professional who is
+Familiar with energy derivative products but who requires an understanding
+Of the theory and calculation of value at risk for energy derivative
+Portfolios.
+The format for the course will follow our usual highly practical and
+Successful style of alternate sessions of lectures and excel based computer
+Workshops. To facilitate intensive interaction the course will be limited
+To a maximum of 15 participants so early booking is advisable.
+The excel based computer workshops deal with oil and gas as well as
+Electricity derivatives. At the end of the course participants leave with a
+Diskette containing answers to all the workshops as well as valuable code
+For pricing and var calculations.
+Registration fee includes: pre - course reading, course materials, copies of
+Relevant research materials, diskette with fully worked solutions to
+Computer workshops, lunch and refreshments. Additionally, each attendee
+Will receive a free copy of clewlow and strickland' s forthcoming book
+" energy derivatives: pricing and risk management".
+Upon registration, participants will be sent a pack containing relevant
+Pre - course reading.
+Course outline
+Day 1, am: understanding the var methodologies and issues
+What is var?
+Uses of var
+Types of var methodologies
+Implications of applying the riskmetrics assumptions in energy markets
+Delta var, historical simulation
+Linear and non linear instruments
+Workshop: applying simple var methodologies in the energy market
+Day 1, pm: calculation of energy portfolio var using simulation
+Modelling the energy forward curve - single and multI - factor
+Modelling the joint behaviour of different energies simultaneously
+Calculation of covariances and correlations
+Incorporating jumps
+Detailed example var calculation for an energy portfolio
+Workshop: simulating energy forward curves and calculation of var for an
+Energy portfolio.
+Dr. Les clewlow and dr chris strickland hold associate research positions
+At both the school of finance and economics, university of technology,
+Sydney and the financial options research centre, university of warwick,
+Uk. Together they have over 20 years combined experience in the financial
+And energy derivative markets and have published many articles in academic
+And trade journals. They are the authors of the book" implementing
+Derivatives models" (wiley, 1998) and editors of" exotic options: the state
+Of the art" (itp, 1998). Their forthcoming book," energy derivatives:
+Pricing and risk management," is due to be published during the second
+Quarter 2000. Currently, their interests are concentrated in the energy
+Derivatives area, where they have developed a wide range of pricing tools
+For electricity options and other energy derivatives.
+- - - - - - - - - - - - - - - - - - - - - - - internet header - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Sender: shirley. Crenshaw@ enron. Com
+Received: from mailman. Enron. Com (mailman. Enron. Com [192. 152. 140. 66])
+By spamgaaa. Compuserve. Com (8. 9. 3/8. 9. 3/sun - 1. 9) with esmtp id raal 8057
+For; wed, 8 mar 2000 17: 20: 18 - 0500 (est)
+Received: from dservl. Ect. Enron. Com (dservl. Ect. Enron. Com [172. 16. 1. 37])
+By mailman. Enron. Com (8. 8. 8/8. 8. 8/corp - 1. 03) with esmtp id waal 9791
+For; wed, 8 mar 2000 22: 19: 39 gmt
+Received: from notes. Ect. Enron. Com (notes. Ect. Enron. Com [172. 16. 4. 33])
+By dservl. Ect. Enron. Com (8. 8. 8/8. 8. 8) with smtp id qaa 23887
+For; wed, 8 mar 2000 16: 20: 16 - 0600 (cst)
+Received: by notes. Ect. Enron. Com (lotus smtp mta v 4. 6. 5 (863. 2 5 - 20 - 1999))
+Id 8625689 c. 007 ab 2 ce; wed, 8 mar 2000 16: 20: 11 - 0600
+X - lotus - fromdomain: ect
+From:" shirley crenshaw"
+To: chris _ strickland@ compuserve. Com
+Message - id:
+Date: wed, 8 mar 2000 16: 20: 09 - 0600
+Subject: energy derivative courses
+Mime - version: 1. 0
+Content - type: text/plain; charset = us - ascii
+Content - disposition: inline

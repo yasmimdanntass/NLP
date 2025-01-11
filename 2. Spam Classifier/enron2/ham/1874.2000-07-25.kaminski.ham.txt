@@ -1,0 +1,15 @@
+Subject: fwd fwd volatility for metals var
+HI tanya,
+I think using the 60 business day fwd fwd vols based on historical data is
+Reasonable, to ensure consistency with the amount of data we use to estimate
+The eigenvalues. I am just finishing the correlations study.
+Regards,
+Anjam
+X 35383
+Zinc:
+Lead:
+Aluminum h:
+Aluminum s:
+Tin:
+Copper:
+Nickel:

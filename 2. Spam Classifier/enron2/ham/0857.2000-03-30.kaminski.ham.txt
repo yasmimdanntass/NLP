@@ -1,0 +1,35 @@
+Subject: norway visit: research agenda
+Dear all,
+I would like to make myself available for some meetings at the oslo office
+During my visit on friday pm, monday and tuesday. I believe bjarne will be
+Available on tuesday, if not monday, and so would like to arrange the trading
+And origination meetings for tuesday (so that he can attend) and maybe go
+Through the energydesk issues on monday. I will also give a presentation,
+Probably on monday.
+Trading: options & volatility curves
+It would be useful to meet with the traders along with bjarne' s team to help
+Us improve our understanding of the valuation/hedging issues encountered in
+Trading options (both european and asian). I hope to discuss the vol curves
+And will bring the example of the recent work done for the uk electricity
+Desk where a monthly volatility curve generator and initial half - hourly
+Forward volatility curve have been developed.
+Origination:
+Any issues arising in complex deals (e. G. Dry reservoir, user - time contracts)
+Etc. Perhaps with didrik.
+Energydesk. Com
+To support the on - going effort to ensure the accuracy of the energydesk. Com
+Systems, I hope to help james stephen nail - down the reasons for some of the
+Discrepancies between the energydesk. Com valuation and the oslo book (for
+This I hope to meet with trond).
+Exotic options:
+If everything runs smoothly, I plan to roll - out the new asian model which
+Should also help us in improving our electricity volatility curve.
+I will be in the oslo office from friday afternoon, and available all day
+Monday and tuesday. I will be staying at the grand hotel and probably
+Contactable on my mobile: 07747 86813.
+Look forward to meeting you soon!
+Regards,
+Anjam
+X 35383
+P. S. I will be contactable on my mobile for any urgent queries from london
+Customers: 07747 868131, or reachable through catherine/maret (x 2570)

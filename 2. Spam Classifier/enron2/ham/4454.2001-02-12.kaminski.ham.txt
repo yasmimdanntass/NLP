@@ -1,0 +1,54 @@
+Subject: re: synfuel option valuation
+Lenny,
+I believe that you must have done your home work on the the tax credit
+Issue. However, it may
+Make sense to create some kind of reserve in case the tax credit is removed
+In the future.
+I am glad that you like the way we treat the tax credit, which is built into
+The strike price for the
+Digital option. With the tax credit, it is most likely the option will be
+Exercised.
+Paulo issler is the person who worked on this model initially. He will be
+Back this wednesday.
+We can talk to him about the standard deviation he put into the model.
+Zimin
+Lenny hochschild@ enron
+02/12/2001 08: 15 am
+To: zimin lu/hou/ect@ ect
+Cc:
+Subject: re: synfuel option valuation
+Zimin,
+Thanks for your e - mail. Sorry for the late reply, I was travelling last week.
+I' m under the impression that the with the new administration, there is a
+Greater chance that section 29 will be extended beyond 2007 than repealed. If
+This happens, we contractually have the right to extend this contract. We
+Have not valued the chance of this happening, so I don' t think we should
+Value the chance of this not happening.
+Anyways, let me speak to my supervisor on this and revert.
+In the meantime, I looked over the amendment you made with regard to adding
+The second strike of the tax credit and think this is now reflective of the
+Deal and am happy with it. I still do not understand a few things re: where
+Did the st. Deviations come from. I believe you said that someone who works
+For you put this together but was away last week.
+Please revert with his/her name so that I can get together and understand
+This.
+Thanks.
+Lenny
+Zimin lu@ ect
+02/06/2001 01: 09 pm
+To: lenny hochschild/na/enron@ enron
+Cc: eric groves/hou/ect@ ect, stinson gibner/hou/ect@ ect
+Subject: synfuel option valuation
+Lenny,
+I think we had a good discussion about the deal valuation.
+One thing, I think you are prefectly aware of it, is that the economics
+Of this deal is driven by the tax credit ($25. 03). The risk on our side
+Is that if the tax credit is removed, aig will not deliver the synfuel
+And pay $4. 55 to us.
+Vince mentioned that congress might act quickly enough to eliminate
+The tax benefit. I just want to remind you we should take this risk
+Into consideration.
+Zimin
+Ps:
+I changed the results in sheetl slightly. The values in column a was shifted
+By 0. 5. Use the attached model.

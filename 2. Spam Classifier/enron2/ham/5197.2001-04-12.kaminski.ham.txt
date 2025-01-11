@@ -1,0 +1,102 @@
+Subject: london status report - research weather effort
+Vince,
+FyI to give you background for tomorrow' s telephone conference
+Steve is really a home - run hitter
+Mike
+- - - - - - - - - - - - - - - - - - - - - - forwarded by mike a roberts/hou/ect on 04/12/2001
+09: 26 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Enron north america corp.
+From: stephen bennett@ enron 04/12/2001 09: 02 am
+To: mike a roberts/hou/ect@ ect
+Cc:
+Subject: london status report
+HI mike,
+Before we meet with vince tomorrow - I thought we should drop you a line and
+Give you an idea as to what' s been accomplished in the first week as well as
+Some of the challenges and problems we' ve run into. This way we can make the
+Most effective use of vince' s time.
+1) current products and customers
+In our first 3 days - we established 6 different customer groups -
+Representing approximately 40 traders plus additional fundamentals and
+Analytics folks. The groups are: uk trading, gas fundamentals, crude
+Trading, weather derivatives, continental power, and an internal trader
+Newsletter.
+We' ve built the following framework to address these customers - the key
+Deadlines are noted:
+0800: uk trading/weather derivatives/fundamentals: prepare a 1 to 5 day uk
+Specific forecast and assess the 12 z runs of the ecmwf (and ensembles), the
+Avn as well as earthsat' s 1 - 5 day outlook. The traders are particularly
+Interested in the performance of the ecmwf as it feeds all of their demand
+Models. We prepare a 1 page summary and give an idea as to any particular
+Forecast biases - whether we feel things may come in warmer or colder than
+The model. We brief the traders and field questions then provide our report
+To the fundamentals group.
+* * in the future we would like to be able to gather raw data from the avn and
+Mrf to provide a series of choices which could be input into their demand
+Models or at least be able to give them our" best pick" of guidance and how
+We feel things may deviate from that pick.
+1030 am: obtain the uk met 6 - 10 and 1 - 5 day forecasts. Provide comment for
+Uk trading.
+1200: uk trading/crude and products/weather derivatives: prepare a full
+Qualitative analysis of oz models (mrf/nogaps/canadian/ensembles). Produce a
+6 to 10 day europe forecast and make any needed adjustments to the 1 to 5 day
+Forecast. Produce the global weather report including a global executive
+Summary; analysis of teleconnections and their expected impact; 1 to 5 and 6
+To 10 day forecasts compared to earthsat; a 10 day city forecast table for
+European cities along with the expected effect on heating demand and finally
+A" port status report" describing weather and port conditions in 11 worldwide
+Ports. Update traders (uk and wx deriv) on changes or new trends in the oz
+Models. Provide a quality assessment of the uk met 6 to 10 and 1 to 5 day
+Forecast for uk trading.
+1330 (mon - wed): brief the crude and products groups in london and houston.
+1600: review 12 z avn for any major forecast changes and communicate changes
+To traders.
+Weekly: produce a weather article for" critical mass" - internal trading
+Newsletter.
+Of course between 1000 and 1330 we are looking closely at the us weather for
+Support to you guys in houston. I' m still writing the daily us executive
+Summary as well as producing a 6 to 10 day us forecast.
+2) requested projects:
+* gas fundamentals has asked us to provide weather information for their
+Morning report and website. They would like to be able to gather objective
+Output from as many forecast models as we can get.
+* weather derivatives has asked for week ahead, month ahead, and seasonal
+Outlooks for temperature and precipitation. They have also asked about
+Creating a tradeable" nao index" and developing an in - house model for
+Forecasting nao.
+* continental power has asked for temperature and precipitation outlooks for
+Power generation and hydro.
+* gas fundamentals, uk trading, continental power, weather derivatives and
+Crude and products have all asked for a european summer outlook for
+Temperature and precipitation. We expect to have this completed tomorrow.
+* the research group has asked for assistance in gathering climate data
+Across spain for temperature and precipitation.
+3) leads to follow up on:
+* elsa in houston asked us to contact some of the softs traders here and let
+Them know once we were up and running.
+* contact chris mahoney to determine if we can provide and additional support
+For crude and products.
+* follow up on a potential morning breifing for continental power
+4) challenges:
+* we' ve been told that we will be moving locations next week - which might
+Entail corrupting or loosing the software and hardware configurations that
+Have taken almost a week to get fully established. It seems that this office
+Functions on a" hot desk" system where people are constantly moving around.
+This will make it very difficult to stay connected - as well as very
+Difficult for our customers to identify us.
+* administrative detail take an inordinate amount of time. Assembling
+Reports both physical and electronic can take nearly as long as actually
+Preparing the reports!
+- - -
+Mike,
+Ok - I think that brings you up to speed. I' ve been amazed at the amount of
+Feedback we' ve already gotten and we' ve only been here 3 days! On that note
+I wanted to let you know that I am fully committed to this project. It seems
+That we will not have a second meteorologist to assist tony by my planned
+Departure date on the 20 th. As such - I can continue in my current role
+Through my planned vacation - keeping me in london until the 27 th - which is
+My current reservation back to houston. I am also open to remaining in
+London beyond the 27 th to ensure the success of this project.
+Hopefully this gives you a good idea as to what' s gone on in the first few
+Days here. We look forward to talking to you later today and with you and
+Vince tomorrow.

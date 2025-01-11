@@ -1,0 +1,98 @@
+Subject: re: eastern
+Unless we can model the protection in some form we will not know what our
+True exposure is. So I need our team reassessing how we can
+Model the benefit of the credit proctection. Please keep working on this.
+John
+Soma ghosh
+07/03/2000 17: 57
+To: john sherriff/lon/ect@ ect
+Cc: william s bradford/hou/ect@ ect, tanya rohauer/hou/ect@ ect, vasant
+Shanbhogue/hou/ect@ ect, bryan seyfried/lon/ect@ ect
+Subject: re: eastern
+John,
+We are currently not modelling the effect of insurance on eastern on an
+Individual risk basis. I have spoken at length with houston research &
+Credit risk management on this given that the portfolio of risk is
+Dynamic, specific allocation of protection is not appropriate. As I mentioned
+In my earlier message there is $135 mm cap on any one loss, assuming no losses
+Have occured prior to that.
+I am happy to discuss this further with you if required.
+Bill, i' d appreciate any comments you may have re. The above.
+Regards,
+Soma
+John sherriff
+06/03/2000 15: 06
+To: soma ghosh/lon/ect@ ect, bryan seyfried/lon/ect@ ect, mariano
+Gentilini/lon/ect@ ect
+Cc:
+Subject: re: eastern
+Soma
+How are we modeling the affect of the insurance packages on the eastern deal?
+John
+Soma ghosh
+06/03/2000 11: 53
+To: john sherriff/lon/ect@ ect
+Cc:
+Subject: re: eastern
+The protection is not a fixed allocation of protection to individual
+Counterparties but covers the global portfolio of risk. Enron has in place 3
+Tranches of credit insurance covering up to $135 mm per event. Whilst the
+Insurance is not counterparty specific, it would be available for credit loss
+On eastern provided that losses had not been incurred prior to an eastern
+Loss. I have already discussed with houston credit risk management at this
+Point in time there has been no resolution in finding an appropriate way to
+Allocate protection by name.
+Summary of insurance:
+Enron absorbs the first $10 mm of losses in any one year capped at the
+Aggregate of $30 mm over a ten year period.
+Aegis absorbs the next $35 mm of losses for the same ten year period.
+Chubb will pick up the next $50 mm losses for any single event and $100 mm in
+Losses in the aggregate for 5 years
+Rsa takes the next $50 mm for losses in excess of $95 mm over a five year
+Period & covers the top 9 counterparties by exposure
+Regards,
+Soma
+John sherriff
+03/03/2000 18: 16
+To: soma ghosh/lon/ect@ ect
+Cc:
+Subject: re: eastern
+Soma
+How does the company' s credit insurance (done by houston last year) affect
+This exposure?
+John
+Soma ghosh
+03/03/2000 16: 24
+To: john sherriff/lon/ect@ ect
+Cc: david weekes/lon/ect@ ect, steve w young/lon/ect@ ect, barry
+Pearce/lon/ect@ ect, fernley dyson/lon/ect@ ect, william s
+Bradford/hou/ect@ ect, rick buy/hou/ect@ ect, oliver gaylard/lon/ect@ ect
+Subject: re: eastern
+Please note that total exposure $number is $979. 8 mm not $783. 2 mm.
+Apologies,
+Soma
+- - - - - - - - - - - - - - - - - - - - - - forwarded by soma ghosh/lon/ect on 03/03/2000 16: 22
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+Soma ghosh
+03/03/2000 16: 17
+To: john sherriff/lon/ect@ ect
+Cc: david weekes/lon/ect@ ect, steve w young/lon/ect@ ect, barry
+Pearce/lon/ect@ ect, fernley dyson/lon/ect@ ect, william s
+Bradford/hou/ect@ ect, rick buy/hou/ect@ ect, oliver gaylard/lon/ect@ ect
+Subject: re: eastern
+John, as requested:
+Total exposure as at 29 feb 2000: o 620. 9 mm ($783. 2 mm)
+Eurocash I monetezation: - ol 24. 7 mm (- $196. 1 mm)
+Less credit derivatives: o 40. 0 mm ($63. 1 mm)
+Total net exposure as at 29 feb 2000: o 456. 2 mm ($713. 9 mm)
+Net month on month increase: ol 25. 4 mm ($197. 9 mm)
+Total value of eastern group guarantee: o 520 mm ($820. 6 mm)
+Amount backed by txu: zero
+As well as the increase in overall exposure, please note the change in shape
+Of the exposure month on month most notably credit exposure now peaking at
+The front end of the transaction (ex credit derivs. The max exposure is at
+Day 1), compare to max. Exp. At feb 2005 for month end jan..
+Shape of profile & increase in mtm primarily due to:
+- power curve downward shift at front end yrs 0 - 11
+- power curve upward shift at back end yrs 12 - 18
+- gas curve upward shift yrs 1 - 5.

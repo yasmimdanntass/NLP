@@ -1,0 +1,23 @@
+Subject: option pricing discrepancy for j. C. Penny transaction
+Amitava and seksan have identified the source of the discrepancy between the
+Option prices calculated by the credit - reserve model and the stand - alone
+Spreadsheet model used in deal pricing. The discrepancy can be traced to
+Differences in input variables of the two models and not to any algorithmic
+Differences.
+The options being priced are a strip of options on monthly instruments. The
+Credit reserve simulation program calculates the time to expiration by
+Assuming that the option expires on first day of the contract month of the
+Underlying contract, which is a very reasonable assumption.
+The stand - alone option pricing spreadsheet allows specification of the option
+Expiration date independent of the contract month of the underlying. In the
+Jc penney transaction, the monthly options were assumed to expire in the
+Middle of the contract month, when in reality the underlying monthly
+Contracts expire before the start of their respective contract months. The
+Stand - alone spreadsheet model allows such specifications and it is up to the
+User to ascertain that the expiration dates entered are legal. At present,
+Seksan is ascertaining that the option contracts involved are in deed monthly
+Options and not a strip of daily options, in which case we would require
+Estimates of intramonth volatilities for both the spreadsheet model and the
+Credit reserve model.
+Regards,
+RabI de

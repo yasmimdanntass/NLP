@@ -1,0 +1,73 @@
+Subject: re: 1997 risk paper on pricing of electricity derivatives
+Bernard,
+Yes, I can read a dvI file. You can also cc
+My home address: vkaminski@ aol. Com. I shall
+Try to send you an answer to your question on weekend.
+Vince
+" murphy, bernard" on 03/01/2001 09: 18: 58 am
+To:"' vince. J. Kaminski@ enron. Com'"
+Cc:
+Subject: re: 1997 risk paper on pricing of electricity derivatives
+Vince,
+I can send you a scientific word dvI file (at the weekend) if you can read
+Scientific word files? The dissertation hasn' t been reviewed by les or the
+External yet - although its been at forc for 2 months. I think that the
+Empirical chapter is probably the one which would be of most relevance to
+Both our company' s businesses - although I ultimately didn' t have the time
+To' explicitly' price the jump risk - premium which I conjectured is possibly
+Implicit in the prices of exchange - traded electricity futures - options -
+Rather I developed an implicit estimation procedure which will enable a
+Rough assessment (with a little bit of further work, but not too much) be
+Made of the price of jump risk in wholesale power markets.
+In other words, I assumed spot jump - risk to be undiversifiable, and
+Essentially devoted 2 theoretical chapters to:
+1) proving that a jump - diffusion trading model is" incomplete" (synthesising
+The securities markets framework with martingale representation theory) -
+Note that I did not assume that markets could be dynamically completed with
+' term structure' securities as in the hjm w/jumps papers of shirakawa and
+Das and;
+2) deriving an explicit risk - adjustment process for' implementing' the price
+Of jump - risk using a jump - diffusion marginal indirect utility of wealth
+Process (ie. A jump - augmented production economy approach in the spirit of
+Cir, bates, ahn whereas in the latter the driftless forward supposition
+Means that I have to capture mean - reversion via the futures volatility
+Function, and jumps are less easy to calibrate. Any suggestions?
+Regards
+Bernard
+- - - - - original message - - - - -
+From: vince. J. Kaminski@ enron. Com [mailto: vince. J. Kaminski@ enron. Com]
+Sent: 01 march 2001 14: 54
+To: murphy, bernard
+Cc: shirley. Crenshaw@ enron. Com; vince. J. Kaminski@ enron. Com
+Subject: re: 1997 risk paper on pricing of electricity derivatives
+Bernard,
+I am forwarding your message to my assistant and she will mail you a
+Reprint.
+I would be glad to take a look at your dissertation. Is it available as a
+Publication, working paper?
+Vince
+" murphy, bernard" on 03/01/2001 02: 17: 39 am
+To:"' vince. J. Kaminski@ enron. Com'"
+Cc:
+Subject: 1997 risk paper on pricing of electricity derivatives
+Hello vince,
+My name is bernard murphy - I received your e - mail address from les
+Clewlow,
+Who was my phd supervisor at the financia options research centre at
+Warwick
+Business school. I' ve just finished my phd on electricity price jump
+Diffusions: a theoretical and empirical study in incomplete markets -
+Hence my interest in electricity price modelling and derivative pricing. I
+Was looking to get hold of a copy of your 1997 paper, which has recently
+Come to my attention:
+" the challenge of pricing & risk - managing electricity derivatives", the us
+Power market, risk publications, pp. 149 - 171.
+And les suggested that I contact you directly (les is travelling at present
+And doesn' t have an electronic copy available) to request an e - copy.
+Incidentally, I am lecturer in finance/financial mathematics at
+University
+Of limerick (ireland) and have taken a year out to work for caminus uk,
+Where I am working on introducing and developing a markets - based approach
+(spark - spread) to real asset valuations in the uk power industry.
+Thanks in advancve
+Bernard murphy

@@ -1,0 +1,10 @@
+Subject: spam mail warning notification! (attachment removal)
+* * * * * * * * * * * * * * * * emanager notification * * * * * * * * * * * * * * * * *
+The following mail was blocked since it contains sensitive content.
+Source mailbox:
+Destination mailbox (es): cva@ urjc. Es
+Policy: attachment removal
+Attachment file name: your _ document. Pif - application/octet - stream
+Action: replaced with text
+Por motivos de seguridad, los ficheros con extensiÃÂ³n com, exe, bat, pif, scr y cpl han sido eliminados del correo.
+* * * * * * * * * * * * * * * * * * * end of message * * * * * * * * * * * * * * * * * * * * *

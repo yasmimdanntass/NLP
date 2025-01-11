@@ -1,0 +1,10 @@
+Subject: request submitted: access request for brian. Mihura@ enron. Com
+You have received this email because you are listed as an alternate data
+Approver. Please click
+Approval to review and act upon this request.
+Request id: 000000000005412
+Approver: stinson. Gibner@ enron. Com
+Request create date: 10/23/00 8: 49: 45 am
+Requested for: brian. Mihura@ enron. Com
+Resource name:\\ enehou\houston\common\research - [read/write]
+Resource type: directory

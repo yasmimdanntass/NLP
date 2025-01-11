@@ -1,0 +1,15 @@
+Subject: market maker simulation v. 2
+Stinson and vince,
+I finished the second version of the model which deals with open to close
+Trading.
+The major difference is that there is an additional mark to market at open
+Price which
+Will affect the p/l.
+I also added the output features that john wants to see.
+The cumulative p/l is path dependent, the net open allowed seemingly has
+A strong influence on the cumulative p/l trajectory. (the anomaly i
+Discussed
+With vince is due to the trajectory shape change which needs further
+Examination).
+Could you review what I have done before we talk to john again?
+Zimin

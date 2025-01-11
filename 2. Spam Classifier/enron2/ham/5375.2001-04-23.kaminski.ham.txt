@@ -1,0 +1,30 @@
+Subject: re: eol pricing algorithm
+HI bob,
+Some comments:
+1. You request enron position after successful market order, but not after
+Limit order - - you may want it after limit order as well to be consistent.
+I am not clear on how you would use enron position. It is possible that the
+Trading desk will have a target position in mind and they will set bids and
+Offers in such a way as to try to achieve that target position, but this
+Target position probably changes continuously and is not stored anywhere, and
+Without this target position there is nothing to compare actual enron
+Position to. Of course, enron position may still provide some insights.
+2. You request bid - mid - ask prices for each trade - - - given that a successful
+Trade may execute later than time of order (especially for limit orders),
+Would you need the evolution or range of bid - mid - ask over this time interval
+(time of order to time of execution)? Also, for failed trades, you may need
+The evolution or range of bid - mid - ask over the time interval from time of
+Order to time of rejection. This again mainly applies to limit orders, as
+The time intervals may not be significant for market orders given the speed
+Of execution (something to check).
+- - - - - original message - - - - -
+From: lee, bob
+Sent: monday, april 23, 2001 8: 33 am
+To: kaminski, vince; shanbhogue, vasant; barkley, tom
+Cc: lu, zimin; huang, alex; gibner, stinson
+Subject: eol pricing algorithm
+A draft data request for eol data we would use to study p & l patterns for the
+" george" pricing algorithm is attached for your review.
+I would like to send this to andy zipper and jay webb this afternoon.
+Bob
+>

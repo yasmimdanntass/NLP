@@ -1,0 +1,10 @@
+Subject: re: p + spread options
+Jeff,
+A short follow up on the p + options.
+Attached is a chart showing historical correlations for calendar spreads
+Between futures contracts. It shows correlation over four different time
+Horizons up to the roll of the nearest contract in each pair. As you can
+See the level is usually higher than 0. 98 and often near 0. 99. If our
+Current book of" index p +" options were re - marked at a 98% correlation, it
+Would result in a reduction in m - t - m value of about $78 million according to
+My estimate.

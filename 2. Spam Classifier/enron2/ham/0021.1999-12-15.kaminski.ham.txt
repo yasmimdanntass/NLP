@@ -1,0 +1,28 @@
+Subject: gas prices
+Vince -
+1. We can detect" hoarding" of pipeline capacity as an elevated basis against
+The actual inflow.
+2. We can detect" market power" by dissociating the seller from the buyer,
+Distinguishing between the physical" cost" in gas to run the generators and
+The transmission cost in dollars, i. E. The basis.
+3. (as you noted) we can detect" storage" as the difference between inflow
+And consumption.
+It appears to me there are two time series needed for a straightforward model
+Of gas prices: flow rates at interconnects (from telemetry) and spot - market
+Prices. There is an elevated basis reflecting pipeline companies monopolizing
+Capacity, as well as hoarding of capacity by contracts. The dynamics of gas
+Prices reflect consumption demand changes due to changes in expectations for
+The weather, as well as their impact on two highly strategic behaviors:
+Hoarding of pipeline capacity and storage of gas. We can" calibrate" the
+Price elasticity of demands for consumption and storage, and the price
+Elasticities of demand for transmission, as well as the extent of hoarding,
+From the two sets of numbers mentioned: flows and prices. What the basis
+Trader needs to understand are the incentives, and disincentives, for storage
+And capacity - hoarding, in terms of the calibrated price - elasticities, and
+Each of these are as - if exotic call options at the consumption hub. Finally,
+Flows are" explained" by the model, and can be imputed from prices if
+Necessary, resulting in a purely stochastic model of the basis in terms of
+The weather.
+I believe the problem is quite tractable, and I would like to proceed with a
+Model.
+Clayton

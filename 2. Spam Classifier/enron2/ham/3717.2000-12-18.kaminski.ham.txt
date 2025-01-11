@@ -1,0 +1,185 @@
+Subject: alliance info alert: richardson and ferc orders
+Dear generation/power marketing executive:
+The following are summaries of two significant activities that occurred
+Friday, december 15
+1. Energy secretary richardson issuance of an emergency order.
+(richardson' s statement and fpa section 202 (c) order is posted on doe' s
+Web site at:
+Http:// www. Energy. Gov/hqpress/releaseso 0/decpr/pro 0309. Html)
+2. Ferc' s 12/15/00 final order to fix california wholesale markets
+(ferc' s order can be viewed at
+California supplies ordered by richardson
+O richardson orders listed entities to supply excess power to california iso
+O order is effective as soon as iso certifies shortage, but ends 12/21/00,
+Unless extended
+O prices to be agreed to by supplier and iso, or ferc will set rate later
+O fpa emergency power authority transferred to doe in 1977
+As he said he would on december 13, u. S. Department of energy secretary bill
+Richardson found" an emergency exists in california by reason of the shortage
+Of electric energy" and issued an emergency order under section 202 (c) of
+The federal power act (fpa) requiring listed generators and marketers to
+Provide any power in excess of the needs of their firm customers to the
+California iso. In a statement, richardson said the threat to the
+Reliability of the california grid requires a long - term solution, but that in
+The short - term power must keep flowing to the state to avert blackouts.
+The 76 listed suppliers have 12 hours after the iso certifies to doe that it
+Has been unable to acquire adequate supplies in the market to begin providing
+Requested service to the iso. The iso must inform each supplier subject to
+The order of the amount and type of energy or services required by 9: 00 pm,
+Eastern standard time, the day before the services are needed. The order
+Directs the iso to allocate, to the extent feasible, requested services among
+Subject entities in proportion to each supplier' s available excess power.
+The order is effective immediately and will terminate at 3: 00 am, eastern
+Time, december 21, 2000, unless extended. To continue to obtain supplies
+Under this emergency authority, the iso must re - certify the shortage to doe
+Headquarters every 24 hours.
+The terms of the provision of electric energy and other services by suppliers
+To the iso" are to be agreed to by the parties." if no agreement is reached,
+Then under the fpa' s emergency authority secretary richardson" will
+Immediately prescribe the conditions of service and refer the rate issue to
+The federal energy regulatory commission for a determination at a later date
+By that agency in accordance with its standards and procedures, and will
+Prescribe by supplemental order such rates as it finds to be just and
+Reasonable." the authority of ferc to set rates for power supplied under
+Emergency order at just and reasonable levels where the parties themselves do
+Not agree to a rate is explicitly included in fpa section 202 (c). The doe
+Organization act of 1997 transferred the emergency powers of this section
+From ferc to doe.
+The 76 entities identified in the order' s attachment are all the entities
+That have provided power to the iso over the last 30 days. Those entities
+Are ordered" to make arrangements to generate, deliver, interchange, and
+Transmit electric energy when, as, and in such amounts as may be requested by
+The" iso," acting as agent for and on behalf of scheduling coordinators."
+[source: doe secretary richardson' s december 14, 2000 statement and order;
+Electric power daily, december 15, 2000]
+Ferc de - federalizes california markets, adopts other structural
+Reforms
+A summary of the december 15 order and commission discussion
+At its special meeting today, ferc unanimously approved its eagerly awaited
+Final order reforming the california wholesale markets, adopting the major
+Outlines of its november 1 proposed order and sending back to california the
+Responsibility for addressing state - related matters, as discussed below. At
+The same time, ferc deferred consideration of retroactive refund issues as
+Well as the imposition of region - wide price caps.
+Ferc reiterated the november 1 conclusions that under certain circumstances,
+California ratepayers were subjected to unjust and unreasonable power rates
+Due to california' s" seriously flawed" market structure and rules in
+Conjunction with tight demand and supply conditions throughout the west.
+While all four commissioners supported the order as a consensus - based outcome
+That appropriately balanced all competing interests, each commissioner
+Expressed reservations with particular aspects of the order. Chairman
+Hoecker and comm. Breathitt expressed the strongest endorsement, while comms.
+Hebert and massey laid out their positions where they believed the commission
+Had either" over - reached" or not gone far enough, just as they did on
+November 1, as discussed below.
+Highlights of key actions:
+(1) ferc adopted the november 1 proposal to eliminate, effective immediately,
+The state' s mandatory requirement that the state' s investor - owned utilities
+Buy and sell electricity through the px, and allow these utilities to
+Purchase electricity through forward contracts and other alternative
+Mechanisms to manage supply risks. Ferc terminated the px' s rate schedules
+Effective at the close of business on april 30, 2001. In effect, as chairman
+Hoecker stated, the order de - federalizes 60 percent of the california
+Wholesale market established under the state' s restructuring law, returning
+Ratemaking authority over company - owned generation to the california public
+Utilities commission (cpuc).
+(2) ferc modified the effective period of the november 1 $150/mwh" soft cap"
+Proposal, limiting its application through april 2001, whereupon a
+" comprehensive and systematic monitoring and mitigation program which
+Incorporates appropriate thresholds, screen and mitigation measures" must be
+In place. In a related move, ferc ordered a technical conference early next
+Year to develop such a program by march 1, 2001, so that these measures can
+Be place by the may 1, deadline.
+In a major modification, ferc revised the refund conditions to clarify that
+While certain refund conditions will continue to apply, unless ferc issues
+Written notification to the seller that its transaction is still under
+Review, refund potential on a transaction will close after 60 days.
+As proposed, however, supply bids in excess of $150 will be prohibited from
+Setting the market - clearing price for all bidders and sellers bidding above
+$150/mwh will be required to report their bids to ferc on a confidential,
+Weekly basis and provide certain cost support.
+(3) ferc adopted the november 1 proposal to require the establishment of
+Independent, non - stakeholder governing board for the iso. The iso governing
+Board must relinquish their decision - making power and operating control to
+The iso management on january 29, 2001. A future order will set procedures
+For discussion with state representatives on the board selection process.
+(4) in a major modification, ferc adopted a $74/mwh" price benchmark" for
+Assessing prices of five - year energy supply contracts. This benchmark will
+Be used in assessing any complaints regarding justness and reasonableness of
+Pricing long - term contracts.
+To facilitate prompt negotiation of longer term power contracts at reasonable
+Rates, ferc announced that it will hold a settlement conference with market
+Participants.
+(5) ferc adopted the november 1 proposal to require market participants to
+Schedule 95 percent of their transactions in the day - ahead market and
+Instituting a penalty charge for under - scheduling (in excess of five percent
+Of hourly load requirements), in order to discourage over - reliance on the
+Real - time spot market.
+(6) ferc directed the iso and the three investor - owned utilities to file
+Generation interconnection standards.
+(7) ferc affirmed the longer - term measures proposed in the november 1 order,
+Including submission of a congestion management design proposal by april 2,
+2001.
+(8) ferc deferred resolving key issues, including establishing new iso board
+Selection procedures, developing appropriate market monitoring measures and
+Negotiating protective orders associated with data collection.
+(9) ferc reiterated its november 1 call to california policy makers there to
+Resolve state issues, such as: (1) immediately implementing the availability
+Of day ahead markets for power purchases; (2) development of demand
+Responses; (3) siting of generation and transmission; and (4) assurance of
+Sufficient reserve requirements.
+Commissioner responses
+Comm. Hebert reluctantly concurred, calling the final order a" missed
+Opportunity" to, among other things, send appropriate signals for new
+Generation siting and conservation. Reiterating his november 1 concerns,
+Hebert recounted the remedial remedies that he maintained the commission
+Should and should not have adopted. While expressing pleasure at the tone of
+The order (" balanced and considerate"), the bid certainly reversal, and the
+Role reserved for the state in the selection of the new iso board, hebert
+Nonetheless objected to the benchmark prices established in the order, which
+He maintained appeared to be unreasonably low. Hebert faulted the commission
+For not attempting to reconcile the instant order with the november 8 order
+Approving the ca iso' s emergency $250/mwh" soft cap" proposal. Hebert ended
+By challenging the cpuc to do what it can to encourage utilities there to
+Forward contract, including easing the existing prudence review requirements.
+Comm. Breathitt endorsed the order, reiterating her support for progress
+Towards open and competitive markets. She noted that the order properly
+" walked the line" by taking all of the competing interests into account,
+Calling it less than ideal, but a step in the right direction. She also
+Concentrated her remarks on the importance of creating stability which will
+Be accomplished by encouraging long term contracts and the implementation of
+The $150/mwh breakpoint. Additionally she mentioned that any price below the
+$74/mwh benchmark will be presumed just and reasonable.
+Comm. Massey concurred, but prefaced his remarks by expressing sympathy for
+California ratepayers, stating that he felt that market power had been
+Exercised, that prices were not just and reasonable and that the marketers
+Had profited too much at the expense of others in the market. He warned
+That, as he understood the legal precedents, the federal courts were poised
+To grant cost recovery relief to the retailers which would then be passed on
+To consumers. On the positive side, he approved of the de - federalization of
+60% of the market and the creation of long term contracts. However, he
+Emphasized that california regulators must now take the responsibility of
+Creating more generation and transmission. In the long term, comm. Massey
+Hoped that solutions could be reached starting with a technical conference
+And that the market would have rules more like pjm.
+Finally, comm. Massey articulated what he would have liked to have done
+Differently. He stated that he disagreed with the fact that there is not
+Enough evidence to show that market power existed and he pointed to the
+On - going investigation. He also disagreed with the $150/mwh breakpoint,
+Preferring instead a hard price per generator. The commissioner said he
+Would have set the long term benchmark for only two years instead of five and
+That he would have opened a section 206 investigation in the west. Finally,
+He stated that he would have liked to address the issue of refunds.
+Chairman hoecker began his comments by saying that the commission was forced
+To act and act quickly because the stakes are so high. He feels that it is
+Now time for the state regulators and markets to act. He noted that by
+Shrinking the cal px, the responsibility is now with the cpuc to fashion the
+Long term contracts and that hopefully we will exit this situation with the
+Least amount of damage to the utilities. In regards to suggestions for a
+Regional price cap, the chairman stated that this would not work due to the
+Fact that the commission has no jurisdiction over bonneville, wapa and the
+Public power producers and that there is no spot market in the northwest.
+However, he did urge secretary richardson to convene a conference in order to
+Address regional issues. Finally, in conceptually addressing the california
+Situation, the chairman stated that competition or" deregulation" did not
+Fail in california, but that there never was competition in california.

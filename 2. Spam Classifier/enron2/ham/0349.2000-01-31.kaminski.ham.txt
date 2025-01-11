@@ -1,0 +1,12 @@
+Subject: new analyst joining research group
+All
+On monday 21 st february a new analyst will be joining enron europe, and will
+Have his first rotation in the london research group.
+Matthew williams has a phd in high energy physics, having carried out his
+Research at imperial college london and cern. His academic experience
+Includes extensive monte carlo simulation as part of his research on the
+Phenomenology of supersymmetry theories.
+Matthew will be working with me on issues arising from the optimisation and
+Control of dynamic systems, which we expect to include power generation
+Scheduling and gas flow.
+Steve

@@ -1,0 +1,32 @@
+Subject: meeting confirmation/discussion points
+Fyi.
+- - - - - - - - - - - - - - - - - - - - - - forwarded by pinnamanenI krishnarao/hou/ect on
+08/03/2000 08: 16 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+David foti@ ees
+08/02/2000 05: 06 pm
+To: pinnamanenI krishnarao/hou/ect@ ect, minal dalia/hou/ees@ ees, sanjay
+Agarwal/hou/ees@ ees, naveen andrews/corp/enron@ enron
+Cc: scott stoness/hou/ees@ ees
+Subject: meeting confirmation/discussion points
+Tariff var project kick - off meeting
+Time: 8/3; 2 - 3 pm
+Location: eb 612
+= = = = = = = = = = = = =
+Per the 8/2 lunch meeting between research, rac, and the tariff group, there
+Developed a consensus to:
+Develop a high level value - at - risk model within a 4 - 8 week time frame to use
+For initial risk measurement and hedging purposes
+Accommodate links for critical variables such as interest rates, load growth,
+And inflation
+Provide" knobs" for less quantifiable factors such as rate case frequency,
+Rate methodology, etc.
+Collaborate with the tariff forecasting team, to have consistent assumptions
+And logic.
+Proposed agenda for our meeting:
+Discuss the relationship of this project to other ongoing projects
+Review existing t & d forecast model (decide whether it' s a starting point or
+Not - attached for your review)
+Discuss approach (methodology and technology)
+Assign responsibilities
+Develop project guidelines and timeline
+See worksheets," diagram"," graph"," exposure"

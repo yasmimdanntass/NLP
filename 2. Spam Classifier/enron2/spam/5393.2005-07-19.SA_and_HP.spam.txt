@@ -1,0 +1,6 @@
+Subject: failed mail
+Your message to mxo 0. Mail. Bellsouth. Net was rejected.
+I said:
+Rcpt to:
+And mxo 0. Mail. Bellsouth. Net [205. 152. 59. 32] responded with
+550 invalid recipient:

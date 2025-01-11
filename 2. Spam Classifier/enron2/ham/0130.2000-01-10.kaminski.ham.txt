@@ -1,0 +1,81 @@
+Subject: fwd: billing question
+Return - path:
+Received: from rly - yao 2. Mx. Aol. Com (rly - yao 2. Mail. Aol. Com [172. 18. 144. 194])
+By air - yao 2. Mail. Aol. Com (v 67. 7) with esmtp; mon, 10 jan 2000 06: 39: 16 - 0500
+Received: from abbott. Office. Aol. Com (abbott. Office. Aol. Com [10. 2. 96. 24])
+By rly - yao 2. Mx. Aol. Com (8. 8. 8/8. 8. 5/aol - 4. 0. 0) with esmtp id gaa 26342 for
+; mon, 10 jan 2000 06: 39: 16 - 0500 (est)
+Received: from sunphol. Ops. Aol. Com (sunphol. Office. Aol. Com [10. 5. 4. 200]) by
+Abbott. Office. Aol. Com with smtp (8. 8. 6 (phne _ 14041)/8. 7. 1) id gaao 8342 for
+; mon, 10 jan 2000 06: 39: 01 - 0500 (est)
+Received: from 0 by sunphol. Ops. Aol. Com (smI - 8. 6/smI - svr 4) id gaa 27342; mon,
+10 jan 2000 06: 39: 00 - 0500
+Message - id:
+From:
+To:
+Date: 01/10/2000 19: 40: 07
+Reply - to:
+Subject: re: billing question
+Dear wincently,
+We at america online would like to thank you for spending the time to write
+Us. My name is ellen and I appreciate the opportunity to assist you
+Regarding your recent e - mail.
+After reviewing your account, it shows that the annual prepaid fee was not
+Successfully collected. I suggest that you contact your bank regarding this
+Matter. You may also want to contact our billing department at
+1 - 888 - 265 - 8003 or at 1 - 800 - 827 - 6364 toll free should you want to resubmit the
+Bill.
+If there has been a problem billing your account, america online may send a
+Billing popup screen that states you need to update your billing information
+At keyword: billing. America online does not request this information be
+Placed anywhere other than at keyword: billing. (if you' re
+Unfamiliar with keywords you can start using them by typing ctrl - k. When
+The keyword" box" appears, type the keyword in the space provided and click
+The go button). It is possible that you will receive the popup more than
+Once in a 24 hour period, as we update our database every 24 hours.
+The message that america online sends states:
+An important message from aol member services
+Our records indicate that the credit card information on file for your aol
+Account
+May not be up - to - date. Outdated information on your aol account may cause
+Bill
+Processing problems with in some cases could lead to service interruptions!
+Please take a minute now to update your aol account information. Just click
+On the update billing information button below. This update will only take a
+Few moments
+And the information you provide will be kept completely confidential.
+Note: if you have recently updated your billing information, please ignore
+This
+Additional reminder while we process your changes.
+If you have questions concerning this message, please call member services
+At 1 - 888/265 - 8003 between the hours or 6: 00 am - 2: 00 am est seven days a
+Week.
+Update billing information
+(text on button appears in white on the actual popup)
+We greatly appreciate your america online membership. If you have any
+Further questions, please do not hesitate to contact us again. Thank you for
+Using america online. Have a wonderful day.: -)
+Ellen l.
+Customer care consultant
+The billing department
+America online, inc.
+- - - - - - - - - - original message - - - - - - - - - -
+From: vkaminski@ aol. Com
+To: billingl@ abbott. Office. Aol. Com
+Field 1 = wincenty kaminski
+Field 2 = 10 snowbird
+Field 4 = the woodlands
+Field 5 = texas
+Field 6 = 77381
+Field 7 = 0057
+Field 8 = other (please give details below)
+Field 9 = on signing on to aol I received the information that billing
+Information may be outdated. I don' t see why. My annual fee has just been
+Paid, the credit card is in good standing, I did not move.
+Please, let me know what is the problem
+Field 10 = texas
+Field 11 = other - see comments
+X - rep: 743
+X - mailid: 583092
+X - queue: 4
+X - mailer: swiftmail v 3. 50

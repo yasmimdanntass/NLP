@@ -1,0 +1,38 @@
+Subject: re: fw: mtg. Scheduled
+Frank,
+Regarding simulating power prices in var we might discuss the following items
+And show some results:
+1. Clustering for power:
+- clustering based on historical prices and correlations from them;
+- geographical clustering;
+- flexibility in choosing" core curves" (based on position size);
+2. Jump - diffusion process for intramonth and prompt month:
+- parameter estimation from historical data (do we want to use it?)
+- working out parameters (jumps frequency, jump size) as stress scenarios;
+3. Correlations within a cluster and across clusters.
+4. Changing correlations estimations (using fixed contact' time series).
+5. Joint estimation of factors for selected regions.
+Let me know what you think should be in the agenda for this meeting.
+Regards,
+Tanya
+From: frank hayden/enron@ enronxgate on 04/18/2001 03: 43 pm
+To: tanya tamarchenko/hou/ect@ ect
+Cc:
+Subject: fw: mtg. Scheduled
+If you want, I welcome your help in putting together an agenda.
+Frank
+- - - - - original message - - - - -
+From: black, tamara jae
+Sent: wednesday, april 18, 2001 3: 32 pm
+To: presto, kevin; davis, mark dana; sturm, fletcher; herndon, rogers; gilbert - smith, doug; white, stacey; kaminski, vince; andrews, naveen; belden, tim; gorny, vladimir; davenport, lacrecia
+Cc: hayden, frank
+Subject: mtg. Scheduled
+Please mark your calendar for a meeting with:
+Frank hayden
+Reg. Value@ risk
+April 26 th
+3 - 4 pm
+Rm 3125 b
+Thanks
+Tjae black
+X 35800

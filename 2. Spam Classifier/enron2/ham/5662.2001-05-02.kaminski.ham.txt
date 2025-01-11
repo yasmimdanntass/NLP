@@ -1,0 +1,6 @@
+Subject: position report for dual trigger product
+Vince,
+I have enclosed a summary of our proposed approach on calculation of notional
+And the greeks for dual trigger option portfolio. Please let us know your
+Thoughts/comments.
+Amitava

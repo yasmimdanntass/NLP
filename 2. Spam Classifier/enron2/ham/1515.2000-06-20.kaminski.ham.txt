@@ -1,0 +1,34 @@
+Subject: re: backtesting for different percentiles
+Vlady, I enclosed the file with 2 backtesting plots (you saw them before).
+The following table shows what was the percentage of the days when pnl fell
+Below var 95, var 90, var 85.
+These results are based on the real ng forward prices from 1/1/99 to 6/7/00
+For 2 different portfolios:
+- portfolio 1 contained the positions equal to ng - price - prc portfolio
+Positions on 6/6/00,
+- portfolio 2 consists of the positions equal to storage - prc positions on
+5/25/00.
+Portfolio 1
+Var 95 var 90 var 85
+Implied vols 2. 93 4. 11 5. 57
+Historical vols with decay = 1 7. 62 12. 02 15. 54
+Historical vols withdecay = 0. 97 6. 75 12. 02 15. 54
+Historical vols withdecay = 0. 94 6. 45 12. 02 15. 54
+Portfolio 2
+Var 95 var 90 var 85
+Implied vols 4. 1 6. 74 9. 97
+Historical vols with decay = 1 7. 04 11. 14 15. 84
+Historical vols withdecay = 0. 97 6. 74 10. 56 16. 13
+Historical vols withdecay = 0. 94 7. 04 11. 14 15. 84
+This shows that when we have more observations (columns corresponding to
+Var 90 and var 85)
+Compared to the column corresponding to var 95 the frequency of curve shift
+Being lower than var
+Becomes closer to the theoretical value (5%, 10% and 15%). The numbers in the
+Column" var 85" are
+Very close to 15%. This is the argument in favor of using historical vols.
+And also the results do not depend on the decay factor in this experiment.
+Also notice: the numbers in column" var 95" are higher than 5% and this is an
+Indication of fat tails.
+Let me know if you have any questions.
+Tanya.

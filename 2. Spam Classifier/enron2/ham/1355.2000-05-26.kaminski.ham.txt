@@ -1,0 +1,45 @@
+Subject: new gas models preliminary schedule for next week
+Vince,
+Here are the topics that our london folks are interested in.
+Have a good weekend.
+Zimin
+- - - - - - - - - - - - - - - - - - - - - - forwarded by zimin lu/hou/ect on 05/26/2000 02: 41 pm
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+Enron capital & trade resources corp. - europe
+From: anjam ahmad 05/26/2000 08: 12 am
+To: natasha danilochkina/lon/ect@ ect, haakon olafsson/lon/ect@ ect, mark
+Jones/lon/ect@ ect
+Cc: zimin lu/hou/ect@ ect, stinson gibner/hou/ect@ ect
+Subject: new gas models preliminary schedule for next week
+Dear all,
+Please could you confirm your availability for meetings next week as follows: -
+Wednesday 31 st may
+Overview of uk gas products to be revalued
+A) wet gas swing deals (teeside delivery)
+B) liquids extraction options
+Time: 9. 30 am to 11. 30 am (1 1/2 hrs), swl 001
+Zimin, anjam, natasha
+Wednesday 31 st may
+Overview of uk gas products to be revalued
+C) virtual storage (enbank)
+D) dry gas swing deals
+Time: 3 pm to 4. 30 pm (1 1/2 hrs), nel 002
+Zimin, anjam, natasha
+Wednesday 31 st may
+Simulation of uk gas forward curve
+Time: 5 pm to 6 pm (1 hr), nel 002
+Zimin, anjam, natasha, haakon
+Thursday lst june
+Model modifications to accomodate uk products
+Time: 9. 30 am to 11. 00 am, nwl 003
+Zimin, natasha, anjam
+Friday 2 nd june
+It requirements for trading/rm model
+A) booking/mtm
+B) exposures and hedge ratios calculation
+Time: 9. 30 am to 11 am, nwl 003
+Zimin, mark jones, natasha
+Invitations to follow...
+Thanks,
+Anjam
+X 35383

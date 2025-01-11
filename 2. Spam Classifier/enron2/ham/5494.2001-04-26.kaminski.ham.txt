@@ -1,0 +1,33 @@
+Subject: fw: my london" wish list"
+Oops, I sent the previous email to another kaminski.
+- - - - - original message - - - - -
+From: mack, iris
+Sent: thursday, april 26, 2001 10: 42 am
+To: salmon, scott
+Cc: chaney, craig; kaminski, jim; dhar, amitava; shanbhogue, vasant
+Subject: my london" wish list"
+HI scott,
+As we discussed, I will be flying to london on monday to spend some time in enron' s london office. I am really looking forward to meeting you and the others I have corresponded with via email, phone, vc, etc.
+On yesterday vince, vasant, amitava and I discussed my stay and london and the desire to make this trip a productive one. Hence we came up with the following" wish list" of things I wish to accomplish while I am over there.
+If you think of any other important items to add to this list, please let me know. After that, we can forward the list to the parties involved to find out if they will be available to meet with me during my stay in london.
+Thanks,
+Iris
+Iris' london" wish list"
+Scott
+Schematic diagram of how the various models are tied together for the overall objective of coming up with final cds and dbs pricing
+Product descriptions - more details
+Ben
+* spss
+* answertree (card book)
+George
+* nnpm
+Mike
+* need to create internal database to store d & b data.
+* how will d & b data be stored? Need flexibility for data manipulation & model development.
+Bryan & markus
+* feasiblity model: what calculations do they already have?
+* breakeven spread
+* moral hazards issues
+* legal contract issues to resolve moral hazard issues.
+* a company can' t buy bankruptcy on itself?
+* need to have" accurate" information for correlation between reference & counterparty

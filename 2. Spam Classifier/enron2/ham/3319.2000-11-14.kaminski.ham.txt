@@ -1,0 +1,65 @@
+Subject: re: seeking opportunity in computational finance
+Dear vince:
+Thanks for your response.
+I am not a programmer, nor a" quant". I am an expert in excel and otherwise
+Have advanced skills in the remaining msoffice suite. Beyond that I have
+Extensive experience working with research and computer progamming personnel
+On projects from networks to databases, and in particular, automation.
+For instance, the first generation of the risk analytics system that i
+Designed for quantlab was done in excel. In subsequent generations of the
+System, excel served only as the guI - given its extreme flexibility - and a
+Sql database operated underneath (compaq servers, raid array), integrating
+Real - time operations for all components of the system.
+The research team at quantlab used many leading edge modelling
+Methodologies, such as genetic algorithms, neural networks, principal
+Component analysis, kernel density estimation, fast kernel regression,
+Hidden markov modelling and many other pattern recognition, walk - forward
+Back testing, and other simulation techniques.
+I was the sole individual on a team of 17 that had any practical trading
+Experience, and therefore, felt that I played a critical role in the
+Application and implementation of each of the system components from data
+Mining to research to signal generation to execution. Beyond that, I was
+Uniquely qualified to articulate the project' s mission to investors, and
+Therefore, was highly successful in spearheading support - financial and
+Otherwise - from our network.
+Althought I did not ask specifically, I surmise from your question that you
+Are leading a research effort. I believe that my skill set is best served
+As a liaison between research and trading, since I speak both languages. I
+Believe that I possess great vision and enthusiasim that could be leveraged
+In a group, project or product management role to integrate and streamline
+Diverse systems and processes; a common scenario in most proprietary
+Development settings today.
+In closing, I would like to learn more about enron and the financial
+Technology effort therein through further discussion with you, or if that is
+Not appropriate, someone to whom you would be comfortable referring me.
+I look forward to your thoughts.
+Best regards,
+Paul
+- - - - - original message - - - - -
+From: vince. J. Kaminski@ enron. Com [mailto: vince. J. Kaminski@ enron. Com]
+Sent: tuesday, november 14, 2000 4: 30 pm
+To: epr@ pipeline. Com
+Subject: re: seeking opportunity in computational finance
+Paul,
+Can you give me more information about your computer skills?
+My group is very hands - on oriented and computer programming is a critical
+Skill.
+Vince
+" paul rowady" on 11/14/2000 04: 09: 43 pm
+To:" vince kaminski"
+Cc:
+Subject: seeking opportunity in computational finance
+Dear vince:
+In following up on my voicemail message today, I attach my resume below for
+Your review and consideration.
+It' s ironic that you called while I was putting the message together. I
+Will keep it short and look forward to speaking to you at your convenience.
+Best regards,
+Paul
+E. Paul rowady, jr.
+2300 west alabama, suite 69
+Houston, texas 77098
+713 - 807 - 8624 home/fax
+713 - 539 - 4541 mobile
+Epr@ pipeline. Com
+(see attached file: paul rowady 2. Doc)

@@ -1,0 +1,30 @@
+Subject: re: fw: chapter 3 revisions
+- - - - - - - - - - - - - - - - - - - - - - forwarded by grant masson/hou/ect on 08/16/2000 03: 56
+Pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Enron north america corp.
+From: grant masson 08/16/2000 03: 57 pm
+To:" julie"@ enron
+Cc:
+Subject: re: fw: chapter 3 revisions
+Julie:
+Unfortunately, our reviewer has not come back to us with comments, so I am
+Sending you the final version without the benefit of review.
+The attached zipped file contains the second half of the chapter for which i
+Was responsible. Vince will send you his half separately. Putting them
+Together should be a simple matter of cut and paste, assuming that vince has
+Not changed his equation, figure, or table numbering.
+I presume chris will be reading through the chapter once again for editorial
+Reasons. There is one place where I would ask him for specific redaction:
+Table 3. 6" model specifications" on page 14/15 has a column labeled" equation
+Reference". Some cells are blank because the equations specified have not
+Been referenced previously in the parts I have written. Nevertheless, the
+Concepts are surely introduced elsewhere in the book, and it may be helpful
+For chris to insert the appropriate reference in this table. Alternatively,
+One could simply delete the column.
+If I can help in any way, please do not hesitate to contact me.
+W) 713 853 4768
+H) 713 664 7260
+Work email: grant. Masson@ enron. Com
+Personal email: gmasson@ email. Com
+Regards,
+Grant.

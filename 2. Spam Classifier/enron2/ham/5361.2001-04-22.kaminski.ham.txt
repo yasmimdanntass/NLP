@@ -1,0 +1,44 @@
+Subject: re: enron credit model docs for the comparative model study - to be
+Sent to professor duffie@ stanford
+HI ben,
+I think I have read all the papers that are to be used in the comparative model study to be sent to professor duffie at stanford.
+These documents are all listed below. Please let me know if I have omitted any (however, don' t get the impression that I am begging for more papers to read).
+Now I will try to transform my notes into a draft for professor duffie.
+Thanks,
+Iris
+List of papers for comparative model study
+1. Actively managing corporate credit risk: new methodologies and instruments for non - financial firms
+By r. Buy, v. Kaminski, k. PinnamanenI & v. Shanbhogue
+Chapter in a risk book entitled credit derivatives: application for risk management, investment and portfolio optimisation
+2. Neural network placement model
+By george albanis, enroncredit (12/22/00)
+3. Pricing parent companies and their subsidiaries: model description and data requirements
+By ben parsons and tomas valnek, research group
+4. A survey of contingent - claims approaches to risky debt valuation
+By j. Bohn
+Www. Kmv. Com/products/privatefirm. Html
+5. The kmv edf credit measure and probabilities of default
+By m. Sellers, o. Vasicek & a. Levinson
+Www. Kmv. Com/products/privatefirm. Html
+6. Riskcalc for private companies: moody' s default model
+Moody' s investor service: global credit research
+7. Discussion document: asset swap model
+By ben parsons, research group (4/20/01)
+8. Asset swap calculator: detailed functional implementation specification (version 1. 0)
+By ben parsons, research group
+9. Discussion document: live libor bootstrapping model
+By ben parsons, research group (4/20/01)
+10. The modelling behind the fair market curves: including country and industry offsets
+By nigel m. Price, enron credit trading group
+11. Pricing portfolios of default swaps: synthetic cbos - moody' s versus the full monte (carlo)
+By nigel m. Price, enron credit trading group
+12. Placement model vl. 0: discussion document
+By ben parsons, research group, 2000
+13. Credit pricing methodology - enroncredit. Com
+By ben parsons, research group
+14. Correlation: critical measure for calculating profit and loss on synthetic credit portfolios
+By katherine siig, enron credit group
+15. Discussion document: var model for enron credit
+By ben parsons, research group, (1/3/01)
+16. Methodology to implement approximate var model for the credit trading portfolio
+By kirstee hewitt, research group

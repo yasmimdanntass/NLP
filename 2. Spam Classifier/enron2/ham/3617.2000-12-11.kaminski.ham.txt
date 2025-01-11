@@ -1,0 +1,77 @@
+Subject: re: default rates
+Per our discussion, see attached for impact of assumed recovery rates:
+Michael tribolet@ enron
+12/11/2000 08: 09 am
+To: william s bradford/hou/ect@ ect, david gorte/hou/ect@ ect, vince j
+Kaminski/hou/ect@ ect, mark ruane/hou/ect@ ect
+Cc:
+Subject: default rates
+Please see below for my note to jeremy at the bottom and his reponse. I
+Have placed mark ruane' s yields against a mid november default frequency
+Table. Note there may be a slight shearing in dates, but the concept is
+More important:
+Market implied cumulative default rates (%):
+1 year 5 year 10 year
+Aaa 0. 51 5. 74 14. 54
+Aa 0. 67 6. 39 16. 61
+A 0. 98 8. 98 21. 03
+Bbb 1. 17 9. 88 22. 39
+Bb 3. 27 18. 62 37. 51
+B 4. 65 24. 21 46. 27
+S & p historical default rates (%):
+1 year 5 year 10 year
+Aaa 0. 00 0. 13 0. 67
+Aa 0. 01 0. 33 0. 90
+A 0. 04 0. 47 1. 48
+Bbb 0. 21 1. 81 3. 63
+Bb 0. 91 8. 82 14. 42
+B 5. 16 20. 95 27. 13
+In looking at the one - year transition rates as a very rough proxy for how
+Many more defaults occur in a recession (1991) versus average (1981 - 1999)
+Historical default rates (%):
+Investment grade non - investment
+Grade
+Avg. 1981 - 99 0. 07 4. 21
+1991
+0. 12 10. 40
+Multiple 1. 7 x
+2. 5 x
+Looking at where the market implied default rates divided by the historicals
+Default rates to obtain a" multiple" (how much more severe than historical):
+1 year 5 year 10 year
+Aaa infinite 44. 2 x 21. 7 x
+Aa 67. 0 x 19. 4 x 18. 5 x
+A 24. 5 x 19. 1 x 14. 2 x
+Bbb 5. 6 x 5. 5 x 6. 2 x
+Bb 3. 6 x 2. 1 x 2. 6 x
+B 1. 1 x 1. 2 x 1. 7 x
+On the 10 year historical figures, we need to be careful as the s & p static
+Pool figures show a definite seasoning (lower defaults in late years probably
+Due to prepayment) versus our contracts. Secondly, the s & p figures have
+Withdrawn ratings, which usually mean they are stale, but loosing some
+Information content.
+I will ask emy to set up a meeting to discuss further.
+- - - - - - - - - - - - - - - - - - - - - - forwarded by michael tribolet/corp/enron on 12/11/2000
+07: 06 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+From: jeremy blachman@ ees on 12/10/2000 07: 21 am
+To: michael tribolet/corp/enron@ enron
+Cc:
+Subject: default rates
+Thanks. I would strongly suggest an offsite sooner than later with a handful
+Of the right people so that we can step back and design the right
+Architecture for looking at credit in our deals. It is broken, not clear,
+Killing our velocity and true capabilities. We also need to look at staffing,
+Skills sets, the credit reserve model etc. Perhaps you should take a crack at
+An agenda.
+- - - - - - - - - - - - - - - - - - - - - - forwarded by jeremy blachman/hou/ees on 12/10/2000
+07: 08 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Michael tribolet@ enron
+12/09/2000 03: 51 pm
+To: jeremy blachman/hou/ees@ ees
+Cc:
+Subject: default rates
+I visited with vince kaminskI for about 20 minutes today regarding the market
+Implied defaults rates and the disconnect in investment grade land. He is
+Seeing the same anomaly and agreed that we as a company need to revisit the
+Methodology employed in calculating the implied figures. I will follow
+Through and report back.

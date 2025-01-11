@@ -1,0 +1,65 @@
+Subject: re: srf for sandeep kohli: eva: remedy 364463
+Shirley,
+It' s an it request for sandeep.
+Please, help.
+Vince
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski/hou/ect on 03/08/2001
+03: 17 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Sap security@ enron
+03/08/2001 02: 20 pm
+Sent by: eva tow@ enron
+To: sandeep kohli/enron _ development@ enron _ development
+Cc: vince j kaminski/hou/ect@ ect
+Subject: re: srf for sandeep kohli: eva: remedy 364463
+Sandeep,
+Your request does not look to be sap security related. Please use the
+Erequest to obtain access to the network at itcentral. Enron. Com.
+You may call 713 - 853 - 1411 if you need additional assistance.
+Thank you,
+Sap security (eva)
+Kohli@ mailman. Enron. Com on 03/07/2001 02: 34: 11 pm; sandeep
+On 03/07/2001 02: 34: 11 pm
+To: website: sap security request
+Cc:
+Subject: sap security request form
+The following request information was recently submitted...
+Requestor information:
+Business unit: ena
+Cost center: 107043
+Company code: 0413
+Business unit for roles: ena
+Sap id: po 0504918
+General information:
+Supervisor: vince kaminski
+Supervisor telephone number: 713 - 853 - 3848
+Employee name (last, first, m): kohli, sandeep
+Employee location: eb 1958
+Employee telephone number: 713 - 853 - 5188
+Employee email address: sandeep. Kohli@ enron. Com
+Job title: vice president
+Sap user type: enron employee
+Business reason:
+I need access to the o: drive, research subdirectory.
+This subdirectory has information to be shared between
+Different members of the research group. I need to
+Access this for projects we do as a team.
+Viewer roles:
+No roles in this area were selected.
+Financial accounting roles:
+No roles in this area were selected.
+Project system roles:
+No roles in this area were selected.
+Joint venture roles:
+No roles in this area were selected.
+Materials management/purchasing roles:
+No roles in this area were selected.
+Centralized roles (limited to specific personnel):
+No roles in this area were selected.
+Human resources (hr personnel only):
+No roles in this area were selected.
+Human resources - timekeepers:
+No roles in this area were selected.
+Human resources - benefits (benefits personnel only):
+No roles in this area were selected.
+Human resources - payroll (payroll personnel only):
+No roles in this area were selected.

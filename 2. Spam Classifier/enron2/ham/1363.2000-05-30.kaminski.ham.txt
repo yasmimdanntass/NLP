@@ -1,0 +1,59 @@
+Subject: re: hello from london
+Zimin,
+I have a copy of the article.
+I agree with you. The model is
+Essentially the same (in intentions).
+I shall distributed the copy of the paper
+To the trades here. It explains
+Well the logic behind the model and it' s
+An independent source.
+Vince
+Zimin lu
+05/30/2000 10: 44 am
+To: vince j kaminski/hou/ect@ ect
+Cc: stinson gibner/hou/ect@ ect
+Subject: re: hello from london
+Vince,
+I got the article. I can make a copy for you when I get back.
+The article is pretty much for marketing purpose. My reading
+From that paper is as follows:
+1. Solve optimal exercise bounday using stocastic dp;
+2. Runing price trajectory to tracking storage level to give average storage
+Cycling;
+Our model addresses the same issues, althrough maybe the implementation is
+Not quite the same.
+I will fax to you if I can find the article here.
+Regards,
+Zimin
+Vince j kaminski
+05/30/2000 09: 56 am
+To: zimin lu/hou/ect@ ect
+Cc: vince j kaminski/hou/ect@ ect
+Subject: re: hello from london
+Zimin,
+There was an interesting article on gas storage modeling
+By people from camminus in the march issue
+Of energy and power risk management.
+Please, see if you can get this article.
+Vince
+Zimin lu
+05/30/2000 04: 59 am
+To: vince j kaminski/hou/ect@ ect, stinson gibner/hou/ect@ ect
+Cc: anjam ahmad/lon/ect@ ect
+Subject: hello from london
+Vince and stinson,
+I am in the london office this week. Things are quite nice here. My host
+Anjam arranged a full itinerary for me.
+Tuesday is reserved for anjam to talk about various subjects including
+Inflation modeling, power vol curve,
+Mean reverting price & vol model, and I will talk about the spot and
+MultI - factor models, xll. Wednesday, i
+Will concentrate on the gas storage model with natasha danilochkina.
+Thursday and friday I will talk to
+Haakan olafsson, mark jones, anjam, and natasha about uk gas forward curve
+Simulation, gas swing model,
+And implementation issues of uk virtural storage model. I will give you a
+Full report when I get back.
+It is cold and rainy here in london. It makes me feel sunny and hot houston
+Actually is not that bad.
+Zimin

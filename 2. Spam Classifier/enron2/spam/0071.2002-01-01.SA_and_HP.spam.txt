@@ -1,0 +1,146 @@
+Subject: robhatah istore - humanoids, bipeds, dsps, sensors and oscilloscopes
+Dear researcher,
+Robhatah is delighted to announce, for the first time, our great line up
+Of robotic research platforms, dsps, sensors, digital oscilloscopes and
+Other robotic/electronic products.
+Do visit
+Www. Robhatah. Com to visit our
+Website and
+Http:// robhatah. Com/cubecart/index. Php to go directly to our online
+Shopping cart.
+Visit our
+Online shop now to
+Receive superb prices on your early purchases.
+We wish you luck in your robotics
+Endeavors and hope to be your biggest supporters in your research
+Achievements.
+Sincerely,
+Bob virtual
+Sales department
+Robhatah robotic solutions
+Www. Robhatah. Com
+Ps: we encourage constant
+Feedback/suggestions to better our services. Send us your comments by writing into
+Sales@ robhatah. Com.
+Multiple award winning
+Humanoid research robot - manus i
+Robust aluminium alloy body and off the shelf components
+Enable maximum flexibility to the researcher
+-
+Manus - I tops again! - fira' 04 (hit, china)
+-
+Winner, fira 2003
+(hurosot) (nus,
+Singapore)
+-
+Winner, singapore robotic games 2004 (nus, singapore)
+Height: 50
+Cm
+Weight
+: 2. 5 kg dof: 17 processors: 2
+Motorola 16 bit dsps
+Sensors: cmos camera (pan tilt), electronic compass, ir sensor,
+Force sensor, optional tilt sensor
+Manus - I is
+Capable of visually tracking and walking towards colored targets. It has
+Dynamic walking and obstacle avoidance capabilities. The dimensions and
+Specifications are designed to meet the fira - humanoid competition rules.
+Manus - I can even kick a ball into a goal. Other capabilities include
+Getting up from a seated position and climbing stairs.
+Write into
+Support@ robhatah. Com to see some
+Of our customer testimonials and to communicate directly to an expert.
+Biped research robot -
+Manus tlr
+Height: 35
+Cm weight
+: 1. 75 kg dof: 12 processors:
+2 motorola 16 bit dsps
+Sensors: electronic compass, ir sensor, force sensor, optional tilt
+Sensor
+Manus - tlr is an ideal platform for
+Educators and researchers to jump - start their own biped or humanoid
+Projects. The system is fully modularized and allows researchers to modify
+Or add new features. Rbhatah team provides comprehensive technical
+Support to help students and researchers.
+Click on image for more details on manus - tlr. Alternatively, view our
+Biped page by clicking
+Here.
+Portable oscilloscope:
+Stingray
+Portable and stylish, stingray combines the functions of oscilloscope,
+Data logger, spectrum analyser, volt meter, frequency meter and signal
+Generator in a single instrument. Powered from usb, stingray needs no
+External power supply.
+Stingray features simultaneous 12 - bit sampling on both channels, a native
+Sampling rate of lms/s (20 ms/s for repetitive signals), sophisticated
+Hardware triggering including delayed time base and pulse width. It also
+Has a 3 rd channel which can be a waveform generator output or an external
+Trigger input.
+Click on image for more details about the stingray.
+Stereo vision enabled
+Research robot - bebop
+Bebop was
+Designed to be an affordable solution for researchers and hobbyists in
+Mobile robotics.
+Features:
+- mobile chassis with 12 v battery and charger
+- embedded x 86 processing system
+- stereo - vision sensor system
+- real - time linux - based operating system
+Click on image for more details on the bebop. Alternatively, visit our
+Bebop page by clicking
+Here.
+Heavy duty dsp -
+Isopod
+Isopod? _ v 2 is
+Suitable for dedicated control of rc servo motors, dc motors, bdcm,
+Stepper motors, solenoids, and other bipolar power outputs, such as
+General converter/inverter applications, data collection and many
+Networked control applications.
+Click on image for more details about the dsp. Extensive information can
+Be found by clicking
+Here.
+Unmatched servo
+Control dsp - servopod
+A 16 - bit dsp
+Microcontroller, based on motorola dsp 56 f 807 mpu embedded with a virtually
+Paralell machine language, isomax? On a small, user - accessible board.
+Features include: connections for 26 rc - servo motors, two serial rs - 232
+Channels, can bus driver, jtag interface, 16 - channel 12 - bit a/d, 60 kxl 6
+Program flash eeprom, serial cable transformer included. It is a perfect
+Board for robotic, motion control, automotive applications.
+To go to our online shopping system, click on the image. For more
+Information on the dsp, click
+Here.
+Robot soccer system
+- perfect all - round wheeled robot research system
+The full system comprises of 6 wheeled robots, overhead cameras, software
+The robosoccer field.
+The robot soccer system offers a challenging arena to students and
+Researchers to demonstrate their advanced autonomous mobile robotic
+Technology. The multI - disciplinary robotic soccer platform is an ideal
+Jump start for education and research in robotics, machine vision,
+Controls, aI and wireless communications.
+Click
+Here for more
+Details.
+Flexible reliable force
+Sensors - flexiforce.
+The flexiforce
+A 201 force sensor is an ultra - thin, flexible printed circuit. The force
+Sensors are constructed of two layers of substrate (polyester/polyimide)
+Film. On each layer, a conductive material (silver) is applied, followed
+By a layer of pressure - sensitive ink. Adhesive is then used to laminate
+The two layers of substrate together to form the force sensor. The active
+Sensing area is defined by the silver circle on top of the
+Pressure - sensitive ink. Silver extends from the sensing area to the
+Connectors at the other end of the sensor, forming the conductive leads.
+A 201 sensors are terminated with male square pins, allowing them to be
+Easily incorporated into a circuit. The two outer pins of the connector
+Are active and the center pin is inactive.
+Click on image to buy flexiforce now.
+ÃÂ© robhatah private limited,
+#02 - 12 b, 4 engineering drive 3, singapore 117583. Tel: (65) 6872 5092
+Fax: (65) 6874 4089.
+All rights reserved.

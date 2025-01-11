@@ -1,0 +1,10 @@
+Subject: approval is overdue: access request for tony. Hamilton@ enron. Com
+This request has been pending approval for 3 days and you are the
+Alternate. Please click
+Approval to review and act upon this request.
+Request id: 000000000023619
+Approver: stinson. Gibner@ enron. Com
+Request create date: 3/14/01 11: 00: 28 am
+Requested for: tony. Hamilton@ enron. Com
+Resource name:\\ enehou\houston\common\research - [read/write]
+Resource type: directory

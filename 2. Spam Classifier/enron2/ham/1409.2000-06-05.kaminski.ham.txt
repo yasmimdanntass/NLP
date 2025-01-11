@@ -1,0 +1,9 @@
+Subject: re: ff vols from historical fwd price curves
+Winston,
+I am sending you ffd vol curves which are calculated based on 1 month (18
+Log - returns)
+Of data with 0. 97 decay factor. These vols give $3. 14 m in var for
+Storage - prc (versus 3. 37 in production
+For 5/30/00).
+Tell me what I need to change in the format so that it is convenient for you.
+Tanya

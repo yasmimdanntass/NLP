@@ -1,0 +1,33 @@
+Subject: site license for power world
+Gentlemen,
+I recommend that we purchase this package and split the cost 3 ways between 3
+Power trading desks.
+I think that we should go for option 3 (~$15, 000).
+Lance cunningham in my group looked at this software package and found it
+Very useful for modeling transmission problems.
+Please, feel free to ask him for technical details in support of this
+Recommendation.
+Vince
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski/hou/ect on 11/10/2000
+09: 17 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Lance cunningham@ enron on 11/09/2000 06: 15: 14 pm
+To: vince j kaminski/hou/ect@ ect
+Cc: vasant shanbhogue/hou/ect@ ect
+Subject: site license for power world
+Vince,
+We have three options to increase our availability across enron for the power
+World load flow software.
+Option 1, upgrade to a site license for the load flow software only. Price
+$9, 990. 00
+This would give all of enron the ability to perform load flows, but not
+Determine marginal cost or available transfer capacity (atc) because only the
+Optimal power flow (opf) version can perform that task.
+Option 2, site license for the load flow and purchase 1 opf package for
+Walter coffer' s group. Price $11, 240.
+This would give all of enron the ability to perform load flows and one other
+Group the ability to determine marginal cost and atc.
+Option 3, site license for load flows, opf and atc. Price $14, 990. 00
+This would give all of enron the ability to perform load flows, marginal
+Cost, and atc.
+Regards,
+Lance

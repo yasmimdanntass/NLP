@@ -1,0 +1,12 @@
+Subject: eol trade size discrepancies
+Vince -
+I have discovered the two sources of discrepancy in the" transaction dollars"
+On eol, between my numbers and those of eol. First, eol records all index
+Trades with the henry hub price (since the index price isn' t, inadvertently,
+Recorded with the trade, as I told you), whereas I went back and appended the
+Contemporaneous index price to the trades. Second, eol ignores all basis
+Trades in reporting transaction dollars, whereas I append a rough size to
+Them of the" price" as the basis, times the quantity.
+I' m sorry I wasn' t ready in time with my numbers; I took the task of accuracy
+Very seriously.
+Clayton

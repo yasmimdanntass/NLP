@@ -1,0 +1,47 @@
+Subject: mail delivery failed: returning message to sender
+This message was created automatically by mail delivery software.
+A message that you sent could not be delivered to one or more of its
+Recipients. This is a permanent error. The following address (es) failed:
+Lochnessclansman@ aol. Com
+(generated from info@ stayatlochness. Com)
+Smtp error from remote mail server after end of data:
+Host mailin - 03. Mx. Aol. Com [205. 188. 158. 121]: 554 -:
+(hvu: bl) http:// postmaster. Info. Aol. Com/errors/554 hvubl. Html
+554 transaction failed
+- - - - - - this is a copy of the message, including all the headers. - - - - - -
+Return - path:
+Received: from [222. 108. 233. 182] (helo = mailwisconsin. Com)
+By uk 2 mxarray 4. Uk 2. Net with smtp (exim 4. 52)
+Id ldupsa - 0001 oe - vq
+For info@ stayatlochness. Com; tue, 19 jul 2005 12: 02: 51 + 0100
+Received: from 205. 214. 42. 66
+(squirrelmail authenticated user projecthoneypot@ projecthoneypot. Org);
+By mailwisconsin. Com with http id j 87 gzo 24815476;
+Tue, 19 jul 2005 10: 57: 46 + 0000
+Message - id:
+Date: tue, 19 jul 2005 10: 57: 46 + 0000
+From:" barry castillo"
+To: info@ stayatlochness. Com
+User - agent: squirrelmail/1. 4. 3 a
+X - mailer: squirrelmail/1. 4. 3 a
+Mime - version: 1. 0
+X - priority: 3 (normal)
+Importance: normal
+X - sa - exim - connect - ip: 222. 108. 233. 182
+X - sa - exim - mail - from: projecthoneypot@ projecthoneypot. Org
+Subject: just to her...
+Content - type: text/html; charset = iso - 8859 - 1
+Content - transfer - encoding: 8 bit
+X - spam - checker - version: spamassassin 3. 0. 4 (2005 - 06 - 05) on
+Uk 2 mxserver 4 - 9. Uk 2. Net
+X - spam - level: * * *
+X - spam - status: no, score = 3. 3 required = 99. 0 tests = drugs _ erectile, drug _ dosage,
+Html _ 50 _ 60, html _ message, info _ tld, mime _ html _ only autolearn = no
+Version = 3. 0. 4
+X - sa - exim - version: 4. 0 (built sat, 24 jul 2004 09: 53: 34 + 0200)
+X - sa - exim - scanned: yes (on uk 2 mxarray 4. Uk 2. Net)
+Soft viagra at $1. 62 per dose
+Ready to boost your sex life? Positive?
+Time to do it right now!
+Order soft viagra at incredibly low prices
+Starting at $1. 99 per dose! Unbeiivable!

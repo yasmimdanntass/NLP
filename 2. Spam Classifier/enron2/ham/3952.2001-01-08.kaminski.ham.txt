@@ -1,0 +1,38 @@
+Subject: I believe all of you received a request from jeremy blachman to hold the
+Afternoon of january 10 th open for an off - site to discuss the manner in which
+Rac and research assess/test the credit quality of ees transactions. I
+Realize that rac and ees have had many discussions as to the methodology, but
+It might be helpful for all of us to understand the actual derivation of some
+Of analysis. Please call me with any questions or comments at ext #30349.
+The agenda will be as follows:
+12: 00 - 1: 00 lunch
+1: 00 - 3: 30 presentations
+3: 30 - to close discussion
+Rac/research presentations
+The following topics would be of interest to ees:
+1 - the derivation of default probabilities including (research)
+- - a discussion of the actual mathematical process,
+- - the analytics behind why these computations are deemed the best for
+Enron,
+- - a comparison to historic default rates and why they differ (in respect
+To actual default rates, shape of the cumulative default curves etc.
+2 - the volatilities which are used to determine possible loss scenarios for
+The commodity portion of ees deals including (research)
+- - the selection of curves
+- - the application of those curves to the actual credit reserve model and
+- - why these particular tests are applicable to our products.
+3 - the recovery rates used in the credit reserve model. How are these
+Figures derived? (rac)
+4 - how rac and research have adjusted the credit reserve model to
+Accommodate unusual aspects of the deal including (rac)
+- - promotion payments,
+- - accounts receivable
+- - committed capital
+- - and other factors
+Ees also understands that some of you may be familiar with our processes,
+However, there are perhaps areas that you would like to understand more
+Fully. Please tell us what you would like to hear from us.
+Also, rac has sent us the credit reserve model and I have seen completed
+Models. Perhaps prior to our meeting on wednesday, someone from rac and/or
+Research could sit with me and someone from phil layton' s group and go
+Through the process of how the various pieces are put together.

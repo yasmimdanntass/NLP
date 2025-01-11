@@ -1,0 +1,5 @@
+Subject: jcc forward curve
+The following spreadsheet contains a simple way to build a jcc forward
+Curve. It is based upon the spread between jcc and brent lagged one month.
+I' m out until the 2 nd.
+- kevin k.

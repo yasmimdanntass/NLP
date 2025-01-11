@@ -1,0 +1,40 @@
+Subject: matthew patteson, inventor
+Cindy,
+This is our preliminary review of the documentation sent by mr. Patteson.
+One more person will take a look at it.
+Vince
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski/hou/ect on 10/25/2000
+03: 13 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Stinson gibner
+10/25/2000 01: 16 pm
+To: vince j kaminski/hou/ect@ ect
+Cc: zimin lu/hou/ect@ ect, kevin kindall/corp/enron@ enron
+Subject: matthew patteson, inventor
+Vince,
+After reviewing the documents furnished by mr. Patteson, I do not feel that
+Enron should consider engaging in any testing, development, or licensing of
+His proposed generator for the following reasons:
+1. Enron is not currently in the business of developing or manufacturing
+Electrical generation equipment and does not plan, as far as I know, to enter
+This business. The one exception is our ownership in entities developing
+Wind and solar, renewable energy.
+2. Enron does not have the proper facilities or expertise to test or develop
+Mr. Pattesons proposed generator.
+3. There could be substantial risk in testing this generator as it would
+Involve boiling of a flammable material under pressure.
+4. I do not believe that the proposed generator will produce any significant
+Quantity of electrical power. The generator produces power by induction.
+That is, electric current is induced by a changing magnetic field. The
+Mechanism powering the changing magnetic field is the movement of magnetic
+Dipoles which are suspended in a boiling medium. As the boiling will
+Produce a somewhat random movement of the liquid, the" movement" or change in
+The magnetic field will be highly random and thus not suitable for producing
+A steady or reliable electrical current.
+I have asked martin lin to also review the documents to render an independent
+Opinion of this proposal.
+Respectfully,
+Dr. Stinson gibner
+Phd. Physics
+Vp research, enron north america
+P. S. Kevin and zimin: if you have any interest in reviewing mr. Patteson' s
+Proposal, please let me know.

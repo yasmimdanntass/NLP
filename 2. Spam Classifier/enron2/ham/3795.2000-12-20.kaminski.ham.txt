@@ -1,0 +1,22 @@
+Subject: december 22 - srrs decommissioning notification
+Srrs decommissioning notification
+We are one@ enron
+Effective friday december 22, 2000, you will have a new security request
+Database:
+In the past, enron corporate/north american users have used the security
+Resource request system (srrs) lotus notes database for their security
+Request needs including new hire/contractor/temporary access and
+Terminations. In response to the business reorganization, the it security and
+Controls group is working to streamline enron , s security request structure
+And create one single request database for all groups to use, erequest,
+Located at http:// itcentral. Enron. Com /
+Please click on the following link to retrieve the erequest training guide:
+A great deal of effort has been put into this project to eliminate any
+Duplicate security requests in enron' s global enterprise. When you attempt
+To access the srrs through lotus notes on dec. 22, you will find a link to
+The new erequest system.
+If you have additional questions regarding your new security request or if
+You have any problems with the erequest system, please contact information
+Risk management at 713. 853 - 5536.
+Thank you
+Information risk management

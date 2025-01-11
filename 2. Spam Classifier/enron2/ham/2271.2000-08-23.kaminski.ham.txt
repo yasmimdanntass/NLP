@@ -1,0 +1,14 @@
+Subject: improving option valuation precision in erms
+Allan,
+Paulo issler in our group, working with eric moon in structuring, recently
+Tracked down the reason for a slight mis - match in option pricing in erms vs.
+The structuring spreadsheets. It is due to the fact that the option
+Valuation functions in erms use a slightly less accurate approximation for
+The cumulative normal distribution. We would be happy to work with the right
+Person to update the erms code in order to close this discrepancy. Please
+Let me know how you would like to proceed.
+If you are not the correct person to address the mainenance of erms, please
+Let me know who to contact.
+Thank you,
+Stinson gibner
+X 34748

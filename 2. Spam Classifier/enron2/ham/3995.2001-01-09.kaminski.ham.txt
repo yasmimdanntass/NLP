@@ -1,0 +1,41 @@
+Subject: re: real time var
+Tanya,
+Thank you for the information. I agree that we need to talk about more what
+And how global valuation can facilitate a more competitive var engine.
+Winston and nilay are going to give my group a presentation regarding the
+Current var system next tuesday. I am sure the presentation will help my team
+Better understand the requirements of var engine on global valuation. Please
+Join us if you have the time. I would also appreciate your insight on this
+Matter.
+Thanks
+Zhiyong
+Tanya tamarchenko
+01/08/2001 11: 09 am
+To: zhiyong wei/hou/ect@ ect, nilay basu/hou/ect@ ect, wenyao jia/hou/ect@ ect
+Cc: vince j kaminski/hou/ect@ ect
+Subject: re: real time var
+Ziyong,
+We met with nilay and winston last week regarding real time var calculation
+Possibility.
+Winston has an overview of var system which consists of:
+- main curves simulation;
+- curve server;
+- book server;
+- id server
+- clients
+As a first step I want to see where the time is spent when var runs, which
+Percentages of time are spent by each part.
+Nilay is going to get this information for a few portfolios (agg - ect, agg - gas
+And ng - price - prc).
+Preliminary information: currently var run takes about 1 hour, half of this
+Time taken by" book server"
+(we have about 4500 lower level portfolios in the portfolio hierarchy, about
+5500 portfolios all together),
+Most of the rest is taken by" clients"," main curves simulation" does not
+Take much time.
+I am looking also at using alternative methods of faster var calculation, but
+Having so many portfolios in the hierarchy will slow down
+Even analytical var.
+We also have to think more about what" real time" calculation means and what
+It should produce.
+Tanya

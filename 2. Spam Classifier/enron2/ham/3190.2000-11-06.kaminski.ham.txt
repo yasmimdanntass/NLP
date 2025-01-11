@@ -1,0 +1,33 @@
+Subject: sharad' s houston visit
+Sharad
+As expected we didn' t get time to discuss in detail what to do in houston.
+We have discussed the subject informally, but i' m laying it out here for
+Clarity, and for vince/stinson' s information. Here are my thoughts:
+1. Exotica. This is the top priority, as you' d rightly identified yourself.
+A. Learn how to build xlls.
+B. Catalogue functions in houston exotica not yet available in london.
+C. Catalogue differences between inputs to london and houston exotica
+Functions.
+D. Produce london xll that allows current function calls to be used where
+Possible, and incorporates new functions.
+E. Update documentation as appropriate.
+If you do nothing else in your two weeks, i' ll be very happy with this.
+Main contacts are paulo and zimin.
+2. Understand american monte carlo (amc). The aim is to get a feel for amc' s
+Characteristics. Before we embark on the use of amc for real option
+Valuation, i' d like to understand how it behaves for financial options. I
+Suggest something like the following:
+A. Produce amc code for single gbm for american option. Compare greeks
+Against those from appropriate tree methods.
+B. Two gbm spread option model, to compare against 1 - d numerical integration
+Method. Although the" american" bit of amc isn' t going to be used here, it
+Will be interesting to think about the bucketing issue in price/payoff space
+And, again, the greeks.
+C. Some form of mean reverting model, preferably two factor.
+D. Hjm for pure financial option valuation.
+If you get somewhere on a - d, and amc behaves sensibly on pure financial
+Models, then i' ll be very keen to roll it out for real option valuations.
+Vince/stinson - since i' m expecting the worst from it i. T. O. Email support,
+Would you be good enough to print this email out and hand it to sharad?
+Many thanks,
+Steve

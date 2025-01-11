@@ -1,0 +1,23 @@
+Subject: re: factors for us power curves
+Tanya,
+I have checked the factors for us power and all except the
+Following are acceptable:
+Rl 1, rlc, rlf, rlj, rlk, rll, rlm, rln, rlz, r 4 a, r 4 b.
+For global liquids, the requisite curves have been submitted to the
+Liquids team. I will review their results and confirm.
+Naveen
+Tanya tamarchenko@ ect
+01/25/2001 12: 52 pm
+To: naveen andrews/corp/enron@ enron, rabI de/na/enron@ enron, jaesoo
+Lew/na/enron@ enron
+Cc: oliver gaylard/lon/ect@ ect
+Subject: re: factors for us power curves
+Naveen,
+Attached spreadsheet contains the factors for us power curves calculated
+Based on 9/28/00 - 11/28/00 data in stage with the latest version of vatrfacs.
+By specifying integer number from 1 to 32 in cell jl you can see the factors
+For different regions.
+I suggest to consider the following sets of factors as acceptable:
+Rla, rle, r 2, r 2 a, r 2 b, r 3, r 3 a, r 3 b, r 4, r 4 c, r 5, r 5 a, r 6, r 7, r 7 a, r 8, r 9.
+Please review and confirm.
+Tanya.

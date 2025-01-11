@@ -1,0 +1,79 @@
+Subject: new timesheet procedures
+Hello everyone:
+Just when you get used to something it changes!
+As you may have heard, enron is implementing a new time entry system as part
+Of the july 1 sap implementation. Time entry for the june 16 th - 30 th period
+Must be entered into sap by 3: 00 pm cst on june 30 th. As your timekeeper, i
+Will assist with this process and ensure that we meet this very important
+Deadline.
+I will continue to do the time sheets for the 19 th floor and for osman and
+Samer.
+Sam smith and/or kevin moore will be responsible for the timesheets for the
+Weather group on the 32 nd floor.
+Time can be entered in sap in two ways:
+? You can enter your time yourself using the new ehronline feature; or,
+? Timekeepers can enter time on your behalf.
+If you are unsure as to which approach you should use, please call me.
+Please remember that all time for this period must be submitted before 3: 00
+Pm cst, on june 30 th.
+For those of you using ehronline:
+First of all, congratulations on taking this next step toward enron , s vision
+Of empowering the employee. By using the new ehronline feature, you are
+Helping enron to realize the value in this sap implementation. Hopefully,
+You too, will receive value from having instant access to your personal
+Information.
+The new ehronline functionality is:
+? Easy to use
+? Accessible through the enron intranet at ehronline. Enron. Com
+Using this feature, you can not only enter your own time, but also maintain:
+? Your profile information (skills, education, and experience)
+? Home address
+? Phone numbers
+? W - 4 changes
+? Emergency contact information
+Additionally, you will be able to view your individual pay advice and benefit
+Elections.
+You will receive your personal id and password via e - mail from sap _ security
+By june 22 nd. Because of the confidentiality of the information accessible
+Using ehronline, it is important that you keep your id and password
+Confidential. If you do not receive your information by the end of the day
+On june 22 nd, please call the coe at (713) 345 - 4 sap to obtain your id and
+Password.
+The apollo & beyond team has teamed with ebs to deliver training on how to
+Enter time using ehronline via ebs , new product enroncast. This tool is
+Available to you on your desktop. You can access enroncast at
+Www. Enroncast. Com and follow the instructions.
+Step by step guides - http:// sap. Enron. Com/coe
+? Enter time via ehronline (employee) step by step procedure
+? Correct time via ehronline (employee) step by step procedure
+? Enter time via ehronline (non - employee contractor) step by step procedure
+? Correct time via ehronline (non - employee contractor) step by step procedure]
+For those of you who need me to enter your time:
+Attached is a manual time entry form that I must have completed and returned
+By june 28 th. Please estimate the last two days of the period as accurately
+As possible. If necessary, I can make corrections on the next time entry
+Period. If you do not want to use this form, I will have hard copies at my
+Desk and will be glad to help you fill them
+Out. I know this is creating more work for everyone, but what can I say?
+Where can you get help?
+I am here to help you with the new coding necessary on your timesheet. Also,
+If you do not know which absence or attendance type you should use, please
+Come see me or give me a call.
+If you have other questions or are experiencing problems, you can also get
+Help from any of the following places:
+Center of expertise (coe)
+The center of expertise can help answer many of your questions and provide
+You with assistance if you are experiencing problems. The coe is available
+24 hours a day from monday at 7: 00 am cst through friday at 7: 00 pm cst. You
+Can contact the coe at (713) 345 - 4 sap.
+Dedicated support personnel
+During the time period right after the initial  & go live  8 the project team has
+Dedicated additional resources to help support you. These resources can be
+Contacted at:
+Marla hernandez at x 39763 for now and after 6/22 at x 31645 at workstation #
+Eb 3661 b
+Mark timmons at 57919 for now, pager number 888 - 620 - 3896, at workstation #
+Eb 3667 a
+Regards,
+Shirley
+3 - 5290

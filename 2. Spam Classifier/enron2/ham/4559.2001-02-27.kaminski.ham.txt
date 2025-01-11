@@ -1,0 +1,30 @@
+Subject: re: var model - some questions
+I know nothing about this. Since neither research nor energydesk know about
+It, all we can do is collect their requirements and provide what they' re
+Looking for as a new project. This will require vince' s input since we' ll
+Essentially be sending research models to the outside world.
+Steve
+Sharad agnihotri
+27/02/2001 14: 48
+To: steven leppard/lon/ect@ ect
+Cc:
+Subject: var model - some questions
+Steve,
+Do you know anything about this?
+Sharad
+- - - - - - - - - - - - - - - - - - - - - - forwarded by sharad agnihotri/lon/ect on 27/02/2001
+14: 48 - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Andreas lorenz
+27/02/2001 14: 01
+To: sharad agnihotri/lon/ect@ ect
+Cc:
+Subject: var model - some questions
+HI sharad,
+Could you please have a look at below var model - the dll file should have
+Been provided by research (if some time back...)
+Can you provide any information re
+What and how it does it?
+Underlying assumptions?
+Shortfalls?
+Many thanks for your help!
+Cheers,

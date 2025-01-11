@@ -1,0 +1,101 @@
+Subject: re: primary curves missing from factor loading
+Tanya,
+We are very close to generating factors for all primary curves. Jin almost
+Get it done.
+But we are still waiting on the expiration dates for those london curves. If
+Anyone can help, please help.
+Also, we have some curves that don' t have futures. How to decide these
+Curves' s expiration dates?
+Matthew adams helped us deciding many curves expiration rules. But there are
+Still many primary curves that don' t have expiration dates.
+If no expiration dates, then there will be no factor loadings. Whoever wants
+To generate factor loadings then give us the expiration dates first!:)
+Winston
+Tanya tamarchenko
+09/21/2000 09: 00 am
+To: bjorn hagelmann/hou/ect@ ect, wenyao jia/hou/ect@ ect
+Cc: vince j kaminski/hou/ect@ ect, kirstee hewitt/lon/ect@ ect, rodrigo
+Lamas/lon/ect@ ect, xochitl figueroa/na/enron@ enron, manfred
+Roenz/corp/enron@ enron, christian lebroc/corp/enron@ enron, bjorn
+Hagelmann/hou/ect@ ect, homan amiry/lon/ect@ ect, naveen
+Andrews/corp/enron@ enron
+Subject: re: primary curves missing from factor loading
+Bjorn,
+You are absolutely right that we should run the factors for every primary
+Curve.
+It has been working for a while on this.
+The problem is data, as always (missing price curves, zero prices, not
+Changing prices, etc.)
+Most of these problems come from london curves, so winston and jin yu are
+Debugging the code,
+Fixing the problems for every curve.
+Winston,
+Do you think we are ready to calculate factors for us curves? (while continue
+Working on the rest).
+Tanya
+From: bjorn hagelmann
+09/20/2000 10: 06 pm
+To: tanya tamarchenko/hou/ect@ ect, naveen andrews/corp/enron@ enron
+Cc: vince j kaminski/hou/ect@ ect, kirstee hewitt/lon/ect@ ect, rodrigo
+Lamas/lon/ect@ ect, xochitl figueroa/na/enron, manfred roenz/corp/enron,
+Christian lebroc/corp/enron, bjorn hagelmann/hou/ect@ ect, homan
+Amiry/lon/ect@ ect
+Subject: re: primary curves missing from factor loading
+Tanya, naveen:
+I am confused, I thought that when we identified primary curves they would
+Then have factors run against them. Does this not distort what we are trying
+To do with the primary and var?
+Regards
+Bjorn h.
+- - - - - - - - - - - - - - - - - - - - - - forwarded by bjorn hagelmann/hou/ect on 20/09/2000
+21: 57 - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Xochitl figueroa@ enron
+20/09/2000 18: 16
+To: manfred roenz/corp/enron@ enron, christian lebroc/corp/enron@ enron, homan
+Amiry/lon/ect@ ect
+Cc: bjorn hagelmann/hou/ect@ ect
+Subject: re: primary curves missing from factor loading
+I am in the same situation as manfred. I have one primary curve for southern
+Cone gas and one for southern cone power and I am not getting factors for
+Either. For my power curves I am getting wtI factors and for gas I am
+Getting ng factors.
+But I do agree with you manfred, I think all the primary curves should have
+Their own factor loadings.
+Xochitl
+Manfred roenz
+09/20/2000 05: 33 pm
+To: christian lebroc/corp/enron@ enron, xochitl figueroa/na/enron@ enron, homan
+Amiry/lon/ect@ ect
+Cc: bjorn hagelmann/hou/ect@ ect
+Subject: re: primary curves missing from factor loading
+Christian,
+At least you have 2 curves that you get factors for. I get none. I have
+Four primary curves for coal but factors from nbsk are used. In emissions i
+Have one primary curve but wtI factors are used. I think all the primary
+Curves should have their own factor loadings. Xochitl, what factors are used
+For your primary curves?
+Manfred
+From: christian lebroc 09/20/2000 11: 28 am
+To: homan amiry/lon/ect@ ect, manfred roenz/corp/enron@ enron, xochitl
+Figueroa/na/enron@ enron
+Cc: bjorn hagelmann/hou/ect@ ect
+Subject: primary curves missing from factor loading
+I was in the process of setting up sunil' s template for calculating
+Co - variance on all liquids primary curves using the" factor loading" data.
+Unfortunately, I did not get very far, because I noticed that the factor
+Loading table contains only 2 (wtI & hu) out of 13 liquids primary curves. I
+Am concern that liquids var could conceivably be over or understated due to
+The absence of 11 other curves which are listed below. Please verify your
+Perspective commodity desk on this issue.
+61 ny
+Brent
+C 2 gc
+C 3 gc
+C 5 xt
+Condensate
+Dubaicrude
+Ic 4
+Mtbe
+Nc 4
+Nxho
+Christian

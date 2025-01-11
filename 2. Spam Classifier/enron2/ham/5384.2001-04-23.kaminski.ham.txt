@@ -1,0 +1,13 @@
+Subject: eol stuff
+Vince -
+I spoke with tom, and I completely agree and would like to hand all this eol stuff over to you.
+We need a sun server to take over the task. As it happens martin lin has one in his office he' s not using and up to the task. His box could serve sas to enron, as well as handle listening in on the eol feedds and maintaining its database.
+Martin' s box technically belongs to ebs, but I think they are downsizing and wouldn' t mind giving it up.
+In this way, you would have complete physical and administrative custody over the data and any work you do with it. I needn' t be involved, and you can know your work is completely confidential.
+I' ll make sas and the eol software available, as well as the necessary ram the server, at no charge. You just need to summon up some sysadmin resources to finish the job. There is a fine unix guy named ben thompson who will support you, i' m sure.
+Task:
+1) upgrade ram on martin' s server
+2) install newest solaris os on server
+3) install tibco and gnu software on server
+4) install sas on server
+Clayton

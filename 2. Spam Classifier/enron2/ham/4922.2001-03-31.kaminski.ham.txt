@@ -1,0 +1,73 @@
+Subject: re: visual numerics cnl licensing issues
+Rakesh,
+To confirm our conversation:
+Please, go ahead and buy a copy.
+Vince
+Rakesh bharati@ enron
+03/29/2001 02: 06 pm
+To: vince j kaminski/hou/ect@ ect
+Cc: tanya tamarchenko/hou/ect@ ect, vasant shanbhogue/hou/ect@ ect
+Subject: visual numerics cnl licensing issues
+Vince,
+Tanya and I feel that there is a need for a constrained optimization routine
+For our var related research. Numerical recipes does not contain
+Subroutines where equality and inequality contraints can be easily
+Incorporated. Also, the number of arguments that can be handled is also
+Limited.
+Imsl provides a comprehensive library of more than 300 c/c + + statistical and
+Mathematical analysis functions. We think that it would be of great value to
+Our efforts and to the efforts of our research group. Presently the cost is
+Aproximately around $1500 and mike bothwell (visual numerics rep) assures us
+As the version is not license protected, we all can use it as long as
+Simultaneous usage is within the license.
+Please let me know if you should need further information.
+Thanks,
+Rakesh
+- - - - - - - - - - - - - - - - - - - - - - forwarded by rakesh bharati/na/enron on 03/29/2001
+01: 44 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mike bothwell on 03/29/2001 12: 56: 03 pm
+To:"' rakesh. Bharati@ enron. Com'"
+Cc:
+Subject: visual numerics cnl licensing issues
+Rakesh, i' m just following up to see how things looked on this. Any change
+In status? Let me know I can furhter help you.
+Best regards,
+Mike bothwell
+Account manager
+Visual numerics inc.
+Phone: 713 - 954 - 6423
+Fax: 713 - 781 - 9260
+Cell: 713 - 417 - 9069
+Mbothwell@ houston. Vni. Com
+Visual numerics celebrates 30 years
+As an independent software vendor
+Rakesh,
+As we discussed, the cnl 4. 0 pc libraries are not license managed. Version
+5 will be. The pc version 4. 0 can be installed on a network drive and
+Called from networked pcs. As expected, we would ask that enron honor the
+License agreement by allowing only the number of simultaneous uses permitted
+By the license. Version 5. 0 will be license managed and can be licensed as
+Node locked or floating.
+With regard to unix licensing, the current version of cnl for unix is
+License managed. It can be licensed as node locked or floating. If you
+Install the libraries on a unix server as node locked, the number of
+Simultaneous sessions on that server is not limited except by the
+Capabilities of the machine. A floating unix license would be checked out
+By the individual user to be executed on a local machine.
+Also as mentioned, your investment is protected by allowing you to upgrade
+In the future by paying only the price difference between your current and
+Desired platforms. This upgrade option only applies to licenses covered
+Under support.
+If you have any additional questions, please let me know. I look forward to
+Providing you the best math and statistical libraries available today to
+Help you solve your problems and understand your data.
+Best regards,
+Mike bothwell
+Account manager
+Visual numerics inc.
+Phone: 713 - 954 - 6423
+Fax: 713 - 781 - 9260
+Cell: 713 - 417 - 9069
+Mbothwell@ houston. Vni. Com
+Visual numerics celebrates 30 years
+As an independent software vendor

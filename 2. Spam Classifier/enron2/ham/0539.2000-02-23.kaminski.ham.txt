@@ -1,0 +1,39 @@
+Subject: re: rotation information
+Martin, I am working right here with jim irvine and discussed your rotation.
+You will report to me, with' client' reporting role to jim where you will do
+Most of the work. You will remain in houston working on the 19 th floor for
+Now until we find you a place on either 44 th or 45 th. Jim irvine will be
+Asking john griebling for network planning office space in houston. You will
+Get an office in that area. Jim will work from portland but will hold an
+Office in houston. Until the office space on ebs floors happens, you need to
+Remain on the 19 th. We will allocate you to jim' s & john griebling' s group
+Full time. You will have ebs computers, cell phone, etc. To be fully
+Connected on the ebs side. You will work initially on the trffic engineering
+Side to support day - to - day fire - fighting like analysis. I will supervise you
+With repect to guidance on what to do etc... Jim will direct what will get
+Done. Both jim and I will support traffic engineering work but jim is
+Ultimately responsible for deliverables.
+Our technical operational research specialists (samer, chonawee, and two
+Others from stanford & mit) will focus on next generation algorithms for ebs.
+Such an algorithm is currently being specified. This will depend on how the
+Trading market will develop. We know that existing off - shelf codes won' t be
+Sufficient. The development period for these algorithms will anywhere from 3
+Months to 9 months depending on the complexity. This is in - line with when ebs
+Anticipates trade volumes to really pickup. I hope this helps.
+Regards,
+Ravi.
+Martin. Lin@ enron. Com
+02/23/00 02: 06 pm
+To: ravI thuraisingham/enron communications@ enron communications
+Cc:
+Subject: rotation information
+Ravi,
+The associate program has a procedure that requires information on new
+Rotations. I just wanted to clarify some details of my rotation to ebs, esp
+Given the retained ties to research. Will jim irvine be my supervisor with
+Ebs
+Being the company billed for my time? That is, will my connection to research
+Be informal and understood, rather than having some actual reporting function?
+This is with respect to the a/a pool.
+Thanks,
+Martin

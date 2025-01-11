@@ -1,0 +1,41 @@
+Subject: constellation delta positions
+Jim,
+I can provide some explaination about the spread option function in the
+Exotica library.
+My phone number is 713 - 853 - 6388. Let us set up a time.
+Zimin
+- - - - - - - - - - - - - - - - - - - - - - forwarded by zimin lu/hou/ect on 03/06/2001 10: 22 am
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+Vince j kaminski
+03/06/2001 09: 56 am
+To: zimin lu/hou/ect@ ect, stinson gibner/hou/ect@ ect
+Cc: vince j kaminski/hou/ect@ ect
+Subject: constellation delta positions
+Zimin, stinson
+I think I forwarded the message to you.
+Did we act on it?
+Vince
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski/hou/ect on 03/06/2001
+09: 55 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Jim meyn@ enron
+02/27/2001 03: 53 pm
+To: vince j kaminski/hou/ect@ ect
+Cc: robert stalford/na/enron@ enron, mason hamlin/hou/ect@ ect
+Subject: constellation delta positions
+Vince,
+Rob and I would like to coordinate a meeting with one of your research people
+To review the spread option calculation from the exotica options library.
+We' re pricing a spread option deal in nyc and have some questions related to
+The formula, greeks, etc. Please let me know who might be available to sit
+With us for about 1/2 hour. Thanks
+- jim
+- - - - - - - - - - - - - - - - - - - - - - forwarded by jim meyn/na/enron on 02/27/2001 03: 49 pm
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+From: mason hamlin@ ect 02/27/2001 01: 48 pm
+To: tom may/corp/enron@ enron, robert stalford/na/enron@ enron
+Cc: jim meyn/na/enron@ enron, gautam gupta/hou/ect@ ect
+Subject: constellation delta positions
+Attached are the delta positions for the nyc constellation deal. If you have
+Any questions or would like to review the model, please call me.
+Thanks,
+Mason

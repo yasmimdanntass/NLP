@@ -1,0 +1,41 @@
+Subject: failure notice
+Hi. This is the qmail - send program at mail 21. Voicenet. Com.
+I' m afraid I wasn' t able to deliver your message to the following addresses.
+This is a permanent error; i' ve given up. Sorry it didn' t work out.
+:
+Sorry, no mailbox here by that name. (#5. 1. 1)
+- - - below this line is a copy of the message.
+Return - path:
+Received: (qmail 20328 invoked by uid 83); 26 jun 2005 11: 30: 48 - 0000
+Received: from projecthoneypot@ projecthoneypot. Org by mail 21 by uid 11 with qmail - scanner - 1. 20 - vn
+(clamuko: 0. 86. 1. Clear: rc: 0 (67. 171. 94. 76):.
+Processed in 0. 55162 secs); 26 jun 2005 11: 30: 48 - 0000
+Received: from c - 67 - 171 - 94 - 76. Hsdl. Pa. Comcast. Net (67. 171. 94. 76)
+By mail 21. Voicenet. Com with smtp; 26 jun 2005 11: 30: 48 - 0000
+X - matched: c - 67 - 171 - 94 - 76. Hsdl. Pa. Comcast. Net [67. 171. 94. 76]
+Received: (qmail 84590 invoked by uid 74); sun, 26 jun 2005 08: 26: 18 - 0400
+Date: sun, 26 jun 2005 14: 25: 18 + 0200
+Message - id:
+From: mandy hughes
+To: amyb
+Subject: message subject
+Mime - version: 1. 0 (produced by drudgeryearthmove 8. 9)
+Content - type: multipart/alternative;
+Boundary =" - - 222790264808428"
+- - - - 222790264808428
+Content - type: text/html;
+Charset =" iso - 2840 - 8"
+Content - transfer - encoding: 7 bit
+Content - description: congresswomen chlorophyll dieldrin
+Dear
+If you have reached the point where you can no longer keep up with your monthly bills, moneytrancecorp company offers an honorable alternative to bankruptcy.
+Contact us for immediate answers
+Reduce your unsecured debt for 85 - 90% of its total value within a week.
+Stop harassing creditor phone calls
+Start making money with us.
+Best regards.
+Register and say" good bye" to your debts!
+Life without debts!
+Want to know more? Email us!
+Http:// uscard - debt. Com/index. Php? Ref = wrw
+- - - - 222790264808428 - -

@@ -1,0 +1,63 @@
+Subject: re: information
+Vince,
+After checking into this issue I have found that the type of information
+Requested is proprietary and not available for release. I will try to
+Contact them and see if there is something else we can help them with but as
+Far as the data is concerned I don' t believe we can help them with that
+Request. I am sorry I couldn' t be of more help. Thank you.
+Shalesh ganjoo
+Vince j kaminski
+11/21/2000 09: 15 am
+To: shalesh ganjoo/hou/ect@ ect
+Cc: vince j kaminski/hou/ect@ ect, stinson gibner/hou/ect@ ect
+Subject: information
+Shalesh,
+Please, look into it. Can we give them this information?
+I see a remote possibility of a gain for enron: it' s in our interest to
+Support
+The growth of this market and part of the process is development of the
+Infrastructure for this market and maintaining public interest.
+Vince
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski/hou/ect on 11/21/2000
+09: 18 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+" yann d' halluin" on 11/16/2000 01: 18: 39 pm
+To: vince. J. Kaminski@ enron. Com
+Cc:
+Subject: information
+Dear sir:
+The scientific computation group at the university of
+Waterloo, ontario, canada, has recently started to be very
+Interested in the recent developments of the bandwidth
+Market. We find that the specifics of the bandwidth market
+Offer challenges from the modelling point
+Of view.
+However, we have encountered difficulties when looking for
+Data, and we were wondering if you could help us. Specifically
+We would like to know for a given city pair for the different
+Existing type of lines (e. G. Oc 3, ocl 2, oc 48....)
+1. What has been the spot lease prices (e. G. $/ line - type/mile) for
+The past 12 months?
+2. What is the price of the dark fiber for a given type of line?
+3. What is the maintenance cost $/ month?
+(for the same lines, e. G. Oc 3, ocl 2, oc 48,...)
+4. What is the upgrading cost for the different lines?
+(e. G. How much does it cost to upgrade)
+Oc 3 - - > ocl 2
+Oc 3 - - > oc 48
+Ocl 2 - - > oc 48
+5. How long does it take to upgrade a line from a certain
+Capacity to another (e. G. 1 month, 2 month,...)?
+We realize that some of these questions may ask for confidential
+Data, in that case we would really appreciate if an order of magnitude
+Was provided. I look forward to hearing from you.
+Sincerely,
+Yann d' halluin
+P. S: here is a link to our web page:
+Http:// www. Scicom. Uwaterloo. Ca
+- -
+This email and any files transmitted with it are confidential and
+Intended solely for the use of the individual or entity to whom they
+Are addressed. Any unauthorized review, use, disclosure or distribution
+Is prohibited. If you are not the intended recipient, please contact
+The sender by reply e - mail and destroy all copies of the original
+Message.

@@ -1,0 +1,10 @@
+Subject: approval is overdue: access request for grace. Kim@ enron. Com
+This request has been pending approval for 2 days and you are the
+Alternate. Please click
+Approval to review and act upon this request.
+Request id: 000000000006238
+Approver: stinson. Gibner@ enron. Com
+Request create date: 10/31/00 5: 03: 29 pm
+Requested for: grace. Kim@ enron. Com
+Resource name:\\ enehou\houston\common\research - [read]
+Resource type: directory

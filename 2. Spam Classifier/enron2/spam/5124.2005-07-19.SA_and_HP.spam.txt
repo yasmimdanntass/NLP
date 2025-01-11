@@ -1,0 +1,37 @@
+Subject: mail delivery failed: returning message to sender
+This message was created automatically by mail delivery software.
+A message that you sent could not be delivered to one or more of its
+Recipients. This is a permanent error. The following address (es) failed:
+Stcelebrate 2002@ aol. Com
+(ultimately generated from info@ something - to - celebrate. Com)
+Smtp error from remote mailer after end of data:
+Host mailin - 01. Mx. Aol. Com [64. 12. 137. 89]: 554 -:
+(hvu: bl) http:// postmaster. Info. Aol. Com/errors/554 hvubl. Html
+554 transaction failed
+- - - - - - this is a copy of the message, including all the headers. - - - - - -
+Return - path:
+Received: from [218. 23. 38. 202] (helo = mailwisconsin. Com)
+By discostu. Angelsonoccasion. Com with smtp (exim 4. 43)
+Id ldupmn - 0001 st - jh
+For info@ something - to - celebrate. Com; tue, 19 jul 2005 06: 57: 18 - 0400
+Received: from 205. 214. 42. 66
+(squirrelmail authenticated user projecthoneypot@ projecthoneypot. Org);
+By mailwisconsin. Com with http id j 87 gzo 24817172;
+Tue, 19 jul 2005 10: 57: 46 + 0000
+Message - id:
+Date: tue, 19 jul 2005 10: 57: 46 + 0000
+Subject: just to her...
+From:" barry castillo"
+To: info@ something - to - celebrate. Com
+User - agent: squirrelmail/1. 4. 3 a
+X - mailer: squirrelmail/1. 4. 3 a
+Mime - version: 1. 0
+Content - type: text/html; charset = iso - 8859 - 1
+Content - transfer - encoding: 8 bit
+X - priority: 3 (normal)
+Importance: normal
+Soft viagra at $1. 62 per dose
+Ready to boost your sex life? Positive?
+Time to do it right now!
+Order soft viagra at incredibly low prices
+Starting at $1. 99 per dose! Unbeiivable!

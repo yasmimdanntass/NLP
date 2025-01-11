@@ -1,0 +1,17 @@
+Subject: pjm publishes list of 1000 contingencies
+Message sent from the pjm - customer - info mailing list at
+Pjm - customer - info@ majordomo. Pjm. Com:
+To meet customer requests, pjm has published the pjm contingency list on the
+Web
+Site at www. Pjm. Com. The file can be found under pjm markets, market and
+System
+Data, under lmp model information. The list contains the approximately 1000
+Contingencies existing in the pjm energy management system. The contingencies
+Are the possible occurrences against which pjm system operators must protect
+The
+Transmission system.
+Please do not reply to this message. If you have a question for pjm customer
+Relations and training, please send an e - mail to custsvc@ pjm. Com.
+To unsubscribe from this list, send an e - mail to majordomo@ majordomo. Pjm. Com
+Containing only the following line in the body of the e - mail:
+Unsubscribe pjm - customer - info

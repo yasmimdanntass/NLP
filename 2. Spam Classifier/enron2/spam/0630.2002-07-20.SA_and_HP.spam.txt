@@ -1,0 +1,137 @@
+Subject: adv: direct email blaster, email addresses extractor, maillist verify, maillist manager...........
+Direct email
+Blaster
+The program will send mail at the
+Rate of over 1, 000 e - mails per minute. Legal and fast
+Sending bulk emailsbuilt in smtp
+Serverhave return pathcan check mail
+Addressmake error send address list (remove or
+Send again) support multI - threads. Support
+MultI - smtp servers. Manages your opt - in e - mail listsoffers an
+Easy - to - use interface! Easy to configure and use
+Download
+Now
+Maillist
+Verify
+Maillist verify is intended for e - mail addresses and mail
+Lists verifying. The main task is to determine which of addresses in the mail
+List are dead. The program is oriented, basically, on programmers which have
+Their own mail lists to inform their users about new versions of their
+Programs.
+The program works on the same algorithm as isp mail systems
+Do. Mail servers addresses for specified address are extracted from dns. The
+Program tries to connect with found smtp - servers and simulates the sending of
+Message. It does not come to the message sending/nobr emv disconnect
+As soon as mail server informs does this address exist or not. Emv can
+Find
+About 90% of dead addresses/nobr some mail
+Systems receive all messages and only then see their
+Addresses and if the address is dead send the message
+Back with remark about it.
+Download now
+Express email
+Blaster
+Express email blaster is a very fast, powerful yet
+Simple to use email sender. Utilizing multiple threads/connections
+And multiple smtp servers your emails will be sent out
+Fast and easily. There are user information, attach files,
+Address and mail logs four tabbed area for the e - mails
+Details for sending. About 25 smtp servers come with the
+Demo version, and users may add and delete smtp servers.
+About 60, 000 e - mails will be sent out per
+Hour."
+Download now
+Express email address
+Extractor
+This program is the most efficient, easy to use
+Email address collector available on the
+Internet! Beijing express email address extractor (expresseae) is
+Designed to extract
+E - mail addresses from web - pages on the
+Internet (using http protocols). Expresseae
+Supports operation through many proxy - server
+And works very fast, as it is able of
+Loading several pages simultaneously, and requires
+Very few resources.
+With it, you will be able
+To use targeted searches to crawl the
+World wide web, extracting
+Thousands of clean, fresh email
+Addresses. Ably email address extractor is unlike other
+Address collecting programs, which
+Limit you to one or two search engines and are unable
+To do auto searches huge address.
+Most of them collect a high percentage of incomplete,
+Unusable addresses which will cause you
+Serious problems when using them in a mailing.
+Easier to learn and use than any
+Other email address collector program available.
+Accesses eight search
+Engines
+Add your own urls to the list to be
+Searched
+Supports operation through
+A lot of proxy - server
+And works very fast (http proxy)
+Able of loading several pages
+Simultaneously
+Requires very few resources
+Timeout feature allows user to limit
+The amount of time crawling in dead sites and traps.
+Easy to make huge address list
+Pause/continue extraction at any
+Time.
+Auto connection to the
+Internet
+Download now
+Express email address
+Downloader
+Expressead
+Is a 32 bit windows program for e - mail
+Marketing. It is intended for easy and convenient
+Search large
+E - mail address lists from mail servers. The program can be operated
+On
+Windows 95/98/me/2000
+And nt.
+Expressead
+Support multI - threads (up to 1024
+Connections).
+Expressead
+Has the ability to reconnect to the
+Mail server if the server has disconnected and
+Continue the searching
+At the point where it has been interrupted.
+Expressead
+Has an ergonomic interface that is easy to
+Set up and simple to use.
+Features:
+Support
+MultI - threads.
+Auto get smtp server
+Address, support multI - smtp servers.
+Auto save e - mail
+Lists
+Offers an easy - to - use
+Interface!
+Download now
+Express maillist
+Manager
+This program was designed to be a
+Complement to the direct email blaster
+And email
+Blaster
+Suite of bulk email software
+Programs. Its purpose is to organize your email lists in order to be
+More
+Effective with your email marketing
+Campaign. Some of its features include:
+Combine several lists into
+One file. Split up larger lists to make them more
+Manageable. Remove addresses from file. Manual editing, adding, and deleting of addresses. Ability to auto clean lists, that is, remove any duplicate or unwanted
+Addresses. Maintain all your address lists within the
+Program so you no longer need to keep all your
+Lists saved as separate text
+Files.
+Download now
+If you want to remove your email, please send email to targetemailremoval@ btamail. Net. Cn

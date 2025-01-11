@@ -1,0 +1,29 @@
+Subject: re: var for enroncredit. Com
+Bryan,
+We shall be glad to take a look at the system. To sign - off on the vendor
+Provided system we
+Have to look under the hood and review the algorithms. I hope the vendor will
+Have no objections to it.
+Another critical issue we have to solve on a short notice is to integrate the
+System you want to buy
+With the rest of var/credit systems. We shall stand by to help in this
+Endeavor.
+An alternative approach is to evaluate to what extent your positions can be
+Rolled into the existing risk systems.
+Vince
+Bryan seyfried
+11/10/2000 03: 20 am
+To: vince j kaminski/hou/ect@ ect, steven leppard/lon/ect@ ect
+Cc: ted murphy/hou/ect@ ect
+Subject: var for enroncredit. Com
+Vince/steve - - we are going to the board in december to ask for formal
+Limits. As you know one of the key limits at the board level is value at
+Risk. To that end, it is imperative that you are comfortable with our
+Approach for calculating var. We have implemented a third party risk system
+Which holds all of our positions and are in the process of putting the debt
+Positions in. The system has a var engine which is being demo' d by the
+Vendor today. Ben and kirstee are attending the demo and if they find the
+Technology acceptable, I propose moving forward with implemantion of the
+Module. Pls. Let me know if this sounds reasonable and how you would
+Envision implementing.
+Thanks

@@ -1,0 +1,101 @@
+Subject: data for moody' s riskcalc
+Craig and kim,
+As you know, I have obtained a 60 day trial subscription to moody' s
+Riskcalc.
+You wanted to know if it makes sense for enron to purchase riskcalc.
+Well, after plowing through their 100 page manual and sitting through
+Today' s 2 - hour moody' s presentation, it is necessary for us to have
+Information about enron' s counterparties to move to the next step with
+Riskcalc.
+We have obtained some information on enron' s european counterparties from
+Our colleagues in the london office.
+We need for you and/or your colleagues in the houston office to supply us
+With a list of enron' s north american counterparties.
+More specifically, to evaluate moody' s riskcalc we will need the following
+Financial inputs for enron' s north american (private firm) counterparties:
+Fiscal year
+The prior twelve months of financial data are represented. Annual statements
+Are usable as well as quarterly statements after summing the flow variables,
+Such as cost of goods sold, net income, sales, and ebit. The value should be
+A four - digit integer year without mention of the day or month such as 1999 or
+2000. Forecasts until the year 2009 can be made. A constant rate of inflation
+Is applied to future years using last year' s (1999) inflation level. In
+General this' estimation error' will not cause any great problems, as size
+Affects default rates at very large scales (e. G., $10, 000, 000 vs. $1, 000, 000
+Makes a significant difference, $1, 000, 000 vs. $1, 050, 00 does not).
+Cash & equivalents
+This measure of liquid assets includes cash and marketable securities.
+Inventory
+Inventories are taken directly from the balance sheet, in thousands dollars,
+Without any alterations for accounting method (e. G., lifo, fifo, average
+Cost). This item represents merchandise bought for resale and materials and
+Supplies purchased for use in production of revenue. Specifically this would
+Include purchase cost, sales cost, sales taxes, transportation costs,
+Insurance costs, and storage costs.
+Current assets
+This item primarily represents cash, inventories, accounts receivables,
+Marketable securities, and other current assets.
+Total assets
+Total assets and every other variable are entered in thousands of dollars.
+For example, $15, 500, 000 should be entered as 15500. Specifically, total
+Assets are the sum of current assets plus net property, plant, and equipment
+Plus other noncurrent assets (including intangible assets, deferred items,
+And investments and advances). Leave previous year' s total assets blank for
+Australian companies.
+Current liabilities
+Liabilities are positive values. Included in current liabilities are
+Short - term debt, accounts payable, and other current liabilities.
+Total liabilities
+This balance sheet account, total liabilities, is a positive number
+Representing the sum of current liabilities plus long - term debt plus other
+Noncurrent liabilities (including deferred taxes, investment tax credit, and
+Minority interest).
+Retained earnings
+Retained earnings, a historical measure of performance, is the cumulative
+Earnings of the company less total dividend distributions to shareholders.
+Typically, it is the prior year' s retained earnings plus net income less
+Distributions. Retained earnings are generally positive. Some firms with low
+Credit quality will have negative retained earnings. Leave this field blank
+For australian companies.
+Sales
+This item consists of the industry segment' s gross sales (the amount of
+Actual billings to customers for regular sales completed during the period)
+Reduced by cash discounts, trade discounts, and returned sales and allowances
+For which credit is given to customers.
+Cost of goods sold
+Entered in thousands of dollars, this value is generally a positive number
+Less than sales. It represents all costs directly allocated by the company to
+Production, such as material, labor, and overhead. Not fixed overhead or
+Items that would be included in selling, general, and administrative
+Expenses. Leave this field blank for australian companies.
+Ebit
+Earning before interest expense is operating income after depreciation. It
+Can be positive or negative but is usually greater then net income.
+Interest expense
+This item represents the periodic expense to the company of securing short -
+And long - term debt. Typically, we expect this charge to be approximately the
+Prevailing interest rate times the total liabilities. One measure of
+Computing this is: interest expense = 0. 07 * total liabilities.
+Net income
+This item represents the income (or loss) reported by a company after
+Expenses and losses have been subtracted from all revenues and gains for the
+Fiscal period including extraordinary items and discontinued operations. A
+Loss is represented by a negative sign. For example, a $5, 000, 000 loss would
+Be entered as - 5000. Leave previous year' s net income blank for australian
+Companies.
+Extraordinary items
+Positive or negative, this item represents unusual items that sometimes
+Appear on the income statement. The items are designated by the company as
+Extraordinary and presented after net income from continuing operations and
+Discontinued operations. These items include extraordinary gains/losses,
+Income (loss) from discontinued operations, and cumulative affect of
+Accounting changes. Expenses are entered as negative values, gains as
+Positive values. Leave previous year' s extraordinary items blank for
+Australian companies.
+Country
+This model is calibrated for the united states, canada, and australia.
+We look forward to receiving this information for enron' s private firm north
+American counterparties so that we can move on to the next step with the
+Evaluation of riskcalc.
+Thanks,
+Iris

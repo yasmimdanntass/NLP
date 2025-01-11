@@ -1,0 +1,84 @@
+Subject: now visible red
+To: mike a roberts/hou/ect, jose marquez/corp/enron@ enron, tony
+Hamilton/eu/enron@ enron
+Cc: stephen bennett/na/enron@ enron
+Subject: leaving london
+HI guys...
+Tony and I wanted to summarize" where we go from here" - here is how we see
+It. I left the string attached - just read below....
+- - - - - - - - - - - - - - - - - - - - - - forwarded by stephen bennett/na/enron on 04/26/2001
+10: 44 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Tony hamilton
+04/26/2001 10: 46 am
+To: stephen bennett/na/enron@ enron
+Cc:
+Subject: re: leaving london
+My comments in blue...
+Tony
+Enron capital & trade resources corp.
+From: stephen bennett 26/04/2001 16: 36
+To: tony hamilton/eu/enron@ enron
+Cc:
+Subject: leaving london
+HI guys...
+Before leaving here I wanted to quickly summarize the projects that have been
+Left open:
+1) tony shifts his focus slightly toward more development - a little less day
+To day forecasting
+Development
+- building and developing a transatlantic heating demand model -
+Including shipment
+- building an nao model and index for wx deriv
+- developing a model for the apI number
+- examine uk met data and potential for getting ensemble forecasts from
+The ecmwf
+- keep up with non - enron global markets' future needs without commiting
+Current resources
+Operational
+- begin daily briefings for agriculture - examine data sources and
+Forecast products
+- continue to produce global summary - with help from steve/jose in houston
+- continue to produce 1 - 5 and 6 - 10 day forecasts for europe coordinating
+With houston
+- continue to coordinate on us 6 - 10 day forecasts with houston
+- continue monday/wednesday briefings for crude meetings
+- provide met comment and support toward weekly/monthly/seasonal official
+Outlooks from the uk met for wxderiv (team support from houston)
+- design and develop forecast of met forecast (try to beat their release
+By at least 1 hour) prior to each daily update (like our bloomberg forecaster)
+- identify any additional" market - movers", anticipate and add value to
+Same
+" back - burner"
+- develop a method for providing probability distribution/confidence
+Graphics based on numerical forecast guidance and ensemble data
+" on the shelf"
+- daily briefings and products for uk gas
+- daily briefings and products for continental power
+- daily briefings and products for dutch power
+- weather support for coal trading?
+- daily forecasts of and comment on uk met official 3 - 5 and 6 - 10
+Forecasts
+- automation of temperature history/forecast plots from model ensemble
+Data
+2) steve continues to work on a few ongoing projects and ties up" loose ends"
+On - going
+- automate a process for getting forecast temps (model/other) from
+Earthsat data
+- continue to produce the us part of the global exec summary
+- consult with tony on 1 - 5 day europe forecast
+- continue to produce port status report - work on expanding this report
+- european forecast verification (like houston)
+" loose - ends"
+- contract with wsI for met data
+- talk to earthsat about a daily conference call for tony
+- talk to uk met office about a daily conference call for tony
+- refine list of europe forecast cities and get them from earthsat
+- make sure jose didn' t destroy my house!!
+3) jose
+- continues to investigate data for global ag and works with tony on
+Getting ag products up and running
+- makes sure steve' s dog is in perfect shape to return home this weekend
+(i. E. Find one with identical markings before steve gets back!)
+- order mofongo for london research luncheons!
+That' s it - see you tuesday....
+Steve

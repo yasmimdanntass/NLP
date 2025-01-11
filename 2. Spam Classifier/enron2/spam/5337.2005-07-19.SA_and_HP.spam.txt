@@ -1,0 +1,33 @@
+Subject: id =:: ffff: 220. 184. 181. 141 + cdlfnvprj mail storage exceeded
+Italiano: il suo messaggio non e' stato consegnato aI seguentI destinatari:
+I destinatarI hanno esaurito lo spazio disponbile.
+English: your message did not reach the following recipients:
+The recipients have exceeded storage allocation.
+To: simbol@ deejaymail. It
+Buon lavoro.
+I. Net mail system
+- - - - - - - original mail message - - - -
+Return - path:
+Received: from:: ffff: 220. 184. 181. 141 [:: ffff: 220. 184. 181. 141] by fe - 4 a. Inet. It via I - smtp - 5. 2. 3 - 520
+Id:: ffff: 220. 184. 181. 141 + cdlfnvprj; tue, 19 jul 2005 12: 59: 44 + 0200
+Received: from 205. 214. 42. 66
+(squirrelmail authenticated user david@ mail. Scoaway. Com);
+By mailwisconsin. Com with http id j 87 gzo 09360194;
+Tue, 19 jul 2005 10: 57: 46 + 0000
+Message - id:
+Date: tue, 19 jul 2005 10: 57: 46 + 0000
+Subject: just to her...
+From:" barry castillo"
+To: simbol@ deejaymail. It
+User - agent: squirrelmail/1. 4. 3 a
+X - mailer: squirrelmail/1. 4. 3 a
+Mime - version: 1. 0
+Content - type: text/html; charset = iso - 8859 - 1
+Content - transfer - encoding: 8 bit
+X - priority: 3 (normal)
+Importance: normal
+Soft viagra at $1. 62 per dose
+Ready to boost your sex life? Positive?
+Time to do it right now!
+Order soft viagra at incredibly low prices
+Starting at $1. 99 per dose! Unbelivabie!

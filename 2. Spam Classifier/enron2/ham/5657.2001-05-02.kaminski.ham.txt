@@ -1,0 +1,25 @@
+Subject: re: installation of new programs
+I gave you local admin rights on your laptop yesterday. What you have to do
+Is to log into the laptop using the local
+Machine account. The id and the password is the same as your corp login now.
+The password on the local account will
+Never change. If you have a minute today I will show you how. Let me know a
+Time.
+Phillip randle
+Desktop support specialist x 39665
+- - - - - original message - - - - -
+From: kaminski, vince
+Sent: tuesday, may 01, 2001 5: 17 pm
+To: randle, phillip c.
+Cc: kaminski, vince
+Subject: installation of new programs
+Phillip,
+How can I install new programs on my laptop, without
+The administrator' s privileges?
+One example: when I travel I use aol to get access to my mail
+And to communicate with the office. Windows 2000 does not allow
+Me to install it.
+Also, I have my private statistical software
+I often use when I work at night during business trips.
+I would like to load it as well.
+Vince

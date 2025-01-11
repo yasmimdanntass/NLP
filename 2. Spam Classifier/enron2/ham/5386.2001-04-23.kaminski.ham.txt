@@ -1,0 +1,20 @@
+Subject: re: private firm schedule
+Thanks for the schedule update
+- - - - - original message - - - - -
+From: kirkpatrick, eric
+Sent: monday, april 23, 2001 10: 52 am
+To: mack, iris; dhar, amitava; brent, richard; salmon, scott; chaney, craig; mumford, mike; detiveaux, kim; cruver, brian
+Subject: private firm schedule
+All:
+This is the rough schedule we came up with at today' s video conference:
+Submit rfp to d & b, experian, and amadeus 2 days 25 apr mumford
+Receive back rfps 1. 5 weeks 4 may mumford
+Complete evaluation, selection & authorization 1 week 11 may mumford/mack
+Contract complete and signed 2 weeks 25 may mumford
+Data to iris & amitava 3 weeks 15 june mumford
+Model development complete 4 weeks 15 july mack
+* integration of model and data feeds into cts 6 weeks 30 august kirkpatrick
+Prior to integration into cts any prices would have to be manually uploaded into cts via spreadsheet.
+The rfp will include a request for a smaller data calibration set that we may select to purchase immediately.
+We can revisit this schedule at our wednesday video conference.
+Eric kirkpatrick

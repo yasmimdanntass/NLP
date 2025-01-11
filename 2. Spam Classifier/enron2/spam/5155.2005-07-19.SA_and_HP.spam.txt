@@ -1,0 +1,7 @@
+Subject: returned mail: response error
+The original message was received at tue, 19 jul 2005 11: 57: 45 + 0100
+- - - - - the following addresses had permanent fatal errors - - - - -
+- - - - - transcript of session follows - - - - -
+... While talking to mailin - 02. Mx. Aol. Com
+> > > data
+< < < 554 transaction failed

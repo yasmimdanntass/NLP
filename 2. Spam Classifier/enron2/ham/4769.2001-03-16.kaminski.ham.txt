@@ -1,0 +1,47 @@
+Subject: fw: meeting follow - up
+Dan sent this information as a follow up to our meeting this week. If there
+Is any additional information you would like to see, please let me know.
+In the absense of any objections, I would like to begin having our analysts
+Use the financial stress score to underwrite small exposures where financial
+Statements are not received. In addtion to saving some expense, this will
+Allow greater consistentency. And moving forward, I believe we can map
+Expected defaults from fstress score ranges to those implied in credit
+Spreads, and in doing so map to e - ratings for use in credit reserve
+Analytics. I' ve had prelimiary discussions with rabI and amititava regarding
+This.
+Any additional insights would be helpful, and thanks for your help.
+- - - - - original message - - - - -
+From:" barry, dan"@ enron
+On. Com]
+Sent: thursday, march 15, 2001 10: 26 am
+To: mark _ wilson@ enron. Com
+Cc: marcom, karen; johnson, judy
+Subject: meeting follow - up
+Mark,
+Attached are a presentation on the financial stress score and the countries
+That have risk scores available today. Please let me know if you have any
+Questions.
+In response vince' s question regarding false positives from the model, that
+Is a little difficult to answer. The model is predicting the likelihood of
+A company experiencing financial distress. We are not saying that all
+Companies with a high risk score will experience financial distress. In
+Other words, it is not really a yes or no proposition. It' not like a drug
+Test where the test either comes back positive or negative and ocassionally,
+You get a false positive test result. We are identifying companies that are
+At high risk for failure. Some of those high risk companies will fail and
+Some will not fail. How many in each classification that will ultimately
+Fail is addressed in the performance charts attached below.
+Please let me know if you have any other questions or need any additional
+Information.
+Dan barry
+Dun & bradstreet
+Analytical services
+Barryd@ dnb. Com
+Phone (713) 953 - 5458
+Fax (713) 953 - 5454
+> > >
+>
+- enron fss. Ppt
+- globalfailure. Ppt
+- fin stress understanding. Doc
+- fss performance. Doc

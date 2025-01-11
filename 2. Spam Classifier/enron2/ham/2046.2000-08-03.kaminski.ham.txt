@@ -1,0 +1,30 @@
+Subject: var for cob 2 nd aug 2000
+HI vince,
+I was waiting for a comment about the email below before sending it to the
+Full mailing list. Basically it suggests that the
+Copper option position may well have increased the var by more than $500, 000.
+However, given that the portfoilo has also
+Changed from the lst of august it is difficult to asses the actual change due
+To the option only.
+Regards
+Kirstee
+- - - - - - - - - - - - - - - - - - - - - - forwarded by kirstee hewitt/lon/ect on 03/08/2000
+17: 29 - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Enron europe
+From: kirstee hewitt 03/08/2000 16: 29
+To: cantekin dincerler/hou/ect@ ect, grant masson/hou/ect@ ect
+Cc:
+Subject: var for cob 2 nd aug 2000
+HI all,
+The cu option position has entered the mg books for the 2 nd aug. The delta is
+35299 $/ mt for dec 2000. The cu var has gone up
+From $2, 245, 000 to $3, 306, 000. I estimated that the portfolio for the lst
+Would increase to approx $3, 039, 000 so this seems sensible.
+The overall var change is from $4, 780, 796 to $5, 991, 569. Again, the estimate
+For the lst aug was for an increase in var to ~$5, 476, 000.
+All estimates were based on a delta of 32, 0004/dmt.
+There has also been some increase in the var for aluminium which will effect
+The overall total.
+A summary is as follows:
+Regards,
+Kirstee

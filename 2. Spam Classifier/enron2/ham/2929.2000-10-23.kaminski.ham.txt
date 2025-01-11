@@ -1,0 +1,45 @@
+Subject: hedge effectiveness test for fair value hedges
+Gentlemen:
+We have had favorable responses regarding the use of our volatility
+Reduction method (roger, i' ve attached a copy of our article in case you
+Hadn' t seen it). However, there continued to be a quibble about how to
+Create the set of data points that would be inputs into the testing process.
+Last week the consulting arm of a" big five" accounting firm indicated that
+The following method proposed by us would be acceptable. We believe this
+Method overcomes the statistical problems that arise from using interest
+Rate differences from overlapping (" rolling") quarters.
+Method:
+1) calculate daily yield curve changes expressed as ratios, using historical
+Rates from the most recent, say, two years. (note: no overlap). This
+Results in a set of around 494 vectors of ratios (approximately 247 trading
+Days per
+Year).
+Example:
+If the first three yield curves in the historical set look like this:
+19980801 6. 5 6. 6 6. 7......... 7. 2
+19980802 6. 3 6. 3 6. 6......... 6. 9
+19980803 6. 6 6. 8 6. 9......... 7. 1
+Then the change from 8/1/98 to 8/2/98 is:
+6. 3/6. 5 6. 3/6. 6 6. 6/6. 7.......... 6. 9/7. 1
+And the change from 8/2/98 to 8/3/98 is:
+6. 6/6. 3 6. 8/6. 3 6. 9/6. 6......... 7. 1/6. 9
+2) randomly select 62 of these" ratio" vectors (approx. 62 trading days in a
+Quarter).
+3) multiply these ratio vectors together to get a single vector (ie, the 62
+6 mo ratios are multiplied together, the 62 lyr ratios are multiplied
+Togeter, etc.). The result represents a single quarterly yield curve
+Transformation. Apply it to" today' s" yield curve. The resulting yield
+Curve represents one simulated quarterly change in interest rates
+4) repeat steps 2 and 3 until an adequate number of yield curves are
+Generated, say 100.
+5) proceed with testing process.
+I would be interested in your comments.
+Leslie abreo
+Andrew kalotay associates, inc.
+61 broadway, ste 3025
+New york ny 10006
+Phone: (212) 482 0900
+Fax: (212) 482 0529
+Email: leslie. Abreo@ kalotay. Com
+Visit aka' s website at http:// www. Kalotay. Com
+- fasl 33 article. Pdf

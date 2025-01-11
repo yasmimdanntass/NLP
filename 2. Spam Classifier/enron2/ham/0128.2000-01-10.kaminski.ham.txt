@@ -1,0 +1,14 @@
+Subject: re: billing question
+Thank you for your message. The credit card I want to use is currently stored
+In your system. When I want to update the billing information with this card
+Number, I am getting the answer: credit card already in use. The card is in
+Good standing and there is absolutely no problem with this card and there was
+Never any problem. I don' t understand why your system failed. I think that
+This is your problem, not mine.
+Discover
+Last 4 digits: 0057.
+Expiration: 05/02
+Sincerely,
+W. Kaminski
+P. S. I have just called discover and was told the account is in pefect shape
+(as expected). As I have said, you must have a bug in your system.

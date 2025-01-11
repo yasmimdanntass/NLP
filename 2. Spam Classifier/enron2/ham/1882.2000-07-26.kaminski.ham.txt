@@ -1,0 +1,39 @@
+Subject: re: new powermod 97. Xls
+Marty:
+Absolutely yes! We are now using option functions in the exotic options
+Library (in r:\exotica which everybody in risk management has access to)
+Instead of the old visual basic code in the powermod file. This improved the
+Calculation speed for options quite a bit.
+We are also embarking on a new project to develop the next generation
+Structuring and pricing models. I will discuss about this project in more
+Detail with you soon and get your input, but the main goals I see now are:
+1. Superior performance (speed) to enable fast pricing especially for the
+Underwriting group,
+2. Proper documentation for easy maintenance and ability to quickly adapt to
+Meet future needs, and
+3. Security/access control to the files.
+The first stage in this process is to take inventory of what we have: I am
+Documenting the current structuring models. This step is important not only
+For developing our next generation models but also for the aa audit of all
+The ees pricing models.
+Krishna.
+To: maureen craig/hou/ees@ ees, pinnamanenI krishnarao/hou/ect@ ect, dennis
+Benevides/hou/ees@ ees
+Cc:
+Subject: new powermod 97. Xls
+Any performance improvement to be expected?
+- - - - - - - - - - - - - - - - - - - - - - forwarded by marty sunde/hou/ees on 07/26/2000 10: 14
+Am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+PinnamanenI krishnarao@ ect
+07/24/2000 01: 37 pm
+To: dennis benevides/hou/ees@ ees, james w lewis/hou/ees@ ees, neil
+Hong/hou/ees@ ees
+Cc: marty sunde/hou/ees@ ees, alexios kollaros/hou/ees@ ees
+Subject: new powermod 97. Xls
+We have made enhancements to powermod 97. Xls model to enable proper processing
+From the batch model. These changes should not affect current functionality
+Of this file. We will be putting the new version into production later today.
+Please contact me or alex kollaros (x 39806) with your comments or problems.
+Thanks,
+Krishna
+X 35485.

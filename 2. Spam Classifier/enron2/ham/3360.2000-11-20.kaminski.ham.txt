@@ -1,0 +1,21 @@
+Subject: eol wtI maket maker simulation model
+John,
+Here is the spreadsheet zimin built for estimaing p/l from trading wti
+Forwards. Let zimin, vince, or I know if you have questions or comments.
+- - stinson
+- - - - - - - - - - - - - - - - - - - - - - forwarded by stinson gibner/hou/ect on 11/20/2000
+11: 14 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Zimin lu
+11/17/2000 04: 37 pm
+To: stinson gibner/hou/ect@ ect
+Cc: vince j kaminski/hou/ect@ ect
+Subject: eol wtI maket maker simulation model
+Stinson,
+I add the total p/l due to contract rollover. When the number of trades is
+Large
+And the spread is not too small, the model prints a lot of money, dominated by
+Those trade earning the half of bo spread.
+I also wrote an explaination about the model on the front page. I think we
+Are
+Ready to deliever the model v. 1.
+Zimin

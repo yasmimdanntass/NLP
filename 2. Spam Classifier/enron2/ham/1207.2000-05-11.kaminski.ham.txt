@@ -1,0 +1,50 @@
+Subject: re: bandwidth + +
+Stinson,
+Let' s bring up these two ideas at the meeting with john bloomer
+(to discuss the other product ideas).
+Vince
+Steven leppard
+05/11/2000 08: 38 am
+To: vince j kaminski/hou/ect@ ect
+Cc:
+Subject: re: bandwidth + +
+Vince
+If it' s new ebs products you' re after, how about a real - time bandwidth swing
+Contract with automatic exercise? The customer pays for the minimum
+(baseload) bandwidth they need for their (say) videoconference, with a
+Premium on top that automatically buys them extra bandwidth as it becomes
+Available from the system. They are guaranteed a minimum quality they can
+Live with, and (more than likely) they get improved quality much of the time
+For a bargain price.
+We get to charge for the use of bandwidth that would otherwise be idle.
+Steve
+Vince j kaminski
+05/11/2000 02: 09 pm
+To: steven leppard/lon/ect@ ect
+Cc: stinson gibner/hou/ect@ ect, vince j kaminski/hou/ect@ ect
+Subject: re: bandwidth + +
+Steve,
+I think personally it' s a great idea, though my son, who studies
+Computer science, poured a bucket of icy water on me. Computers
+Are becoming very cheap and most companies have already a lot of
+Spare capacity on their systems.
+But we can always try. We shall take this idea, to the person in ebs
+Responsible for the
+New products and ask him to talk directly to you to discuss the details.
+Ebs is dying to come up with some new products.
+Vince
+Steven leppard
+05/11/2000 03: 56 am
+To: vince j kaminski/hou/ect@ ect, stinson gibner/hou/ect@ ect
+Cc:
+Subject: bandwidth + +
+Vince, stinson
+Have any investigations been made of the issue of trading (spare) processing
+Power? Such a proposal would have natural synergies with the bandwidth
+Business, since the jobs to be processed would need to be piped around, as
+Would their results.
+Obvious technical and legal problems are:
+1. Standardisation. (java?)
+2. Security and confidentiality.
+Just a thought that' s been buzzing around my head for a while.
+Steve

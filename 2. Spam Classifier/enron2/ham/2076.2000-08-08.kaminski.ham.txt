@@ -1,0 +1,78 @@
+Subject: cplex
+Stinson,
+Enclosed are the details of the cplex purchase. If everyone agrees, I will
+Assume that ebs is responsible for 1/3 of the cost (with taxes etc. Must be
+Close to $15, 000).
+Krishna and grant, what do you think?
+- samer
+" kim turley" on 05/25/2000 02: 22: 30 pm
+Please respond to
+To:
+Cc:
+Subject: revised ilog quote 5 - 25 - 00
+HI chonawee,
+You are right, I did make a mistake on the calculation, though it isn' t
+Exactly 2/3 of the previous 3 pak quote. Sorry about that and so glad you
+Caught it. I multiplied by 1. 5 and I meant to use 1. 3. We have discounted
+Deployment paks which we discount by quantity. Our chart starts with a 3
+Pak so I took that number from our price list and multiplied by 1. 3 to get
+14, 560. 00. For 2 deployments, I take $4, 500 for one, plus 10% off for the
+Second license 4, 050, then times 1. 3 = 11, 115. 00. Here is the revised
+Quote. I checked the other numbers again and they are correct. Again, I am
+Sorry for the mistake.
+Regards,
+* * * * * * * * * * * * * * * * * * * * * * * * * * * *
+May 25, 2000
+Enron corporation
+A single user cplex v 6. 6 development license with callable library and
+Mixed integer, 2 cplex floating deployment licenses with mixed integer and
+2
+Opl studios, all with first year' s maintenance and on win nt on an intel
+Pc.
+Once you have a cplex development license with maintenance and update
+Services, then you can purchase deployment licenses (run time/license
+Derivative works)
+Item 1 description fee
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+1 1 cplex floating development license,
+Callable library, mixed integer $15, 300. 00
+2 maintenance on item 1 2, 295. 00
+3 2 opl studio 10, 000. 00
+4 maintenance on item 3 3, 000. 00
+5 2 cplex floating deployment/mixed integer 11, 115. 00
+6 maintenance on item 5 1, 667. 25
+- - - - - - - - - - - -
+Total $43, 377. 25
+The cost of (optional) annual maintenance and update services is
+15% of the license fees.
+The customer is responsible for and must add any applicable sales tax,
+Value - added (ad valorem) tax, duty or other transaction tax associated with
+The sale.
+This quotation is firm for 30 days and subject to the terms of the ilog
+License agreement and the ilog maintenance agreement.
+Order information
+Fax a purchase order (with clear shipping and billing address) to
+Match the above items, attention kim turley. As soon as we receive your
+Purchase order, we will ship the software and simultaneously send you an
+Invoice by
+Separate mail for payment.
+Payment terms are net 30.
+Regards,
+Kim turley
+Ilog direct sales
+Ilog inc., lake tahoe office
+889 alder avenue, suite 200
+Incline village, nv 89451, usa
+Phone: (775) 832 - 1960, ext. 130
+Fax: (775) 831 - 7755
+Email: kturley@ ilog. Com
+Have you downloaded your free copy of opl studio?
+If not, please visit: http:// www. Ilog. Com/products/oplstudio /
+Ilog: powering your software
+Http:// www. Ilog. Com http:// www. Cplex. Com
+Ask me about our
+- ampl training june 15 - 16
+- next opl studio training, june 2000
+P. S. From now until june 30, 2000, any ilog cplex licensee may
+Acquire ilog opl studio for just $5, 000 (50% discount). Ask me
+About the details!

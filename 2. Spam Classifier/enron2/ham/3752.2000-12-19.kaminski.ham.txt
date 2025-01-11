@@ -1,0 +1,49 @@
+Subject: news: aurora 5. 2 update
+Aurora version 5. 2
+- the fastest model just got faster -
+Epis announces the release of aurora, version 5. 2
+Aurora the electric market price forecasting tool is already
+Legendary for power and speed. We' ve combined a powerful chronological
+Dispatch model with the capability to simulate the market from 1
+Day to 25 + years. Add to that a risk analysis section, powered by user
+Selectable monte carlo &/or latin hypercube modeling, enough
+Portfolio analysis power to please the toughest critic, & inputs and
+Outputs from standard excel & access tables and you' ve got one of most
+Powerful tools in the market.
+Just a few months ago we expanded our emissions modeling
+Capabilities, added our quarterly database update, increased the speed
+Of the entire model, and made
+But that wasn' t enough.
+We' ve done it again. Some of the operations that we' ve
+Included...
+Two new reporting enhancements.
+The first is marginal reporting
+For fuels, resources and groups of resources.
+The second is the ability to
+Display resource stack information in graphical and dispatch order form.
+Other enhancements include dual fuel modeling, improved
+Transmission modeling, greater access to hourly results, and the ability
+To model monthly emission rates. Moreover, the databases for
+Central and eastern, texas, and western markets have been updated to use
+The new modeling capabilities.
+We continue to make aurora easier to use. This version enhances
+User control over modeling, editing inputs, and viewing of aurora
+Output. Clients desiring to exploit the power of aurora now have
+Greater control over the inputs and outputs through vb scripting in
+Aurora. The new" update data" capability provides a means to
+Universally change any data element.
+Attached is more information on the fastest and most flexible
+Tool of its kind.
+For additional information, please visit our website (www. Epis. Com) or
+Contact our sales department at (503) 722 - 2023. Ask about our special
+7 - day demo!
+V. Todd wheeler
+Sales manager
+Epis, inc.
+(503) 722 - 2023 tel.
+(503) 722 - 7130 fax
+Www. Epis. Com
+Todd@ epis. Com
+> >
+- what' s new - version 5. 2 information. Doc
+- technical information aurora v 5 - 2. Doc

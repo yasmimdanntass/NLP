@@ -1,0 +1,44 @@
+Subject: re: cplex
+I agree. I (or chonawee) will go ahead and place the order for cplex. I think
+That this will provide us with a great set of tools.
+- samer
+PinnamanenI krishnarao@ ect
+05/24/00 01: 34 pm
+To: samer takriti/enron communications@ enron communications@ enron, tom
+Halliburton/corp/enron@ enron
+Cc: grant masson/hou/ect@ ect, stinson gibner/hou/ect@ ect, chonawee
+Supatgiat/corp/enron@ enron, vince j kaminski/hou/ect@ ect
+Subject: re: cplex
+I talked to vince about the optimization software issue. Vince said that if
+There are technical reasons for having two different packages and the
+Benefits outweigh the costs of maintaining two licenses, we can go ahead and
+Buy both. In my view, it is a great advantage to have both, as each has its
+Own strengths relative to the other. We have spent some time trying to come
+Up with one package that solves all of our problmes without success. There is
+No point is wasting more time on this effort. Let' s go ahead and purchase
+Both.
+Krishna.
+From: samer takriti@ enron communications on 05/24/2000 10: 22 am
+To: tom halliburton/corp/enron@ enron
+Cc: grant masson/hou/ect@ ect, pinnamanenI krishnarao/hou/ect@ ect, stinson
+Gibner/hou/ect@ ect, chonawee supatgiat/corp/enron@ enron
+Subject: re: cplex
+Tom,
+Vince prefers to have one software package (if possible). It is my
+Understanding that special ordered sets are recognized automatically
+(internally) by cplex. This seems to be the case for both cplex and osl
+According to ampl' s web page and other references (check
+Lorderedsetsfeature). As a result, the cplex people feel that there is no
+Need to provide the user with the tools to represent special - ordered sets in
+Opl. As a matter of fact, the incapability of xpress to recognize them
+Automatically concerns me.
+If you have special requirements, c code may be used to pass the information
+To the solver (which is straight forward; all of chonawee' s testing was done
+This way). Chonawee' s benchmark shows a superior performance by cplex (which
+You indicated yourself in an earlier message).
+If you feel that xpress is the only way to go, then feel free to purchase it
+(the purchase order is on hold for the time being). However, we need to check
+With vince first. I strongly feel that we should have one solver in order to
+Minimize cost and contractual headaches.
+Let us try to get this issue resolved by this afternoon. Thanks.
+- samer

@@ -1,0 +1,52 @@
+Subject: re: project tracking database access
+HI sandy:
+Yes he does. Actually in our group meeting today, vince kaminskI said
+That he wants most of his group to have access. I believe stinson gibner
+Is working on the list. Is there a way we could submit a request to
+Incorporate
+A list of people to give them access? They would need writing access also.
+Thanks!
+Shirley
+From: enron messaging security@ enron 11/30/2000
+03: 26 pm
+To: shirley crenshaw/hou/ect@ ect
+Cc:
+Subject: project tracking database access
+Shirley,
+The default access is read only. Does this person need more rights, i. E.
+Editor?
+Thanks,
+Sandy
+- - - - - - - - - - - - - - - - - - - - - - forwarded by enron messaging security/corp/enron on
+11/30/2000 03: 24 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Security resource request system
+Application line item pending provider processing
+Application name: unlisted lotus notes appliction how to process this request...
+For: kenneth parkhill/na/enron
+Request type: grant
+Comments: efc\research\projtrak. Nsf - needs access to project tracking database click
+.
+If you wish to approve this request, select" approve" in the dialog box.
+Otherwise, select" reject".
+Enter comments (if any).
+Provider approval section
+Provider (s): enron messaging security/corp/enron status:
+E - mail message:
+Comments: sr
+General request: scrw - 4 rjl 94
+Requested by: shirley crenshaw/hou/ect phone: 3 - 5290
+Company: 0413 rc #: 107043
+Priority: normal
+Application
+Icons added: expiration date:
+Unix db required: no
+Network login id: kparkhil unix login id:
+Required information:
+General comments kenneth parkhill is a new research employee that needs access
+To the project tracking database
+Editing history (only the last five (5) are shown)
+Edit #past authors edit dates
+1
+2 information risk management
+Enron messaging security 11/29/2000 02: 47: 37 pm
+11/30/2000 10: 00: 43 am

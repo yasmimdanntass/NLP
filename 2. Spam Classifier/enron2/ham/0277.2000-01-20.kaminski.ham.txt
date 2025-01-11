@@ -1,0 +1,69 @@
+Subject: auctions with an incumbent' s right of first refusal
+Shelley,
+My colleague, clayton vernon, who has a background in economics, wrote a
+Short summary of arguments
+Against the rofr.
+We are working on the second approach to the problem: we try to come up with
+A numerical estimate of the
+Value of this option. The fact that an incumbent shipper has this option has
+Distributional consequences:
+He has something of value he never paid for. Having a numerical estimate of
+The value of this option
+Could help to argue against it. The value of such an option is case specific;
+So we shall rather
+Produce a template you can use for valuation case by case.
+Vince kaminski
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski/hou/ect on 01/20/2000
+08: 34 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Clayton vernon@ enron
+01/20/2000 08: 29 am
+To: vince j kaminski/hou/ect@ ect
+Cc: stinson gibner/hou/ect@ ect, zlu/hou/ect@ ect
+Subject: auctions with an incumbent' s right of first refusal
+Vince -
+Here is an essay on the issue you are discussing:
+The adverse economic impact of" rights of first refusal"
+An option to" first refuse" to match a competitor' s offer is a restraint of
+Free trade and an impediment to efficiency in the marketplace. This economic
+Conclusion is unambiguous.
+If an" incumbent" has the right to match an offer made by a competitor, for
+An item or service of value, then few competitors will invest the time and
+Expense necessary to prepare and submit offers, those offers will be lower
+Than they would have been otherwise, and the contract will often be awarded
+To an inefficient incumbent instead of a more efficient challenger.
+In a traditional auction, where all bids are sealed and the item up for
+Auction is awarded to the highest bidder, we can safely predict the item will
+Be awarded to the bidder who values it the most, at a price reflecting the
+Full value of the item up for auction. This is the efficient result in a
+Market economy, because the financing of the high bid reflects resources
+Freely allocated to the high bidder. If the auction has open bids, we can
+Again safely predict the item to be awarded to the correct bidder, albeit at
+A slightly lower price to the donor of the item since the bidder with the
+Highest valuation can simply increment by an infinitesimal amount the
+Second - highest valuation.
+Now, in a modified auction, where an incumbent bidder has the right to match
+The highest bid and retain the item for himself, each competing bidder must
+Justify his own due diligence and bid preparation expenses against the
+Following, and likely, scenario: the incumbent does not spend himself for due
+Diligence, but instead uses these savings to help finance his matching the
+Top bid from a competitor.
+Simply put, the incumbent with a" right of first refusal" can be safely
+Predicted to simply match their competitor' s bid by" rule of thumb." but the
+Incumbent' s valuation of the item up for auction can be less than the
+Valuation of the competitor, by the amount of the due diligence and
+Administrative expenses. And, the incumbent firm expropriates the expertise
+Of his competitors, not only in their valuations themselves, a nontrivial
+Financial exercise, but in any operational details required to be submitted
+Along with the bid.
+Furthermore, in an esoteric concept known as the" winner' s curse," a bidder
+Realizes that if his bid actually prevails, if the incumbent fails to match
+It, he almost certainly overbid.
+Given this, most competitors will not even bother to bid in an auction when
+An incumbent has the right of first refusal, and those that submit a bid do
+Not rationally invest the time, expense and expertise necessary; they may
+Just" fire off" a" low - ball" bid. After all, in almost every conceivable
+" state of the world" arising from the auction the competitors expect to lose
+Money. So, the incumbent almost always retains the contract at a
+Below - market price, despite the incumbent not necessarily placing the highest
+Value on the contract because the incumbent cannot put the contract to its
+Most efficient use.

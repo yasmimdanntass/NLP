@@ -1,0 +1,115 @@
+Subject: re: comments
+Fyi.
+- - - - - - - - - - - - - - - - - - - - - - forwarded by rakesh bharati/na/enron on 03/27/2001
+07: 43 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Sheridan titman on 03/27/2001 06: 46: 31 pm
+To: rakesh. Bharati@ enron. Com
+Cc:
+Subject: re: comments
+Rakesh:
+Thanks for your input. They are quite useful for helping me clarify my own
+Thinking. The following are my responses to your comments and
+Clarifications. The * * ed paragraphs are from me and the others are from you.
+1. The money is being set aside to avoid negative values. It is not clear
+If you mean the values of the cash flow or the pv at the node. Anyhow, we
+Shall be setting aside money not just for that specific node but all nodes
+At that cross - section of time as the risk - free asset pays in all states of
+Nature. This will have to be done every time there is a negative
+Realization. Thus, for the typical project we have, the value of risk
+Capital may be extremely high, as we are not following a tail - based norm
+Anymore.
+* * I agree that this is confusing and needs further refinement. I do this
+Because I have some concerns about discounting negative cash flows, (this
+Is discussed in my first memo). This clearly provides a conservative
+Estimate of firm value, and a measure of risk capital that is too high.
+From the perspective of evaluating the appropriate level of risk capital,
+It is sufficient that enough capital be employed so that the pv at each
+Node is positive. Also, one might want to set the level so that the pv is
+Positive in say 98% of all nodes.
+2. Your memo appears to suggest that debt capacity is contingent on all
+Values being positive. If so, we are only issuing risk - free debt. Also, a
+Project with a single negative value at each cross - section of time will not
+Have a positive debt capacity.
+* * again, this is a very conservative initial estimate. When the model is
+Refined, you probably want to define debt capacity so that the project
+Defaults a certain percent of the time.
+3. It seems that our optimization argument is the discount rate, which is
+Obtained in each step from the comparison investment (by equating the
+Variances). It is not clear if changing the discount rate will have such
+An effect on the project variance so as to lead to a global convergence.
+* * I am not assuming that the change in the discount rate has a major effect
+On volatility. In fact, I think the process requires only one iteration
+When the volatility is independent of the discount rate. Again, the idea
+Is that we calculate the volatility of the project' s value calculated with
+An initial discount rate. Using the calculated volatility and the stock of
+A comparison firm, calculate a more appropriate discount rate. If the
+Volatility of the project' s value is not affected by the change in discount
+Rates then we are done. If, however, the change in discount rates changes
+Volatility, then we may have to iterate.
+Let me know if this makes sense. * *
+Also, our project has a finite life and the market - based assets will have
+Infinite lives. In the light of this fact, how will we define the relevant
+Variance? Is it the spot variance of the returns of the comparison
+Investment?
+* * this is a good point. I was thinking in terms of the average variance,
+But this may not be correct. Actually, we know that this is just an
+Approximation and we need to think about whether or not it is a good
+Approximation. Typically, firms tend to ignore issues relating to the
+Duration of their project cash flows when they determine discount rate,
+Which clearly does not make sense. This requires some additional thought. * *
+4. Finally, our criterion is to subtract from the average pv the
+Investment and also the risk capital. Setting risk capital to zero, this
+Model closely resembles the intuitive present value criterion and
+Endogenously determines the discount rate.
+* * this is correct. My goal was to come up with something that was closely
+Related to what you are already doing but which gives you some insight into
+How to define risk capital and the appropriate discount rate. There are a
+Number of ways that we can refine and improve this procedure. What we need
+To first consider is whether or not the basic approach makes sense for the
+Kind of projects that you are evaluating. * *
+Gas field case
+To facilitate your thinking, we are providing a gas field example below.
+We invest x million dollars to buy and develop a gas field. A profile of
+Expected production and variance of the production per year is available
+From the engineers at the beginning. Production will be autocorrelated, as
+The profile will shift up or down based on the actual gas reserves being
+More or less than the estimated reserves. We assume the life of the field
+To be 10 years with no salvage value. There are fixed and variable
+Operating costs. It might be useful for you to think about applying the
+Framework to this problem.
+* * this problem is probably pretty straightforward because it is unlikely
+That the cash flows will be negative once the gas field is producing.
+Hence, there is no need to be concerned about risk capital (other than the
+X million dollars to buy and develop the property). To value the property
+Assuming all - equity financing we calculate the value process of the
+Developed project and compare its volatility to a comparison investment
+Whose value process is observable (e. G., a traded mlp). The risk - adjusted
+Return of the comparison investment would then be used to discount the cash
+Flows of the gas field.
+Please note that this procedure requires relatively strong assumptions and
+Calculating the risk - adjusted return on the comparison investment is not
+Necessarily straightforward. * *
+Let me know when you would like to discuss this.
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+On another topic, is it possible for you to give me information about one
+Case where enron bought or sold a base load power plant, where the
+Purchaser financed the transaction with non - recourse debt. We would like
+The following information:
+1. The value of the power plant (or purchase price)
+2. The amount of debt financing and the terms of the debt contract.
+3. Some information about the pricing of gas - power swaps and options.
+About a year ago I gave vince a paper which develops a pricing model for
+Project debt. I don' t think he thought that it could be implemented on the
+Type of projects that enron finances. However, my coauthors would like to
+Try applying the model for one case study.
+Let me know when you want to discuss these issues.
+Thanks,
+Sheridan
+Sheridan titman
+Department of finance
+College of business administration
+University of texas
+Austin, texas 78712 - 1179
+512 - 232 - 2787 (phone)
+512 - 471 - 5073 (fax)
+Titman@ mail. Utexas. Edu

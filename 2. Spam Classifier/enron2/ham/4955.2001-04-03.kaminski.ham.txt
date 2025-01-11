@@ -1,0 +1,14 @@
+Subject: software erequests for credit modeling
+HI lola,
+As per our recent conversation, today we had a conference call with the
+Enron research and credit groups in the us and the uk.
+It was decided that we would require the folowing software to assist us
+In developing the private firm models:
+1. Eviews statistical package
+2. Spss statistical package (the uk office already has an spss site
+License.)
+3. Tops software
+4. Neural net software package (george in the uk developed this package).
+Please discuss submit these requests to craig chaney for his approval.
+Thanks,
+Iris

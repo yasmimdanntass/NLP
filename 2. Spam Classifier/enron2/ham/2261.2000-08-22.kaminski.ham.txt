@@ -1,0 +1,18 @@
+Subject: avg. Monthly electricity prices for the past 13 months
+Margaret,
+Please find attached file with average monthly prices for regions your
+Requested. This file gives more information than the previous (yesterday)
+One. As the one before, source for this file is megawatt daily, it includes
+On - peak and off - peak prices and you can also see daily data that was
+Converted to monthly average data. There are two types of averages prices:
+Average and weighted average. Weighted average takes into account number of
+Transactions of certain price.
+For example: pjm had average price of $53. 61 and weighted average price of
+$53. 15 in august, it means that there were more transactions of lower price
+Than higher. Also, megawatt daily has its own methodology and I am attaching
+It with this message.
+If you have any questions regarding prices or methodology, please contact
+Sevil yaman (5 - 8083) or me (3 - 4305).
+Sincerely, elena
+Enron research group
+3 - 4305

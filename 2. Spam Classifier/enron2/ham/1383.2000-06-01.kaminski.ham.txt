@@ -1,0 +1,19 @@
+Subject: reviewer approval
+Please note that your employees have suggested the following people to
+Complete a feedback form on their behalf. You will need to access the
+Performance management system (pep) to either approve or decline these
+Suggested reviewers. Once you have approved the suggested reviewers they
+Will be notified and can begin completing the feedback form.
+Your list of employees that have suggested reviewers are listed below:
+Date suggested: may 24, 2000
+Feedback due date: jun 16, 2000
+Employee name: crenshaw, shirley j
+Date suggested: may 19, 2000
+Feedback due date: jun 16, 2000
+Employee name: kollaros, alexios
+Date suggested: may 22, 2000
+Feedback due date: jun 16, 2000
+Employee name: krishnarao, pinnamanenI v
+Date suggested: may 22, 2000
+Feedback due date: jun 16, 2000
+Employee name: shanbhogue, vasant

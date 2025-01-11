@@ -1,0 +1,52 @@
+Subject: factor loadings
+Fyi.. Jeff
+- - - - - - - - - - - - - - - - - - - - - - forwarded by jeffrey a shankman/hou/ect on 06/22/2000
+07: 47 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+From: ted murphy
+06/21/2000 05: 43 pm
+To: rick buy, john j lavorato/corp/enron@ enron, jeffrey a
+Shankman/hou/ect@ ect, mark frevert/na/enron@ enron
+Cc:
+Subject: factor loadings
+I hope that the following clears up some of the confusion regarding the
+Above - captioned process.
+Factor loadings are an input to value - at - risk (var). Generally, you can
+Consider them the determinants of relationships between curves, and points on
+Curves based on trader inputs. These pertain to all curves not just north
+American natural gas. There is a specific program which calculates these
+Relationships which requires a considerable amount of processing time (3
+Hours per run) as well as another few man - days to evaluate the results.
+There is no" ideal" or recommended period in which these must be updated.
+More frequent is" better". Given the amount of time it takes to refresh, it
+Was" agreed" a long time ago amongst rac, research, it and operations that
+It would be done every 2 weeks. No commercial input was received. The roles
+Were to be simple as they are with most roles in and around var and other
+Risk management controls:
+Research specifies the math
+It codes the program
+Operations runs the program
+Rac evaluates the results
+The process has been run every two weeks on the second thursday of every
+Month since february (as it had been prior) and rac has rejected the results
+Because the results did not reflect the underlying math because of the
+Complexity of the math and the continuing addition of new products and
+Curves. This created the need to recode the application from scratch. Rac
+Continued to agitate to get this done, particularly knowing that the pressure
+On the efficacy of var would be questioned as we went into the volatile
+Period of 2000 (e - mails from rudI zipter available upon request). The new
+Code was implemented last thursday and the results were accepted resulting in
+An approximate 10% difference in var.
+Rac had requested that the code be re - written on 6/10/99@ 7: 44 am with a
+Target completion date of 8/2/99. This was discussed and accepted by
+Phillipe bibI on 6/17/99 in a meeting in his conference room with rick buy,
+Dan bruce, jonathon le, ted murphy, bill bradford, debbie brackett and rudi
+Zipter along with the rest of our task list.
+We have resolved that the process will continue as stated and will
+Communicate to you the results.
+There are dozens of other processes that are important to the calculation and
+Interpretation of var that need to be implemented, enhanced, improved or
+Rewritten altogether. For example, the jump - diffusion factors for north
+American power have not been refreshed in 2000. The prioirty is dependent on
+The level of precision required.
+I will provide a comprehensive list of those processes in due course.
+Ted

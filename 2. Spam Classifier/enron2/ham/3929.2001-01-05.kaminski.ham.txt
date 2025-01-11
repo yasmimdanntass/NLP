@@ -1,0 +1,36 @@
+Subject: re: power plant model
+HI vince:
+Number one below is fine... The more accurate the ebitda model the better.
+Your" tweaking" of the model at this point won' t create any chinese wall
+Problems.
+Michelle and gary will talk about the programmer issue on monday, and get
+Back to you. I apologize if there was any confusion. We' re certainly
+Grateful for alex' s involvement.
+Today is my last day of associate rotation within the financial trading
+Group, and I start at ees on monday. I handed off the project as best i
+Could, and of course will be available if you need me. My e - mail and phone
+Number will be the same.
+Have a nice weekend.
+Jeff
+Vince j kaminski@ ect
+01/05/2001 03: 26 pm
+To: jeff m gray/na/enron@ enron
+Cc: vince j kaminski/hou/ect@ ect, stinson gibner/hou/ect@ ect, alex
+Huang/corp/enron@ enron, gary hickerson/hou/ect@ ect, michelle d
+Cisneros/hou/ect@ ect
+Subject: power plant model
+Jeff,
+A few comments on the model:
+1. We have a few reservations about some features of the model but would like
+To
+Discuss it internally and make the improvements without giving the benefit of
+Our insights to the consultant.
+In general, the model is not unreasonable but the devil is always in the
+Details and in the inputs and
+Calibration. The same model may produce drastically different results
+Depending
+On the quality of inputs.
+2. We don' t have a separate pool of programmers in the research group. We
+Were told that you
+Would provide an it resource. Alex would supervise this person.
+Vince

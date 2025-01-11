@@ -1,0 +1,10 @@
+Subject: request submitted: access request for john. F. Anderson@ enron. Com
+You have received this email because you are listed as an alternate data
+Approver. Please click
+Approval to review and act upon this request.
+Request id: 000000000005409
+Approver: stinson. Gibner@ enron. Com
+Request create date: 10/23/00 8: 47: 14 am
+Requested for: john. F. Anderson@ enron. Com
+Resource name:\\ enehou\houston\common\research - [read/write]
+Resource type: directory

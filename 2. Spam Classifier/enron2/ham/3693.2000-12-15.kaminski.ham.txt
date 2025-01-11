@@ -1,0 +1,10 @@
+Subject: wtI trading simulation presentation - combinded
+John,
+Just finished the continous trading case. Please see
+The two attached files. Let me know if you want to add
+More scenarios.
+Happy holidays!
+Zimin
+- - - - - - - - - - - - - - - - attachment - - - - - - - - - - - - - - - - - -
+Open - close trading:
+Close - close trading:

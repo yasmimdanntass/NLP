@@ -1,0 +1,12 @@
+Subject: undelivered mail returned to sender
+This is the postfix program at host mail. Freeservers. Com.
+I' m sorry to have to inform you that your message could not be
+Be delivered to one or more recipients. It' s attached below.
+For further assistance, please send mail to
+If you do so, please include this problem report. You can
+Delete your own text from the attached returned message.
+The postfix program
+(expanded from
+): host 10. 133. 22. 254 [10. 133. 22. 254] said: 554
+Error:: recipient address denied - relay access
+Denied (in reply to rcpt to command)

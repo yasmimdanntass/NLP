@@ -1,0 +1,41 @@
+Subject: re: uk portfolios and books setup in risktrac
+Tanya,
+We have checked the risktrac system and
+(1) the spreadoption, and other, mappings in risktrac are correct. Ie,
+Els 1 b has both power (ppp) and gas (nbp) and the deltas/gammas tie out. The
+Lolp and smp mappings all tie out.
+(2) however, the uk power in risktrac has 25 twh more of power. This has
+Something to do with the enpower - risktrac communication.
+(3) uk - gas positions tie out in aggregate (off by a single bcf)
+For var discrepancies, other than positions, the following will contrbute
+(1) in risktrac power is mapped to r 4 (cinergy) while in the spreadsheet it
+Is us - ng.
+(2) gas - power and efa - efa correlations are different.
+Matthew is coordinating with oliver and london it to resolve the position
+Issues.
+Naveen
+Tanya tamarchenko@ ect
+01/03/2001 02: 09 pm
+To: naveen andrews/corp/enron@ enron, matthew adams/corp/enron@ enron
+Cc: rabI de/na/enron@ enron, jaesoo lew/na/enron@ enron, vince j
+Kaminski/hou/ect@ ect
+Subject: re: uk portfolios and books setup in risktrac
+Naveen and matthew,
+I started looking systematically through uk positions and corresponding var
+Numbers in the risckrac.
+I found a few inconsistencies so far.
+1. The portfolio elsb 1 - nbp has a book elsb 1 under it. The sum of delta
+Positions for this book is
+239, 021, 655, the sum of gamma positions is - 211, 031, 450. Var for the
+Portfolio elsb 1 - nbp is zero.
+The same refers to a few other portfolios, for example elsb 2 - nbp, elsb 3 - nbp,
+E 2 xxl - nbp.
+2. The portfolio elsbp 1 - ppp also has the book elsb 1 under it. This book
+Contains the positions on pppwdl
+Through pppwd 6 and pppwel through pppwe 4.
+The same refers to the other books, for example elsb 2.
+This looks messy. Can someone in rac go over all the portfolios, all the
+Corresponding books and curves
+In risktrac and make sure they are set up properly?
+Thank you,
+Tanya.

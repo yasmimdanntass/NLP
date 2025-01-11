@@ -1,0 +1,44 @@
+Subject: re: weatherdelta demonstration scheduling
+Alex,
+I agree. Let them make up the data. Please, ask shirley to determine
+Convenient date and time.
+Vince
+Alex huang@ enron
+11/01/2000 03: 59 pm
+To: vince j kaminski/hou/ect@ ect, joseph hrgovcic/hou/ect@ ect, vasant
+Shanbhogue/hou/ect@ ect, lance cunningham/na/enron@ enron, sevil
+Yaman/corp/enron@ enron, stinson gibner/hou/ect@ ect
+Cc:
+Subject: re: weatherdelta demonstration scheduling
+HI all,
+I got the following reply from mike denton.
+Can you let me know what time is most convenient for you so I will
+Arrange a time for the presentation?
+I don' t think we should provide them any data, unless you think otherwise.
+Alex
+- - - - - - - - - - - - - - - - - - - - - - forwarded by alex huang/corp/enron on 11/01/2000 03: 54
+Pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Denton mike on 11/01/2000 03: 05: 48 pm
+To: alex. Huang@ enron. Com
+Cc:
+Subject: re: weatherdelta demonstration scheduling
+Mr. Huang,
+We would be happy to demonstrate the features and functionality of the
+Weatherdelta tool set for your team at enron. Early next week (tuesday or
+Wednesday) are both possible, as well as early the following week. The
+Demonstration can take 90 minutes or more, depending on the number of
+Questions and the level of detail.
+Ideally, you could provide us with some of your data and we could
+Demonstrate how to value a full - requirements contract to service that
+Particular load. To do this we will need one or more years of hourly
+Consumption data, and the general location of the load. Ideal data formats
+Are csv files of either 365 rows x 25 columns (date, hrl, hr 2..) or 8760 rows
+X 3 columns (date, hr, load). In lieu of using your data, we will provide
+Sample load data.
+Please feel free to call me and we can discuss schedules and the particulars
+Of the product overview and demonstration.
+Thank you for your interest,
+Michael j. Denton
+Vp na strategic consulting
+Caminus corporation
+212 - 515 - 3667

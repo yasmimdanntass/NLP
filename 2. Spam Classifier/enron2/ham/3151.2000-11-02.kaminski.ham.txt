@@ -1,0 +1,10 @@
+Subject: request submitted: access request for tony. Harris@ enron. Com
+You have received this email because you are listed as an alternate data
+Approver. Please click
+Approval to review and act upon this request.
+Request id: 000000000006452
+Approver: stinson. Gibner@ enron. Com
+Request create date: 11/2/00 1: 12: 58 pm
+Requested for: tony. Harris@ enron. Com
+Resource name:\\ enehou\houston\common\research - [read/write]
+Resource type: directory

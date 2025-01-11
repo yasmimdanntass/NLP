@@ -1,0 +1,23 @@
+Subject: inflation model review - final version
+This morning a draft of rac' s inflation model review was discussed with anjam.
+All points as presented in the draft were agreed upon.
+Also, four new points were amended as suggested by anjam:
+The rpI short - term model could be improved by a combination of the
+Information available from the gilts and rpI swaps market.
+Add:" this is an issue across all enron' s econometric models." to section
+Pllu and dzcv short - term, first point.
+To implement some of the suggestions requires additional statistical and
+Programming resources.
+Additionnal human resources with advanced econometric modelling skills are
+Required given the current workload of the european research team.
+Please find the final version attached.
+Please note that the short term solution has been to freeze the curve.
+The medium to long term solution involves futher research towards a sounder
+And more efficient model.
+Given the current workload of the european research group, it is necessary to
+Hire a new member of staff with strong economics and econometrics background
+To address this issue properly.
+Rac will communicate to the financial trading group and risk management the
+Actions to take as the curve will be frozen.
+Thanks,
+Rodrigo

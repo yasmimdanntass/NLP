@@ -1,0 +1,29 @@
+Subject: p + option valuation model
+Mark,
+After recently reviewing the booking of the p + options, it is my
+Understanding that these options are being valued using a standard spread
+Option model where the price evolution of the two legs of the spread are
+Assumed to be correlated geometric brownian motion processes (i. E. The price
+Process assumptions are consistent with standard black - 76 model assumptions
+Extended to two commodities).
+The payoff for a call option is:
+Payoff = max (0, a ) b ) k).
+Where:
+A = nxwtI (delivery price for nymex)
+B = posting price = (wtI swap) ) (posting basis)
+K = posting bonus (fixed).
+The only complication of this option as compared to most other spread options
+Is that leg" b" of the spread is a combination of three prices, the two
+Futures prices which make up the wtI swap for the given month, and the
+Average posting basis during the delivery month. Combination of these
+Prices is easily addressed by simply setting the volatility of leg" b" and
+The correlation to correctly account for the volatility of this basket of
+Prices and its correlation with the nxwtI price. I believe that this
+Approach is more straightforward than the alternative, which would be to use
+A three or four - commodity model with its associated volatility and
+Correlation matrices.
+In summary, I believe that this is an appropriate model for valuation of
+These types of options, assuming that the inputs are set correctly.
+Regards,
+Stinson gibner
+V. P. Research

@@ -1,0 +1,52 @@
+Subject: failure notice
+Hi. This is the qmail - send program at backo 7. Freeler. Ilcampo. Com.
+I' m afraid I wasn' t able to deliver your message to the following addresses.
+This is a permanent error; i' ve given up. Sorry it didn' t work out.
+Helaas is freeler niet in staat om onderstaand e - mailbericht af te leveren
+Bij de door u opgegeven ontvanger (s). Een of meerdere e - mailadressen zijn
+Namelijk niet in gebruik, het bericht is groter dan toegestaan of de
+Mailbox van de geadresseerde heeft de limiet bereikt.
+Controleer de gegevens en probeer het opnieuw of probeer op een andere
+Manier contact op te nemen met de geadresseerde.
+:
+The users mailfolder is over the allowed quota (size).
+- - - below this line is a copy of the message.
+Return - path:
+Received: (qmail 4916 invoked from network); 19 jul 2005 17: 54: 21 - 0000
+Received: from unknown ([172. 16. 4. 16])
+(envelope - sender)
+By backo 7. Freeler. Nl (qmail - ldap - 1. 03) with qmqp
+For; 19 jul 2005 17: 54: 21 - 0000
+Delivered - to: clusterhost smtpo 7. Freeler. Nl s. De. Haano 5@ freeler. Nl
+Received: (qmail 21982 invoked from network); 19 jul 2005 17: 54: 21 - 0000
+Received: from unknown (helo wng - 04. Evisp. Enertel. Nl) ([213. 218. 77. 204])
+(envelope - sender)
+By smtpo 7. Freeler. Nl (qmail - ldap - 1. 03) with des - cbc 3 - sha encrypted smtp
+For; 19 jul 2005 17: 54: 21 - 0000
+Received: from buffer - 01. Evisp. Enertel. Nl (buffer - 01. Evisp. Enertel. Nl [213. 218. 68. 24] (may be forged))
+By wng - 04. Evisp. Enertel. Nl (8. 12. 11/8. 12. 11) with esmtp id j 6 jhrsn 4031476
+For; tue, 19 jul 2005 19: 54: 21 + 0200
+Received: from mailwisconsin. Com ([203. 128. 23. 64])
+By buffer - 01. Evisp. Enertel. Nl (8. 13. 0/8. 13. 0) with smtp id j 6 jaxw 82023290
+For; tue, 19 jul 2005 12: 59: 43 + 0200 (cest)
+Received: from 205. 214. 42. 66
+(squirrelmail authenticated user projecthoneypot@ projecthoneypot. Org);
+By mailwisconsin. Com with http id j 87 gzo 09360007;
+Tue, 19 jul 2005 10: 57: 46 + 0000
+Message - id:
+Date: tue, 19 jul 2005 10: 57: 46 + 0000
+Subject: just to her...
+From:" barry castillo"
+To: s. De. Haano 5@ freeler. Nl
+User - agent: squirrelmail/1. 4. 3 a
+X - mailer: squirrelmail/1. 4. 3 a
+Mime - version: 1. 0
+Content - type: text/html; charset = iso - 8859 - 1
+Content - transfer - encoding: 8 bit
+X - priority: 3 (normal)
+Importance: normal
+Soft viagra at $1. 62 per dose
+Ready to boost your sex life? Positive?
+Time to do it right now!
+Order soft viagra at incredibly low prices
+Starting at $1. 99 per dose! Unbelivabie!

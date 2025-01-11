@@ -1,0 +1,42 @@
+Subject: var numbers for the 26 th
+HI vince,
+I apologise that I did not send you the following mail...
+Kirsteee
+- - - - - - - - - - - - - - - - - - - - - - forwarded by kirstee hewitt/lon/ect on 28/07/2000
+20: 21 - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Enron europe
+From: kirstee hewitt 27/07/2000 20: 33
+To: andreas. Barschkis@ mgusa. Com
+Cc: bjorn hagelmann/hou/ect@ ect, grant masson/hou/ect@ ect
+Subject: var numbers for the 26 th
+HI andreas,
+I have run the var model for the 26 th july and have attached a zip file of
+The results:
+The total var is $4, 170, 653 and the cu position is $1, 852, 876.
+I have had trouble getting hold of you so I thought I would summarised what i
+Wanted to talk about (also I thought
+I would give your ears a rest!)
+Basically it is wrt the second point in your mail yesterday (we briefly
+Discussed it earlier).
+The fax you sent me to explain the risk calculation suggested that you use a
+5 day period of adjustment to calculate
+The risk (in this case it is called capital at risk). The var calculation for
+Our model is for a one day holding period which means that your risk factor
+Will be reduced by a factor equal the sqrt (5) or 2. 24.
+Since:
+Old risk factor (%) = 1. 65 * (std of the price movement) = 3. 99%
+New daily risk factor = 3. 99/2. 24 = 1. 78% which actually equates to std
+Of approx 1. 1% a day.
+I am happy with this as a estimate of the vol as the annualized spot vol we
+Are showing for cu is approx 19% which equates to approx 1. 2% daily.
+Using this new risk factor for the daily var the cu positions would give a
+Var (for the 19 th) of approx $2 m which is less that the
+Figure we estimated ($3, 100, 568).
+The other thing is that by taking net numbers we are disregarding the term
+Structure of the price curve/vol curve and position
+Curve and are hence collapsing everything into a one factor model which means
+That it is difficult to compare the numbers.
+I hope that this helps to explain our number.
+Hopefully we can talk tomorrow,
+Cheers
+Kirstee

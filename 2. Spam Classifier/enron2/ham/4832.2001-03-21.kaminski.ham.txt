@@ -1,0 +1,42 @@
+Subject: re: estimating tail of distribution and additional risk measures
+Naveen,
+The" analytical var" approach is working for equity portfolio.
+It gives us the tool to examine the tails' behavior for this portfolio and
+Calculate" expected tail loss".
+The same should be done for commodities portfolio as well.
+Meanwhile, as we discussed, we can give some rough estimates of the losses
+Corresponding to percentiles other than 5 th.
+Look at the figure below. You can see var numbers for 5%, 1%, 0. 5% and 0. 1%
+Calculated with
+1) simulations (100 thousand simulations);
+2) analytical var (gamma - delta positions representation)
+1) and 2) are very close because there are not many options in equity
+Portfolio.
+3) simulations (1000 simulations) to calculate 5% var. Then in order to
+Approximately estimate var for 1%, 0. 5% and 0. 1%
+I scaled 5% var with factors corresponding to normal distribution (for
+Example: norminv (0. 001, 0, 1)/norminv (0. 05, 0, 1) for 0. 1%).
+The result of such extrapolation in this case is quite good (just 5%
+Different from the correct number).
+We probably can use such rough estimates of tail for commodities portfolio
+Until we have proper methods implemented.
+Tanya tamarchenko
+02/28/2001 01: 17 pm
+To: wenyao jia/hou/ect, debbie r brackett/hou/ect@ ect
+Cc: vince j kaminski/hou/ect@ ect
+Subject: re:" analytical" var implementation in risktrac
+Debbie,
+I am forwarding to you a 2 page document describing implementation of
+" analytical" var in risktrac.
+Here is why this effort is very important:
+1. We need to calculate var for other percentile but 5 (1% or even 0. 2% as
+Mentioned by rick buy)
+And our simulation model can not handle required number of simulations;
+2. We need to present additional risk measures (such as mean tail loss) to
+The board.
+The analytical approach is implemented in a spreadsheet and fully tested
+Already so there will be no problems
+With the algorithm itself.
+We need to get together and discuss it implementation.
+What do you think?
+Tanya

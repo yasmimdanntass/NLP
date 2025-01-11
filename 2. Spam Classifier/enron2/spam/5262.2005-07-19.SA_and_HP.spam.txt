@@ -1,0 +1,37 @@
+Subject: failure notice
+Hi. This is the qmail - send program at mail. Unl. Edu. Ar.
+I' m afraid I wasn' t able to deliver your message to the following addresses.
+This is a permanent error; i' ve given up. Sorry it didn' t work out.
+:
+168. 96. 132. 208 does not like recipient.
+Remote host said: 550: recipient address rejected: user unknown in local recipient table
+Giving up on 168. 96. 132. 208.
+- - - below this line is a copy of the message.
+Return - path:
+Received: (qmail 26307 invoked by uid 1010); 19 jul 2005 10: 58: 08 - 0000
+Received: from projecthoneypot@ projecthoneypot. Org by mail by uid 1002 with qmail - scanner - 1. 22
+(sophie: 3. 04/2. 19/3. 80. Clear: rc: 0 (221. 184. 168. 155):.
+Processed in 0. 816554 secs); 19 jul 2005 10: 58: 08 - 0000
+Received: from pl 155 - ipbfl 3 kyoto. Kyoto. Ocn. Ne. Jp (helo mailwisconsin. Com) (221. 184. 168. 155)
+By mail. Unl. Edu. Ar with smtp; 19 jul 2005 10: 58: 07 - 0000
+Received: from 205. 214. 42. 66
+(squirrelmail authenticated user projecthoneypot@ projecthoneypot. Org);
+By mailwisconsin. Com with http id j 87 gzo 38190577;
+Tue, 19 jul 2005 10: 57: 46 + 0000
+Message - id:
+Date: tue, 19 jul 2005 10: 57: 46 + 0000
+Subject: just to her...
+From:" barry castillo"
+To: distinctmartin@ bugs. Unl. Edu. Ar
+User - agent: squirrelmail/1. 4. 3 a
+X - mailer: squirrelmail/1. 4. 3 a
+Mime - version: 1. 0
+Content - type: text/html; charset = iso - 8859 - 1
+Content - transfer - encoding: 8 bit
+X - priority: 3 (normal)
+Importance: normal
+Soft viagra at $1. 62 per dose
+Ready to boost your sex life? Positive?
+Time to do it right now!
+Order soft viagra at incredibly low prices
+Startinq at $1. 99 per dose! Unbelivable!

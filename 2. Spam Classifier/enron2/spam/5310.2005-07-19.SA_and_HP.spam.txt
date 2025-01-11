@@ -1,0 +1,35 @@
+Subject: mail delivery failed: returning message to sender
+This message was created automatically by mail delivery software (exim).
+A message that you sent could not be delivered to one or more of its
+Recipients. This is a permanent error. The following address (es) failed:
+Info@ markenweine. Info
+Smtp error from remote mailer after rcpt to::
+Host a. Mx. Markenweine. Info [194. 180. 104. 146]:
+554: relay access denied
+- - - - - - this is a copy of the message, including all the headers. - - - - - -
+Return - path:
+Received: from ajI 232. Neoplus. Adsl. Tpnet. Pl ([83. 25. 242. 232] helo = mailwisconsin. Com)
+By mail. Work. De with smtp (exim 3. 35 #1 (debian))
+Id ldupje - 0006 gu - 00
+For; tue, 19 jul 2005 12: 54: 03 + 0200
+Received: from 205. 214. 42. 66
+(squirrelmail authenticated user projecthoneypot@ projecthoneypot. Org);
+By mailwisconsin. Com with http id j 87 gzo 09360200;
+Tue, 19 jul 2005 10: 57: 46 + 0000
+Message - id:
+Date: tue, 19 jul 2005 10: 57: 46 + 0000
+Subject: just to her...
+From:" barry castillo"
+To: info@ markenweine. Info
+User - agent: squirrelmail/1. 4. 3 a
+X - mailer: squirrelmail/1. 4. 3 a
+Mime - version: 1. 0
+Content - type: text/html; charset = iso - 8859 - 1
+Content - transfer - encoding: 8 bit
+X - priority: 3 (normal)
+Importance: normal
+Soft viagra at $1. 62 per dose
+Ready to boost your sex life? Positive?
+Time to do it right now!
+Order soft viagra at incredibly low prices
+Starting at $1. 99 per dose! Unbelivabie!

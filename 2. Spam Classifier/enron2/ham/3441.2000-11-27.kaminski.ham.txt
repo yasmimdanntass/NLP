@@ -1,0 +1,43 @@
+Subject: re: enron exotica options library
+Patrick,
+We have those two models in the exotica library. You need to add exotica. Xll
+Located in o:\research\exotica\xll to your excel before you can use the
+Functions.
+You can find the documentation in o:\research\exotica\doc.
+Example spreadsheets can be found in o:\research\exotica \.
+The precedure of addin is as follows.
+1) clik tools/addin on your excel
+2) choose browse and got to o:\research\exotica\xll
+3) select exotica. Xll or its identical copy exotical. Xll
+4) answer the question" copy..." no.
+5) click ok, then you should see exotica menu bar pop up.
+If you have any more questions please let me know.
+Zimin
+Vince j kaminski
+11/21/2000 08: 06 am
+To: patrick markey/hou/ect@ ect
+Cc: vince j kaminski/hou/ect@ ect, zimin lu/hou/ect@ ect
+Subject: re: enron exotica options library
+Patrick,
+Please, contact zimin lu, 713 853 6388.
+Vince
+Patrick markey
+11/21/2000 05: 15 am
+To: vince j kaminski/hou/ect@ ect
+Cc: patrick markey/hou/ect@ ect
+Subject: enron exotica options library
+Vince,
+I am trying to price a crack spread option utilizing either of the following
+Models in the exotica library:
+1. Spread options by 1 - d integration - sprdopt
+2. Spread options on asian spreads - asnsprd
+How do I get access to these options models? Who can I visit with in the
+Houston group if I have any questions regarding the models. Your help would
+Be greatly appreciated. I am located in singapore, so I would probably be
+Visiting with the houston personnel via e - mail.
+Thanks,
+Pat markey
+P. S. - I have access to the o:\research\exotica\xll\xll _ templates\directory;
+However, there are no macros associated with the programs that I can find.
+Also, I don' t have access to the m: drive. Please let me know where to find
+These options models.

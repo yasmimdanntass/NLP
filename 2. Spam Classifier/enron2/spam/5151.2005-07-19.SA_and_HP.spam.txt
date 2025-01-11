@@ -1,0 +1,10 @@
+Subject: re: just to her...
+Mdaemon has indentified your message as spam. It will not be delivered.
+From: projecthoneypot@ projecthoneypot. Org
+To: s. Denham@ capitalspreads. Com
+Subject: * * * spam * * * score/req: 25. 38/08. 00 - just to her...
+Message - id:
+Yes, hits = 25. 4 required = 8. 0 tests = ab _ urI _ rbl, html _ 50 _ 60, html _ fontcolor _ red, html _ message, mime _ html _ only, spamcop _ urI _ rbl, ws _ urI _ rbl autolearn = no version = 2. 64
+* * * * * * * * * * * * * * * * * * * * * * * * *
+* 0. 1 html _ fontcolor _ red body: html font color is red * 0. 2 html _ 50 _ 60 body: message is 50% to 60% html * 0. 1 mime _ html _ only body: message only has text/html mime parts * 0. 0 html _ message body: html included in message * 8. 0 spamcop _ urI _ rbl uri' s domain appears in spamcop database at sc. Surbl. Org * [bjefladghikm. Extra - m. Info is blacklisted in uri] [rbl at multi. Surbl. Org] * 9. 0 ws _ urI _ rbl uri' s domain appears in ws database at ws. Surbl. Org * [bjefladghikm. Extra - m. Info is blacklisted in uri] [rbl at multi. Surbl. Org] * 8. 0 ab _ urI _ rbl uri' s domain appears in ab. Surbl. Org * [bjefladghikm. Extra - m. Info is blacklisted in uri] [rbl at multi. Surbl. Org]
+: message contains [1] file attachments

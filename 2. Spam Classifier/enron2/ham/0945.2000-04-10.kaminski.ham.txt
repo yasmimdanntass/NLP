@@ -1,0 +1,55 @@
+Subject: academic seeks job
+Find below resume and email from someone who has built an electric generation
+Commitment optimization model and is job - hunting.
+His skills look pretty good.
+Should we bring him for an interview?
+- - stinson
+- - - - - - - - - - - - - - - - - - - - - - forwarded by stinson gibner/hou/ect on 04/10/2000
+10: 01 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+From: samer takriti@ enron communications on 04/07/2000 03: 32 pm
+To: stinson gibner/hou/ect@ ect
+Cc:
+Subject: fw: resume
+Another one.
+- samer
+- - - - - forwarded by samer takriti/enron communications on 04/07/00 03: 34 pm
+- - - - -
+" stephen schwartz"
+02/02/00 10: 14 am
+To:" samer takriti"
+Cc:
+Subject: fw: resume
+- - - - - original message - - - - -
+From: jorge f valenzuela [mailto:" jorgev +"@ pitt. Edu]
+Sent: monday, january 31, 2000 9: 46 pm
+To: stakrit@ ei. Enron. Com; stakrit@ ei. Enron. Com
+Subject: resume
+Dear dr. Takriti,
+My name is jorge valenzuela. We met last year in the workshop," the new
+Generation of unit commitment models". After your presentation, we had a
+Brief conversation. I defended my ph. D. Dissertation in industrial
+Engineering at the university of pittsburgh last december. Currently, I am
+Teaching at the business school of the university of pittsburgh, but my
+Interest is to work for an electric power company such as enron.
+During the last three years, my work has revolved around modeling of
+Electric power systems. My ph. D. Dissertation deals with the scheduling of
+Generating units under the new operating environment. I have proposed a
+Formulation that includes the option of trading at market - clearing prices
+With a power pool. I model the market - clearing price by a stochastic
+Process based on the stochastic processes of the generating unit
+Availabilities and the aggregate load. I use probabilistic dynamic
+Programming to obtain the schedule that maximizes the expected profit.
+In my resume, herewith attached, I have listed some other work that I have
+Done in modeling electric power systems. I would like to add that I am a
+Very versatile person with strong background in operations research,
+Statistics, and information technology.
+Please call or e - mail me if you think that your company could make use of
+A person as me. Thank you very much for your kind consideration.
+Best regards,
+Jorge valenzuela
+215 sandy dr.
+Glenshaw, pa 15116
+Telephone: (412) 492 - 9886
+Email: jorgev@ pitt. Edu
+Enclosure
+- resume. Doc

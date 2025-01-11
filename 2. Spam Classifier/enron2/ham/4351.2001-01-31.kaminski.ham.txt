@@ -1,0 +1,86 @@
+Subject: fea announces the release of@ energy 2. 0
+Zimin,
+Please, take a look at it.
+I think we should download the update.
+Vince
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski/hou/ect on 01/31/2001
+11: 21 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+" michelle mendoza" on 01/26/2001 02: 33: 14 pm
+To:
+Cc:
+Subject: fea announces the release of@ energy 2. 0
+January 26, 2001
+Vince kaminski
+Enron north america corp.
+1400 smith street
+30 th floor, rm. 3036 b
+Houston, tx 77251 - 1188
+1 713 - 853 - 3848
+Dear vince kaminski,
+This is to inform you of the release of@ energy 2. 0. Ftp download
+Instructions are available immediately. The download instructions are
+Included at the end of this email. Your cd' s and manuals will be shipped to
+You within 2 weeks. Please see below for more information regarding this new
+Release.
+Please confirm that you are the correct recipient for this shipment and your
+Address above is correct by clicking reply and send. If any changes need to
+Be made, please make the changes above and reply.
+* * warning: please note that if you did not received a license key for
+@ energy after june 2000, you will need to contact support@ fea. Com or call
+510. 548. 6200 to obtain a new license key to enable the new version. * *
+* * swing users:@ energy/swing now replaces the" swing" product. See the
+@ energy user manual for a discussion of the changes. Contact fea for the
+Necessary license keys. You will be able to run both the new and old swing
+Simultaneously.
+Heres an overview of the new and changed features since version 1. 6:
+@ energy (forward curve)
+Jump parameters are now calibrated for use in other@ energy functions.
+Inputs and outputs to powercalib and comcalib have changed. See the
+Corresponding function syntax in the user guide for additional information.
+35 - 40% speed improvement. The module is now out of beta.
+@ energy (basics)
+Different interpolation schemes on forward prices are now supported. If you
+Use indexswap, exoticswap, or optindexswap with floating price linked to a
+Series of futures dates, such futures dates need not be close to dates
+Specified in the forward curve input. A new utility function, pathutil,
+Allows you to simulate and visualize price paths consistent with the models
+Supported by@ energy. 25 - 30% speed improvement.
+@ energy (advanced)
+Different interpolation schemes on forward prices are now supported. If you
+Use optdiffswap or diffswap with floating price linked to a series of
+Futures dates, such futures dates need not be close to dates specified in
+The forward curve input. Calspreadopt now allows for the specification of
+Two different mean reversion rates. 30 - 35% speed improvement.
+@ energy (swing)
+Swingopt and stripswingopt now allow for valuation of swing straddle
+Contracts with overall load constraints. 65 - 70% speed improvement. The
+Module is now out of beta.
+@ energy (weather)
+30 - 35% speed improvement.
+If you have any questions please feel free to contact us. We appreciate this
+Opportunity to be of continuing service to enron north america corp..
+Regards,
+Michelle mendoza
+Support@ fea. Com
++ 1 - 510 - 548 - 6200
+Financial engineering associates, inc. (fea)
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+To download@ energy 2. 0 via ftp, follow the following instructions:
+Note: using explorer leads to unpredictable results, so we suggest using
+Netscape or a dos shell.
+Using netscape:
+In the location box type: ftp:// energy@ ftp. Fea. Com
+Password: 2 rbzxgv 5
+Energy - 2. 0 - win 32. Exe is for windows 95/98/2000/nt. Download and run on
+A local drive.
+Using a dos shell:
+At a dos prompt type: ftp ftp. Fea. Com
+User: energy
+Password: 2 rbzxgv 5
+Type" binary" and hit' return'.
+Type" ls" for a list of available files.
+Type" get" energy - 2. 0 - win 32. Exe and and wait for the ftp > prompt.
+Type" quit".
+The file will be downloaded into the directory at which you entered the ftp
+Site.
+Double click on the exe and follow the instructions on the screen.

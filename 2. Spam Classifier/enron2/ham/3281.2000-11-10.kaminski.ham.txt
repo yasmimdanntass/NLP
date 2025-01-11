@@ -1,0 +1,29 @@
+Subject: var for enroncredit. Com
+Rick and ted,
+It looks more like foxes building chicken houses as opposed to foxes guarding
+Chicken houses.
+I shall send a message to bryan saying that the research has to look under
+The hood and examine the mechanics
+Of the model in order to sign off on it. A dog and pony show is not
+Sufficient. In any case, the decision to approve
+The model should not be left to ben and kirstee.
+Please, let me know what your thinking is.
+Vince
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski/hou/ect on 11/10/2000
+01: 31 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Bryan seyfried
+11/10/2000 03: 20 am
+To: vince j kaminski/hou/ect@ ect, steven leppard/lon/ect@ ect
+Cc: ted murphy/hou/ect@ ect
+Subject: var for enroncredit. Com
+Vince/steve - - we are going to the board in december to ask for formal
+Limits. As you know one of the key limits at the board level is value at
+Risk. To that end, it is imperative that you are comfortable with our
+Approach for calculating var. We have implemented a third party risk system
+Which holds all of our positions and are in the process of putting the debt
+Positions in. The system has a var engine which is being demo' d by the
+Vendor today. Ben and kirstee are attending the demo and if they find the
+Technology acceptable, I propose moving forward with implemantion of the
+Module. Pls. Let me know if this sounds reasonable and how you would
+Envision implementing.
+Thanks

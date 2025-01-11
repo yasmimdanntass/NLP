@@ -15,11 +15,11 @@ def read_in(folder):
             f.close()
     return a_list
 
-spam_list = read_in("2. Spam Classifier/enron1/spam") 
+spam_list = read_in("enron1/spam") 
 print(len(spam_list))
 print(spam_list[0])
 
-ham_list = read_in("2. Spam Classifier/enron1/ham") 
+ham_list = read_in("enron1/ham") 
 print(len(ham_list))
 print(ham_list[0])
 
@@ -70,4 +70,36 @@ def evaluate(train_set, test_set, classifier):
     # check which words are most informative for the classifier
     classifier.show_most_informative_features(50)
 
-evaluate(train_set, test_set, classifier)
+# EXERCISE 2.7: CLASSIFY THE EMAILS IN ENRON2 WITH THE ALREADY TRAINED CLASSIFIER
+
+test_spam_list = read_in("enron2/spam/")
+print(len(test_spam_list))
+print(test_spam_list[0])
+test_ham_list = read_in("enron2/ham/")
+print(len(test_ham_list))
+print(test_ham_list[0])
+
+test_emails = [(email_content, "spam") for email_content in test_spam_list]
+test_emails += [(email_content, "ham") for email_content in test_ham_list]
+random.shuffle(test_emails)
+
+new_test_set = [(get_features(email), label) for (email, label) in test_emails]
+
+evaluate(train_set, new_test_set, classifier)
+
+# EXERCISE 2.7 B: CLASSIFYING THE COMBINED DATASET OF ENRON1 AND ENRON2
+
+spam_list = read_in("enron1/spam/") + read_in("enron2/spam/")
+print(len(spam_list))
+ham_list = read_in("enron1/ham/") + read_in("enron2/ham/")
+print(len(ham_list))
+
+all_emails = [(email_content, "spam") for email_content in spam_list]
+all_emails += [(email_content, "ham") for email_content in ham_list]
+random.shuffle(test_emails)
+
+all_features = [(get_features(email), label) for (email, label) in all_emails]
+print(len(all_features))
+
+train_set, test_set, classifier = train(all_features, 0.8) #it is training the classifier once again, but now with the complete data
+evaluate(train_set, new_test_set, classifier) # we're classifying the emails from enron1 with the classifier trained with enron1 + enron2 data. confusing, i know.
